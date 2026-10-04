@@ -1,0 +1,207 @@
+{
+  "title": "Post-Quantum Cryptography for Working Engineers",
+  "subtitle": "Not a maths course. What changes in your TLS, your signatures and your key management, and what to do about it before the deadlines arrive.",
+  "updated": "2026-09-18",
+  "changelog": [
+    { "date": "2026-09-18", "text": "First version." }
+  ],
+  "topics": [
+    {
+      "id": "pq1",
+      "label": "Why this matters now",
+      "desc": "You do not need a quantum computer to exist for the problem to exist. **Harvest now, decrypt later** means traffic recorded today is readable the day a large enough machine appears. Anything with a long confidentiality life (health, finance, government, keys) is already at risk.\n\nThe practical deadlines are set by regulators and vendors, not physics: NIST wants RSA and ECC deprecated by 2030 and disallowed by 2035; browsers and CDNs already default to hybrid post-quantum key exchange.",
+      "links": [
+        { "label": "NIST IR 8547: transition timeline (draft)", "url": "https://csrc.nist.gov/pubs/ir/8547/ipd" },
+        { "label": "Cloudflare: the state of the post-quantum internet", "url": "https://blog.cloudflare.com/pq-2024/" }
+      ],
+      "children": [
+        {
+          "id": "pq1a", "label": "Shor vs Grover: what actually breaks", "type": "core", "side": "auto",
+          "desc": "**Shor's algorithm** breaks the hard problems under RSA, DH, ECDH and ECDSA outright. **Grover's** only halves the effective strength of symmetric ciphers and hashes.\n\nSo: AES-128 becomes roughly AES-64-equivalent (move to AES-256), SHA-256 is fine, and every public-key primitive you use today has to be replaced.",
+          "links": [{ "label": "Quantum computing and cryptography, explained (Cloudflare)", "url": "https://blog.cloudflare.com/towards-post-quantum-cryptography-in-tls/" }],
+          "children": []
+        },
+        {
+          "id": "pq1b", "label": "Harvest now, decrypt later", "type": "core", "side": "auto",
+          "desc": "The reason confidentiality (key exchange) is urgent and signatures are less so: an attacker can record encrypted traffic today and decrypt it later, but cannot retroactively forge a signature that was verified in the past.\n\nPrioritise accordingly: **key exchange first, signatures second, long-lived data at rest third.**",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "pq1c", "label": "Regulatory timelines", "type": "core", "side": "auto",
+          "desc": "Know the dates your industry will be measured against:\n\n- NIST: deprecate 112-bit classical (RSA-2048, P-256) by 2030, disallow by 2035\n- US NSM-10 and CNSA 2.0 for federal and defence suppliers\n- EU and UK guidance mirrors NIST with a 2030/2035 shape\n\nIf you are in finance, expect auditors to ask for a crypto inventory and a migration plan well before 2030.",
+          "links": [
+            { "label": "NSA CNSA 2.0 FAQ", "url": "https://media.defense.gov/2022/Sep/07/2003071836/-1/-1/0/CSI_CNSA_2.0_FAQ_.PDF" },
+            { "label": "NCSC (UK): PQC migration timelines", "url": "https://www.ncsc.gov.uk/guidance/pqc-migration-timelines" }
+          ],
+          "children": []
+        },
+        {
+          "id": "pq1d", "label": "How quantum computers work (background)", "type": "optional", "side": "auto",
+          "desc": "Useful context, not required to do the migration. Qubits, superposition, error correction, and why today's machines with a few hundred noisy qubits are nowhere near the millions needed to run Shor at RSA-2048 scale.",
+          "links": [{ "label": "Quantum computing for the very curious", "url": "https://quantum.country/qcvc" }],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "pq2",
+      "label": "The new algorithms",
+      "desc": "NIST finalised the first three standards in August 2024. Learn them by **what they replace** and **their cost profile**, not by their maths.",
+      "links": [{ "label": "NIST PQC project home", "url": "https://csrc.nist.gov/projects/post-quantum-cryptography" }],
+      "children": [
+        {
+          "id": "pq2a", "label": "ML-KEM (FIPS 203, was Kyber)", "type": "core", "side": "auto",
+          "desc": "The key encapsulation mechanism that replaces ECDH/RSA key exchange. Lattice-based. Three parameter sets: ML-KEM-512, 768 (the usual choice) and 1024.\n\nCost: public keys and ciphertexts are about 1 KB each instead of 32 bytes, but it is *fast*, often faster than P-256 in software.",
+          "links": [
+            { "label": "FIPS 203", "url": "https://csrc.nist.gov/pubs/fips/203/final" },
+            { "label": "Go crypto/mlkem (standard library)", "url": "https://pkg.go.dev/crypto/mlkem" }
+          ],
+          "faq": [
+            { "q": "KEM, not key exchange: what is the difference in code?", "a": "A KEM has three operations, not a Diffie-Hellman style shared computation:\n\n```\nek, dk := KeyGen()            // receiver\nct, ss := Encaps(ek)          // sender: ciphertext + shared secret\nss'    := Decaps(dk, ct)      // receiver recovers the same secret\n```\n\nThere is no `ek * dk` symmetry, so protocols that relied on DH's static-static trick (e.g. Noise IK, some OPAQUE variants) need redesign, not a drop-in swap." }
+          ],
+          "children": []
+        },
+        {
+          "id": "pq2b", "label": "ML-DSA (FIPS 204, was Dilithium)", "type": "core", "side": "auto",
+          "desc": "The general-purpose signature replacement for ECDSA/RSA. Lattice-based, fast, but signatures are 2.4 to 4.6 KB. This is the default choice for TLS certificates, code signing and tokens once the ecosystem catches up.",
+          "links": [{ "label": "FIPS 204", "url": "https://csrc.nist.gov/pubs/fips/204/final" }],
+          "children": []
+        },
+        {
+          "id": "pq2c", "label": "SLH-DSA (FIPS 205, was SPHINCS+)", "type": "alt", "side": "auto",
+          "desc": "Hash-based signatures. The conservative choice: security rests only on the hash function, no lattice assumptions. The price is signatures of 8 to 50 KB and slow signing. Used where you need a fallback that cannot share a failure mode with ML-DSA, e.g. firmware and root-of-trust signing.",
+          "links": [{ "label": "FIPS 205", "url": "https://csrc.nist.gov/pubs/fips/205/final" }],
+          "children": []
+        },
+        {
+          "id": "pq2d", "label": "Stateful hash signatures: LMS and XMSS", "type": "optional", "side": "auto",
+          "desc": "Older, already-approved hash-based schemes (NIST SP 800-208). Excellent for firmware signing, but the signer must never reuse a one-time key: the state has to be managed like a counter that can never roll back. Only pick these if you control the signer completely.",
+          "links": [{ "label": "NIST SP 800-208", "url": "https://csrc.nist.gov/pubs/sp/800/208/final" }],
+          "children": []
+        },
+        {
+          "id": "pq2e", "label": "What is still coming", "type": "optional", "side": "auto",
+          "desc": "FN-DSA (Falcon) for compact signatures, and HQC as a second KEM built on codes rather than lattices, chosen in 2025 as a backup to ML-KEM. Track these; do not build on them yet.",
+          "links": [{ "label": "NIST selects HQC as backup KEM", "url": "https://www.nist.gov/news-events/news/2025/03/nist-selects-hqc-fifth-algorithm-post-quantum-encryption" }],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "pq3",
+      "label": "Hybrid mode and protocol changes",
+      "desc": "Nobody is switching cleanly. The transition runs both a classical and a post-quantum algorithm together so that a break in either one leaves you no worse off than today. This is how TLS, SSH and Signal did it.",
+      "links": [],
+      "children": [
+        {
+          "id": "pq3a", "label": "Hybrid key exchange in TLS 1.3", "type": "core", "side": "auto",
+          "desc": "`X25519MLKEM768` is the de facto standard: both shared secrets are concatenated into the key schedule. Chrome, Firefox, Safari, Cloudflare, Go 1.24+, OpenSSL 3.5 and BoringSSL all support it, most by default.\n\nOperational effects: the ClientHello grows past one packet (about 1.2 KB extra), which exposes middleboxes and load balancers that assumed a single MTU.",
+          "links": [
+            { "label": "IETF draft: hybrid design in TLS 1.3", "url": "https://datatracker.ietf.org/doc/draft-ietf-tls-hybrid-design/" },
+            { "label": "OpenSSL 3.5 release notes (PQC)", "url": "https://openssl-library.org/post/2025-04-08-openssl-35-final-release/" }
+          ],
+          "faq": [
+            { "q": "How do I check whether my endpoint negotiated a PQ key exchange?", "a": "With a recent OpenSSL:\n\n```\nopenssl s_client -connect example.com:443 -groups X25519MLKEM768 -brief\n```\n\nThe `Negotiated TLS1.3 group` line should show `X25519MLKEM768`. In Chrome, open DevTools > Security and look at the key exchange group." },
+            { "q": "TLS handshakes started failing after enabling PQ groups", "a": "Almost always a middlebox or TLS-terminating appliance that cannot handle a multi-packet ClientHello. Confirm by disabling the PQ group on the client and retesting. Fix the appliance; do not remove the PQ group permanently." }
+          ],
+          "children": []
+        },
+        {
+          "id": "pq3b", "label": "SSH", "type": "core", "side": "auto",
+          "desc": "OpenSSH 9.0+ uses `sntrup761x25519-sha512` by default and 10.0 moved to `mlkem768x25519-sha256`. Update servers and clients; check your bastions and CI runners, which are usually the oldest SSH in the estate.",
+          "links": [{ "label": "OpenSSH release notes", "url": "https://www.openssh.com/releasenotes.html" }],
+          "children": []
+        },
+        {
+          "id": "pq3c", "label": "Certificates and PKI", "type": "core", "side": "auto",
+          "desc": "This is the slow part. A PQ certificate chain with ML-DSA is 10 to 20 KB, which hurts every handshake. Expect:\n\n- composite and hybrid certificate formats from the IETF LAMPS group\n- a long dual-issuance period at your internal CA\n- HSM firmware upgrades before any of it works\n\nStart the conversation with your PKI team now; a CA migration takes years.",
+          "links": [{ "label": "IETF LAMPS working group", "url": "https://datatracker.ietf.org/wg/lamps/about/" }],
+          "children": []
+        },
+        {
+          "id": "pq3d", "label": "Messaging: PQXDH and PQ3", "type": "optional", "side": "auto",
+          "desc": "Signal's PQXDH and Apple's PQ3 are the reference examples of retrofitting a KEM into an existing ratchet protocol. Read them for the design reasoning even if you never build a messenger.",
+          "links": [{ "label": "Signal: PQXDH specification", "url": "https://signal.org/docs/specifications/pqxdh/" }],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "pq4",
+      "label": "Crypto-agility and inventory",
+      "desc": "The migration you are doing now is not the last one. Build the ability to swap algorithms without a rewrite, and start by knowing what you actually use. Most organisations discover they cannot answer \"where do we use RSA?\".",
+      "links": [{ "label": "NIST: crypto-agility considerations (CSWP 39)", "url": "https://csrc.nist.gov/pubs/cswp/39/considerations-for-achieving-cryptographic-agility/ipd" }],
+      "children": [
+        {
+          "id": "pq4a", "label": "Cryptographic bill of materials (CBOM)", "type": "core", "side": "auto",
+          "desc": "An inventory of every algorithm, key size, library and protocol in your estate, ideally generated from code and config rather than surveys. CycloneDX 1.6 added a CBOM format; IBM's `cbomkit` and `sonar-cryptography` can scan Java and Python.",
+          "links": [
+            { "label": "CycloneDX CBOM", "url": "https://cyclonedx.org/capabilities/cbom/" },
+            { "label": "IBM cbomkit", "url": "https://github.com/PQCA/cbomkit" }
+          ],
+          "children": [
+            { "id": "pq4a1", "label": "Scan code for crypto calls", "type": "core", "desc": "Semgrep or CodeQL rules for `RSA`, `ECDSA`, `X25519`, `Cipher.getInstance`, `crypto/rsa` etc. Cheap, noisy, but a real starting point.", "links": [{ "label": "Semgrep registry: crypto rules", "url": "https://semgrep.dev/r?q=crypto" }], "children": [] },
+            { "id": "pq4a2", "label": "Scan the network for TLS parameters", "type": "core", "desc": "Passive: what does your traffic actually negotiate? `sslscan`, `testssl.sh`, or your load balancer's handshake logs.", "links": [{ "label": "testssl.sh", "url": "https://testssl.sh/" }], "children": [] }
+          ]
+        },
+        {
+          "id": "pq4b", "label": "Abstract the primitive, not the library", "type": "core", "side": "auto",
+          "desc": "Wrap sign/verify and encapsulate/decapsulate behind an interface keyed by an algorithm identifier that travels with the data (in the token header, the envelope, the certificate). Hard-coded `RS256` everywhere is exactly what makes migrations expensive.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "pq4c", "label": "Key management and HSMs", "type": "core", "side": "auto",
+          "desc": "Check whether your HSM, KMS or cloud key service supports ML-KEM and ML-DSA yet, and what the upgrade path is. AWS KMS, Google Cloud KMS and Azure Key Vault have all announced or shipped PQ signature support; on-prem HSMs need firmware.",
+          "links": [{ "label": "AWS: post-quantum cryptography", "url": "https://aws.amazon.com/security/post-quantum-cryptography/" }],
+          "children": []
+        },
+        {
+          "id": "pq4d", "label": "Data at rest with long lifetimes", "type": "alt", "side": "auto",
+          "desc": "Symmetric encryption is already fine at AES-256. The risk is any *wrapped key* protected by RSA or ECC: backups, envelope encryption, archived PGP. Re-wrap with a PQ KEM or a hybrid; the data itself does not need re-encrypting.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "pq5",
+      "label": "Hands-on",
+      "desc": "Do these in order. Each one takes an afternoon and teaches more than a week of reading.",
+      "links": [],
+      "children": [
+        {
+          "id": "pq5a", "label": "Hybrid TLS server in Go", "type": "core", "side": "auto",
+          "desc": "Go 1.24+ enables `X25519MLKEM768` by default in `crypto/tls`. Stand up a server, connect with `curl` built against OpenSSL 3.5, and inspect the negotiated group. Then turn it off and watch the handshake shrink.",
+          "links": [{ "label": "Go crypto/tls docs", "url": "https://pkg.go.dev/crypto/tls" }],
+          "faq": [
+            { "q": "Minimal Go check that ML-KEM is available", "a": "```\npackage main\n\nimport (\n\t\"crypto/mlkem\"\n\t\"fmt\"\n)\n\nfunc main() {\n\tdk, _ := mlkem.GenerateKey768()\n\tct, ss1 := dk.EncapsulationKey().Encapsulate()\n\tss2, _ := dk.Decapsulate(ct)\n\tfmt.Println(string(ss1) == string(ss2), len(ct))\n}\n```\n\nPrints `true 1088`." }
+          ],
+          "children": []
+        },
+        {
+          "id": "pq5b", "label": "Sign and verify with ML-DSA", "type": "core", "side": "auto",
+          "desc": "Use liboqs (with its Python or Go bindings) or OpenSSL 3.5's `openssl pkey -algorithm ML-DSA-65`. Compare signature sizes with ECDSA P-256 and think about where a 3 KB signature would hurt you: JWTs in headers, QR codes, IoT.",
+          "links": [
+            { "label": "Open Quantum Safe: liboqs", "url": "https://openquantumsafe.org/liboqs/" },
+            { "label": "OpenSSL PQC documentation", "url": "https://docs.openssl.org/master/man7/EVP_PKEY-ML-DSA/" }
+          ],
+          "children": []
+        },
+        {
+          "id": "pq5c", "label": "Write the migration plan for one system", "type": "core", "side": "auto",
+          "desc": "Pick one real service. Inventory its crypto, rank by exposure (external TLS first, then internal mTLS, then signatures, then data at rest), list the blockers (HSM, appliance, library version), and put dates against them. This document is what an auditor will ask for.",
+          "links": [{ "label": "CISA: quantum-readiness factsheet", "url": "https://www.cisa.gov/resources-tools/resources/quantum-readiness-migration-post-quantum-cryptography" }],
+          "children": []
+        },
+        {
+          "id": "pq5d", "label": "Read one lattice explainer", "type": "optional", "side": "auto",
+          "desc": "Once you have used the algorithms, an intuition for *why* lattices are hard makes the parameter choices less mysterious. One good explainer is enough.",
+          "links": [{ "label": "Kyber explained (Kyber team's tutorial slides)", "url": "https://pq-crystals.org/kyber/" }],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+name: ci
+on: [push, pull_request]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm, cache-dependency-path: web/package-lock.json }
+      - uses: actions/setup-go@v5
+        with: { go-version: "1.24" }
+      - run: cd web && npm ci && npm run build
+      - run: cd server && go vet ./... && go build -o bin/server ./cmd/server
+      - run: scripts/smoke.sh server/bin/server
+      - name: UI smoke test
+        run: |
+          (cd server && ./bin/server -addr 127.0.0.1:8090 -data /tmp/ci-data &) && sleep 1
+          npm i -g playwright && npx playwright install --with-deps chromium
+          cd /tmp && ln -s "$(npm root -g)" node_modules && node "$GITHUB_WORKSPACE/scripts/ui-smoke.mjs" http://127.0.0.1:8090
+  docker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: docker build -t openroadmap .

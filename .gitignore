@@ -1,0 +1,8 @@
+data/
+server/bin/
+server/webdist/dist/*
+!server/webdist/dist/.keep
+web/node_modules/
+web/dist/
+*.tmp
+.DS_Store

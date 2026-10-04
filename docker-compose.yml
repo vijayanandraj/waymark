@@ -1,0 +1,16 @@
+services:
+  openroadmap:
+    build: .
+    image: openroadmap:latest
+    ports:
+      - "8080:8080"
+    environment:
+      # Set to "1" once you put this behind HTTPS (a reverse proxy, Caddy, etc.)
+      SECURE_COOKIES: "0"
+    volumes:
+      # Everything (users, roadmaps, screenshots) lives here as plain files.
+      - openroadmap-data:/data
+    restart: unless-stopped
+
+volumes:
+  openroadmap-data:

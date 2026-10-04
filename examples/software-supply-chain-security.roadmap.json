@@ -1,0 +1,245 @@
+{
+  "title": "Software Supply Chain Security",
+  "subtitle": "From 'we pin versions' to provable provenance: what a regulator, a customer or an attacker will ask about the code you ship, and how to answer with evidence.",
+  "updated": "2026-09-18",
+  "changelog": [
+    { "date": "2026-09-18", "text": "First version." }
+  ],
+  "topics": [
+    {
+      "id": "sc1",
+      "label": "The threat model",
+      "desc": "Your software is mostly other people's software. Attackers know that the cheapest way into a bank is a compromised npm package, a poisoned build server or a stolen signing key. Learn the real incidents first; every control later on maps to one of them.",
+      "links": [
+        { "label": "SLSA threat model (supply chain attack points)", "url": "https://slsa.dev/spec/v1.0/threats" },
+        { "label": "CNCF supply chain compromise catalog", "url": "https://github.com/cncf/tag-security/tree/main/community/catalog/compromises" }
+      ],
+      "children": [
+        {
+          "id": "sc1a", "label": "Dependency compromise", "type": "core", "side": "auto",
+          "desc": "Malicious or hijacked packages: event-stream, ua-parser-js, the xz backdoor, the 2025 npm worm campaigns. Typosquatting, maintainer account takeover, and **dependency confusion** (a public package shadowing your internal name) are the recurring shapes.",
+          "links": [
+            { "label": "The xz backdoor, explained", "url": "https://research.swtch.com/xz-timeline" },
+            { "label": "Dependency confusion (original write-up)", "url": "https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610" }
+          ],
+          "children": []
+        },
+        {
+          "id": "sc1b", "label": "Build and CI compromise", "type": "core", "side": "auto",
+          "desc": "SolarWinds and Codecov: the source was fine, the build pipeline was not. CI is a remote-code-execution service with your production credentials attached; treat it that way.",
+          "links": [{ "label": "CISA on SolarWinds", "url": "https://www.cisa.gov/news-events/news/cisa-and-partners-release-advisory-solarwinds-supply-chain-compromise" }],
+          "children": []
+        },
+        {
+          "id": "sc1c", "label": "Source and credential compromise", "type": "core", "side": "auto",
+          "desc": "Leaked tokens in repos, unprotected branches, unsigned commits, and the classic \"a bot with write access to everything\". Boring, common, and where most real breaches start.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "sc1d", "label": "AI-era risks", "type": "optional", "side": "auto",
+          "desc": "**Slopsquatting**: LLMs hallucinate package names, attackers register them. Coding agents that `npm install` whatever they think of are a new dependency-confusion vector. Also: model files as artifacts (pickle deserialisation), and prompt injection through package READMEs that agents read.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "sc2",
+      "label": "Know what you ship: SBOM",
+      "desc": "A Software Bill of Materials is the ingredients list. It is now a contractual or regulatory requirement in the US federal supply chain, the EU Cyber Resilience Act, and increasingly in financial services procurement.",
+      "links": [
+        { "label": "CISA SBOM resources", "url": "https://www.cisa.gov/sbom" },
+        { "label": "NTIA minimum elements for an SBOM", "url": "https://www.ntia.gov/report/2021/minimum-elements-software-bill-materials-sbom" }
+      ],
+      "children": [
+        {
+          "id": "sc2a", "label": "Formats: SPDX and CycloneDX", "type": "core", "side": "auto",
+          "desc": "Two standards, both fine. SPDX is the ISO one and leans towards licensing; CycloneDX came from OWASP and leans towards security (vulnerabilities, VEX, CBOM). Pick whichever your tooling emits and be able to convert.",
+          "links": [
+            { "label": "SPDX", "url": "https://spdx.dev/" },
+            { "label": "CycloneDX", "url": "https://cyclonedx.org/" }
+          ],
+          "children": []
+        },
+        {
+          "id": "sc2b", "label": "Generate one from a real build", "type": "core", "side": "auto",
+          "desc": "Syft is the easiest general-purpose generator; language ecosystems have their own (`cyclonedx-npm`, `cyclonedx-gomod`, Maven and Gradle plugins). Generate at *build* time from the lockfile and the produced image, not from source alone.",
+          "links": [{ "label": "Syft", "url": "https://github.com/anchore/syft" }],
+          "faq": [
+            { "q": "SBOM of a container image in one command", "a": "```\nsyft registry.internal/app:1.4.2 -o cyclonedx-json > sbom.cdx.json\ngrype sbom:sbom.cdx.json\n```\n\nThe second line scans that SBOM for known vulnerabilities without pulling the image again." }
+          ],
+          "children": []
+        },
+        {
+          "id": "sc2c", "label": "VEX: saying which CVEs do not matter", "type": "core", "side": "auto",
+          "desc": "A vulnerability scan of any real SBOM shows hundreds of CVEs, most unreachable. VEX (Vulnerability Exploitability eXchange) is the machine-readable statement \"affected / not affected / fixed\" that stops the noise. Without it, SBOMs generate tickets, not security.",
+          "links": [{ "label": "OpenVEX", "url": "https://github.com/openvex/spec" }],
+          "children": []
+        },
+        {
+          "id": "sc2d", "label": "Store and query SBOMs centrally", "type": "alt", "side": "auto",
+          "desc": "The question during the next log4j is \"which of our 3,000 services ship this library?\". Dependency-Track ingests SBOMs and answers that in seconds. Set it up before you need it.",
+          "links": [{ "label": "OWASP Dependency-Track", "url": "https://dependencytrack.org/" }],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "sc3",
+      "label": "Dependency hygiene",
+      "desc": "Cheap controls that stop the majority of real attacks. Do these before anything with the word 'attestation' in it.",
+      "links": [{ "label": "OpenSSF: concise guide for developing more secure software", "url": "https://best.openssf.org/Concise-Guide-for-Developing-More-Secure-Software" }],
+      "children": [
+        {
+          "id": "sc3a", "label": "Lockfiles and pinning", "type": "core", "side": "auto",
+          "desc": "Commit the lockfile. Install with the frozen command (`npm ci`, `pip install --require-hashes`, `go mod verify`). Pin GitHub Actions and container base images to a digest, not a tag. A tag can be moved by an attacker; a SHA cannot.",
+          "links": [],
+          "faq": [
+            { "q": "Pin a GitHub Action to a commit SHA", "a": "```\n# before\nuses: actions/checkout@v4\n# after (tag kept as a comment for humans)\nuses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2\n```\n\nRenovate and Dependabot can keep the SHA and the comment in sync." }
+          ],
+          "children": []
+        },
+        {
+          "id": "sc3b", "label": "Automated updates with review", "type": "core", "side": "auto",
+          "desc": "Renovate or Dependabot, grouped and scheduled so the PRs are reviewable. A **minimum release age** (e.g. wait 3 to 7 days before adopting a new version) sidesteps most malicious-release incidents, which are usually yanked within days.",
+          "links": [{ "label": "Renovate: minimumReleaseAge", "url": "https://docs.renovatebot.com/configuration-options/#minimumreleaseage" }],
+          "children": []
+        },
+        {
+          "id": "sc3c", "label": "Private registries and proxies", "type": "core", "side": "auto",
+          "desc": "Route npm, PyPI, Maven, Go and container pulls through an internal proxy (Artifactory, Nexus, or a cloud registry). You get an audit log, a cache, a place to block packages, and a fix for dependency confusion by claiming your internal scope or namespace publicly.",
+          "links": [{ "label": "Go module proxy and GONOSUMDB for private modules", "url": "https://go.dev/ref/mod#private-modules" }],
+          "children": []
+        },
+        {
+          "id": "sc3d", "label": "Vulnerability scanning that people act on", "type": "core", "side": "auto",
+          "desc": "OSV, Grype, Trivy or your platform's scanner. The tooling is commoditised; the work is policy: what severity blocks a build, who owns the exception, how long a ticket can stay open. Reachability analysis (does our code call the vulnerable function?) is what makes the numbers honest.",
+          "links": [
+            { "label": "OSV database and scanner", "url": "https://osv.dev/" },
+            { "label": "Trivy", "url": "https://trivy.dev/" }
+          ],
+          "children": []
+        },
+        {
+          "id": "sc3e", "label": "Evaluate a dependency before adopting it", "type": "optional", "side": "auto",
+          "desc": "OpenSSF Scorecard gives a repo a 0 to 10 on maintenance, branch protection, signed releases and more. deps.dev aggregates it with license and vulnerability data. Make a two-minute check part of the PR that adds a dependency.",
+          "links": [
+            { "label": "OpenSSF Scorecard", "url": "https://securityscorecards.dev/" },
+            { "label": "deps.dev", "url": "https://deps.dev/" }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "sc4",
+      "label": "Trusted builds and provenance",
+      "desc": "The goal: for any artifact in production, prove *which source, built by which system, from which inputs* produced it, in a way a tampered build server cannot fake.",
+      "links": [{ "label": "SLSA (Supply-chain Levels for Software Artifacts)", "url": "https://slsa.dev/" }],
+      "children": [
+        {
+          "id": "sc4a", "label": "SLSA levels", "type": "core", "side": "auto",
+          "desc": "A maturity ladder for build integrity. **L1**: provenance exists. **L2**: generated by a hosted build platform and signed. **L3**: build runs in an isolated, hardened environment so even a compromised job cannot forge provenance. Most teams should aim for L2 now and L3 for anything customer-facing.",
+          "links": [{ "label": "SLSA levels", "url": "https://slsa.dev/spec/v1.0/levels" }],
+          "children": []
+        },
+        {
+          "id": "sc4b", "label": "Generate provenance in CI", "type": "core", "side": "auto",
+          "desc": "GitHub's `attest-build-provenance` action, GitLab's runner attestations, or the `slsa-github-generator` reusable workflows produce an in-toto provenance statement for each artifact. In airgapped estates, Tekton Chains or a custom in-toto layout does the same.",
+          "links": [
+            { "label": "GitHub artifact attestations", "url": "https://docs.github.com/en/actions/security-for-github-actions/using-artifact-attestations" },
+            { "label": "in-toto attestation framework", "url": "https://github.com/in-toto/attestation" }
+          ],
+          "children": []
+        },
+        {
+          "id": "sc4c", "label": "Sign with Sigstore", "type": "core", "side": "auto",
+          "desc": "`cosign` signs containers and blobs; keyless mode ties the signature to an OIDC identity (the CI job, not a long-lived key) and records it in the Rekor transparency log. This is the modern answer to \"where do we keep the signing key\": you do not.",
+          "links": [{ "label": "Sigstore", "url": "https://www.sigstore.dev/" }],
+          "faq": [
+            { "q": "Sign and verify a container image, keyless", "a": "```\n# in CI, with an OIDC token available\ncosign sign registry.internal/app@sha256:abc123...\n\n# anywhere\ncosign verify registry.internal/app@sha256:abc123... \\\n  --certificate-identity-regexp 'https://github.com/myorg/app/.*' \\\n  --certificate-oidc-issuer https://token.actions.githubusercontent.com\n```\n\nAlways sign and verify by digest, never by tag." },
+            { "q": "We are airgapped and cannot reach the public Sigstore", "a": "Run a private Sigstore instance (Fulcio + Rekor + a trust root of your own), or fall back to cosign with KMS/HSM-held keys. The verification policy is the same; only the trust root changes." }
+          ],
+          "children": []
+        },
+        {
+          "id": "sc4d", "label": "Reproducible builds", "type": "optional", "side": "auto",
+          "desc": "Two independent builds of the same source produce bit-identical output, so anyone can verify a binary matches its source. Go and Rust get close by default; Java and JavaScript need effort. The strongest form of provenance, and rarely required outside critical infrastructure.",
+          "links": [{ "label": "reproducible-builds.org", "url": "https://reproducible-builds.org/" }],
+          "children": []
+        },
+        {
+          "id": "sc4e", "label": "Harden the CI itself", "type": "core", "side": "auto",
+          "desc": "Ephemeral runners, least-privilege tokens per job (`permissions:` block in GitHub Actions), no long-lived cloud keys (use OIDC federation), secrets scoped to environments, and pinned third-party actions. `zizmor` and `actionlint` catch the common mistakes.",
+          "links": [
+            { "label": "GitHub Actions security hardening", "url": "https://docs.github.com/en/actions/security-for-github-actions/security-guides/security-hardening-for-github-actions" },
+            { "label": "zizmor: static analysis for GitHub Actions", "url": "https://github.com/zizmorcore/zizmor" }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "sc5",
+      "label": "Verify at deploy time",
+      "desc": "Signing is worthless unless something refuses to run unsigned code. Close the loop at the cluster, the package manager and the runtime.",
+      "links": [],
+      "children": [
+        {
+          "id": "sc5a", "label": "Admission policy in Kubernetes", "type": "core", "side": "auto",
+          "desc": "Kyverno or the Sigstore policy-controller reject any image without a valid signature and provenance from your CI identity. Start in audit mode, look at what would have been blocked, then enforce.",
+          "links": [
+            { "label": "Kyverno: verify images", "url": "https://kyverno.io/docs/policy-types/cluster-policy/verify-images/" },
+            { "label": "Sigstore policy-controller", "url": "https://docs.sigstore.dev/policy-controller/overview/" }
+          ],
+          "children": []
+        },
+        {
+          "id": "sc5b", "label": "Verify before install, everywhere else", "type": "core", "side": "auto",
+          "desc": "Package managers can verify too: `npm audit signatures`, `pip` with hashes, Go's checksum database (`sum.golang.org`), Maven Central's signatures. Build the check into the base image and the developer bootstrap, not into a wiki page.",
+          "links": [{ "label": "Go module checksum database", "url": "https://go.dev/ref/mod#checksum-database" }],
+          "children": []
+        },
+        {
+          "id": "sc5c", "label": "Developer desktops are part of the chain", "type": "alt", "side": "auto",
+          "desc": "A compromised laptop commits compromised code. Signed commits (Sigstore `gitsign` or SSH signing), branch protection requiring them, and managed toolchains reduce the blast radius. Devcontainers help here: the build tools come from a signed image, not from whatever was on the machine.",
+          "links": [{ "label": "gitsign: keyless commit signing", "url": "https://github.com/sigstore/gitsign" }],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "sc6",
+      "label": "Governance and compliance",
+      "desc": "The part that gets budget. Map the controls above to the frameworks your auditors already use, so the security work is also the compliance work.",
+      "links": [],
+      "children": [
+        {
+          "id": "sc6a", "label": "NIST SSDF (SP 800-218)", "type": "core", "side": "auto",
+          "desc": "The Secure Software Development Framework. US federal suppliers must attest to it; everyone else uses it as the checklist. It is short and practical; read it once.",
+          "links": [{ "label": "NIST SP 800-218", "url": "https://csrc.nist.gov/pubs/sp/800/218/final" }],
+          "children": []
+        },
+        {
+          "id": "sc6b", "label": "EU Cyber Resilience Act", "type": "core", "side": "auto",
+          "desc": "Applies to any product with digital elements sold in the EU, with SBOM, vulnerability handling and reporting obligations phasing in from 2026 to 2027. If you ship software to EU customers, this is your deadline.",
+          "links": [{ "label": "EU CRA overview", "url": "https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act" }],
+          "children": []
+        },
+        {
+          "id": "sc6c", "label": "Incident playbook: the next log4j", "type": "core", "side": "auto",
+          "desc": "Write it now, while calm: how you find affected services (Dependency-Track query), how you decide exploitability (VEX), how you rebuild and redeploy (provenance tells you what to rebuild), and who talks to customers. Run a tabletop exercise once a year.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "sc6d", "label": "Open source maintainership", "type": "optional", "side": "auto",
+          "desc": "If you publish packages, you are someone else's supply chain. Trusted publishing (OIDC to PyPI/npm/RubyGems), 2FA, signed releases, and a security policy are the minimum. The xz incident was a maintainer burnout story before it was a backdoor story.",
+          "links": [{ "label": "PyPI trusted publishing", "url": "https://docs.pypi.org/trusted-publishers/" }],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

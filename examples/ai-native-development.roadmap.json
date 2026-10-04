@@ -1,0 +1,219 @@
+{
+  "title": "AI-Native Software Development",
+  "subtitle": "Two skills in one roadmap: working with coding agents without losing your judgement, and building LLM-powered features that survive contact with production.",
+  "updated": "2026-09-18",
+  "changelog": [
+    { "date": "2026-09-18", "text": "First version." }
+  ],
+  "topics": [
+    {
+      "id": "ai1",
+      "label": "How LLMs actually work (enough to not be fooled)",
+      "desc": "You do not need to train a model. You do need a working mental model of tokens, context windows, sampling and why the thing is confidently wrong sometimes. Skip this and every later decision is guesswork.",
+      "links": [{ "label": "Karpathy: Intro to Large Language Models (1h video)", "url": "https://www.youtube.com/watch?v=zjkBMFhNj_g" }],
+      "children": [
+        {
+          "id": "ai1a", "label": "Tokens, context windows, cost", "type": "core", "side": "auto",
+          "desc": "Everything is billed and limited in tokens (roughly 3/4 of a word in English, far worse for code and non-Latin scripts). The context window is the model's entire working memory for a request; nothing persists between calls unless you send it again.\n\nPractical consequence: **context is a budget**. Learn to count it.",
+          "links": [{ "label": "OpenAI tokenizer playground", "url": "https://platform.openai.com/tokenizer" }],
+          "children": []
+        },
+        {
+          "id": "ai1b", "label": "Sampling, temperature, determinism", "type": "core", "side": "auto",
+          "desc": "Outputs are sampled, not computed. Temperature 0 is *more* deterministic, not deterministic. Any test that asserts exact output strings will flake. Design for that from day one.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "ai1c", "label": "Hallucination and calibration", "type": "core", "side": "auto",
+          "desc": "Models produce plausible text, and plausibility is not truth. The fix is never \"a better prompt\" alone; it is grounding (give it the facts), tooling (let it look things up) and verification (check the output). Treat every claim from a model like a claim from a confident intern.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "ai1d", "label": "Build a tiny GPT yourself", "type": "optional", "side": "auto",
+          "desc": "Karpathy's *Zero to Hero* series ends with you writing a small transformer from scratch. Around 10 hours. Not required, but nothing else demystifies the technology as thoroughly.",
+          "links": [{ "label": "Neural Networks: Zero to Hero", "url": "https://karpathy.ai/zero-to-hero.html" }],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "ai2",
+      "label": "Working with coding agents",
+      "desc": "Copilot, Claude Code, Cursor, Codex and friends. The skill is not prompting; it is **delegation with verification**: giving the agent enough context to do the job and enough constraints that you can check the result.",
+      "links": [
+        { "label": "Claude Code best practices", "url": "https://www.anthropic.com/engineering/claude-code-best-practices" },
+        { "label": "GitHub Copilot docs", "url": "https://docs.github.com/en/copilot" }
+      ],
+      "children": [
+        {
+          "id": "ai2a", "label": "Context files: CLAUDE.md, AGENTS.md, copilot-instructions", "type": "core", "side": "auto",
+          "desc": "A short file in the repo that tells the agent how this codebase works: build commands, test commands, conventions, what not to touch. This is the single highest-leverage thing you can do. Keep it under a page; agents read it every session.",
+          "links": [
+            { "label": "AGENTS.md convention", "url": "https://agents.md/" },
+            { "label": "Copilot custom instructions", "url": "https://docs.github.com/en/copilot/customizing-copilot/adding-repository-custom-instructions-for-github-copilot" }
+          ],
+          "faq": [
+            { "q": "What goes in a good context file?", "a": "The things a new senior hire would ask in their first hour:\n\n```\n# Build & test\nmake test          # unit tests, must pass before any PR\nmake lint\n\n# Conventions\n- Errors are wrapped with fmt.Errorf(\"...: %w\", err)\n- No new dependencies without a note in the PR\n- Migrations live in db/migrations, never edit an applied one\n```\n\nNot: your whole architecture doc. Link to it instead." }
+          ],
+          "children": []
+        },
+        {
+          "id": "ai2b", "label": "Plan, then execute", "type": "core", "side": "auto",
+          "desc": "For anything beyond a one-liner, ask for a plan first and read it. Most bad agent outcomes trace back to a wrong assumption that was visible in the plan. Approve, correct, then let it run.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "ai2c", "label": "Verification loops", "type": "core", "side": "auto",
+          "desc": "Give the agent a way to check its own work: a test command, a type checker, a linter, a screenshot. Agents with a feedback loop produce dramatically better code than agents writing blind. If your repo has no fast test command, fix that before adopting agents.",
+          "links": [],
+          "children": [
+            { "id": "ai2c1", "label": "Test-first with an agent", "type": "core", "desc": "Write (or have it write) the failing test, confirm it fails, then ask for the implementation. Prevents the agent from \"fixing\" the test.", "links": [], "children": [] },
+            { "id": "ai2c2", "label": "Review the diff like a stranger wrote it", "type": "core", "desc": "Because one did. Agent code has a particular failure shape: locally plausible, globally unaware. Look for duplicated helpers, ignored existing abstractions, and swallowed errors.", "links": [], "children": [] }
+          ]
+        },
+        {
+          "id": "ai2d", "label": "MCP: giving agents tools", "type": "core", "side": "auto",
+          "desc": "The Model Context Protocol is the standard way to expose your systems (issue tracker, database, internal APIs, docs) to any agent. Write one small MCP server for something your team uses daily; it will change how you think about agent workflows.",
+          "links": [
+            { "label": "MCP introduction", "url": "https://modelcontextprotocol.io/introduction" },
+            { "label": "MCP server quickstart", "url": "https://modelcontextprotocol.io/docs/develop/build-server" }
+          ],
+          "children": []
+        },
+        {
+          "id": "ai2e", "label": "Security of agent workflows", "type": "core", "side": "auto",
+          "desc": "An agent that can read the web and run commands can be turned against you by content it reads (**prompt injection**). Rules: least-privilege tokens, sandboxed execution, no secrets in context, human approval for destructive actions, and never let an agent both read untrusted input and act with credentials in the same session without a boundary.",
+          "links": [
+            { "label": "OWASP Top 10 for LLM applications", "url": "https://owasp.org/www-project-top-10-for-large-language-model-applications/" },
+            { "label": "Simon Willison on prompt injection", "url": "https://simonwillison.net/series/prompt-injection/" }
+          ],
+          "children": []
+        },
+        {
+          "id": "ai2f", "label": "Skills and custom agents", "type": "optional", "side": "auto",
+          "desc": "Reusable instruction bundles (Copilot agent files, Claude skills, Cursor rules) for recurring tasks: release notes, migration scaffolds, code review checklists. Worth it once you find yourself pasting the same prompt a third time.",
+          "links": [{ "label": "VS Code: custom agents and prompt files", "url": "https://code.visualstudio.com/docs/copilot/customization/custom-agents" }],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "ai3",
+      "label": "Building LLM features",
+      "desc": "The API call is the easy part. Everything around it (grounding, structure, tools, failure handling) is where the engineering lives.",
+      "links": [
+        { "label": "Anthropic: building effective agents", "url": "https://www.anthropic.com/research/building-effective-agents" },
+        { "label": "OpenAI Cookbook", "url": "https://cookbook.openai.com/" }
+      ],
+      "children": [
+        {
+          "id": "ai3a", "label": "Prompting as an engineering discipline", "type": "core", "side": "auto",
+          "desc": "Prompts are code: version them, test them, review them. Learn the handful of techniques that reliably work (clear role and task, examples, explicit output format, asking for reasoning before the answer) and stop reading prompt-hack listicles.",
+          "links": [{ "label": "Anthropic prompt engineering guide", "url": "https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview" }],
+          "children": []
+        },
+        {
+          "id": "ai3b", "label": "Structured output and tool calling", "type": "core", "side": "auto",
+          "desc": "Never parse free text when you can ask for JSON against a schema. Every major API supports schema-constrained output and function/tool calling. This is how you connect a model to real systems safely: the model picks the tool and arguments, *your code* runs it.",
+          "links": [{ "label": "Claude tool use docs", "url": "https://docs.claude.com/en/docs/agents-and-tools/tool-use/overview" }],
+          "faq": [
+            { "q": "The model returns valid JSON but wrong values. Now what?", "a": "Schema enforcement guarantees shape, not truth. Add:\n\n- validation of business rules after parsing (dates in range, ids that exist)\n- a `confidence` or `reason` field the model must fill, which you can log and threshold\n- a retry with the validation error fed back, capped at 2 attempts" }
+          ],
+          "children": []
+        },
+        {
+          "id": "ai3c", "label": "RAG: retrieval-augmented generation", "type": "core", "side": "auto",
+          "desc": "Give the model the relevant documents at request time instead of hoping it memorised them. The pipeline is: chunk, embed, store, retrieve, rerank, generate. Most RAG failures are retrieval failures; measure retrieval quality separately from answer quality.",
+          "links": [{ "label": "Hugging Face: RAG explained", "url": "https://huggingface.co/learn/cookbook/advanced_rag" }],
+          "children": [
+            { "id": "ai3c1", "label": "Chunking and embeddings", "type": "core", "desc": "Chunk by structure (headings, functions), not fixed character counts. Try two embedding models; the difference is often larger than any prompt change.", "links": [], "children": [] },
+            { "id": "ai3c2", "label": "Hybrid search and reranking", "type": "core", "desc": "Vector search alone misses exact terms (error codes, ids). Combine with BM25 and rerank the top 20. Postgres with pgvector is enough for most teams; you do not need a dedicated vector database to start.", "links": [{ "label": "pgvector", "url": "https://github.com/pgvector/pgvector" }], "children": [] },
+            { "id": "ai3c3", "label": "When not to RAG", "type": "optional", "desc": "Small, stable corpora fit in the context window. Long-context models with prompt caching are often cheaper and better than a retrieval pipeline for under a few hundred pages.", "links": [], "children": [] }
+          ]
+        },
+        {
+          "id": "ai3d", "label": "Agents and workflows", "type": "core", "side": "auto",
+          "desc": "Start with a *workflow* (fixed steps, model at each step) before an *agent* (model decides the steps). Workflows are debuggable and predictable; agents are for open-ended tasks and cost more to make reliable. Most production systems are workflows with one or two agentic steps.",
+          "links": [{ "label": "Anthropic: building effective agents", "url": "https://www.anthropic.com/research/building-effective-agents" }],
+          "children": []
+        },
+        {
+          "id": "ai3e", "label": "Local and open-weight models", "type": "alt", "side": "auto",
+          "desc": "For airgapped environments, data residency, or cost at scale: Llama, Qwen, Mistral and Gemma families run on your own hardware via vLLM or Ollama. Expect a capability gap against frontier APIs; measure it on *your* tasks rather than benchmarks.",
+          "links": [
+            { "label": "Ollama", "url": "https://ollama.com/" },
+            { "label": "vLLM", "url": "https://docs.vllm.ai/" }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "ai4",
+      "label": "Evals, observability and cost",
+      "desc": "If you cannot measure it, every prompt change is a coin flip. Evals are to LLM features what tests are to code, and most teams skip them until the first regression in production.",
+      "links": [{ "label": "Hamel Husain: your AI product needs evals", "url": "https://hamel.dev/blog/posts/evals/" }],
+      "children": [
+        {
+          "id": "ai4a", "label": "Build an eval set from real traffic", "type": "core", "side": "auto",
+          "desc": "50 to 200 real inputs with expected outputs or grading rubrics beats any synthetic benchmark. Add every production failure to it. Run it on every prompt and model change, in CI.",
+          "links": [{ "label": "promptfoo", "url": "https://www.promptfoo.dev/" }],
+          "faq": [
+            { "q": "How do I grade outputs that have no single right answer?", "a": "Three options, in increasing cost:\n\n- **assertions**: contains X, valid JSON, under N tokens\n- **LLM-as-judge** with a rubric, calibrated against ~30 human-graded examples so you know its agreement rate\n- **human review** of a sample, weekly\n\nUse all three; judge-only evals drift." }
+          ],
+          "children": []
+        },
+        {
+          "id": "ai4b", "label": "Tracing and logging", "type": "core", "side": "auto",
+          "desc": "Log every prompt, response, tool call, latency and token count with a trace id. You will need it for debugging, cost attribution and building the eval set. OpenTelemetry has GenAI semantic conventions; Langfuse and Phoenix are open source UIs on top.",
+          "links": [
+            { "label": "OpenTelemetry GenAI conventions", "url": "https://opentelemetry.io/docs/specs/semconv/gen-ai/" },
+            { "label": "Langfuse (open source)", "url": "https://langfuse.com/" }
+          ],
+          "children": []
+        },
+        {
+          "id": "ai4c", "label": "Cost and latency engineering", "type": "core", "side": "auto",
+          "desc": "Prompt caching, smaller models for routing and classification, batching for offline work, streaming for anything user-facing. A feature that costs more than it saves gets switched off; know the unit economics before launch.",
+          "links": [{ "label": "Claude prompt caching", "url": "https://docs.claude.com/en/docs/build-with-claude/prompt-caching" }],
+          "children": []
+        },
+        {
+          "id": "ai4d", "label": "Guardrails and content safety", "type": "optional", "side": "auto",
+          "desc": "Input and output filters, PII redaction, topic restrictions. Cheap to add, but they are not a substitute for the design rules in the security node above.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "ai5",
+      "label": "Ship something",
+      "desc": "One end-to-end project teaches more than the rest of this roadmap combined.",
+      "links": [],
+      "children": [
+        {
+          "id": "ai5a", "label": "Project: a doc-answering bot for one repo", "type": "core", "side": "auto",
+          "desc": "RAG over your team's README, ADRs and runbooks, exposed as an MCP server so any agent can use it. Include: an eval set of 30 real questions, tracing, and a cost dashboard. Ship it to three colleagues and watch them use it.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "ai5b", "label": "Project: agentic PR triage", "type": "alt", "side": "auto",
+          "desc": "A workflow that reads a new PR, runs the tests, summarises the risk, and posts a comment. Never merges. Learn where the model helps and where a regex would have done.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "ai5c", "label": "Write the postmortem", "type": "core", "side": "auto",
+          "desc": "After two weeks in use: what did it get wrong, what did people stop trusting, what did it cost? This is the document that earns you the next project.",
+          "links": [],
+          "children": []
+        }
+      ]
+    }
+  ]
+}
