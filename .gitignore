@@ -1,8 +1,11 @@
 data/
-server/bin/
-server/webdist/dist/*
-!server/webdist/dist/.keep
-web/node_modules/
-web/dist/
+selfhost/server/bin/
+selfhost/server/webdist/dist/*
+!selfhost/server/webdist/dist/.keep
+selfhost/web/node_modules/
+selfhost/web/dist/
 *.tmp
 .DS_Store
+
+# graft's local graph cache — regenerable, not committed (run `graft build`).
+/graft/

@@ -1,0 +1,35 @@
+name: Problem with a roadmap
+description: A broken or paid link, a mistake, something out of date or missing.
+labels: [content]
+body:
+  - type: input
+    id: roadmap
+    attributes:
+      label: Roadmap
+      description: Filled in for you when you use "Report a problem" on the site.
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Where
+      description: The step, or a link to it (use "Copy link" on the step).
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of problem?
+      options:
+        - A link is broken
+        - A resource is not free
+        - Something is wrong or out of date
+        - Something important is missing
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: What is wrong, and what it should say instead if you know.
+    validations:
+      required: true

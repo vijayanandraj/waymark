@@ -1,0 +1,34 @@
+name: Submit a roadmap
+description: Submit a new roadmap, or changes to one, from the editor on the site.
+labels: [submission]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Drag the `.zip` file the editor gave you into the **Package** box below. A reviewer will check it, and may ask for changes here.
+  - type: input
+    id: roadmap
+    attributes:
+      label: Roadmap
+      description: Filled in for you by the editor.
+    validations:
+      required: true
+  - type: textarea
+    id: package
+    attributes:
+      label: Package
+      description: Drag the .zip file from the editor here.
+      placeholder: Drop the .zip file here
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything reviewers should know?
+  - type: checkboxes
+    id: licence
+    attributes:
+      label: Licence
+      options:
+        - label: I wrote this content or have the right to share it, and I agree to license it under CC BY-SA 4.0.
+          required: true

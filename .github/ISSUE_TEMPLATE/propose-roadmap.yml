@@ -1,0 +1,37 @@
+name: Propose a roadmap
+description: Suggest a new roadmap, or offer to write one.
+labels: [new-roadmap]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Good roadmaps are specific about who they are for. "Maths" is hard to write well; "CBSE Class 9 Maths for students revising for the final exam" is not.
+  - type: input
+    id: subject
+    attributes:
+      label: Subject
+      placeholder: e.g. CBSE Class 9 Maths
+    validations:
+      required: true
+  - type: input
+    id: audience
+    attributes:
+      label: Who is it for?
+      placeholder: e.g. Class 9 students revising for the final exam
+    validations:
+      required: true
+  - type: textarea
+    id: outline
+    attributes:
+      label: Rough outline
+      description: The milestones you have in mind, in order. A list is fine.
+  - type: dropdown
+    id: author
+    attributes:
+      label: Will you write it?
+      options:
+        - Yes, I want to write it
+        - I can help, but not lead it
+        - No, I am asking for it
+    validations:
+      required: true

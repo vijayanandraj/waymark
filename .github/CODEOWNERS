@@ -1,0 +1,4 @@
+# Maintainers review everything by default. Add a line per roadmap to make
+# its curators required reviewers, e.g.
+#   /roadmaps/cbse-class-9-maths/  @maths-curator
+*  @vijayanandraj

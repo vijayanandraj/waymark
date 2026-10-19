@@ -1,0 +1,8 @@
+{
+  "audience": "Engineers who own TLS, signing or key management and have a 2030 deadline coming",
+  "level": "advanced",
+  "lang": "en",
+  "tags": ["security", "cryptography", "software engineering"],
+  "authors": [{ "name": "vijayanandraj", "url": "https://github.com/vijayanandraj" }],
+  "license": "CC-BY-SA-4.0"
+}

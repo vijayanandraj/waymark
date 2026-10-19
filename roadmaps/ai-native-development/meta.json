@@ -1,0 +1,8 @@
+{
+  "audience": "Engineers adopting coding agents and shipping their first LLM feature",
+  "level": "intermediate",
+  "lang": "en",
+  "tags": ["ai", "software engineering"],
+  "authors": [{ "name": "vijayanandraj", "url": "https://github.com/vijayanandraj" }],
+  "license": "CC-BY-SA-4.0"
+}
