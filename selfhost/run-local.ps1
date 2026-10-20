@@ -1,7 +1,7 @@
 #requires -version 5.1
 <#
 .SYNOPSIS
-    Builds and runs Open Roadmap locally on Windows, no Docker needed.
+    Builds and runs Waymark locally on Windows, no Docker needed.
 
 .DESCRIPTION
     Checks for Go and Node.js, offers to install whichever is missing via
@@ -130,7 +130,7 @@ if (-not (Test-Path $DataDir)) {
     New-Item -ItemType Directory -Path $DataDir | Out-Null
 }
 
-Write-Step "Starting Open Roadmap on http://localhost:$Port"
+Write-Step "Starting Waymark on http://localhost:$Port"
 Write-Ok "Data is stored in: $DataDir"
 Write-Ok "The first account you create becomes the administrator."
 Write-Host ""

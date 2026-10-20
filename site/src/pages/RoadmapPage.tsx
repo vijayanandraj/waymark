@@ -18,7 +18,7 @@ export default function RoadmapPage() {
       // Progress first, so a fast first click is never overwritten by the load.
       setProgress(readProgress(slug))
       setRm(r)
-      document.title = `${r.doc.title} · Open Roadmap`
+      document.title = `${r.doc.title} · Waymark`
     }).catch(() => { if (live) setRm(null) })
     return () => { live = false }
   }, [slug])

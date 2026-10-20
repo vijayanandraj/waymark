@@ -5,7 +5,7 @@ export default function Layout() {
   return (
     <>
       <header className="topnav">
-        <Link to="/" className="brand">Open Roadmap<span>learning paths, built in the open</span></Link>
+        <Link to="/" className="brand"><img src={`${import.meta.env.BASE_URL}favicon.svg`} alt="" width="26" height="26" /><b>Waymark<span>free learning roadmaps</span></b></Link>
         <nav>
           <NavLink to="/" end>Browse</NavLink>
           <NavLink to="/write">Write</NavLink>

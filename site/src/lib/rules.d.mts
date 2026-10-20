@@ -8,10 +8,12 @@ export const MAX_NODES: number
 export const MAX_IMAGE_BYTES: number
 export const LICENSE: string
 export const LEVELS: string[]
+export const STAGES: { id: string; label: string }[]
 export const SLUG_RE: RegExp
 export const IMAGE_FILE_RE: RegExp
 export const META_KEYS: Set<string>
 
 export function slugify(s: string): string
-export function checkMeta(meta: unknown, where: string, report: Report): void
+export function checkSubjects(list: unknown, where: string, report: Report): Set<string>
+export function checkMeta(meta: unknown, where: string, report: Report, subjectIds?: Set<string>): void
 export function checkDoc(doc: unknown, where: string, imageFiles: Set<string>, report: Report): number

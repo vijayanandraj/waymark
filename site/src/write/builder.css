@@ -89,6 +89,11 @@
 .modal-box input[type=text]{margin-bottom:2px}
 .modal-box .form label.f i{font-style:normal;text-transform:none;letter-spacing:0;opacity:.8;margin-left:4px}
 .grid2{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.stagepick{display:flex;flex-wrap:wrap;gap:6px}
+.stagepick label{display:inline-flex;gap:6px;align-items:center;border:1px solid var(--line);border-radius:16px;padding:4px 12px;font-size:13px;cursor:pointer;background:var(--card)}
+.stagepick label.on{border-color:var(--ink);background:#eef4ee}
+.stagepick input{margin:0}
+.hint.tight{padding:4px 0 0;font-size:12px}
 .slugrow{display:flex;align-items:center;gap:4px;font:13px var(--mono)}
 .slugrow input{font-family:var(--mono)}
 .problems{margin:0;padding-left:18px;font-size:13px;line-height:1.5}

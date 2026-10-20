@@ -1,5 +1,7 @@
 {
   "audience": "New graduates starting out in programming",
+  "stages": ["college", "early-career"],
+  "subject": "programming",
   "level": "beginner",
   "lang": "en",
   "tags": ["programming", "beginners", "college"],

@@ -1,6 +1,7 @@
 name: Propose a roadmap
 description: Suggest a new roadmap, or offer to write one.
 labels: [new-roadmap]
+# Open issues with this label are listed on the home page, most thumbs-up first.
 body:
   - type: markdown
     attributes:

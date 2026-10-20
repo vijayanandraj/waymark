@@ -1,5 +1,7 @@
 {
   "audience": "Engineers adopting coding agents and shipping their first LLM feature",
+  "stages": ["professional"],
+  "subject": "data-ai",
   "level": "intermediate",
   "lang": "en",
   "tags": ["ai", "software engineering"],

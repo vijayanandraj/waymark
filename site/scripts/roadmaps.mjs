@@ -5,7 +5,7 @@
 
 import { readdirSync, readFileSync, statSync, existsSync } from 'node:fs'
 import { join } from 'node:path'
-import { IMAGE_FILE_RE, MAX_IMAGE_BYTES, SLUG_RE, checkDoc, checkMeta } from '../src/lib/rules.mjs'
+import { IMAGE_FILE_RE, MAX_IMAGE_BYTES, SLUG_RE, checkDoc, checkMeta, checkSubjects } from '../src/lib/rules.mjs'
 
 function readJSON(file, label, report) {
   try {
@@ -30,13 +30,17 @@ function listImages(dir, slug, report) {
 }
 
 /**
- * Validates every roadmap in `root` and returns them with all problems found.
- * A roadmap with errors is still returned, flagged `ok: false`.
+ * Validates every roadmap in `root`, and the subject list they pick from, and
+ * returns them with all problems found. A roadmap with errors is still
+ * returned, flagged `ok: false`.
  */
 export function loadRoadmaps(root) {
   const errors = []
   const warnings = []
   const roadmaps = []
+  const top = { error: m => errors.push(m), warn: m => warnings.push(m) }
+  const subjects = readJSON(join(root, 'subjects.json'), 'roadmaps/subjects.json', top) ?? []
+  const subjectIds = checkSubjects(subjects, 'roadmaps/subjects.json', top)
   for (const slug of readdirSync(root).sort()) {
     const dir = join(root, slug)
     if (!statSync(dir).isDirectory()) continue
@@ -50,8 +54,8 @@ export function loadRoadmaps(root) {
     const doc = readJSON(join(dir, 'roadmap.json'), `roadmaps/${slug}/roadmap.json`, report)
     const meta = readJSON(join(dir, 'meta.json'), `roadmaps/${slug}/meta.json`, report)
     const nodeCount = doc === undefined ? 0 : checkDoc(doc, `roadmaps/${slug}/roadmap.json`, imageFiles, report)
-    if (meta !== undefined) checkMeta(meta, `roadmaps/${slug}/meta.json`, report)
+    if (meta !== undefined) checkMeta(meta, `roadmaps/${slug}/meta.json`, report, subjectIds)
     roadmaps.push({ slug, doc, meta, nodeCount, images: [...imageFiles], ok: errors.length === before })
   }
-  return { roadmaps, errors, warnings }
+  return { roadmaps, subjects, errors, warnings }
 }

@@ -1,9 +1,9 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
-import type { NodeType, RNode, RoadmapDoc, Side } from '../lib/types'
-import { LEVELS, MAX_DEPTH, slugify } from '../lib/rules.mjs'
+import type { NodeType, RNode, RoadmapDoc, Side, Subject } from '../lib/types'
+import { LEVELS, MAX_DEPTH, STAGES, slugify } from '../lib/rules.mjs'
 import { genId } from '../lib/layout'
-import { REPO_URL, loadCatalog } from '../lib/content'
+import { REPO_URL, loadCatalog, loadSubjects } from '../lib/content'
 import { useToast } from '../components/Toast'
 import RoadmapView from '../viewer/RoadmapView'
 import MdEditor from './MdEditor'
@@ -142,7 +142,10 @@ export default function Editor({ initial, initialImages }: { initial: Draft; ini
   }, [selectedId, modal, addImages])
 
   const found = useMemo(() => selectedId ? findNode(draft.doc.topics, selectedId) : null, [draft.doc, selectedId])
-  const check = useMemo(() => checkDraft(draft, new Set(images.keys())), [draft, images])
+  const [subjects, setSubjects] = useState<Subject[]>([])
+  useEffect(() => { loadSubjects().then(setSubjects).catch(() => {}) }, [])
+  const subjectIds = useMemo(() => subjects.length ? new Set(subjects.map(s => s.id)) : undefined, [subjects])
+  const check = useMemo(() => checkDraft(draft, new Set(images.keys()), subjectIds), [draft, images, subjectIds])
   const detailsIncomplete = check.errors.some(p => p.msg.startsWith('Details'))
 
   const goTo = (p: Problem) => {
@@ -225,7 +228,7 @@ export default function Editor({ initial, initialImages }: { initial: Draft; ini
         </div>
       </div>
 
-      {modal === 'details' && <DetailsModal draft={draft} onClose={() => setModal(null)} onApply={next => { updateDraft(() => next); setModal(null) }} />}
+      {modal === 'details' && <DetailsModal draft={draft} subjects={subjects} onClose={() => setModal(null)} onApply={next => { updateDraft(() => next); setModal(null) }} />}
       {modal === 'check' && <CheckModal check={check} onClose={() => setModal(null)} onGo={goTo} />}
       {modal === 'submit' && <SubmitModal draft={draft} check={check} images={images} onClose={() => setModal(null)} onGo={goTo}
         onLog={text => update(d => { d.changelog = [{ date: today(), text }, ...(d.changelog || [])]; d.updated = today() })} />}
@@ -390,9 +393,12 @@ const LANGS: [string, string][] = [
   ['gu', 'Gujarati'], ['kn', 'Kannada'], ['ml', 'Malayalam'], ['pa', 'Punjabi'], ['or', 'Odia'], ['ur', 'Urdu'],
 ]
 
-function DetailsModal({ draft, onClose, onApply }: { draft: Draft; onClose: () => void; onApply: (d: Draft) => void }) {
+function DetailsModal({ draft, subjects, onClose, onApply }: { draft: Draft; subjects: Subject[]; onClose: () => void; onApply: (d: Draft) => void }) {
   const m = draft.meta
   const [audience, setAudience] = useState(m.audience)
+  const [stages, setStages] = useState<string[]>(m.stages || [])
+  const [subject, setSubject] = useState(m.subject || '')
+  const [follows, setFollows] = useState(m.follows || '')
   const [level, setLevel] = useState(m.level || '')
   const [lang, setLang] = useState(m.lang || 'en')
   const [tags, setTags] = useState(m.tags.join(', '))
@@ -407,6 +413,31 @@ function DetailsModal({ draft, onClose, onApply }: { draft: Draft; onClose: () =
       <div className="form">
         <label className="f">Who is it for? <i>required</i></label>
         <input type="text" value={audience} maxLength={200} placeholder="e.g. Class 9 students revising for the final exam" onChange={e => setAudience(e.target.value)} />
+        <label className="f">Readers are mostly… <i>required, up to 3</i></label>
+        <div className="stagepick">
+          {STAGES.map(s => (
+            <label key={s.id} className={stages.includes(s.id) ? 'on' : ''}>
+              <input type="checkbox" checked={stages.includes(s.id)} disabled={!stages.includes(s.id) && stages.length >= 3}
+                onChange={e => setStages(e.target.checked ? [...stages, s.id] : stages.filter(x => x !== s.id))} />
+              {s.label}
+            </label>
+          ))}
+        </div>
+        <div className="grid2">
+          <div>
+            <label className="f">Subject <i>required</i></label>
+            <select value={subject} onChange={e => setSubject(e.target.value)}>
+              <option value="">Choose…</option>
+              {subjects.map(s => <option key={s.id} value={s.id}>{s.icon} {s.name}</option>)}
+              {subject && !subjects.some(s => s.id === subject) && <option value={subject}>{subject}</option>}
+            </select>
+          </div>
+          <div>
+            <label className="f">Follows a syllabus or exam? <i>optional</i></label>
+            <input type="text" value={follows} maxLength={100} placeholder="e.g. CBSE Class 9 Mathematics" onChange={e => setFollows(e.target.value)} />
+          </div>
+        </div>
+        <p className="hint tight">No subject fits? Pick the closest and say so when you submit; subjects are added by proposal.</p>
         <div className="grid2">
           <div>
             <label className="f">Level</label>
@@ -443,7 +474,7 @@ function DetailsModal({ draft, onClose, onApply }: { draft: Draft; onClose: () =
           ...draft,
           slug: draft.base ? draft.base.slug : slugify(slug),
           meta: {
-            audience, lang, tags: parseTags(tags),
+            audience, stages, subject, follows: follows.trim() || undefined, lang, tags: parseTags(tags),
             level: (level || undefined) as Draft['meta']['level'],
             authors: [{ name: authorName, url: authorUrl || undefined }, ...others],
           },

@@ -11,22 +11,22 @@ export default function About() {
     const blob = new Blob([JSON.stringify(exportAll(), null, 2)], { type: 'application/json' })
     const a = document.createElement('a')
     a.href = URL.createObjectURL(blob)
-    a.download = 'open-roadmap-progress.json'
+    a.download = 'waymark-progress.json'
     a.click()
     URL.revokeObjectURL(a.href)
   }
   const upload = async (f: File | undefined) => {
     if (!f) return
     try { setMsg(`Merged progress for ${importAll(JSON.parse(await f.text()))} roadmaps.`) }
-    catch { setMsg('That file is not an Open Roadmap progress file.') }
+    catch { setMsg('That file is not a Waymark progress file.') }
     if (file.current) file.current.value = ''
   }
 
   return (
     <div className="page prose">
-      <h1>About Open Roadmap</h1>
+      <h1>About Waymark</h1>
       <p>
-        Open Roadmap is a free, open collection of learning roadmaps for anyone: a new graduate learning to
+        Waymark is a free, open collection of learning roadmaps for anyone: a new graduate learning to
         program, a Class 9 student revising maths, a team onboarding a new hire. Every step says what to learn
         and why, the problems people commonly hit, and free resources to learn it from.
       </p>

@@ -1,4 +1,4 @@
-# Open Roadmap
+# Waymark
 
 Free, community-built learning roadmaps for anyone, not only developers: a new
 graduate learning to program, a Class 9 CBSE student revising maths, a team
@@ -42,5 +42,3 @@ Pushing to `main` builds the site and deploys it to GitHub Pages
 Settings → Pages → Source: GitHub Actions. Pull requests get the same
 validation and build, plus a link check on the roadmaps they change; a weekly
 run opens an issue for links that have broken since.
-
-> The name "Open Roadmap" is a working title.

@@ -5,10 +5,14 @@ on:
   push:
     branches: [main]
     paths: ["roadmaps/**", "site/**", ".github/workflows/site.yml"]
+  # Daily, so the home page's "People are asking for" list stays current.
+  schedule:
+    - cron: '30 2 * * *'
   workflow_dispatch:
 
 permissions:
   contents: read
+  issues: read
 
 concurrency:
   group: site-${{ github.ref }}
@@ -38,6 +42,7 @@ jobs:
           BASE_PATH: ${{ steps.pages.outputs.base_path && format('{0}/', steps.pages.outputs.base_path) || '/' }}
           SITE_URL: ${{ steps.pages.outputs.base_url }}
           VITE_REPO_URL: ${{ github.server_url }}/${{ github.repository }}
+          GITHUB_TOKEN: ${{ github.token }}
       - if: github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v3
         with: { path: site/dist }

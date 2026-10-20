@@ -1,9 +1,9 @@
-import type { CatalogEntry, RNode, RoadmapFile } from './types'
+import type { CatalogEntry, RNode, RoadmapFile, RoadmapRequest, Subject } from './types'
 
 const BASE = import.meta.env.BASE_URL
 
 /** Where the repository lives; issue links and "edit on GitHub" point here. */
-export const REPO_URL: string = import.meta.env.VITE_REPO_URL || 'https://github.com/vijayanandraj/openroadmap'
+export const REPO_URL: string = import.meta.env.VITE_REPO_URL || 'https://github.com/vijayanandraj/waymark'
 
 async function getJSON<T>(path: string): Promise<T> {
   const res = await fetch(BASE + path)
@@ -12,6 +12,8 @@ async function getJSON<T>(path: string): Promise<T> {
 }
 
 export const loadCatalog = () => getJSON<CatalogEntry[]>('content/index.json')
+export const loadSubjects = () => getJSON<Subject[]>('content/subjects.json')
+export const loadRequests = () => getJSON<RoadmapRequest[]>('content/requests.json')
 
 /**
  * Loads one roadmap and points its relative image paths ("images/x.png", as

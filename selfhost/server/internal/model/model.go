@@ -85,7 +85,7 @@ type Settings struct {
 
 func DefaultSettings() Settings {
 	return Settings{
-		SiteName:      "Open Roadmap",
+		SiteName:      "Waymark",
 		Tagline:       "Community-built learning roadmaps",
 		OpenSignup:    true,
 		RequireReview: true,

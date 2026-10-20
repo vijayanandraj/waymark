@@ -1,5 +1,7 @@
 {
   "audience": "Anyone who will be asked for an SBOM, provenance or a signed artifact",
+  "stages": ["professional"],
+  "subject": "security",
   "level": "intermediate",
   "lang": "en",
   "tags": ["security", "devops", "software engineering"],

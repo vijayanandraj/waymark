@@ -44,16 +44,16 @@ for (const r of index) {
   const body = `<main class="page"><h1>${esc(doc.title)}</h1><p>${esc(description)}</p>${outline(doc.topics)}</main>`
   const dir = join(dist, 'r', r.slug)
   mkdirSync(dir, { recursive: true })
-  writeFileSync(join(dir, 'index.html'), page({ title: `${doc.title} · Open Roadmap`, description, path: `/r/${r.slug}/`, body }))
+  writeFileSync(join(dir, 'index.html'), page({ title: `${doc.title} · Waymark`, description, path: `/r/${r.slug}/`, body }))
 }
 
-const list = `<main class="page"><h1>Open Roadmap</h1><ul>${index.map(r => `<li>${esc(r.title)}: ${esc(r.subtitle)}</li>`).join('')}</ul></main>`
-writeFileSync(join(dist, 'index.html'), page({ title: 'Open Roadmap', description: 'Free, community-built learning roadmaps for anyone: what to learn, in what order, and where to learn it.', path: '/', body: list }))
+const list = `<main class="page"><h1>Waymark</h1><ul>${index.map(r => `<li>${esc(r.title)}: ${esc(r.subtitle)}</li>`).join('')}</ul></main>`
+writeFileSync(join(dist, 'index.html'), page({ title: 'Waymark: free learning roadmaps', description: 'Free learning roadmaps for anything, written by people who learned it: what to learn, in what order, why, and the best free resources.', path: '/', body: list }))
 mkdirSync(join(dist, 'about'), { recursive: true })
-writeFileSync(join(dist, 'about', 'index.html'), page({ title: 'About · Open Roadmap', description: 'What Open Roadmap is, how your progress is stored, and how to write a roadmap.', path: '/about/', body: '' }))
+writeFileSync(join(dist, 'about', 'index.html'), page({ title: 'About · Waymark', description: 'What Waymark is, how your progress is stored, and how to write a roadmap.', path: '/about/', body: '' }))
 mkdirSync(join(dist, 'write'), { recursive: true })
-writeFileSync(join(dist, 'write', 'index.html'), page({ title: 'Write a roadmap · Open Roadmap', description: 'Write or improve a learning roadmap in your browser. No account needed.', path: '/write/', body: '' }))
-writeFileSync(join(dist, '404.html'), page({ title: 'Open Roadmap', description: 'Free, community-built learning roadmaps.', path: '/', body: '' }))
+writeFileSync(join(dist, 'write', 'index.html'), page({ title: 'Write a roadmap · Waymark', description: 'Write or improve a learning roadmap in your browser. No account needed.', path: '/write/', body: '' }))
+writeFileSync(join(dist, '404.html'), page({ title: 'Waymark', description: 'Free, community-built learning roadmaps.', path: '/', body: '' }))
 
 if (site) {
   const urls = ['/', '/about/', '/write/', ...index.map(r => `/r/${r.slug}/`)]

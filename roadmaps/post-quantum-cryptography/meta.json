@@ -1,5 +1,7 @@
 {
   "audience": "Engineers who own TLS, signing or key management and have a 2030 deadline coming",
+  "stages": ["professional"],
+  "subject": "security",
   "level": "advanced",
   "lang": "en",
   "tags": ["security", "cryptography", "software engineering"],

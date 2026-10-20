@@ -8,8 +8,8 @@ You do not need to know git, or have an account, to write one.
 
 1. Open **Write** on the site (or **Suggest changes** on an existing roadmap).
    Drafts are saved in your browser as you type.
-2. Fill in **Details**: who the roadmap is for, tags, language and the name you
-   want credited. Never an email address; the repository is public.
+2. Fill in **Details**: who the roadmap is for, its subject, the syllabus or
+   exam it follows (if any), tags, language and the name you want credited. Never an email address; the repository is public.
 3. **Check** runs the same rules as the pull request check. Fix anything it
    lists under "Must fix".
 4. **Submit** gives you a package (a `.zip` of `roadmaps/<slug>/`) and a

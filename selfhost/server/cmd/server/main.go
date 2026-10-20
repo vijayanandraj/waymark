@@ -1,4 +1,4 @@
-// Command server runs the Open Roadmap API and serves the built web app.
+// Command server runs the Waymark API and serves the built web app.
 //
 // Configuration is by environment variable (flags override):
 //
@@ -58,7 +58,7 @@ func main() {
 		Handler:           logRequests(api.New(st, img, spa, api.Config{SecureCookies: *secure})),
 		ReadHeaderTimeout: 10 * time.Second,
 	}
-	log.Printf("open roadmap listening on %s (data in %s)", *addr, *dataDir)
+	log.Printf("waymark listening on %s (data in %s)", *addr, *dataDir)
 	log.Fatal(srv.ListenAndServe())
 }
 

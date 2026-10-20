@@ -13,6 +13,16 @@ export const MAX_NODES = 2000
 export const MAX_IMAGE_BYTES = 500 * 1024
 export const LICENSE = 'CC-BY-SA-4.0'
 export const LEVELS = ['beginner', 'intermediate', 'advanced', 'all']
+// Where the reader is in life. Fixed here, unlike subjects (roadmaps/subjects.json),
+// because the home page is built around these few answers to "who are you?".
+export const STAGES = [
+  { id: 'school', label: 'In school' },
+  { id: 'college', label: 'In college' },
+  { id: 'early-career', label: 'Starting a career' },
+  { id: 'professional', label: 'Working' },
+  { id: 'anyone', label: 'Just curious' },
+]
+const STAGE_IDS = STAGES.map(s => s.id)
 
 export const SLUG_RE = /^[a-z0-9]+(-[a-z0-9]+)*$/
 export const IMAGE_FILE_RE = /^[a-z0-9][a-z0-9._-]{0,99}\.(png|jpe?g|webp|gif)$/
@@ -25,7 +35,7 @@ const IMAGE_SRC_RE = /^images\/([a-z0-9][a-z0-9._-]{0,99}\.(png|jpe?g|webp|gif))
 
 const NODE_KEYS = new Set(['id', 'label', 'type', 'side', 'desc', 'links', 'faq', 'images', 'children'])
 const DOC_KEYS = new Set(['title', 'subtitle', 'updated', 'changelog', 'topics'])
-export const META_KEYS = new Set(['audience', 'level', 'lang', 'tags', 'authors', 'license'])
+export const META_KEYS = new Set(['audience', 'stages', 'subject', 'follows', 'level', 'lang', 'tags', 'authors', 'license'])
 
 const isStr = v => typeof v === 'string'
 const isArr = Array.isArray
@@ -39,15 +49,42 @@ export function slugify(s) {
 }
 
 /**
- * Checks meta.json. report: { error(msg, nodeId?), warn(msg, nodeId?) }.
+ * Checks roadmaps/subjects.json, the list a roadmap's "subject" picks from.
+ * Returns the set of subject ids.
  */
-export function checkMeta(meta, where, report) {
+export function checkSubjects(list, where, report) {
+  const ids = new Set()
+  if (!isArr(list) || !list.length) { report.error(`${where}: must be a non-empty list`); return ids }
+  list.forEach((s, i) => {
+    if (!isObj(s) || !isStr(s.id) || !SLUG_RE.test(s.id) || !isStr(s.name) || !s.name.trim() || !isStr(s.icon) || !isStr(s.about))
+      report.error(`${where}: entry ${i + 1} needs "id" (lowercase-with-hyphens), "name", "icon" and "about"`)
+    else if (ids.has(s.id)) report.error(`${where}: subject "${s.id}" is listed twice`)
+    else ids.add(s.id)
+  })
+  return ids
+}
+
+/**
+ * Checks meta.json. report: { error(msg, nodeId?), warn(msg, nodeId?) }.
+ * subjectIds: the ids from roadmaps/subjects.json; when not given, "subject"
+ * is only checked for being present.
+ */
+export function checkMeta(meta, where, report, subjectIds) {
   if (!isObj(meta)) return report.error(`${where}: must be a JSON object`)
   // Strict here, unlike the document: meta.json is the likeliest place for
   // personal data such as an email address to slip in, and it is public.
   for (const k of Object.keys(meta)) if (!META_KEYS.has(k)) report.error(`${where}: unknown field "${k}"; allowed: ${[...META_KEYS].join(', ')}`)
   if (!isStr(meta.audience) || !meta.audience.trim() || meta.audience.length > 200)
     report.error(`${where}: "audience" is required (who is this for?), at most 200 characters`)
+  if (!isArr(meta.stages) || meta.stages.length === 0 || meta.stages.length > 3 || new Set(meta.stages).size !== meta.stages.length
+      || !meta.stages.every(s => STAGE_IDS.includes(s)))
+    report.error(`${where}: "stages" needs 1 to 3 of ${STAGE_IDS.join(', ')} (who it is for, broadly)`)
+  if (!isStr(meta.subject) || !meta.subject)
+    report.error(`${where}: "subject" is required; pick one from roadmaps/subjects.json`)
+  else if (subjectIds && !subjectIds.has(meta.subject))
+    report.error(`${where}: subject "${meta.subject}" is not in roadmaps/subjects.json; pick one of ${[...subjectIds].join(', ')}, or propose a new subject`)
+  if (meta.follows !== undefined && (!isStr(meta.follows) || !meta.follows.trim() || meta.follows.length > 100))
+    report.error(`${where}: "follows" names the syllabus or exam the roadmap follows, at most 100 characters`)
   if (meta.level !== undefined && !LEVELS.includes(meta.level))
     report.error(`${where}: "level" must be one of ${LEVELS.join(', ')}`)
   if (!isStr(meta.lang) || !LANG_RE.test(meta.lang))

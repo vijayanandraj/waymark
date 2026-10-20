@@ -1,0 +1,15 @@
+[
+  { "id": "maths", "name": "Mathematics", "icon": "🧮", "about": "School maths to university courses, exam preparation and puzzles." },
+  { "id": "science", "name": "Science", "icon": "🔬", "about": "Physics, chemistry, biology and earth science." },
+  { "id": "programming", "name": "Programming", "icon": "💻", "about": "Learning to code, languages, web and app development." },
+  { "id": "data-ai", "name": "Data & AI", "icon": "🤖", "about": "Data analysis, machine learning, and building with AI." },
+  { "id": "security", "name": "Security", "icon": "🔐", "about": "Cybersecurity, cryptography and staying safe online." },
+  { "id": "infrastructure", "name": "Cloud & infrastructure", "icon": "☁️", "about": "Cloud, networks, operations and DevOps." },
+  { "id": "engineering", "name": "Engineering", "icon": "⚙️", "about": "Electrical, mechanical, civil and electronics." },
+  { "id": "languages", "name": "Languages", "icon": "🗣️", "about": "Learning a language, grammar and writing well." },
+  { "id": "humanities", "name": "History & society", "icon": "📜", "about": "History, geography, civics, economics and philosophy." },
+  { "id": "arts", "name": "Arts & design", "icon": "🎨", "about": "Drawing, music, design, photography and craft." },
+  { "id": "business", "name": "Business & money", "icon": "📈", "about": "Personal finance, starting a business, management." },
+  { "id": "career", "name": "Careers & work skills", "icon": "🧭", "about": "Job hunting, communication, and skills for the workplace." },
+  { "id": "life", "name": "Health & life skills", "icon": "🌱", "about": "Fitness, cooking, wellbeing and everyday skills." }
+]

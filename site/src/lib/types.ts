@@ -37,6 +37,12 @@ export type Level = 'beginner' | 'intermediate' | 'advanced' | 'all'
 
 export interface Meta {
   audience: string
+  /** ids from STAGES in rules.mjs */
+  stages: string[]
+  /** id from roadmaps/subjects.json */
+  subject: string
+  /** The syllabus or exam it follows, e.g. "CBSE Class 9 Mathematics". */
+  follows?: string
   level?: Level
   lang: string
   tags: string[]
@@ -52,7 +58,15 @@ export interface CatalogEntry extends Meta {
   updated: string
   nodeCount: number
   milestones: number
+  /** Milestones and their direct steps, [id, type, side], for thumbnails. */
+  shape: { id: string; steps: [string, NodeType, Side][] }[]
 }
+
+/** content/subjects.json */
+export interface Subject { id: string; name: string; icon: string; about: string; count: number }
+
+/** content/requests.json: open "Propose a roadmap" issues. */
+export interface RoadmapRequest { title: string; audience: string; writing: boolean; votes: number; url: string }
 
 /** content/<slug>.json */
 export interface RoadmapFile {

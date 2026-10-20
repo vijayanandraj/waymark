@@ -8,8 +8,9 @@ once published: links, bookmarks and readers' saved progress depend on it.
 roadmaps/
   cbse-class-9-maths/
     roadmap.json     the roadmap itself
-    meta.json        who it is for, tags, language, authors
+    meta.json        who it is for, subject, tags, language, authors
     images/          screenshots used by roadmap.json (optional)
+  subjects.json      the subjects a roadmap can be filed under
 ```
 
 All content in this folder is licensed under CC BY-SA 4.0 (see `LICENSE`).
@@ -67,6 +68,9 @@ The same format `tools/roadmap-builder.html` exports.
 ```json
 {
   "audience": "Class 9 students revising for the final exam",
+  "stages": ["school"],
+  "subject": "maths",
+  "follows": "CBSE Class 9 Mathematics",
   "level": "beginner",
   "lang": "en",
   "tags": ["maths", "cbse", "class 9"],
@@ -78,11 +82,22 @@ The same format `tools/roadmap-builder.html` exports.
 | Field | Required | Notes |
 |---|---|---|
 | `audience` | yes | Who this is for, in one line. Shown on the card and the page. |
+| `stages` | yes | 1–3 of `school`, `college`, `early-career`, `professional`, `anyone`. Powers "I am…" on the home page. |
+| `subject` | yes | One `id` from `subjects.json` |
+| `follows` | no | The syllabus, exam or certification it follows, e.g. `CBSE Class 9 Mathematics`, `JEE Main`. Shown as a badge. |
 | `level` | no | `beginner`, `intermediate`, `advanced` or `all` |
 | `lang` | yes | Language code: `en`, `hi`, `ta`, `bn`… |
 | `tags` | yes | 1–8 lowercase tags, used for browsing |
 | `authors` | yes | Display name and an optional link. Never an email address. |
 | `license` | yes | Always `CC-BY-SA-4.0` |
+
+## Subjects
+
+`subjects.json` is the short list of subjects the home page is organised by.
+Keep it short: a subject earns its place when several roadmaps need it. To
+add one, open a pull request that adds an entry (`id`, `name`, an emoji
+`icon`, a one-line `about`) together with the roadmap that needs it. Narrower
+topics belong in `tags`, and specific syllabuses in `follows`.
 
 ## Checking your work
 

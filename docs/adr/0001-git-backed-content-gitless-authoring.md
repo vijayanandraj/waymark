@@ -5,7 +5,7 @@
 
 ## Context
 
-Open Roadmap started as a single-file builder and grew a self-hosted Go server
+Waymark (working title: Open Roadmap) started as a single-file builder and grew a self-hosted Go server
 with accounts, drafts and a review queue. The goal is now a public, community
 project for a wide audience: new graduates learning programming, a Class 9
 CBSE student revising maths, a team onboarding a new hire. Most of the people

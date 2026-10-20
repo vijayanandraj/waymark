@@ -17,7 +17,7 @@ export function coerceDoc(s: unknown): RoadmapDoc {
   return { title: o.title || '', subtitle: o.subtitle || '', updated: o.updated, changelog: Array.isArray(o.changelog) ? o.changelog : [], topics: fill(o.topics) }
 }
 
-const blankMeta = (): DraftMeta => ({ audience: '', lang: 'en', tags: [], authors: [{ name: '' }] })
+const blankMeta = (): DraftMeta => ({ audience: '', stages: [], subject: '', lang: 'en', tags: [], authors: [{ name: '' }] })
 
 export async function createBlank(): Promise<Draft> {
   const now = Date.now()
@@ -35,7 +35,8 @@ export async function createFromPublished(slug: string): Promise<Draft> {
   const now = Date.now()
   const d: Draft = {
     id: newDraftId(), doc: coerceDoc(f.doc), slug,
-    meta: { audience: f.meta.audience, level: f.meta.level, lang: f.meta.lang, tags: [...f.meta.tags], authors: f.meta.authors.map(a => ({ ...a })) },
+    meta: {
+      audience: f.meta.audience, stages: [...(f.meta.stages || [])], subject: f.meta.subject || '', follows: f.meta.follows, level: f.meta.level, lang: f.meta.lang, tags: [...f.meta.tags], authors: f.meta.authors.map(a => ({ ...a })) },
     base: { slug, updated: f.doc.updated || '' }, createdAt: now, updatedAt: now,
   }
   for (const name of referencedImages(d.doc)) await putImage(d.id, name, await fetchImage(slug, name))
@@ -80,11 +81,14 @@ export async function createFromJson(text: string): Promise<Draft> {
 export function toMeta(m: DraftMeta): Meta {
   const out: Meta = {
     audience: m.audience.trim(),
+    stages: m.stages || [],
+    subject: m.subject || '',
     lang: m.lang,
     tags: m.tags,
     authors: m.authors.map(a => (a.url?.trim() ? { name: a.name.trim(), url: a.url.trim() } : { name: a.name.trim() })),
     license: LICENSE,
   }
+  if (m.follows?.trim()) out.follows = m.follows.trim()
   if (m.level) out.level = m.level
   return out
 }
@@ -98,14 +102,14 @@ export interface Problem { msg: string; nodeId?: string; short?: string }
 export interface CheckResult { errors: Problem[]; warnings: Problem[] }
 
 /** The same checks the pull request runs, against the draft in this browser. */
-export function checkDraft(d: Draft, imageNames: Set<string>): CheckResult {
+export function checkDraft(d: Draft, imageNames: Set<string>, subjectIds?: Set<string>): CheckResult {
   const res: CheckResult = { errors: [], warnings: [] }
   const report = {
     error: (msg: string, nodeId?: string, short?: string) => res.errors.push({ msg, nodeId, short }),
     warn: (msg: string, nodeId?: string, short?: string) => res.warnings.push({ msg, nodeId, short }),
   }
   checkDoc(d.doc, 'Roadmap', imageNames, report)
-  checkMeta(toMeta(d.meta), 'Details', report)
+  checkMeta(toMeta(d.meta), 'Details', report, subjectIds)
   if (!d.base && !/^[a-z0-9]+(-[a-z0-9]+)*$/.test(d.slug))
     report.error('Details: the web address needs lowercase words joined by hyphens, e.g. cbse-class-9-maths')
   return res

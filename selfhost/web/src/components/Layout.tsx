@@ -8,7 +8,7 @@ export default function Layout() {
   return (
     <>
       <header className="topnav">
-        <Link to="/" className="brand">{settings?.siteName || 'Open Roadmap'}<span>{settings?.tagline}</span></Link>
+        <Link to="/" className="brand">{settings?.siteName || 'Waymark'}<span>{settings?.tagline}</span></Link>
         <nav>
           <NavLink to="/">Browse</NavLink>
           {user && <NavLink to="/me">My roadmaps</NavLink>}

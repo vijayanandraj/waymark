@@ -8,6 +8,10 @@ import type { Author, Level, RoadmapDoc } from '../lib/types'
 
 export interface DraftMeta {
   audience: string
+  // Optional because drafts saved before these fields existed lack them.
+  stages?: string[]
+  subject?: string
+  follows?: string
   level?: Level
   lang: string
   tags: string[]
@@ -28,6 +32,7 @@ export interface Draft {
 
 interface ImageRow { key: string; draftId: string; name: string; blob: Blob }
 
+// The project's working title; kept so drafts saved under it are not lost.
 const DB_NAME = 'openroadmap'
 let dbp: Promise<IDBDatabase> | null = null
 

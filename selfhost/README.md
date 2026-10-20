@@ -1,4 +1,4 @@
-# Open Roadmap
+# Waymark
 
 Self-hostable, community-built learning roadmaps. Think roadmap.sh, but anyone
 with an account on your instance can author a roadmap in the browser, with
