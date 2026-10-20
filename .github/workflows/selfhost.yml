@@ -24,7 +24,8 @@ jobs:
         run: |
           (cd server && ./bin/server -addr 127.0.0.1:8090 -data /tmp/ci-data &) && sleep 1
           npm i -g playwright && npx playwright install --with-deps chromium
-          cd /tmp && ln -s "$(npm root -g)" node_modules && node "$GITHUB_WORKSPACE/selfhost/scripts/ui-smoke.mjs" http://127.0.0.1:8090
+          # Imports resolve from the script's own folder, so run a copy next to the linked packages.
+          cd /tmp && ln -s "$(npm root -g)" node_modules && cp "$GITHUB_WORKSPACE/selfhost/scripts/ui-smoke.mjs" . && node ui-smoke.mjs http://127.0.0.1:8090
   selfhost-docker:
     runs-on: ubuntu-latest
     steps:
