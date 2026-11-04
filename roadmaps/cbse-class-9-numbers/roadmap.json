@@ -5,7 +5,15 @@
   "changelog": [
     {
       "date": "2026-11-04",
+      "text": "Linked into the Class 9 Maths series: links to the start page for this part and to the chapters before and after this one."
+    },
+    {
+      "date": "2026-11-04",
       "text": "Linked into the Class 9 Maths Part I series: links to all chapters and to the chapters before and after this one."
+    },
+    {
+      "date": "2026-11-04",
+      "text": "Added an 'About this roadmap' step: who it is for, how it differs from the textbook, and licence."
     },
     {
       "date": "2026-11-03",
@@ -35,8 +43,12 @@
           "desc": "- Go in order. Each step is small. On the map the steps go left and right, so press **Checklist view** at the top to see them as a list, in order.\n- Click a box to open it. Read the idea, follow the worked example, then do **Your turn**.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: a family of numbers that keeps growing.** Each new kind of number was invented because the old kinds could not do a job. Watch for the job each one does.",
           "links": [
             {
-              "label": "All eight chapters: Class 9 Maths, Part I",
+              "label": "All chapters in Term 1: start page",
               "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-maths-part-1"
+            },
+            {
+              "label": "The whole year: Term 1 and Term 2",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-maths-year"
             },
             {
               "label": "Previous chapter: 2. Linear Polynomials",
@@ -45,6 +57,19 @@
             {
               "label": "Next chapter: 4. Algebraic Identities",
               "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-identities"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 3 of the NCERT textbook *Ganita Manjari*, Grade 9 Part I: *The World of Numbers*.\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** A family of numbers that keeps growing.\n\n**How it is different from the textbook.** Fractions are fixed first, because nearly every difficulty in this chapter is really a fraction difficulty. Integers are taught as money you have and money you owe, and decimals are sorted into three kinds: they stop, they repeat, or neither.\n\n**What is inside.**\n- 10 milestones and 44 small steps. The 30 solid steps are the core path. The dashed ones are optional.\n- 53 practice questions with hidden answers, and 7 pictures.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the history of counting, the proof that √2 is irrational, and the cyclic decimals.\n- For teachers and parents: a 10-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
             }
           ],
           "children": []

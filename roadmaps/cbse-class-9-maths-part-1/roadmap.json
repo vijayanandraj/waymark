@@ -1,8 +1,12 @@
 {
-  "title": "Class 9 Maths, All Chapters: Start Here (Part I)",
-  "subtitle": "Start here. One roadmap for each chapter of NCERT Ganita Manjari, Grade 9 Part I, written for students who find maths hard. This page shows the one idea in each chapter, what each needs first, and the thread that runs through them all.",
+  "title": "Class 9 Maths, All Chapters: Term 1 (Part I)",
+  "subtitle": "Start here for Term 1. One roadmap for each chapter of NCERT Ganita Manjari, Grade 9 Part I, written for students who find maths hard. This page shows the one idea in each chapter, what each needs first, and the thread that runs through them all.",
   "updated": "2026-11-04",
   "changelog": [
+    {
+      "date": "2026-11-04",
+      "text": "Added an 'About this roadmap' step: who it is for, how it differs from the textbook, and licence."
+    },
     {
       "date": "2026-11-04",
       "text": "First version: links all eight Part I chapter roadmaps, with the thread between them, what each chapter needs first, and pacing for teachers."
@@ -12,15 +16,37 @@
     {
       "id": "start-here",
       "label": "Start here: how this series works",
-      "links": [],
+      "links": [
+        {
+          "label": "Term 2 start page (Part II)",
+          "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-maths-part-2"
+        },
+        {
+          "label": "The whole year: Term 1 and Term 2",
+          "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-maths-year"
+        }
+      ],
       "desc": "**Goal:** know how the eight chapter roadmaps fit together, and where to begin.\n\nEach chapter of the NCERT Ganita Manjari, Grade 9 Part I textbook has its own roadmap, written for students who find maths hard. This page connects them.",
       "children": [
         {
           "id": "how-series",
           "label": "How to use these roadmaps",
           "type": "core",
-          "desc": "- **One roadmap per chapter.** Open a chapter below, then follow its own steps.\n- **Every chapter starts with *Check yourself*.** Two minutes, four questions. It tells you which small skills to fix before the chapter itself.\n- **Solid boxes are the core path.** Dashed boxes are optional: stories, extra puzzles and the *When you're ready* challenge questions.\n- **Every chapter ends with a section for teachers and parents**, with a lesson plan, common mistakes and a 5-minute exit ticket.\n- **Progress is saved per chapter** on this device. Mark steps **Done** inside each chapter's roadmap.",
+          "desc": "- **One roadmap per chapter.** Open a chapter below, then follow its own steps.\n- **Every chapter starts with *Check yourself*.** Two minutes, a few questions. It tells you which small skills to fix before the chapter itself.\n- **Solid boxes are the core path.** Dashed boxes are optional: stories, extra puzzles and the *When you're ready* challenge questions.\n- **Every chapter ends with a section for teachers and parents**, with a lesson plan, common mistakes and a 5-minute exit ticket.\n- **Progress is saved per chapter** on this device. Mark steps **Done** inside each chapter's roadmap.",
           "links": [],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** The starting page for Term 1: 8 roadmaps, one for each chapter of the NCERT textbook *Ganita Manjari*, Grade 9 Part I (Chapters 1 to 8).\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**What this page does.** It shows the one idea in each chapter, what each chapter needs first, and the thread that runs through them. It does not teach the chapters itself: open a chapter to start.\n\n**How the chapter roadmaps work.** Each one starts by fixing the basic skills it needs, shows every calculation, gives practice with hidden answers, keeps harder material in an optional *When you're ready* milestone, and ends with a section for teachers and parents. The 8 lesson plans add up to 66 periods.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
           "children": []
         },
         {
@@ -83,7 +109,7 @@
           "id": "ch1-check",
           "label": "Ch 1: check yourself first",
           "type": "core",
-          "desc": "Two minutes, four questions. Each wrong answer points to the exact step to do before the chapter.",
+          "desc": "Two minutes, a few questions. Each wrong answer points to the exact step to do before the chapter.",
           "links": [
             {
               "label": "Chapter 1: Check yourself",
@@ -158,7 +184,7 @@
           "id": "ch2-check",
           "label": "Ch 2: check yourself first",
           "type": "core",
-          "desc": "Two minutes, four questions. Each wrong answer points to the exact step to do before the chapter.",
+          "desc": "Two minutes, a few questions. Each wrong answer points to the exact step to do before the chapter.",
           "links": [
             {
               "label": "Chapter 2: Check yourself",
@@ -233,7 +259,7 @@
           "id": "ch3-check",
           "label": "Ch 3: check yourself first",
           "type": "core",
-          "desc": "Two minutes, four questions. Each wrong answer points to the exact step to do before the chapter.",
+          "desc": "Two minutes, a few questions. Each wrong answer points to the exact step to do before the chapter.",
           "links": [
             {
               "label": "Chapter 3: Check yourself",
@@ -308,7 +334,7 @@
           "id": "ch4-check",
           "label": "Ch 4: check yourself first",
           "type": "core",
-          "desc": "Two minutes, four questions. Each wrong answer points to the exact step to do before the chapter.",
+          "desc": "Two minutes, a few questions. Each wrong answer points to the exact step to do before the chapter.",
           "links": [
             {
               "label": "Chapter 4: Check yourself",
@@ -383,7 +409,7 @@
           "id": "ch5-check",
           "label": "Ch 5: check yourself first",
           "type": "core",
-          "desc": "Two minutes, four questions. Each wrong answer points to the exact step to do before the chapter.",
+          "desc": "Two minutes, a few questions. Each wrong answer points to the exact step to do before the chapter.",
           "links": [
             {
               "label": "Chapter 5: Check yourself",
@@ -458,7 +484,7 @@
           "id": "ch6-check",
           "label": "Ch 6: check yourself first",
           "type": "core",
-          "desc": "Two minutes, four questions. Each wrong answer points to the exact step to do before the chapter.",
+          "desc": "Two minutes, a few questions. Each wrong answer points to the exact step to do before the chapter.",
           "links": [
             {
               "label": "Chapter 6: Check yourself",
@@ -533,7 +559,7 @@
           "id": "ch7-check",
           "label": "Ch 7: check yourself first",
           "type": "core",
-          "desc": "Two minutes, four questions. Each wrong answer points to the exact step to do before the chapter.",
+          "desc": "Two minutes, a few questions. Each wrong answer points to the exact step to do before the chapter.",
           "links": [
             {
               "label": "Chapter 7: Check yourself",
@@ -608,7 +634,7 @@
           "id": "ch8-check",
           "label": "Ch 8: check yourself first",
           "type": "core",
-          "desc": "Two minutes, four questions. Each wrong answer points to the exact step to do before the chapter.",
+          "desc": "Two minutes, a few questions. Each wrong answer points to the exact step to do before the chapter.",
           "links": [
             {
               "label": "Chapter 8: Check yourself",
