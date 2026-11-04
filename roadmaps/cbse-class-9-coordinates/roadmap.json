@@ -1,0 +1,740 @@
+{
+  "title": "Class 9 Maths, Chapter 1: Coordinates, Step by Step",
+  "subtitle": "For students who find maths hard. Small steps, every calculation shown, and plenty of practice with answers. Follows NCERT Ganita Manjari, Grade 9 Part I, Chapter 1 (Orienting Yourself: The Use of Coordinates).",
+  "updated": "2026-11-04",
+  "changelog": [
+    {
+      "date": "2026-11-04",
+      "text": "Linked into the Class 9 Maths Part I series: links to all chapters and to the chapters before and after this one."
+    },
+    {
+      "date": "2026-11-03",
+      "text": "First version: written for students who find maths hard. Basic skills first, every calculation shown, practice in levels with answers, and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** feel sure about three small skills this chapter uses again and again: negative numbers, subtracting, and squares.\n\nMost students who find this chapter hard are really stuck on these three things, not on coordinates. So we fix them first. If they are already easy for you, do *Check yourself* and move on.",
+      "links": [
+        {
+          "label": "Your textbook: NCERT Ganita Manjari, Grade 9 Part I, Chapter 1 (free PDF)",
+          "url": "https://ncert.nic.in/textbook/pdf/iemh101.pdf"
+        },
+        {
+          "label": "DIKSHA: free NCERT videos and lessons",
+          "url": "https://diksha.gov.in/"
+        }
+      ],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. On the map the steps go left and right, so press **Checklist view** at the top to see them as a list, in order.\n- Click a box to open it. Read the idea, follow the worked example, then do **Your turn**.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: two numbers pin down any spot.** Go across first, then up. Every question in the chapter, from plotting a point to finding a distance, starts from that.\n\nOne step a day is enough. Slow and steady works.",
+          "links": [
+            {
+              "label": "All eight chapters: Class 9 Maths, Part I",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-maths-part-1"
+            },
+            {
+              "label": "Next chapter: 2. Linear Polynomials",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-linear-polynomials"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box to check. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Which is bigger: −7 or −2?",
+              "a": "**−2.** On a number line, −2 is to the right of −7, and numbers get bigger as you go right. Wrong? Do *Negative numbers on the number line*."
+            },
+            {
+              "q": "2. What is 5 − (−3)?",
+              "a": "**8.** Subtracting a negative is the same as adding: 5 + 3 = 8. Wrong? Do *Subtracting a negative number*."
+            },
+            {
+              "q": "3. What is 6²? What is √49?",
+              "a": "6² = 6 × 6 = **36**. √49 = **7**, because 7 × 7 = 49. Wrong? Do *Squares and square roots*."
+            },
+            {
+              "q": "4. What is (−4)²?",
+              "a": "**16.** (−4) × (−4) = 16. Negative times negative is positive. Wrote −16? Do *Squares and square roots*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "negative-numbers",
+          "label": "Negative numbers on the number line",
+          "type": "core",
+          "desc": "A number line has numbers marked at equal steps.\n\n- **0** is in the middle.\n- To the **right** of 0: positive numbers 1, 2, 3 ...\n- To the **left** of 0: negative numbers −1, −2, −3 ...\n\nThink of a lift. 0 is the ground floor. 2 is two floors up. −2 is two floors down, in the basement.\n\n**Remember:** the further right, the bigger. So −2 is bigger than −7.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: put these in order, smallest first: 3, −5, 0, −1, 6",
+              "a": "**−5, −1, 0, 3, 6.**"
+            },
+            {
+              "q": "Your turn: at night it is −2 °C. By morning it is 5 degrees warmer. What is the temperature now?",
+              "a": "Start at −2 and move 5 steps right: −1, 0, 1, 2, 3. It is **3 °C**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "subtract-negative",
+          "label": "Subtracting a negative number",
+          "type": "core",
+          "desc": "You will often need sums like 5 − (−3) in this chapter. Here is an easy way to see them.\n\n**a − b means the gap from b to a on the number line.**\n\nSo 5 − (−3) asks: how many steps from −3 to 5?\n- From −3 to 0 is 3 steps.\n- From 0 to 5 is 5 steps.\n- Total: 3 + 5 = **8**.\n\nThe short rule: **minus a minus is a plus.** 5 − (−3) = 5 + 3 = 8.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: 4 − (−2)",
+              "a": "Minus a minus is a plus: 4 + 2 = **6**."
+            },
+            {
+              "q": "Your turn: −1 − (−6)",
+              "a": "−1 + 6 = **5**. Check on the number line: from −6 to −1 is 5 steps."
+            },
+            {
+              "q": "Your turn: −3 − 4",
+              "a": "**−7.** Start at −3 and go 4 more steps left. There is no 'minus a minus' here, so nothing changes to a plus."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/number-line-gap.png",
+              "caption": "5 − (−3) is the gap from −3 to 5: 3 steps, then 5 more, so 8"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "squares-roots",
+          "label": "Squares and square roots",
+          "type": "core",
+          "desc": "**Squaring** means multiplying a number by itself. We write a small 2: 5² = 5 × 5 = 25.\n\n**Square root** (√) goes backwards. √25 asks: which number times itself makes 25? The answer is 5.\n\nSquares you will use in this chapter. Learn the first ten by heart:\n\n- 1² = 1, 2² = 4, 3² = 9, 4² = 16, 5² = 25\n- 6² = 36, 7² = 49, 8² = 64, 9² = 81, 10² = 100\n- 12² = 144, 13² = 169\n\n**A negative number squared is positive:** (−4)² = (−4) × (−4) = 16. Always write the brackets.\n\nSome numbers, like 41, are not in the list. Then the answer stays as **√41**. That is a correct, complete answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: 9², (−3)² and √64",
+              "a": "9² = **81**. (−3)² = **9**. √64 = **8**."
+            },
+            {
+              "q": "Your turn: √(9 + 16)",
+              "a": "Add first: 9 + 16 = 25. Then √25 = **5**. Always add first, then take the root."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "why-two-numbers",
+      "label": "Why we need two numbers",
+      "desc": "**Goal:** understand why a place on a flat surface needs two numbers, and read a simple map of a room.",
+      "links": [],
+      "children": [
+        {
+          "id": "one-is-not-enough",
+          "label": "One number is not enough",
+          "type": "core",
+          "desc": "If all the seats were in one long line, you could say 'seat 7', and your friend would find you. One number is enough.\n\nBut a classroom is not one line. It has rows **and** benches. So you need two numbers: '**row 3, bench 2**'.\n\nWe do this all the time:\n- A cinema ticket: **Row F, Seat 12**\n- A chessboard: **e4** (column e, row 4)\n\nOn a flat surface you can move in two directions: **across** and **up**. So we always need **two numbers**. That is the main idea of this chapter.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: describe where you sit in class with two numbers. What did you have to decide first?",
+              "a": "Something like 'row 2, bench 3'. You had to decide **where to start counting** (which corner) and **which direction comes first**. In maths we decide these too. You will see how in the next milestone."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "floor-plan",
+          "label": "Reading a floor plan",
+          "type": "core",
+          "desc": "A **floor plan** is a drawing of a room, seen from above. In this one, **1 small square = 1 foot**.\n\nWe start counting from the corner by the door. We call it **O**, and its numbers are (0, 0).\n\n- The door goes from (2, 0) to (5.5, 0).\n- The blackboard goes from (0, 5) to (0, 13).\n- The fan is above (12, 9).\n\nThe **first** number tells you how far along the **front wall**. The **second** tells you how far along the **side wall**.\n\nWe will use this classroom in many steps. Your textbook uses Reiaan's bedroom the same way.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what are the two numbers for the far corner of the room (top right)?",
+              "a": "**(24, 18).** 24 feet along the front wall, 18 feet along the side wall."
+            },
+            {
+              "q": "Your turn: can this plan show how high the window is above the floor?",
+              "a": "**No.** A floor plan is seen from above. It shows where things are on the floor, not how high they are. Your textbook asks the same question about Reiaan's room."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/classroom-plan.png",
+              "caption": "Our classroom from above: 1 square = 1 foot, starting from the corner by the door"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "history",
+          "label": "A little history",
+          "type": "optional",
+          "desc": "People have used grids to find places for thousands of years.\n\n- Old cities of the Sindhu–Sarasvatī (Indus) civilisation, like Mohenjo-daro, had their streets laid out in a grid.\n- **Brahmagupta** (628 CE) wrote rules for negative numbers. We need them for the left and lower parts of the graph.\n- In the 1630s, **Descartes** showed that two numbers can fix any point. That is why it is called the *Cartesian* plane.\n\nThe opening pages of your textbook chapter tell this story. Read them once.",
+          "links": [
+            {
+              "label": "Wikipedia: Mohenjo-daro",
+              "url": "https://en.wikipedia.org/wiki/Mohenjo-daro"
+            },
+            {
+              "label": "Wikipedia: Brahmagupta",
+              "url": "https://en.wikipedia.org/wiki/Brahmagupta"
+            },
+            {
+              "label": "Wikipedia: Cartesian coordinate system",
+              "url": "https://en.wikipedia.org/wiki/Cartesian_coordinate_system"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "plotting-points",
+      "label": "Plotting and reading points",
+      "desc": "**Goal:** put a point on a graph from its two numbers, and read the two numbers of any point.\n\nThis is the most important skill in the chapter. Practise it until it feels easy.",
+      "links": [],
+      "children": [
+        {
+          "id": "axes-origin",
+          "label": "The axes and the origin",
+          "type": "core",
+          "desc": "Draw two number lines that cross at 0.\n\n- The flat one, left to right, is the **x-axis**.\n- The standing one, bottom to top, is the **y-axis**.\n- Where they cross is the **origin**, called **O**. Its numbers are (0, 0).\n\nDirections:\n- Right is +, left is −.\n- Up is +, down is −.\n\n**On graph paper:** use the same step size everywhere, such as 1 cm for 1. Count the squares; don't guess. Write x and y at the ends of the axes.",
+          "links": [
+            {
+              "label": "Math is Fun: Cartesian coordinates (simple, with pictures)",
+              "url": "https://www.mathsisfun.com/data/cartesian-coordinates.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: draw the axes in your notebook and mark −5 to 5 on both. Did you label everything?",
+              "a": "Check three things: equal steps on both sides of O, the letters x and y at the ends, and O where they cross. These small things are often worth marks."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "plot-a-point",
+          "label": "Plotting a point: walk, then climb",
+          "type": "core",
+          "desc": "Every point has **two numbers in brackets**, like **(4, 3)**.\n\n- The **first** number is **x**: how far to **walk across** (right or left).\n- The **second** number is **y**: how far to **climb** (up or down).\n\nTo remember it: **walk along the corridor, then climb the stairs.** Always walk first, then climb.\n\n**Worked example: plot P(4, 3).**\n- Step 1: start at O.\n- Step 2: walk 4 steps **right** (x is 4).\n- Step 3: climb 3 steps **up** (y is 3).\n- Step 4: put a dot and write P(4, 3) next to it.\n\n**Worked example: plot Q(−2, −3).**\n- Walk 2 steps **left** (x is −2).\n- Go 3 steps **down** (y is −3).\n\n**The order matters.** (2, 5) and (5, 2) are different points. Look at the second picture.",
+          "links": [
+            {
+              "label": "Math is Fun: move points and watch their numbers change",
+              "url": "https://www.mathsisfun.com/data/cartesian-coordinates-interactive.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: write the steps to plot (−3, 4).",
+              "a": "Start at O. Walk 3 steps **left** (x is −3). Climb 4 steps **up** (y is 4). Put the dot."
+            },
+            {
+              "q": "Your turn: a point is 5 steps right of O and 2 steps down. Write its two numbers.",
+              "a": "**(5, −2).** Right means x is positive. Down means y is negative."
+            },
+            {
+              "q": "Common mistake: plotting (2, 5) by going up 2 and across 5",
+              "a": "That gives (5, 2), a different point. **Always walk across first** using the first number, then climb using the second."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/point-anatomy.png",
+              "caption": "P(4, 3): walk 4 across, then climb 3 up"
+            },
+            {
+              "src": "images/order-matters.png",
+              "caption": "(2, 5) and (5, 2) are in different places"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "points-on-axes",
+          "label": "Points on the axes",
+          "type": "core",
+          "desc": "Some points sit exactly **on** an axis. One of their two numbers is 0.\n\n- (5, 0): walk 5 right, climb **0**. You are still **on the x-axis**.\n- (0, 4): walk **0**, climb 4. You are **on the y-axis**.\n\nThe rule:\n- **y is 0** → the point is on the **x-axis**.\n- **x is 0** → the point is on the **y-axis**.\n- Both are 0 → it is the origin O.\n\nMany students get this the wrong way round. Say it aloud: *no walking means I am on the y-axis.*",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which axis? (0, −7), (3, 0), (−6, 0)",
+              "a": "(0, −7): **y-axis**. (3, 0): **x-axis**. (−6, 0): **x-axis**."
+            },
+            {
+              "q": "Common mistake: '(0, 5) is on the x-axis because x is 0'",
+              "a": "It is the other way round. x is 0 means you did not walk at all, so you are still standing on the **y-axis**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/points-on-axes.png",
+              "caption": "On the x-axis, y is 0. On the y-axis, x is 0."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "quadrants",
+          "label": "The four quadrants",
+          "type": "core",
+          "desc": "The two axes cut the graph into **four parts**, called **quadrants**. They are numbered **I, II, III, IV**, going round **anticlockwise** from the top right.\n\nYou only need the **signs** to find the quadrant:\n\n- (+, +) → Quadrant **I**, top right\n- (−, +) → Quadrant **II**, top left\n- (−, −) → Quadrant **III**, bottom left\n- (+, −) → Quadrant **IV**, bottom right\n\nA point on an axis is in **no** quadrant. It sits on the border line.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which quadrant? (3, 5), (−2, 6), (−1, −4), (7, −3)",
+              "a": "(3, 5): **I**. (−2, 6): **II**. (−1, −4): **III**. (7, −3): **IV**."
+            },
+            {
+              "q": "Your turn: which quadrant is (0, −2) in?",
+              "a": "**None.** x is 0, so the point is on the y-axis, on the border between III and IV."
+            },
+            {
+              "q": "Common mistake: numbering the quadrants clockwise",
+              "a": "They go **anticlockwise**: top right is I, top left is II, bottom left is III, bottom right is IV."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/quadrants.png",
+              "caption": "The four quadrants and the signs in each"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "practice-plotting",
+          "label": "Practice set: plot and read",
+          "type": "core",
+          "desc": "Use graph paper, 1 cm for 1. Start with Level 1. Move up a level when you get most of them right.\n\n**Level 1, warm-up:** plot (2, 3), (4, 1), (1, 5), (3, 3).\n\n**Level 2, negatives:** plot (−3, 2), (−4, −1), (2, −4), (0, −3), (−5, 0).\n\n**Level 3, a picture:** plot A(1, 1), B(5, 1), C(5, 4), D(1, 4). Join A to B to C to D and back to A. What shape is it?\n\nCheck yourself for free: type a point such as (2, 3) into Desmos and see where it appears.",
+          "links": [
+            {
+              "label": "Desmos: check your points for free (works on phones)",
+              "url": "https://www.desmos.com/calculator"
+            },
+            {
+              "label": "Math is Fun: move points and watch their numbers change",
+              "url": "https://www.mathsisfun.com/data/cartesian-coordinates-interactive.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Answers: where is each Level 2 point?",
+              "a": "(−3, 2): Quadrant II. (−4, −1): Quadrant III. (2, −4): Quadrant IV. (0, −3): on the y-axis. (−5, 0): on the x-axis."
+            },
+            {
+              "q": "Answer: Level 3",
+              "a": "A **rectangle**, 4 squares wide (from x = 1 to 5) and 3 squares tall (from y = 1 to 4)."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "lengths-on-grid",
+      "label": "Lengths on the grid",
+      "desc": "**Goal:** find the length of a line that goes exactly across or exactly up, and find the missing corner of a rectangle.\n\nExercise Sets 1.1 and 1.2 in your textbook use these skills with Reiaan's room.",
+      "links": [],
+      "children": [
+        {
+          "id": "straight-lengths",
+          "label": "Lines that go straight across or straight up",
+          "type": "core",
+          "desc": "If two points have the **same second number (y)**, the line between them goes straight **across**. If they have the **same first number (x)**, it goes straight **up**.\n\nTo find the length: **subtract the two numbers that are different. Bigger minus smaller.**\n\n**Worked example: how wide is the door?** It goes from (2, 0) to (5.5, 0).\n- The y's are the same (both 0), so the door goes straight across.\n- The x's are 2 and 5.5. Bigger minus smaller: 5.5 − 2 = **3.5 ft**.\n\n**Worked example with a negative:** from (−4, 2) to (3, 2).\n- The y's are the same, so the line goes across.\n- 3 − (−4) = 3 + 4 = **7**. Minus a minus is a plus.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: how long is the blackboard? It goes from (0, 5) to (0, 13).",
+              "a": "The x's are the same (both 0), so it goes straight up. 13 − 5 = **8 ft**."
+            },
+            {
+              "q": "Your turn: find the length from (−6, −1) to (−6, 4).",
+              "a": "The x's are the same. 4 − (−1) = 4 + 1 = **5**."
+            },
+            {
+              "q": "Think about it: can a person in a wheelchair use our door?",
+              "a": "A wheelchair needs a door about **3 ft (90 cm)** wide. Our door is 3.5 ft, so **yes**. Your textbook asks you to check the doors in your own school. Try it with a measuring tape."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/classroom-plan.png",
+              "caption": "Use the classroom plan for the questions below"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "missing-corner",
+          "label": "The missing corner of a rectangle",
+          "type": "core",
+          "desc": "A rectangle that sits straight on the grid uses only **two different x's** and **two different y's**. So if you know three corners, you can find the fourth.\n\n**Worked example.** The teacher's desk has corners (3, 7), (5.5, 7) and (5.5, 11).\n- The x's used are **3** and **5.5**.\n- The y's used are **7** and **11**.\n- We have (3, 7), (5.5, 7) and (5.5, 11). The pair not used yet is **(3, 11)**.\n\nThe desk is 5.5 − 3 = **2.5 ft** wide and 11 − 7 = **4 ft** long.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: three corners of a rectangle are (1, 2), (6, 2) and (6, 5). Find the fourth.",
+              "a": "x's: 1 and 6. y's: 2 and 5. The missing corner is **(1, 5)**."
+            },
+            {
+              "q": "Your turn: three corners are (−2, −1), (3, −1) and (−2, 4). Find the fourth corner, and the length and breadth.",
+              "a": "x's: −2 and 3. y's: −1 and 4. The missing corner is **(3, 4)**. Length: 3 − (−2) = **5**. Breadth: 4 − (−1) = **5**. All sides are 5, so it is a square."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "middle-of-room",
+          "label": "Finding the middle",
+          "type": "optional",
+          "desc": "The middle of a room is **halfway across and halfway up**.\n\n**Worked example.** Our classroom goes from 0 to 24 across and from 0 to 18 up.\n- Half of 24 is 12.\n- Half of 18 is 9.\n- The middle is **(12, 9)**, which is exactly where the fan is.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a garden goes from 0 to 10 across and from 0 to 6 up. Where is its middle?",
+              "a": "Half of 10 is 5. Half of 6 is 3. The middle is **(5, 3)**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "map-classroom",
+          "label": "Activity: map your own classroom",
+          "type": "optional",
+          "desc": "Do this with friends. It makes the whole chapter real.\n\n- Pick one corner of your classroom as O (0, 0).\n- Count floor tiles, or use a measuring tape, to find how far things are along each wall.\n- Draw it on graph paper. Mark the door, the blackboard and your bench with their two numbers.\n- Give a friend only your bench's two numbers. Can they find it?",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "distance",
+      "label": "Distance between any two points",
+      "desc": "**Goal:** find the distance between two points, even when the line between them is slanted.\n\nThis looks hard, but it is just **four small steps**, and you already know each one. Go slowly here.",
+      "links": [],
+      "children": [
+        {
+          "id": "right-triangles",
+          "label": "Right triangles (Baudhāyana–Pythagoras)",
+          "type": "core",
+          "desc": "A **right triangle** has one square corner, called a right angle. The longest side, opposite the square corner, is the **hypotenuse**.\n\nThe rule, known in India from Baudhāyana and in Greece from Pythagoras:\n\n**longest side² = short side² + other short side²**\n\n**Worked example.** The two short sides are 3 and 4.\n- 3² = 9 and 4² = 16\n- 9 + 16 = 25\n- Longest side = √25 = **5**",
+          "links": [
+            {
+              "label": "Math is Fun: Pythagoras' theorem",
+              "url": "https://www.mathsisfun.com/pythagoras.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: the two short sides are 6 and 8. Find the longest side.",
+              "a": "6² = 36 and 8² = 64. 36 + 64 = 100. √100 = **10**."
+            },
+            {
+              "q": "Common mistake: 'the longest side is 3 + 4 = 7'",
+              "a": "No. You must **square, add, then take the square root**: √(9 + 16) = √25 = 5. The slanted side is always shorter than the other two sides added together."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "four-steps",
+          "label": "The four steps to find any distance",
+          "type": "core",
+          "desc": "Take two points, A(1, 2) and B(7, 10). The line AB is slanted. But we can draw a right triangle under it, as in the picture. Then:\n\n- **Step 1. Across:** subtract the x's. 7 − 1 = **6**\n- **Step 2. Up:** subtract the y's. 10 − 2 = **8**\n- **Step 3. Square and add:** 6² + 8² = 36 + 64 = **100**\n- **Step 4. Square root:** √100 = **10**\n\nSo the distance from A to B is **10**.\n\nYour textbook writes these four steps as one formula:\n\n**distance = √((x₂ − x₁)² + (y₂ − y₁)²)**\n\nIt is the same four steps, written in short. If the formula looks scary, just remember: **across, up, square and add, root.**",
+          "links": [
+            {
+              "label": "Math is Fun: distance between two points",
+              "url": "https://www.mathsisfun.com/algebra/distance-2-points.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: find the distance from (0, 0) to (3, 4).",
+              "a": "Across: 3 − 0 = 3. Up: 4 − 0 = 4. Square and add: 9 + 16 = 25. Root: **5**."
+            },
+            {
+              "q": "Your turn: find the distance from (2, 1) to (8, 9).",
+              "a": "Across: 8 − 2 = 6. Up: 9 − 1 = 8. Square and add: 36 + 64 = 100. Root: **10**."
+            },
+            {
+              "q": "Your turn: find the distance from (1, 1) to (3, 2). This answer is not a whole number.",
+              "a": "Across: 2. Up: 1. Square and add: 4 + 1 = 5. Root: **√5**. 5 is not in the squares list, so leave the answer as √5. That is correct and complete."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/distance-triangle.png",
+              "caption": "The slanted line AB is the longest side of a right triangle: 6 across, 8 up"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "distance-negatives",
+          "label": "Distances with negative numbers",
+          "type": "core",
+          "desc": "The four steps work for **any** two points, even in different quadrants. You just need 'minus a minus is a plus'.\n\n**Worked example.** P(−3, −2) and Q(5, 4).\n- **Across:** 5 − (−3) = 5 + 3 = **8**\n- **Up:** 4 − (−2) = 4 + 2 = **6**\n- **Square and add:** 8² + 6² = 64 + 36 = **100**\n- **Root:** √100 = **10**\n\n**Good news:** if a subtraction gives a negative answer, don't worry. Squaring makes it positive anyway. (−6)² = 36, the same as 6².",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: find the distance from (−1, 2) to (2, 6).",
+              "a": "Across: 2 − (−1) = 3. Up: 6 − 2 = 4. Square and add: 9 + 16 = 25. Root: **5**."
+            },
+            {
+              "q": "Your turn: find the distance from (−6, 4) to (2, −2).",
+              "a": "Across: 2 − (−6) = 8. Up: −2 − 4 = −6. Square and add: 64 + 36 = 100. Root: **10**."
+            },
+            {
+              "q": "Common mistake: (−6)² = −36",
+              "a": "(−6)² means (−6) × (−6). Negative times negative is positive, so it is **36**. On a calculator, type the brackets."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/distance-across-quadrants.png",
+              "caption": "From Quadrant III to Quadrant I: across 8, up 6, distance 10"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "practice-distance",
+          "label": "Practice set: distances",
+          "type": "core",
+          "desc": "Write all four steps every time, even when you can see the answer. Do the levels in order.\n\n**Level 1:** (0, 0) to (6, 8). Then (1, 2) to (4, 6). Then (0, 0) to (5, 12).\n\n**Level 2:** (−2, 1) to (1, 5). Then (−4, −3) to (0, 0). Then (3, −1) to (−3, 7).\n\n**Level 3, not whole numbers:** (0, 0) to (1, 1). Then (2, 3) to (4, 4).",
+          "links": [],
+          "faq": [
+            {
+              "q": "Answers: Level 1",
+              "a": "- (0, 0) to (6, 8): across 6, up 8. 36 + 64 = 100. **10**\n- (1, 2) to (4, 6): across 3, up 4. 9 + 16 = 25. **5**\n- (0, 0) to (5, 12): across 5, up 12. 25 + 144 = 169. **13**"
+            },
+            {
+              "q": "Answers: Level 2",
+              "a": "- (−2, 1) to (1, 5): across 1 − (−2) = 3, up 4. 9 + 16 = 25. **5**\n- (−4, −3) to (0, 0): across 4, up 3. 16 + 9 = 25. **5**\n- (3, −1) to (−3, 7): across −3 − 3 = −6, up 7 − (−1) = 8. 36 + 64 = 100. **10**"
+            },
+            {
+              "q": "Answers: Level 3",
+              "a": "- (0, 0) to (1, 1): across 1, up 1. 1 + 1 = 2. **√2**\n- (2, 3) to (4, 4): across 2, up 1. 4 + 1 = 5. **√5**"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "using-distance",
+      "label": "Using distances: triangles and squares",
+      "desc": "**Goal:** use the four steps to answer questions about shapes. These come in the end-of-chapter exercises and often in tests.\n\n**A tip that saves time:** for these questions you can stop after Step 3 and compare the *squared* lengths. No square roots needed.",
+      "links": [],
+      "children": [
+        {
+          "id": "triangle-sides",
+          "label": "What kind of triangle is it?",
+          "type": "core",
+          "desc": "Work out the **squared length** of each side (Steps 1 to 3). Then look:\n\n- Two of them are the same → **isosceles** (two equal sides).\n- The two smaller ones **add up to** the biggest → **right-angled**.\n\n**Worked example.** P(0, 0), Q(4, 0), R(0, 3).\n- PQ: across 4, up 0. Squared length: 16 + 0 = **16**\n- PR: across 0, up 3. Squared length: 0 + 9 = **9**\n- QR: across −4, up 3. Squared length: 16 + 9 = **25**\n\n9 + 16 = 25, so the triangle is **right-angled** (the square corner is at P). The real lengths are 4, 3 and 5.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: A(1, 1), B(5, 1), C(3, 4). Is this triangle isosceles?",
+              "a": "AB: across 4, up 0, so 16. BC: across −2, up 3, so 4 + 9 = 13. CA: across −2, up −3, so 4 + 9 = 13. Two are the same (13 and 13), so **yes, it is isosceles**."
+            },
+            {
+              "q": "Your turn: using O(0, 0) as one corner, choose two more corners to make a right-angled triangle.",
+              "a": "There are many answers. The easiest is to put one corner on each axis, for example **(5, 0) and (0, 2)**. The two axes meet at a square corner at O."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "square-check",
+          "label": "Is it a square?",
+          "type": "core",
+          "desc": "A square has **four equal sides** and **two equal diagonals** (the lines joining opposite corners). Check both. A tilted diamond shape (a rhombus) can have four equal sides and still not be a square.\n\n**Worked example.** A(1, 0), B(4, 1), C(3, 4), D(0, 3).\n- AB: across 3, up 1. Squared: 9 + 1 = **10**\n- BC: across −1, up 3. Squared: 1 + 9 = **10**\n- CD: across −3, up −1. Squared: 9 + 1 = **10**\n- DA: across 1, up −3. Squared: 1 + 9 = **10**\n- Diagonal AC: across 2, up 4. Squared: 4 + 16 = **20**\n- Diagonal BD: across −4, up 2. Squared: 16 + 4 = **20**\n\nAll four sides are equal and both diagonals are equal, so **it is a square**, even though it looks tilted. Its area is side × side = √10 × √10 = **10** square units.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: is (1, 1), (4, 1), (4, 4), (1, 4) a square? Find its area.",
+              "a": "Sides: each one is 3 (they go straight across or up, so just subtract). Diagonals: from (1, 1) to (4, 4) is 9 + 9 = 18; from (4, 1) to (1, 4) is 9 + 9 = 18. Equal. **Yes, a square**, with area 3 × 3 = **9** square units."
+            },
+            {
+              "q": "Your turn: is (0, 0), (2, 1), (3, 3), (1, 2) a square?",
+              "a": "Each side squared is 5, so all four sides are equal. But the diagonals squared are 18 and 2, which are **not** equal. So it is **not a square**. It is a rhombus."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These match the starred (challenge) questions in your textbook. Come here only after the earlier milestones feel comfortable. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "collinear",
+          "label": "Are three points on one line?",
+          "type": "optional",
+          "desc": "Three points are **collinear** if they lie on one straight line.\n\n**The test:** the two short distances add up to the long one.\n\n**Worked example.** A(0, 1), B(4, 4), C(8, 7).\n- AB: across 4, up 3. √(16 + 9) = √25 = **5**\n- BC: across 4, up 3. √25 = **5**\n- AC: across 8, up 6. √(64 + 36) = √100 = **10**\n\n5 + 5 = 10, so the three points are **on one line**.\n\nIf the middle point is off the line, like D in the picture, going A to D to C is a detour. The two parts then add up to more than AC.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: are (0, 0), (3, 4) and (6, 8) on one line?",
+              "a": "(0, 0) to (3, 4): 5. (3, 4) to (6, 8): 5. (0, 0) to (6, 8): 10. 5 + 5 = 10, so **yes**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/collinear.png",
+              "caption": "A, B and C are on one line. D is not."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "circle",
+          "label": "Inside, on, or outside a circle?",
+          "type": "optional",
+          "desc": "A circle with its centre at O(0, 0) and radius r is made of all the points that are exactly r away from O.\n\nTo check a point (x, y), work out **x² + y²** and compare it with **r²**:\n\n- the same → the point is **on** the circle\n- smaller → **inside**\n- bigger → **outside**\n\n**Worked example.** The radius is 5, so r² = 25.\n- (3, 4): 9 + 16 = 25. The same, so **on** the circle.\n- (1, 2): 1 + 4 = 5. Smaller than 25, so **inside**.\n- (5, 1): 25 + 1 = 26. Bigger than 25, so **outside**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: the radius is 13. Is (5, 12) on, inside or outside the circle?",
+              "a": "5² + 12² = 25 + 144 = 169, and 13² = 169. The same, so **on** the circle."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "midpoint",
+          "label": "The midpoint",
+          "type": "optional",
+          "desc": "The **midpoint** is the point exactly halfway between two points. Find it by **adding and halving**, once for the x's and once for the y's.\n\n**Worked example.** S(−4, 1) and T(5, 7).\n- x: (−4 + 5) ÷ 2 = 1 ÷ 2 = **0.5**\n- y: (1 + 7) ÷ 2 = 8 ÷ 2 = **4**\n- So the midpoint M is **(0.5, 4)**.\n\nThe picture also shows P and Q, which cut ST into three equal parts. You will learn that idea properly in Class 10.",
+          "links": [
+            {
+              "label": "Math is Fun: midpoint",
+              "url": "https://www.mathsisfun.com/algebra/line-midpoint.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: find the midpoint of (2, 6) and (8, 2).",
+              "a": "x: (2 + 8) ÷ 2 = 5. y: (6 + 2) ÷ 2 = 4. The midpoint is **(5, 4)**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/midpoint-trisection.png",
+              "caption": "M is halfway between S and T"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "reflection",
+          "label": "Mirror images (reflections)",
+          "type": "optional",
+          "desc": "A **reflection** is a mirror image.\n\n- Mirror in the **y-axis**: change the sign of **x**. (2, 1) becomes (−2, 1).\n- Mirror in the **x-axis**: change the sign of **y**. (2, 1) becomes (2, −1).\n\nThe shape flips over, but **every side keeps its length**. Your textbook checks this with a triangle. You can check it too, with the four steps.",
+          "links": [
+            {
+              "label": "Math is Fun: reflection",
+              "url": "https://www.mathsisfun.com/geometry/reflection.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: reflect (3, 5) in the y-axis. Then reflect (3, 5) in the x-axis.",
+              "a": "In the y-axis: **(−3, 5)**. In the x-axis: **(3, −5)**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/reflection.png",
+              "caption": "Triangle ABC and its mirror images in the y-axis (green) and the x-axis (orange)"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThis roadmap is written for students who find maths hard. It goes slowly on purpose, shows every calculation, and puts the basic skills (negative numbers, subtracting, squares) first, because that is usually where the real difficulty lies.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- **Find the real gap first.** Start with the *Check yourself* step. A student who cannot do 5 − (−3) will get stuck on distances however well the formula is taught.\n- **One idea per sitting.** Ten minutes on quadrants, done well, beats an hour on the whole chapter.\n- **Ask them to say it aloud:** 'walk across, then climb', 'no walking means the y-axis'. Saying it helps it stick.\n- **Real things first.** Floor tiles, a chalk grid in the playground, a seating chart. Then graph paper. Then numbers on their own.\n- **Praise the method, not the speed.** Writing all four steps for a distance is the goal, even if it is slow.\n- **Ask 'how did you get that?'** before correcting. Most wrong answers come from one small misunderstanding that is easy to fix once you see it.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "An 8-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** the *Start here* skills: negative numbers, subtracting, squares. Do not skip this with a weaker group.\n- **Period 2:** why we need two numbers; the classroom floor plan.\n- **Period 3:** axes, plotting, 'walk then climb'. **Human graph:** chalk the axes on the floor; students walk to the points you call out.\n- **Period 4:** points on the axes; quadrants. **Coordinate Battleship** in pairs: each student hides three ships on a −5 to 5 grid, and players take turns calling out points.\n- **Period 5:** lengths on the grid and missing corners; textbook Exercise Sets 1.1 and 1.2.\n- **Period 6:** right triangles, then the four steps for distance.\n- **Period 7:** distances with negative numbers; the practice set.\n- **Period 8:** triangles and squares; a short exit test.\n\nSet the challenge questions as homework for students who are ready.",
+          "links": [
+            {
+              "label": "Your textbook: NCERT Ganita Manjari, Grade 9 Part I, Chapter 1 (free PDF)",
+              "url": "https://ncert.nic.in/textbook/pdf/iemh101.pdf"
+            },
+            {
+              "label": "Desmos: check your points for free (works on phones)",
+              "url": "https://www.desmos.com/calculator"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Writing (y, x), or climbing before walking.\n- Saying (0, 5) is on the x-axis 'because x is 0'.\n- Uneven steps on the axes, or counting lines instead of squares.\n- Numbering the quadrants clockwise.\n- 5 − (−3) = 2 instead of 8.\n- (−6)² = −36.\n- Adding the two short sides (3 + 4 = 7) instead of squaring, adding and taking the root.\n- Forgetting the square root at the end of a distance.\n- Thinking any shape with four equal sides is a square.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Three questions on a half-sheet, collected at the door. They check the three skills everything else depends on. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Name the quadrant or axis of (−2, 0), (3, −5) and (−1, 4).",
+              "a": "(−2, 0): on the x-axis, in no quadrant. (3, −5): Quadrant IV. (−1, 4): Quadrant II."
+            },
+            {
+              "q": "2. Find the distance between (1, −2) and (4, 2).",
+              "a": "Across 3, up 4. 9 + 16 = 25. Root: **5**."
+            },
+            {
+              "q": "3. A rectangle has corners (−1, 1), (3, 1) and (3, 4). Find the fourth corner and the area.",
+              "a": "**(−1, 4).** Width 3 − (−1) = 4, height 4 − 1 = 3, area **12 square units**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

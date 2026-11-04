@@ -1,0 +1,568 @@
+{
+  "title": "Class 9 Maths, Chapter 7: Probability, Step by Step",
+  "subtitle": "For students who find maths hard. One idea holds the chapter together: probability is the ways you want divided by all the ways. Careful listing, trees and real experiments with coins and dice. Small steps, every count shown, practice with answers. Follows NCERT Ganita Manjari, Grade 9 Part I, Chapter 7 (The Mathematics of Maybe: Introduction to Probability).",
+  "updated": "2026-11-04",
+  "changelog": [
+    {
+      "date": "2026-11-04",
+      "text": "Linked into the Class 9 Maths Part I series: links to all chapters and to the chapters before and after this one."
+    },
+    {
+      "date": "2026-11-04",
+      "text": "First version: written for students who find maths hard. Fractions and careful listing first, counting and experiments, sample spaces and trees, practice with answers, and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** feel sure about fractions, decimals and percentages, and about listing things without missing any.\n\nEvery probability is a fraction. If you can simplify a fraction and turn it into a percentage, you have the tools.",
+      "links": [
+        {
+          "label": "Your textbook: NCERT Ganita Manjari, Grade 9 Part I, Chapter 7 (free PDF)",
+          "url": "https://ncert.nic.in/textbook/pdf/iemh107.pdf"
+        },
+        {
+          "label": "DIKSHA: free NCERT videos and lessons",
+          "url": "https://diksha.gov.in/"
+        }
+      ],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. On the map the steps go left and right, so press **Checklist view** at the top to see them as a list, in order.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Do the experiments.** A coin and a die teach this chapter better than any page.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: probability = the ways you want ÷ all the ways.** Most of the chapter is about counting those two numbers carefully.",
+          "links": [
+            {
+              "label": "All eight chapters: Class 9 Maths, Part I",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-maths-part-1"
+            },
+            {
+              "label": "Previous chapter: 6. Perimeter and Area",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-perimeter-area"
+            },
+            {
+              "label": "Next chapter: 8. Sequences and Progressions",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-sequences"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Three quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Simplify 6/8.",
+              "a": "**3/4.** Wrong? Do *Fractions, decimals and percentages*."
+            },
+            {
+              "q": "2. Write 1/4 as a decimal and as a percentage.",
+              "a": "**0.25** and **25%**. Wrong? Do *Fractions, decimals and percentages*."
+            },
+            {
+              "q": "3. List every way to make an outfit from a red or white shirt and jeans or shorts.",
+              "a": "**4 ways:** red + jeans, red + shorts, white + jeans, white + shorts. Missed one? Do *Listing without missing any*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "fdp",
+          "label": "Fractions, decimals and percentages",
+          "type": "core",
+          "desc": "The same amount can be written three ways:\n- 1/2 = 0.5 = 50%\n- 1/4 = 0.25 = 25%\n- 3/5 = 0.6 = 60%\n- 1/6 = 0.1666... ≈ 16.7%\n\n**Fraction to percentage:** divide, then multiply by 100. 3/5 = 3 ÷ 5 = 0.6, and 0.6 × 100 = 60%.\n\n**Always simplify:** 12/40 = 3/10.",
+          "links": [
+            {
+              "label": "Math is Fun: converting fractions, decimals and percents",
+              "url": "https://www.mathsisfun.com/converting-fractions-decimals.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: write 3/4 and 2/5 as decimals and percentages.",
+              "a": "3/4 = **0.75 = 75%**. 2/5 = **0.4 = 40%**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "listing",
+          "label": "Listing without missing any",
+          "type": "core",
+          "desc": "Probability needs the list of **everything** that can happen. To be sure you miss nothing, **work in order**.\n\n**Worked example:** a shirt (red, white) with trousers (jeans, shorts, trousers).\n- Fix the first shirt and go through every bottom: red + jeans, red + shorts, red + trousers.\n- Then the next shirt: white + jeans, white + shorts, white + trousers.\n- **6 outfits.** Check: 2 shirts × 3 bottoms = 6.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: list every two-letter code using A, B, C for the first letter and 1, 2 for the second.",
+              "a": "A1, A2, B1, B2, C1, C2: **6 codes** (3 × 2)."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "the-scale",
+      "label": "How likely is it?",
+      "desc": "**Goal:** understand what probability measures, and place events on a scale from 0 to 1. Exercise Set 7.1 uses this.",
+      "links": [],
+      "children": [
+        {
+          "id": "random",
+          "label": "Random means you can't be sure",
+          "type": "core",
+          "desc": "Toss a coin. You know it will be **heads or tails**, but not which one. That is **random**.\n\n- You **know** all the possible results.\n- You **don't know** which one will happen this time.\n\n**Probability** is a number that says **how likely** something is. It can't tell you what will happen next, only what tends to happen over many tries.\n\nThat is why a coin toss is a fair way to start a cricket match: nobody can know or control the result.",
+          "links": [
+            {
+              "label": "Math is Fun: probability",
+              "url": "https://www.mathsisfun.com/data/probability.html"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "scale",
+          "label": "The scale from 0 to 1",
+          "type": "core",
+          "desc": "Every probability is a number from **0 to 1**:\n- **0**: impossible. Rolling a 7 on an ordinary die.\n- **between 0 and ½**: unlikely. Rolling a 6.\n- **½**: even chance. Heads on a coin.\n- **between ½ and 1**: likely.\n- **1**: certain. The sun rising tomorrow.\n\nA probability can **never** be more than 1 or less than 0. If you get 7/5, something has gone wrong.",
+          "links": [
+            {
+              "label": "Math is Fun: probability line",
+              "url": "https://www.mathsisfun.com/probability_line.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: place each on the scale (impossible, unlikely, even, likely, certain): (a) Tuesday comes after Monday, (b) you pick a red card from a pack of 10 cards where only 2 are red, (c) a coin lands heads, (d) a cat reads your homework.",
+              "a": "(a) **certain**. (b) **unlikely** (2 out of 10). (c) **even chance**. (d) **impossible**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/prob-scale.png",
+              "caption": "The probability scale"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "counting-ways",
+      "label": "Probability by counting",
+      "desc": "**Goal:** find a probability by counting the ways you want and all the ways. This is **theoretical** probability.\n\nThis is the heart of the chapter.",
+      "links": [],
+      "children": [
+        {
+          "id": "the-rule",
+          "label": "Ways you want ÷ all the ways",
+          "type": "core",
+          "desc": "When every result is **equally likely**:\n\n**P(event) = number of ways you want ÷ total number of ways**\n\n**Worked example:** a bag has 3 red and 5 blue marbles. You pick one without looking.\n- Ways you want (red): **3**.\n- All the ways: 3 + 5 = **8**.\n- P(red) = **3/8**.",
+          "links": [
+            {
+              "label": "Math is Fun: probability",
+              "url": "https://www.mathsisfun.com/data/probability.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a bag has 4 red and 6 green balls. Find P(green).",
+              "a": "6 out of 10: **6/10 = 3/5**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/marbles.png",
+              "caption": "3 red and 5 blue: P(red) = 3/8"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "dice",
+          "label": "Dice and coins",
+          "type": "core",
+          "desc": "An ordinary die has 6 equally likely results: 1, 2, 3, 4, 5, 6.\n\n- P(4) = **1/6** (one way).\n- P(even) = **3/6 = 1/2** (2, 4, 6).\n- P(more than 4) = **2/6 = 1/3** (5, 6).\n- P(7) = **0**. P(less than 7) = **1**.\n\nWrite down the results you want, then count them. Don't do it in your head.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: roll a die. Find P(prime number).",
+              "a": "Primes on a die: 2, 3, 5. **3/6 = 1/2**. (1 is not prime.)"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "letters-cards",
+          "label": "Letters and number cards",
+          "type": "core",
+          "desc": "Count **every** copy, not just the different letters.\n\n**Worked example:** pick a letter from BANANA (6 letters).\n- A appears 3 times: P(A) = 3/6 = **1/2**.\n- N appears 2 times: P(N) = 2/6 = **1/3**.\n- B appears once: P(B) = **1/6**.\n- Check: 1/2 + 1/3 + 1/6 = 1. The probabilities of all the results add to 1.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: pick a letter from MISSISSIPPI. Find P(S) and P(M).",
+              "a": "11 letters. S appears 4 times: **4/11**. M once: **1/11**."
+            },
+            {
+              "q": "Your turn: cards 1 to 20. Find P(multiple of 5) and P(prime).",
+              "a": "Multiples of 5: 5, 10, 15, 20, so **4/20 = 1/5**. Primes: 2, 3, 5, 7, 11, 13, 17, 19, so **8/20 = 2/5**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "not",
+          "label": "The chance something does NOT happen",
+          "type": "core",
+          "desc": "Something either happens or it doesn't. So:\n\n**P(not A) = 1 − P(A)**\n\n**Worked example:** P(rolling a 6) = 1/6, so P(not a 6) = 1 − 1/6 = **5/6**.\n\nThis is often quicker than counting all the other results.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a bag has 2 red, 3 yellow and 4 green balls. Find P(not red).",
+              "a": "P(red) = 2/9, so P(not red) = **7/9**. (Check: 3 + 4 = 7 balls are not red.)"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "equally-likely",
+          "label": "Careful: are the results equally likely?",
+          "type": "core",
+          "desc": "The counting rule only works when every result is **equally likely**.\n\n- A fair coin: heads or tails, **equally likely**. P(heads) = 1/2.\n- A car starts or doesn't start: **not** equally likely. Most cars start. So P(starts) is **not** 1/2.\n- A bag with 3 red and 7 blue marbles: 'red or blue' is not equally likely, but each **marble** is. So count marbles: P(red) = 3/10.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: your team plays a match: win, lose or draw. Is P(win) = 1/3?",
+              "a": "**Not necessarily.** The three results are not equally likely: it depends on how good the teams are."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "experiments",
+      "label": "Probability from experiments and data",
+      "desc": "**Goal:** find a probability from what actually happened, and see why it gets closer to the counted answer with more tries. Exercise Set 7.2 uses this.",
+      "links": [],
+      "children": [
+        {
+          "id": "experimental",
+          "label": "Experimental probability",
+          "type": "core",
+          "desc": "Do something many times and count:\n\n**Experimental probability = times it happened ÷ total tries**\n\nThis is also called the **relative frequency**.\n\n**Worked example:** you roll a die 50 times and get a 6 on 9 of them. Experimental P(6) = 9/50 = **0.18**.\n\nThe counted (theoretical) answer is 1/6 ≈ 0.167. Close, but not the same. That is normal.",
+          "links": [
+            {
+              "label": "Math is Fun: relative frequency",
+              "url": "https://www.mathsisfun.com/data/relative-frequency.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: toss a coin 40 times and get 26 heads. Find the experimental P(heads) and P(tails).",
+              "a": "P(heads) = 26/40 = **13/20 = 0.65**. P(tails) = 14/40 = **7/20 = 0.35**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "surveys",
+          "label": "Using a survey to estimate",
+          "type": "core",
+          "desc": "Ask a small group (a **sample**), then use the fraction to estimate for a bigger group.\n\n**Worked example:** 40 students are asked their favourite sport. 12 say cricket. The school has 900 students.\n- P(cricket) = 12/40 = **3/10**.\n- Estimate for the school: 3/10 × 900 = **270 students**.\n\nA bigger sample, from different classes, gives a better estimate.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: in a sample of 30 sweets, 9 are orange. The full jar has 500. Estimate the orange ones.",
+              "a": "9/30 = 3/10. 3/10 × 500 = **150**."
+            },
+            {
+              "q": "Your turn: 50 people were asked their favourite drink: 30 chai, 11 coffee, 9 other. Out of 1200 people, how many would you expect to choose chai?",
+              "a": "30/50 = 3/5. 3/5 × 1200 = **720**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "more-tries",
+          "label": "More tries, closer to the counted answer",
+          "type": "core",
+          "desc": "Toss a coin 10 times and you might get 7 heads. Toss it 1000 times and you will get very close to half heads.\n\nThis is the **law of large numbers**: the more times you repeat an experiment, the closer the experimental probability gets to the theoretical one.\n\nThe picture shows a real run of 1000 tosses. It wobbles a lot at first, then settles near ½.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: toss a coin 20 times and record the results. Then put your results together with four friends (100 tosses). Which share of heads is closer to ½?",
+              "a": "Usually the **100-toss** share. With only 20 tosses, 13 or 14 heads is common. With 100, the share is usually between 0.4 and 0.6."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/coin-runs.png",
+              "caption": "The share of heads settles near ½ as the tosses add up"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "no-memory",
+          "label": "The coin has no memory",
+          "type": "core",
+          "desc": "A fair coin lands heads 6 times in a row. Is tails now more likely?\n\n**No.** The coin doesn't remember. P(tails) on the next toss is still **1/2**.\n\nBelieving otherwise is called the **gambler's fallacy**. In Snakes and Ladders, after three 6s in a row, the chance of another 6 is still 1/6.",
+          "links": [
+            {
+              "label": "Math is Fun: independent events (the coin has no memory)",
+              "url": "https://www.mathsisfun.com/data/probability-events-independent.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: you have rolled a die 5 times and never got a 3. What is P(3) on the next roll?",
+              "a": "Still **1/6**. Past rolls do not change it."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "snakes-ladders",
+          "label": "Snakes and Ladders came from India",
+          "type": "optional",
+          "desc": "Snakes and Ladders grew out of an old Indian game called **Jñān Chaupar**, used to teach right and wrong. Each ladder was a virtue and each snake a vice.\n\nEvery roll of the die is random, so the game is a good place to watch probability at work.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "sample-spaces",
+      "label": "Sample spaces and events",
+      "desc": "**Goal:** write down the list of all results (the sample space), and pick out the results you want (an event). Exercise Set 7.3 uses this.",
+      "links": [],
+      "children": [
+        {
+          "id": "sample-space",
+          "label": "The sample space",
+          "type": "core",
+          "desc": "The **sample space**, S, is the list of **every** possible result. Write it in curly brackets.\n\n- Toss a coin: S = {H, T}. Size 2.\n- Roll a die: S = {1, 2, 3, 4, 5, 6}. Size 6.\n- Roll a die **and** toss a coin: S = {1H, 1T, 2H, 2T, ..., 6H, 6T}. Size 6 × 2 = **12**.\n\n**Rules:** include every result, and list each one only once.",
+          "links": [
+            {
+              "label": "Math is Fun: types of events",
+              "url": "https://www.mathsisfun.com/data/probability-events-types.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: write the sample space for a breakfast of idli, dosa or vada, with chutney or sambar.",
+              "a": "S = {idli-chutney, idli-sambar, dosa-chutney, dosa-sambar, vada-chutney, vada-sambar}. **Size 6.**"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "events",
+          "label": "Events",
+          "type": "core",
+          "desc": "An **event** is the part of the sample space you are interested in.\n\n- Roll a die. Event 'more than 4' = {5, 6}.\n- Toss two coins. Event 'at least one head' = {HH, HT, TH}.\n\nThen **P(event) = size of the event ÷ size of S**. For 'at least one head': 3/4.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: in the breakfast list above, write the event 'choosing dosa' and find its probability (if every choice is equally likely).",
+              "a": "Event = {dosa-chutney, dosa-sambar}. P = **2/6 = 1/3**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "trees",
+      "label": "Tree diagrams",
+      "desc": "**Goal:** use a tree to list every result of a two- or three-step experiment, and find probabilities from it. Exercise Set 7.4 uses this.",
+      "links": [],
+      "children": [
+        {
+          "id": "two-coins",
+          "label": "A tree for two coins",
+          "type": "core",
+          "desc": "Start at a point. Draw a branch for each result of the **first** toss. From the end of each, draw a branch for each result of the **second** toss.\n\nRead along each path: **HH, HT, TH, TT**. Four equally likely results.\n- P(two heads) = **1/4**.\n- P(one head and one tail) = 2/4 = **1/2** (HT and TH are different paths).\n- P(at least one head) = **3/4**.",
+          "links": [
+            {
+              "label": "Math is Fun: tree diagrams",
+              "url": "https://www.mathsisfun.com/data/probability-tree-diagrams.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why is P(one head, one tail) not 1/3?",
+              "a": "Because there are **two** paths to it, HT and TH. The equally likely results are the 4 paths, not the 3 'kinds' of answer."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/coin-tree.png",
+              "caption": "Tree diagram for two coins"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "three-coins",
+          "label": "A tree for three coins",
+          "type": "core",
+          "desc": "Add a third level of branches. Each of the 4 paths splits in two: **8 results**.\n\n- P(exactly two heads) = **3/8** (HHT, HTH, THH).\n- P(three heads) = **1/8**.\n- P(at least one head) = 1 − P(no heads) = 1 − 1/8 = **7/8**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: three coins. Find P(exactly one head).",
+              "a": "HTT, THT, TTH: **3/8**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/coin-tree-3.png",
+              "caption": "Three coins: 8 paths"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "two-choices",
+          "label": "Trees for everyday choices",
+          "type": "core",
+          "desc": "Trees work for anything done in steps.\n\n**Worked example:** basket A has 1 guava and 2 oranges. Basket B has 1 apple and 1 banana. Pick one fruit from each without looking.\n- First branches: guava, orange, orange (3 branches, one per fruit).\n- Each splits into apple, banana: **6 paths**.\n- P(guava and apple) = **1/6**.\n- P(an orange from A) = 4/6 = **2/3**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: 2 shirts (red, white) and 3 bottoms (jeans, shorts, trousers), chosen at random. Find P(white shirt and shorts).",
+              "a": "6 outfits, 1 of them: **1/6**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These match the starred end-of-chapter questions in your textbook. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "two-dice",
+          "label": "Two dice: the 36-square grid",
+          "type": "optional",
+          "desc": "Roll two dice. Draw a 6 by 6 grid: first die across, second die down. Each square is one result: **36** in all, equally likely.\n\n- P(total 7) = 6/36 = **1/6**.\n- P(total 12) = **1/36**.\n- P(a double) = 6/36 = **1/6**.\n- P(total 1) = **0**, and P(total at least 2) = **1**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: two dice. Find P(total is 7 or 11).",
+              "a": "7: 6 ways. 11: 2 ways (5+6, 6+5). **8/36 = 2/9**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/dice-grid.png",
+              "caption": "All 36 results for two dice, with the totals"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "no-replacement",
+          "label": "Picking twice without putting back",
+          "type": "optional",
+          "desc": "When you **don't** put the first one back, the second pick has **one fewer** to choose from.\n\n**Worked example:** a jar has 3 red and 2 blue sweets. Take one, eat it, take another.\n- P(red first) = 3/5. Then 4 sweets are left, 2 blue: P(blue second) = 2/4.\n- P(red then blue) = 3/5 × 2/4 = **3/10**.\n- P(blue then blue) = 2/5 × 1/4 = **1/10**.\n\nOn a tree, **multiply along the branches**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "area-chance",
+          "label": "Probability from area",
+          "type": "optional",
+          "desc": "A dart lands at random on a 3 m by 4 m board. A circle of radius 1 m is painted on it.\n\nP(in the circle) = circle area ÷ board area = π × 1² ÷ 12 ≈ 3.14 ÷ 12 ≈ **0.26**.\n\nWhen results can't be counted, compare **areas** instead.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "even-numbers",
+          "label": "Making four-digit numbers",
+          "type": "optional",
+          "desc": "Arrange 1, 2, 3, 4 with no repeats to make a four-digit number. What is P(even)?\n\nThere are 4 × 3 × 2 × 1 = 24 numbers. A number is even if it **ends** in 2 or 4. The last digit is equally likely to be any of the four, so P(even) = 2/4 = **1/2**.\n\nThinking about **just the last digit** saves listing all 24.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThis chapter is gentler than most, and a good chance for a struggling student to succeed. The whole chapter rests on one idea, **ways you want ÷ all the ways**, plus careful listing. Most errors come from incomplete lists, or from treating unequal results as equally likely.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- **Start with *Check yourself*.** Simplifying fractions is the main arithmetic skill needed.\n- **Do real experiments.** Coins, dice, a bag of coloured counters. Pool results across the class to show the law of large numbers.\n- **Always write the list or draw the tree.** Don't let students count in their heads.\n- **Ask 'are these equally likely?'** before using the counting rule.\n- **Check that probabilities of all the results add to 1.** It catches many slips.\n- **Talk about the gambler's fallacy** with real examples. Students find it surprising and memorable.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 6-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** fractions, decimals, percentages; listing in order; the probability scale (Exercise Set 7.1). **Activity:** students place everyday events on a scale drawn on the board.\n- **Period 2:** ways you want ÷ all the ways: marbles, dice, letters, cards; P(not A).\n- **Period 3:** experimental probability; surveys and estimating (Exercise Set 7.2). **Activity:** toss a paper cup 50 times and record how it lands.\n- **Period 4:** law of large numbers and the gambler's fallacy. **Activity:** every student tosses a coin 20 times; pool the class results.\n- **Period 5:** sample spaces and events (Exercise Set 7.3); tree diagrams for two and three coins (Exercise Set 7.4).\n- **Period 6:** mixed practice; exit ticket. Two dice and without-replacement questions for those ready.",
+          "links": [
+            {
+              "label": "Your textbook: NCERT Ganita Manjari, Grade 9 Part I, Chapter 7 (free PDF)",
+              "url": "https://ncert.nic.in/textbook/pdf/iemh107.pdf"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Probabilities greater than 1, or negative.\n- Counting different letters instead of every copy (BANANA has 6 letters, not 3).\n- Using 'ways you want ÷ all the ways' when results are not equally likely.\n- Treating HT and TH as one result.\n- Thinking a result is 'due' after it hasn't come up for a while.\n- Expecting the experimental answer to equal the theoretical one exactly.\n- Missing results when listing a sample space.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Roll a die. Find P(number less than 3).",
+              "a": "1 and 2: **2/6 = 1/3**."
+            },
+            {
+              "q": "2. A bag has 5 red and 3 green balls. Find P(not red).",
+              "a": "**3/8.**"
+            },
+            {
+              "q": "3. A coin was tossed 50 times and gave 22 heads. What is the experimental P(heads)?",
+              "a": "22/50 = **11/25 = 0.44**."
+            },
+            {
+              "q": "4. Two coins are tossed. Find P(two tails).",
+              "a": "TT is 1 of 4: **1/4**."
+            },
+            {
+              "q": "5. Write the sample space for tossing a coin and picking a card numbered 1 to 3.",
+              "a": "S = {H1, H2, H3, T1, T2, T3}. **Size 6.**"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

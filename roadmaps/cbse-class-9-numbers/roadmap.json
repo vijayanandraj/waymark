@@ -1,0 +1,890 @@
+{
+  "title": "Class 9 Maths, Chapter 3: The World of Numbers, Step by Step",
+  "subtitle": "For students who find maths hard. One picture holds the chapter together, a family of numbers that keeps growing, and fractions are fixed first because everything else depends on them. Small steps, every calculation shown, practice with answers. Follows NCERT Ganita Manjari, Grade 9 Part I, Chapter 3 (The World of Numbers).",
+  "updated": "2026-11-04",
+  "changelog": [
+    {
+      "date": "2026-11-04",
+      "text": "Linked into the Class 9 Maths Part I series: links to all chapters and to the chapters before and after this one."
+    },
+    {
+      "date": "2026-11-03",
+      "text": "First version: written for students who find maths hard. Fraction skills first, integers through money, decimals as stop, repeat or neither, practice in levels with answers, and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** feel sure about four tools this chapter uses again and again: prime factors, the LCM, simplifying fractions, and turning a fraction into a decimal.\n\nThis chapter leans heavily on fractions. If fractions have ever felt shaky, spend time here. It will make everything after it much easier.",
+      "links": [
+        {
+          "label": "Your textbook: NCERT Ganita Manjari, Grade 9 Part I, Chapter 3 (free PDF)",
+          "url": "https://ncert.nic.in/textbook/pdf/iemh103.pdf"
+        },
+        {
+          "label": "DIKSHA: free NCERT videos and lessons",
+          "url": "https://diksha.gov.in/"
+        }
+      ],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. On the map the steps go left and right, so press **Checklist view** at the top to see them as a list, in order.\n- Click a box to open it. Read the idea, follow the worked example, then do **Your turn**.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: a family of numbers that keeps growing.** Each new kind of number was invented because the old kinds could not do a job. Watch for the job each one does.",
+          "links": [
+            {
+              "label": "All eight chapters: Class 9 Maths, Part I",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-maths-part-1"
+            },
+            {
+              "label": "Previous chapter: 2. Linear Polynomials",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-linear-polynomials"
+            },
+            {
+              "label": "Next chapter: 4. Algebraic Identities",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-identities"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Write 12 as a product of prime numbers.",
+              "a": "**2 × 2 × 3.** Wrong? Do *Factors and primes*."
+            },
+            {
+              "q": "2. What is the LCM of 4 and 6?",
+              "a": "**12.** It is the smallest number both 4 and 6 go into. Wrong? Do *The lowest common multiple*."
+            },
+            {
+              "q": "3. Write 12/18 in its simplest form.",
+              "a": "**2/3.** Divide top and bottom by 6. Wrong? Do *Simplest form of a fraction*."
+            },
+            {
+              "q": "4. Write 3/4 as a decimal.",
+              "a": "**0.75.** 3 ÷ 4 = 0.75. Wrong? Do *Turning a fraction into a decimal*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "primes",
+          "label": "Factors and primes",
+          "type": "core",
+          "desc": "A **prime number** has exactly two factors: 1 and itself. The first few are 2, 3, 5, 7, 11, 13, 17, 19.\n\nEvery whole number bigger than 1 can be broken into primes multiplied together. This is its **prime factorisation**.\n\n**Worked example: 60.** Keep dividing by the smallest prime that works:\n- 60 ÷ 2 = 30\n- 30 ÷ 2 = 15\n- 15 ÷ 3 = 5\n- 5 is prime, so stop.\n- So 60 = 2 × 2 × 3 × 5, which we can write as **2² × 3 × 5**.",
+          "links": [
+            {
+              "label": "Math is Fun: prime factorisation",
+              "url": "https://www.mathsisfun.com/prime-factorization.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: write 36, 45 and 40 as products of primes.",
+              "a": "36 = 2 × 2 × 3 × 3 = **2² × 3²**. 45 = 3 × 3 × 5 = **3² × 5**. 40 = 2 × 2 × 2 × 5 = **2³ × 5**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "lcm",
+          "label": "The lowest common multiple (LCM)",
+          "type": "core",
+          "desc": "The **LCM** of two numbers is the smallest number that both of them divide into. You need it to add and subtract fractions.\n\n**Worked example: LCM of 4 and 6.** List the multiples until you find one in both lists:\n- 4: 4, 8, **12**, 16 ...\n- 6: 6, **12**, 18 ...\n- The LCM is **12**.\n\n**Shortcut:** if two numbers share no factor (like 3 and 5), the LCM is just their product: 3 × 5 = 15.",
+          "links": [
+            {
+              "label": "Math is Fun: least common multiple",
+              "url": "https://www.mathsisfun.com/least-common-multiple.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: find the LCM of 3 and 5, and of 6 and 8.",
+              "a": "3 and 5: **15** (no shared factor, so multiply). 6 and 8: multiples of 8 are 8, 16, 24; 24 is the first one 6 also goes into, so **24**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "simplest-form",
+          "label": "Simplest form of a fraction",
+          "type": "core",
+          "desc": "**Equivalent fractions** are equal in value: multiply or divide the top and the bottom by the **same** number, and the value does not change. 1/2 = 2/4 = 3/6.\n\nA fraction is in its **simplest form** when the top and bottom have no common factor except 1.\n\n**Worked example: 12/18.**\n- 12 and 18 are both divisible by 6.\n- 12 ÷ 6 = 2 and 18 ÷ 6 = 3.\n- So 12/18 = **2/3**.\n\nIf you can't spot the biggest common factor, divide by small ones (2, then 3 ...) until you can't any more. You get the same answer.",
+          "links": [
+            {
+              "label": "Math is Fun: simplifying fractions",
+              "url": "https://www.mathsisfun.com/simplifying-fractions.html"
+            },
+            {
+              "label": "Math is Fun: equivalent fractions",
+              "url": "https://www.mathsisfun.com/equivalent_fractions.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: simplify 15/25, 24/36 and 14/21.",
+              "a": "15/25 = **3/5** (÷5). 24/36 = **2/3** (÷12). 14/21 = **2/3** (÷7)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "fraction-to-decimal",
+          "label": "Turning a fraction into a decimal",
+          "type": "core",
+          "desc": "A fraction is a division: **3/4 means 3 ÷ 4**.\n\n**Worked example: 3/4.** 4 doesn't go into 3, so write 3 as 3.00 and divide: 30 ÷ 4 = 7, remainder 2; 20 ÷ 4 = 5, remainder 0. So 3/4 = **0.75**.\n\n- 1/8 = **0.125**: it stops.\n- 2/3 = **0.666...**: the 6 goes on for ever.\n\nWhether a decimal **stops** or **goes on for ever** turns out to be one of the big ideas of this chapter.",
+          "links": [
+            {
+              "label": "Math is Fun: long division",
+              "url": "https://www.mathsisfun.com/long_division.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: write 1/4, 3/5 and 1/3 as decimals.",
+              "a": "1/4 = **0.25**. 3/5 = **0.6**. 1/3 = **0.333...**, where the 3 repeats for ever."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "number-family",
+      "label": "The family of numbers",
+      "desc": "**Goal:** know the five kinds of numbers in this chapter, and why each one was needed.\n\nThis is the map for the whole chapter. Come back to the picture whenever you feel lost.",
+      "links": [],
+      "children": [
+        {
+          "id": "family",
+          "label": "One family, five kinds of numbers",
+          "type": "core",
+          "desc": "Think of the kinds of numbers as boxes inside boxes:\n\n- **Natural numbers**: 1, 2, 3 ... for counting.\n- **Integers**: the natural numbers, plus **0** and the **negatives** (−1, −2 ...).\n- **Rational numbers**: every number you can write as a **fraction** of two integers, like 3/4 or −2/5. All integers are rational too, because 7 = 7/1.\n- **Irrational numbers**: numbers that **cannot** be written as a fraction, like √2 and π.\n- **Real numbers**: rational and irrational together. Every point on the number line.\n\nEach new kind was invented for a job the older kinds could not do. The next steps show which job.",
+          "links": [
+            {
+              "label": "Math is Fun: real numbers",
+              "url": "https://www.mathsisfun.com/numbers/real-numbers.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: which boxes is 5 in?",
+              "a": "**Natural, integer, rational and real.** It is rational because 5 = 5/1."
+            },
+            {
+              "q": "Your turn: is −2 a natural number? An integer?",
+              "a": "**Not natural** (you can't count −2 things), but **yes, an integer**. It is also rational and real."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/number-family.png",
+              "caption": "The family of numbers: each box sits inside a bigger one"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "counting",
+          "label": "Where counting began",
+          "type": "optional",
+          "desc": "Long before written numbers, people kept count by matching: one pebble in a pot for each cow that went out, one pebble out for each cow that came back. If pebbles were left at night, cows were missing.\n\nTally marks cut into bones are some of the oldest maths we have. The Ishango bone, found in Africa, is around 20,000 years old.\n\nYour textbook tells this story at the start of the chapter. Read it once; it is short.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "closure",
+          "label": "Does the answer stay in the family?",
+          "type": "core",
+          "desc": "A family is **closed** for an operation if the answer always stays inside it.\n\n- Add two natural numbers: 3 + 4 = 7. Still natural. **Closed** for adding.\n- Subtract: 3 − 7 = −4. **Not** a natural number. So natural numbers are **not closed** for subtracting. That is the job the **integers** do.\n- Divide two integers: 3 ÷ 4 = 3/4. **Not** an integer. That is the job the **fractions** do.\n\nThis is exactly why the family had to grow.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: are the integers closed for multiplying?",
+              "a": "**Yes.** An integer times an integer is always an integer, for example (−3) × 4 = −12."
+            },
+            {
+              "q": "Your turn: are the integers closed for dividing?",
+              "a": "**No.** For example 1 ÷ 2 = 1/2, which is not an integer."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "zero",
+          "label": "Zero: the number for nothing",
+          "type": "core",
+          "desc": "For thousands of years there was no number for 'nothing'. Indian thinkers made **zero** a real number, and **Brahmagupta** (628 CE) wrote its rules:\n\n- a + 0 = a\n- a − 0 = a\n- a × 0 = 0\n- a − a = 0\n\n**One rule to remember for ever: you cannot divide by zero.** 6 ÷ 0 would need a number that gives 6 when multiplied by 0, and there isn't one.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what are 7 × 0, 0 ÷ 5, and 5 ÷ 0?",
+              "a": "7 × 0 = **0**. 0 ÷ 5 = **0** (nothing shared among 5 is still nothing). 5 ÷ 0 is **not allowed**: there is no answer."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "integers",
+      "label": "Integers: what you have and what you owe",
+      "desc": "**Goal:** add, subtract, multiply and divide with negative numbers, using money to make sense of the rules.\n\nBrahmagupta thought of positive numbers as **fortunes** (money you have) and negative numbers as **debts** (money you owe). It still works perfectly. Exercise Set 3.2 uses these skills.",
+      "links": [],
+      "children": [
+        {
+          "id": "have-owe",
+          "label": "Money you have, money you owe",
+          "type": "core",
+          "desc": "- A **positive** number is money you **have**: 5 means you have ₹5.\n- A **negative** number is money you **owe**: −3 means you owe ₹3.\n- **Zero** means you have nothing and owe nothing.\n\nOn the number line, having is to the right of 0 and owing is to the left.\n\n**Worked example.** You owe ₹3, then earn ₹5. You pay back the 3 and keep 2: **−3 + 5 = 2**.",
+          "links": [
+            {
+              "label": "Math is Fun: adding and subtracting negative numbers",
+              "url": "https://www.mathsisfun.com/positive-negative-integers.html"
+            }
+          ],
+          "images": [
+            {
+              "src": "images/money-line.png",
+              "caption": "Owe 3, then earn 5: you end up with 2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "adding-integers",
+          "label": "Adding integers",
+          "type": "core",
+          "desc": "Think in money every time:\n\n- **Have + have:** 5 + 4 = 9.\n- **Owe + owe:** you owe more. (−5) + (−4) = **−9**.\n- **Have + owe:** pay off what you can. Take the smaller amount from the bigger one, and keep the sign of the bigger one.\n  - −3 + 5: you have more than you owe, so the answer is **+2**.\n  - 4 + (−9): you owe more than you have, so the answer is **−5**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: −6 + 2, −2 + (−7) and 8 + (−3)",
+              "a": "−6 + 2 = **−4** (owe 6, pay back 2). −2 + (−7) = **−9** (owe more). 8 + (−3) = **5** (have 8, pay 3)."
+            },
+            {
+              "q": "Your turn: it is 6 °C at noon and the temperature falls by 10 degrees by midnight. What is it at midnight?",
+              "a": "6 − 10 = **−4 °C**. Start at 6 on the number line and go 10 steps left."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "subtracting-negative",
+          "label": "Taking away a debt",
+          "type": "core",
+          "desc": "What is 10 − (−5)? Think: you have ₹10, and someone **cancels a debt** of ₹5 you owed. You are now ₹5 better off: **15**.\n\nSo **taking away a negative is the same as adding**: 10 − (−5) = 10 + 5 = 15. This is the 'minus a minus is a plus' rule from earlier chapters, and now you know why.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: 3 − (−8), −4 − (−6) and 0 − (−9)",
+              "a": "3 + 8 = **11**. −4 + 6 = **2**. 0 + 9 = **9**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "multiply-integers",
+          "label": "Multiplying and dividing integers",
+          "type": "core",
+          "desc": "The sign rules:\n\n- **Same signs** give a **positive**: (−3) × (−4) = **12**\n- **Different signs** give a **negative**: (−3) × 4 = **−12**\n- **Dividing** follows the same rules: (−20) ÷ 4 = **−5**, and (−18) ÷ (−3) = **6**.\n\n**Why is negative × negative positive?** (−3) × 4 means taking on 4 debts of ₹3: you owe ₹12. (−3) × (−4) means **removing** 4 debts of ₹3: you become ₹12 better off.",
+          "links": [
+            {
+              "label": "Math is Fun: multiplying negatives",
+              "url": "https://www.mathsisfun.com/multiplying-negatives.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: (−7) × 6, (−9) × (−5), (−24) ÷ (−8) and 35 ÷ (−7)",
+              "a": "(−7) × 6 = **−42**. (−9) × (−5) = **45**. (−24) ÷ (−8) = **3**. 35 ÷ (−7) = **−5**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "practice-integers",
+          "label": "Practice set: integers",
+          "type": "core",
+          "desc": "**Level 1:** −8 + 3. Then 6 − 10.\n\n**Level 2:** −5 − (−9). Then (−6) × (−4).\n\n**Level 3:** a trader borrows ₹600. The next day he earns ₹1,000. Then he loses ₹250. Write this with integers and find where he stands.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Answers: Level 1",
+              "a": "−8 + 3 = **−5**. 6 − 10 = **−4**."
+            },
+            {
+              "q": "Answers: Level 2",
+              "a": "−5 + 9 = **4**. (−6) × (−4) = **24**."
+            },
+            {
+              "q": "Answer: Level 3",
+              "a": "−600 + 1000 − 250 = **150**. He has a fortune of ₹150."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "fractions",
+      "label": "Fractions and rational numbers",
+      "desc": "**Goal:** know what a rational number is, and add, subtract, multiply and divide fractions with confidence.\n\nThis is the biggest milestone in the chapter, and the one most worth the effort. Exercise Set 3.3 is all about it.",
+      "links": [],
+      "children": [
+        {
+          "id": "what-rational",
+          "label": "What is a rational number?",
+          "type": "core",
+          "desc": "A **rational number** is any number you can write as **p/q**, where p and q are integers and **q is not 0**.\n\n- 3/4 and −2/5 are rational.\n- 7 is rational: 7 = 7/1. So is 0 = 0/1.\n- 0.5 is rational: 0.5 = 1/2.\n\nThe minus sign can go in three places, and they all mean the same: −1/5 = (−1)/5 = 1/(−5).\n\n**Why must q not be 0?** Because p/q means p ÷ q, and you can't divide by zero.",
+          "links": [
+            {
+              "label": "Math is Fun: rational numbers",
+              "url": "https://www.mathsisfun.com/rational-numbers.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: write −6 and 0.25 in the form p/q.",
+              "a": "−6 = **−6/1**. 0.25 = 25/100 = **1/4**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "equal-fractions",
+          "label": "When are two fractions equal?",
+          "type": "core",
+          "desc": "Two ways to check:\n\n- **Simplify both.** If they become the same fraction, they are equal.\n- **Cross-multiply.** a/b and c/d are equal when **a × d = b × c**.\n\n**Worked example: 2/3 and 8/12.** 2 × 12 = 24 and 3 × 8 = 24. The same, so they are **equal**.\n\n**Worked example: 3/4 and 5/6.** 3 × 6 = 18 and 4 × 5 = 20. Different, so they are **not equal**.",
+          "links": [
+            {
+              "label": "Math is Fun: equivalent fractions",
+              "url": "https://www.mathsisfun.com/equivalent_fractions.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: are 6/9 and 10/15 equal? Are 4/5 and 7/9?",
+              "a": "6/9 and 10/15: 6 × 15 = 90 and 9 × 10 = 90, so **equal** (both are 2/3). 4/5 and 7/9: 36 and 35, so **not equal**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "add-subtract",
+          "label": "Adding and subtracting fractions",
+          "type": "core",
+          "desc": "You can only add pieces of the **same size**. So first make the bottom numbers the same.\n\n- **Step 1.** Find the LCM of the bottoms.\n- **Step 2.** Rewrite each fraction with that bottom. Whatever you multiply the bottom by, multiply the top by too.\n- **Step 3.** Add (or subtract) the tops. Keep the bottom.\n- **Step 4.** Simplify.\n\n**Worked example: 1/2 + 1/3.** LCM of 2 and 3 is 6. 1/2 = 3/6 and 1/3 = 2/6. So 3/6 + 2/6 = **5/6**.\n\n**Worked example: 3/4 − 1/6.** LCM 12. 3/4 = 9/12 and 1/6 = 2/12. 9/12 − 2/12 = **7/12**.\n\n**With a negative: −2/5 + 1/2.** LCM 10. −4/10 + 5/10 = **1/10**.",
+          "links": [
+            {
+              "label": "Math is Fun: adding fractions",
+              "url": "https://www.mathsisfun.com/fractions_addition.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: 2/3 + 1/4, 5/6 − 1/3 and −3/4 + 1/8",
+              "a": "2/3 + 1/4 = 8/12 + 3/12 = **11/12**. 5/6 − 1/3 = 5/6 − 2/6 = 3/6 = **1/2**. −3/4 + 1/8 = −6/8 + 1/8 = **−5/8**."
+            },
+            {
+              "q": "Common mistake: 1/2 + 1/3 = 2/5",
+              "a": "You can't add the tops and add the bottoms. Look at the picture: a half plus a third is clearly more than a half, but 2/5 is **less** than a half. Make the bottoms the same first: **5/6**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/fraction-bars.png",
+              "caption": "Halves and thirds become sixths, so they can be added"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "multiply-divide",
+          "label": "Multiplying and dividing fractions",
+          "type": "core",
+          "desc": "**Multiplying** is easier than adding: no common bottom needed.\n- **Top × top, bottom × bottom**, then simplify.\n- 2/3 × 9/10 = 18/30 = **3/5**.\n- Tip: cancel first to keep the numbers small. 2 and 10 share 2; 3 and 9 share 3. So 2/3 × 9/10 = 1/1 × 3/5 = 3/5.\n\n**Dividing: keep, change, flip.**\n- **Keep** the first fraction, **change** ÷ to ×, **flip** the second fraction.\n- 3/4 ÷ 2/5 = 3/4 × 5/2 = **15/8**.\n\nNegative signs follow the integer rules: same signs positive, different signs negative.",
+          "links": [
+            {
+              "label": "Math is Fun: multiplying fractions",
+              "url": "https://www.mathsisfun.com/fractions_multiplication.html"
+            },
+            {
+              "label": "Math is Fun: dividing fractions",
+              "url": "https://www.mathsisfun.com/fractions_division.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: 4/5 × 15/16, 5/6 ÷ 10/9 and (−2/3) × 3/8",
+              "a": "4/5 × 15/16 = 60/80 = **3/4**. 5/6 ÷ 10/9 = 5/6 × 9/10 = 45/60 = **3/4**. (−2/3) × 3/8 = −6/24 = **−1/4**."
+            },
+            {
+              "q": "Common mistake: flipping the first fraction instead of the second",
+              "a": "Only the fraction you are dividing **by** (the second one) gets flipped. 3/4 ÷ 2/5 is 3/4 × 5/2, not 4/3 × 2/5."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "practice-fractions",
+          "label": "Practice set: fractions",
+          "type": "core",
+          "desc": "**Level 1:** 1/4 + 1/2. Then 2/5 × 1/3.\n\n**Level 2:** 5/8 − 1/6. Then 7/10 ÷ 14/15.\n\n**Level 3:** a rope is 12¾ m long. Each piece needs 1½ m. How many whole pieces can be cut?\n\n**Level 3:** check that 2/3 × (3/4 + 1/2) gives the same answer as 2/3 × 3/4 + 2/3 × 1/2. (This is the *distributive law* your textbook mentions.)",
+          "links": [],
+          "faq": [
+            {
+              "q": "Answers: Level 1",
+              "a": "1/4 + 2/4 = **3/4**. 2/5 × 1/3 = **2/15**."
+            },
+            {
+              "q": "Answers: Level 2",
+              "a": "5/8 − 1/6 = 15/24 − 4/24 = **11/24**. 7/10 ÷ 14/15 = 7/10 × 15/14 = 105/140 = **3/4**."
+            },
+            {
+              "q": "Answers: Level 3",
+              "a": "Rope: 12¾ = 51/4 and 1½ = 3/2. 51/4 ÷ 3/2 = 51/4 × 2/3 = 102/12 = 8½. So **8 whole pieces**.\n\nDistributive law: 2/3 × (3/4 + 1/2) = 2/3 × 5/4 = 10/12 = **5/6**. And 2/3 × 3/4 + 2/3 × 1/2 = 1/2 + 1/3 = **5/6**. The same."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "on-the-line",
+      "label": "Rational numbers on the number line",
+      "desc": "**Goal:** place a fraction on the number line, find the distance between two numbers, and find numbers in between.\n\nThis is section 3.4.1 and 3.4.2 of your textbook, and Exercise Set 3.4.",
+      "links": [],
+      "children": [
+        {
+          "id": "place-fractions",
+          "label": "Placing a fraction on the line",
+          "type": "core",
+          "desc": "To place **p/q**:\n\n- **Cut** each unit (0 to 1, 1 to 2 ...) into **q** equal parts. q is the bottom number.\n- **Count p parts** from 0: to the **right** if it's positive, to the **left** if negative.\n\n**Worked examples, with each unit cut into quarters:**\n- 3/4: count 3 quarters to the right of 0.\n- 9/4: that is 2¼, so go to 2, then one more quarter.\n- −3/4: count 3 quarters to the **left** of 0.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: between which two whole numbers is 5/3? Where exactly?",
+              "a": "5/3 = 1⅔, so it lies **between 1 and 2**: cut that unit into thirds and go 2 thirds past 1."
+            },
+            {
+              "q": "Your turn: where is −1/2?",
+              "a": "Exactly **halfway between −1 and 0**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/fraction-line.png",
+              "caption": "Quarters on the number line: −3/4, 3/4 and 9/4"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "absolute-value",
+          "label": "Absolute value: distance from zero",
+          "type": "core",
+          "desc": "The **absolute value** of a number, written |x|, is its **distance from 0**. A distance is never negative.\n\n- |5/3| = 5/3\n- |−5/3| = 5/3 (the same distance, on the other side)\n- |0| = 0\n\n**Distance between two numbers** a and b is |a − b|: bigger minus smaller, just as in Chapter 1. The distance between −4 and 3 is 3 − (−4) = **7**.",
+          "links": [
+            {
+              "label": "Math is Fun: absolute value",
+              "url": "https://www.mathsisfun.com/numbers/absolute-value.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: |−7|, the distance between −2 and 5, and the distance between −1/2 and 1/4",
+              "a": "|−7| = **7**. Between −2 and 5: 5 − (−2) = **7**. Between −1/2 and 1/4: 1/4 − (−1/2) = 1/4 + 2/4 = **3/4**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "in-between",
+          "label": "Finding numbers in between",
+          "type": "core",
+          "desc": "Between any two rational numbers there is always another one. In fact, there are **infinitely many**. Your textbook calls this being **dense**.\n\n**Method 1, one number: add and halve.** Halfway between 1 and 3/2 is (1 + 3/2) ÷ 2 = (5/2) ÷ 2 = **5/4**. You can keep going for ever: halfway between 1 and 5/4 is 9/8.\n\n**Method 2, many numbers: use bigger bottoms.** Between 1/5 and 2/5:\n- Rewrite as 20/100 and 40/100.\n- Now 21/100, 22/100 ... 39/100 all fit between them: 19 numbers.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: find three rational numbers between 3 and 4.",
+              "a": "For example **3.1, 3.5 and 3.9** (that is, 31/10, 35/10 and 39/10)."
+            },
+            {
+              "q": "Your turn: find three rational numbers between −1/2 and 1/4.",
+              "a": "For example **−1/4, 0 and 1/8**. Each is bigger than −1/2 and smaller than 1/4."
+            },
+            {
+              "q": "Your turn: find three rational numbers between 2/5 and 3/5.",
+              "a": "Rewrite as 8/20 and 12/20. Then **9/20, 10/20 (= 1/2) and 11/20** fit between."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/density.png",
+              "caption": "Halfway, then halfway again: there is always room for another number"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "irrational",
+      "label": "Numbers that are not fractions",
+      "desc": "**Goal:** understand what an irrational number is, recognise some, and mark √2 on the number line.\n\nThis is section 3.5 of your textbook. The proof that √2 is not a fraction is in the *challenge* milestone; here we focus on the idea and the construction.",
+      "links": [],
+      "children": [
+        {
+          "id": "root-two",
+          "label": "√2: the diagonal of a square",
+          "type": "core",
+          "desc": "Take a square with sides of 1. By the Baudhāyana–Pythagoras theorem from Chapter 1, its diagonal d has d² = 1² + 1² = 2. So **d = √2**.\n\n√2 = 1.41421356... and the digits **never stop and never repeat**. It **cannot be written as a fraction**, however hard you try. Numbers like this are called **irrational**.\n\n**Which square roots are rational?** Only the square roots of perfect squares: √81 = 9, √(4/9) = 2/3. Square roots like √2, √5 and √12 are irrational.",
+          "links": [
+            {
+              "label": "Math is Fun: irrational numbers",
+              "url": "https://www.mathsisfun.com/irrational-numbers.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: rational or irrational? √49, √20, √(1/4)",
+              "a": "√49 = 7: **rational**. √20: **irrational** (20 is not a perfect square). √(1/4) = 1/2: **rational**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mark-root-two",
+          "label": "Marking √2 on the number line",
+          "type": "core",
+          "desc": "You can't measure √2 with a ruler marked in fractions, but you can **construct** it exactly with a compass.\n\n- **Step 1.** On the number line, mark O at 0 and A at 1.\n- **Step 2.** At A, draw a line straight up, and mark B on it so that AB = 1.\n- **Step 3.** Join O to B. OB = √2, the diagonal of the 1-by-1 square.\n- **Step 4.** Put the compass point on O, open it to B, and swing an arc down to the number line. Where it lands, mark P. **OP = √2.**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: how would you mark √5 on the number line?",
+              "a": "Use a 2-by-1 rectangle instead of a square. Make OA = **2**, then AB = **1** straight up. OB² = 2² + 1² = 5, so **OB = √5**. Swing it down with the compass."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/root2-line.png",
+              "caption": "Swing the diagonal of a 1-by-1 square down onto the number line"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "spiral",
+          "label": "The square-root spiral",
+          "type": "optional",
+          "desc": "Start with a right triangle with two sides of 1: its long side is √2. Build a new right triangle on that long side, with a new side of 1: its long side is √3. Keep going.\n\nThe long sides are **√2, √3, √4 = 2, √5, √6, √7, √8 ...** Each time you add a side of 1, the number under the root goes up by 1.\n\nThis is the spiral in your textbook's end-of-chapter exercise.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: in this spiral, what is the long side of the 15th triangle?",
+              "a": "The 1st triangle gives √2, the 2nd gives √3, so the nth gives √(n + 1). The 15th gives √16 = **4**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/sqrt-spiral.png",
+              "caption": "The square-root spiral: √2, √3, 2, √5 ..."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "pi",
+          "label": "π, another irrational number",
+          "type": "optional",
+          "desc": "**π** is the circumference of any circle divided by its diameter: 3.14159265... It is irrational too.\n\n- 22/7 is a handy **approximation**, but it is not π: 22/7 = 3.142857..., which is slightly too big.\n- Āryabhaṭa (499 CE) gave 3.1416, and said it was only approximate.\n- Mādhava of Kerala (14th century) found a way to get as close to π as you like by adding more and more terms: π = 4 × (1 − 1/3 + 1/5 − 1/7 + ...).",
+          "links": [
+            {
+              "label": "Math is Fun: pi",
+              "url": "https://www.mathsisfun.com/numbers/pi.html"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "decimals",
+      "label": "Decimals: stop, repeat, or neither",
+      "desc": "**Goal:** tell rational and irrational numbers apart from their decimals, predict whether a fraction's decimal stops, and turn decimals back into fractions.\n\nThis is section 3.6 of your textbook and Exercise Set 3.5. The end-of-chapter exercises use it a lot.",
+      "links": [],
+      "children": [
+        {
+          "id": "three-kinds",
+          "label": "Three kinds of decimal",
+          "type": "core",
+          "desc": "Every number's decimal does one of three things:\n\n- **It stops.** 3/8 = 0.375. (Your textbook says *terminating*.)\n- **It repeats a block for ever.** 5/11 = 0.454545... where '45' repeats. Your textbook writes a bar over the repeating block.\n- **It never stops and never repeats.** √2 = 1.41421356..., π = 3.14159265...\n\n**The big rule:**\n- Stops or repeats → **rational**.\n- Neither → **irrational**.\n\n**Why do fractions repeat?** When you divide by 7, the remainder can only be 1, 2, 3, 4, 5 or 6. Sooner or later a remainder comes back, and from then on the division repeats itself.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: does each one stop, repeat, or neither? 1/3, 3/5, π",
+              "a": "1/3 = 0.333...: **repeats**. 3/5 = 0.6: **stops**. π: **neither** (irrational)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "will-it-stop",
+          "label": "Will it stop? Check the bottom",
+          "type": "core",
+          "desc": "You can tell whether a fraction's decimal stops **without dividing**.\n\n- **Step 1.** Put the fraction in simplest form.\n- **Step 2.** Break the bottom into primes.\n- **Step 3.** If the only primes are **2s and 5s**, the decimal **stops**. If any other prime appears, it **repeats**.\n\n**Worked examples:**\n- 9/40: 40 = 2³ × 5. Only 2s and 5s, so it **stops**: 0.225.\n- 5/12: 12 = 2² × 3. There is a 3, so it **repeats**: 0.41666...\n- 7/25: 25 = 5². It **stops**: 0.28.\n- **Simplify first!** 3/15 looks as if it has a 3 at the bottom, but 3/15 = 1/5, so it stops: 0.2.\n\n**Why 2s and 5s?** Because 10 = 2 × 5. Only those can be built up into 10, 100, 1000 ...",
+          "links": [
+            {
+              "label": "Math is Fun: prime factorisation",
+              "url": "https://www.mathsisfun.com/prime-factorization.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: stop or repeat? 11/20, 2/9, 21/60",
+              "a": "11/20: 20 = 2² × 5, so it **stops** (0.55). 2/9: 9 = 3², so it **repeats** (0.222...). 21/60: simplify first to 7/20; 20 = 2² × 5, so it **stops** (0.35)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "stop-to-fraction",
+          "label": "Stopping decimals to fractions",
+          "type": "core",
+          "desc": "Count the decimal places. That many zeros go on the bottom. Then simplify.\n\n- 0.45: 2 places, so 45/100 = **9/20**.\n- 2.125: 3 places, so 2125/1000 = **17/8**.\n- 0.012: 3 places, so 12/1000 = **3/250**.",
+          "links": [
+            {
+              "label": "Math is Fun: decimals to fractions",
+              "url": "https://www.mathsisfun.com/converting-decimals-fractions.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: write 0.6, 1.25 and 0.075 as fractions in simplest form.",
+              "a": "0.6 = 6/10 = **3/5**. 1.25 = 125/100 = **5/4**. 0.075 = 75/1000 = **3/40**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "repeat-to-fraction",
+          "label": "Repeating decimals to fractions: the x trick",
+          "type": "core",
+          "desc": "**Worked example: 0.777...**\n- Call it x: x = 0.777...\n- One digit repeats, so multiply by **10**: 10x = 7.777...\n- Subtract the first line from the second. The repeating tails cancel: 10x − x = 7.777... − 0.777..., so **9x = 7**.\n- x = **7/9**.\n\n**Worked example: 0.272727...** (two digits repeat)\n- x = 0.272727...\n- Two digits repeat, so multiply by **100**: 100x = 27.272727...\n- Subtract: 99x = 27, so x = 27/99 = **3/11**.\n\n**The rule:** multiply by 10 if 1 digit repeats, by 100 if 2 digits repeat, by 1000 if 3 repeat.\n\n**A quick check:** the repeating block over the same number of 9s gives the same fraction: 7/9, 27/99.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: write 0.555..., 0.363636... and 1.333... as fractions.",
+              "a": "0.555...: 10x − x = 5, so 9x = 5 and x = **5/9**.\n\n0.363636...: 100x − x = 36, so 99x = 36 and x = 36/99 = **4/11**.\n\n1.333...: 10x = 13.333..., so 10x − x = 12 and 9x = 12, so x = 12/9 = **4/3**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mixed-repeat",
+          "label": "When only some digits repeat",
+          "type": "core",
+          "desc": "In 0.8333... the 8 doesn't repeat, only the 3 does. Use **two moves**.\n\n**Worked example: 0.8333...**\n- x = 0.8333...\n- **Move 1:** multiply by 10 so that only the repeating part is after the point: 10x = 8.333...\n- **Move 2:** multiply by 10 again to shift one whole repeating block: 100x = 83.333...\n- Subtract the two moved lines: 100x − 10x = 83.333... − 8.333..., so **90x = 75**.\n- x = 75/90 = **5/6**.\n\nThis step is harder. If it feels too much today, come back to it after the others feel easy.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: write 0.2777... and 1.2333... as fractions.",
+              "a": "0.2777...: 10x = 2.777... and 100x = 27.777..., so 90x = 25 and x = 25/90 = **5/18**.\n\n1.2333...: 10x = 12.333... and 100x = 123.333..., so 90x = 111 and x = 111/90 = **37/30**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "point-nine",
+          "label": "Is 0.999... equal to 1?",
+          "type": "optional",
+          "desc": "Use the x trick. x = 0.999..., so 10x = 9.999... Subtract: 9x = 9, so **x = 1**.\n\nSo 0.999... is not 'just less than 1'. It **is** 1, written another way. Every stopping decimal has a second form like this: 2.5 = 2.4999...",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "cyclic",
+          "label": "The magic of 1/7",
+          "type": "optional",
+          "desc": "1/7 = 0.142857 142857 ... The block **142857** repeats. Multiply it by 1 to 6:\n\n- 142857 × 2 = 285714\n- 142857 × 3 = 428571\n- 142857 × 4 = 571428\n- 142857 × 5 = 714285\n- 142857 × 6 = 857142\n\nThe same six digits every time, just starting from a different place in the circle. It is called a **cyclic number**.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "real-numbers",
+      "label": "Real numbers: the whole family",
+      "desc": "**Goal:** sort any number into the right box of the family.\n\nRational and irrational together make the **real numbers**: every point on the number line, every length and every temperature.",
+      "links": [],
+      "children": [
+        {
+          "id": "sorting",
+          "label": "Sorting numbers into the family",
+          "type": "core",
+          "desc": "Ask these questions in order:\n\n- Can it be written as a **fraction** of integers? Or does its decimal **stop or repeat**? Then it is **rational**.\n  - Is it a whole number? Then it is also an **integer**.\n  - Is it a positive whole number? Then it is also a **natural number**.\n- Does its decimal **never stop and never repeat**? Then it is **irrational**.\n\nEither way, it is a **real number**.\n\nTry the list below without looking at the answers.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: sort −7, 22/7, 0.333..., √81, √12",
+              "a": "−7: **integer** (and rational). 22/7: **rational** (it is a fraction, not π). 0.333... = 1/3: **rational**. √81 = 9: **natural**. √12: **irrational**."
+            },
+            {
+              "q": "Your turn: sort 0.1234512345... and 1.0100100010001...",
+              "a": "0.1234512345...: the block 12345 **repeats**, so **rational**. 1.0100100010001...: there is a pattern, but no block that repeats (the gaps keep growing), so **irrational**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/number-family.png",
+              "caption": "Use the family picture to sort the numbers"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "beyond",
+          "label": "Is there anything beyond the real numbers?",
+          "type": "optional",
+          "desc": "What is √−1? It would be a number which, multiplied by itself, gives −1. But any real number times itself is positive or zero. So √−1 is **not** on the number line.\n\nMathematicians invented new numbers for this, called **imaginary numbers**. You will meet them in later classes.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These match the starred (challenge) and harder end-of-chapter questions in your textbook. Come here only after the earlier milestones feel comfortable. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "prove-root-two",
+          "label": "Why √2 cannot be a fraction",
+          "type": "optional",
+          "desc": "This is a **proof by contradiction**: pretend the opposite is true, and show that it leads to something impossible.\n\n- Suppose √2 = p/q, a fraction in **simplest form** (p and q share no factor).\n- Square both sides: 2 = p²/q², so **p² = 2q²**. So p² is even.\n- If p were odd, p² would be odd. So **p is even**: p = 2k for some whole number k.\n- Then (2k)² = 2q², so 4k² = 2q², so **q² = 2k²**. So q² is even, and **q is even** too.\n- Now p and q are **both** even. They share the factor 2. But we said they share no factor. **Impossible.**\n- So our starting idea was wrong: √2 cannot be a fraction.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: prove that √5 is irrational.",
+              "a": "Follow the same steps with 5 in place of 2, and 'a multiple of 5' in place of 'even'. Suppose √5 = p/q in simplest form. Then p² = 5q², so p² is a multiple of 5, so **p is a multiple of 5** (5 is prime): p = 5k. Then 25k² = 5q², so q² = 5k², so **q is a multiple of 5** too. Both share the factor 5: impossible. So √5 is irrational."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "decimal-places",
+          "label": "How many decimal places?",
+          "type": "optional",
+          "desc": "If a fraction in simplest form has bottom **2ᵐ × 5ⁿ**, its decimal stops after as many places as the **bigger** of m and n.\n\n**Worked example:** 7/(2² × 5³) = 7/500 = **0.014**. The bigger power is 3, and there are 3 decimal places.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: how many decimal places does 3/(2⁴ × 5) have?",
+              "a": "The bigger power is 4, so **4 places**. Check: 3/80 = 0.0375."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "fraction-equations",
+          "label": "Equations with fractions",
+          "type": "optional",
+          "desc": "**Worked example: x/2 + x/3 = 5/6.**\n- Multiply every term by 6, which clears all the bottoms: 3x + 2x = 5.\n- 5x = 5, so **x = 1**.\n- Check: 1/2 + 1/3 = 5/6. Correct.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: x/4 − x/6 = 1/3",
+              "a": "Multiply every term by 12: 3x − 2x = 4, so **x = 4**. Check: 4/4 − 4/6 = 1 − 2/3 = 1/3."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "many-between",
+          "label": "Five numbers between two fractions",
+          "type": "optional",
+          "desc": "**Worked example:** find 5 rational numbers between 1/3 and 1/2.\n- Common bottom 6: 2/6 and 3/6. Nothing whole fits between 2 and 3.\n- Multiply top and bottom by 6 again: 12/36 and 18/36.\n- Now **13/36, 14/36, 15/36, 16/36, 17/36** fit between them.\n\nIf you need more numbers, just use an even bigger bottom.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThis chapter covers a lot of ground: integers, fractions, the number line, irrationals and decimals. For a student who finds maths hard, the real obstacle is almost always **fractions**, so the roadmap fixes those first and spends the most time there. The chapter is held together by one picture: a **family of numbers** that grows because each kind could not do a job the next one can.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- **Start with *Check yourself*.** A student who can't find an LCM or simplify 12/18 will fail Exercise Set 3.3 however well rational numbers are explained.\n- **Use money for integers, every time.** 'You owe 3 and earn 5' makes −3 + 5 obvious in a way that rules don't.\n- **Use pictures for fractions:** strips of paper folded into halves, thirds and sixths make common denominators concrete.\n- **Insist on simplest form** before any decimal test. Many wrong answers come from testing 3/15 instead of 1/5.\n- **Keep coming back to the family picture.** Every new idea is just 'which box does this live in?'\n- **The proofs are for later.** For a struggling student, recognising and constructing √2 matters far more than proving it is irrational.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 10-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** the *Start here* tools: primes, LCM, simplest form, fraction to decimal.\n- **Period 2:** the family of numbers; closure; zero. **Activity:** students write numbers on cards and sort them into nested hoops on the floor.\n- **Period 3:** integers with money. **Activity:** a 'bank' game with paper notes and IOU slips.\n- **Periods 4 and 5:** fractions: equal fractions, adding and subtracting, multiplying and dividing (Exercise Set 3.3). **Activity:** fold paper strips into halves, thirds and sixths.\n- **Period 6:** fractions on the number line, absolute value, numbers in between (Exercise Set 3.4).\n- **Period 7:** √2 from the square; construct √2 and √5 with compass and ruler; the spiral.\n- **Period 8:** three kinds of decimal; the 2s-and-5s test.\n- **Period 9:** decimals to fractions, including the x trick (Exercise Set 3.5).\n- **Period 10:** sorting numbers into the family; exit ticket. Proofs and challenge questions for those ready.",
+          "links": [
+            {
+              "label": "Your textbook: NCERT Ganita Manjari, Grade 9 Part I, Chapter 3 (free PDF)",
+              "url": "https://ncert.nic.in/textbook/pdf/iemh103.pdf"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- −3 + 5 = −8, or 10 − (−5) = 5.\n- Dividing by zero, or saying 5 ÷ 0 = 0.\n- Adding fractions top to top and bottom to bottom (1/2 + 1/3 = 2/5).\n- Changing the bottom of a fraction without changing the top.\n- Flipping the wrong fraction when dividing.\n- Believing 22/7 **is** π.\n- Calling 0.333... irrational 'because it never stops'. It repeats, so it is rational.\n- Testing the bottom for 2s and 5s before simplifying the fraction.\n- Writing |−5| = −5.\n- In the x trick, multiplying by 10 when two digits repeat.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. 2/3 + 1/6",
+              "a": "4/6 + 1/6 = **5/6**."
+            },
+            {
+              "q": "2. (−4) × (−5) − 6",
+              "a": "20 − 6 = **14**."
+            },
+            {
+              "q": "3. Does the decimal for 7/16 stop or repeat?",
+              "a": "16 = 2⁴, only 2s, so it **stops**: 0.4375."
+            },
+            {
+              "q": "4. Write 0.444... as a fraction.",
+              "a": "10x − x = 4, so 9x = 4 and x = **4/9**."
+            },
+            {
+              "q": "5. Which of these are rational: √2, 0.25, −3?",
+              "a": "**0.25** (= 1/4) and **−3** (= −3/1). √2 is irrational."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

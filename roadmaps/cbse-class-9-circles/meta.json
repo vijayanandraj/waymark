@@ -1,0 +1,27 @@
+{
+  "audience": "Class 9 students who find maths hard, learning the facts about circles step by step, and the teachers and parents helping them",
+  "stages": [
+    "school"
+  ],
+  "subject": "maths",
+  "follows": "CBSE Class 9 Mathematics (NCERT Ganita Manjari, Chapter 5)",
+  "level": "beginner",
+  "lang": "en",
+  "tags": [
+    "maths",
+    "cbse",
+    "class 9",
+    "ncert",
+    "geometry",
+    "circles",
+    "step by step",
+    "ganita manjari"
+  ],
+  "authors": [
+    {
+      "name": "vijayanandraj",
+      "url": "https://github.com/vijayanandraj"
+    }
+  ],
+  "license": "CC-BY-SA-4.0"
+}

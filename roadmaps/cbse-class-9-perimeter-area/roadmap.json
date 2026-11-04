@@ -1,0 +1,696 @@
+{
+  "title": "Class 9 Maths, Chapter 6: Perimeter and Area, Step by Step",
+  "subtitle": "For students who find maths hard. One question holds the chapter together: fence or floor? Every area formula is shown as a cut-and-rearrange picture, so it can be rebuilt, not just remembered. Small steps, every calculation shown, practice with answers. Follows NCERT Ganita Manjari, Grade 9 Part I, Chapter 6 (Measuring Space: Perimeter and Area).",
+  "updated": "2026-11-04",
+  "changelog": [
+    {
+      "date": "2026-11-04",
+      "text": "Linked into the Class 9 Maths Part I series: links to all chapters and to the chapters before and after this one."
+    },
+    {
+      "date": "2026-11-04",
+      "text": "First version: written for students who find maths hard. Units and 22/7 first, fence or floor, area formulas from pictures, Heron's formula in four steps, practice with answers, and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** feel sure about units, square roots of perfect squares, and working with 22/7.\n\nThis chapter is mostly about using the right formula and doing the arithmetic carefully. These tools make the arithmetic easy.",
+      "links": [
+        {
+          "label": "Your textbook: NCERT Ganita Manjari, Grade 9 Part I, Chapter 6 (free PDF)",
+          "url": "https://ncert.nic.in/textbook/pdf/iemh106.pdf"
+        },
+        {
+          "label": "DIKSHA: free NCERT videos and lessons",
+          "url": "https://diksha.gov.in/"
+        }
+      ],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. On the map the steps go left and right, so press **Checklist view** at the top to see them as a list, in order.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Draw the shape and write the measurements on it** before you calculate.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: perimeter is the fence, area is the floor.** Perimeter measures the boundary, in cm or m. Area counts the squares inside, in cm² or m². Before every question, ask: fence or floor?",
+          "links": [
+            {
+              "label": "All eight chapters: Class 9 Maths, Part I",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-maths-part-1"
+            },
+            {
+              "label": "Previous chapter: 5. Circles",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-circles"
+            },
+            {
+              "label": "Next chapter: 7. Probability",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-probability"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. A rectangle is 8 cm by 5 cm. Find its perimeter and its area.",
+              "a": "Perimeter = 8 + 5 + 8 + 5 = **26 cm**. Area = 8 × 5 = **40 cm²**. Wrong? Do *Fence or floor?*"
+            },
+            {
+              "q": "2. How many cm² are in 1 m²?",
+              "a": "**10 000.** 1 m = 100 cm, so 1 m² = 100 × 100 cm². Wrong? Do *Units*."
+            },
+            {
+              "q": "3. What is √144?",
+              "a": "**12**, because 12 × 12 = 144. Wrong? Do *Square roots you need*."
+            },
+            {
+              "q": "4. Work out 22/7 × 14.",
+              "a": "14 ÷ 7 = 2, then 22 × 2 = **44**. Wrong? Do *Working with 22/7*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "units",
+          "label": "Units: cm, cm² and m²",
+          "type": "core",
+          "desc": "- **Length** (perimeter, radius, arc): cm, m, km.\n- **Area**: cm², m². A cm² is a little square 1 cm by 1 cm.\n- 1 m = 100 cm, but **1 m² = 100 × 100 = 10 000 cm²**. Area units grow much faster.\n- 1 km = 1000 m = 100 000 cm.\n\n**Always put all lengths in the same unit before you calculate.**",
+          "links": [
+            {
+              "label": "Math is Fun: the metric system",
+              "url": "https://www.mathsisfun.com/measure/metric-system.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a room is 4 m by 3 m. What is its area in m² and in cm²?",
+              "a": "4 × 3 = **12 m²** = 12 × 10 000 = **120 000 cm²**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "square-roots",
+          "label": "Square roots you need",
+          "type": "core",
+          "desc": "√ asks: **what number times itself gives this?**\n\n- √49 = 7, √64 = 8, √81 = 9, √100 = 10, √144 = 12, √225 = 15.\n- For a big number, split it into primes and pair them: 7056 = 2 × 2 × 2 × 2 × 3 × 3 × 7 × 7, so √7056 = 2 × 2 × 3 × 7 = **84**.\n\nYou need this for Heron's formula later.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: find √196, √900 and √2304.",
+              "a": "√196 = **14**. √900 = **30**. 2304 = 48 × 48, so √2304 = **48**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "twenty-two-sevenths",
+          "label": "Working with 22/7",
+          "type": "core",
+          "desc": "For circles we use **π ≈ 22/7**. The trick: **cancel the 7 first**.\n\n- 22/7 × 14: 14 ÷ 7 = 2, so 22 × 2 = **44**.\n- 22/7 × 21: 21 ÷ 7 = 3, so 22 × 3 = **66**.\n- 22/7 × 7 × 7: one 7 cancels, so 22 × 7 = **154**.\n\nWhen the radius is a multiple of 7, the answer is a whole number. Textbook questions are often chosen this way.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: work out 22/7 × 35 and 22/7 × 14 × 14.",
+              "a": "35 ÷ 7 = 5, so **110**. One 14 ÷ 7 = 2, then 22 × 2 × 14 = **616**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "fence-floor",
+      "label": "Perimeter and area: fence or floor?",
+      "desc": "**Goal:** know the difference between perimeter and area, and see that one does not decide the other.",
+      "links": [],
+      "children": [
+        {
+          "id": "fence-or-floor",
+          "label": "Fence or floor?",
+          "type": "core",
+          "desc": "- **Perimeter** is the total length **around** a shape. Like a fence round a field. Units: cm, m.\n- **Area** is the space **inside** a shape: how many unit squares cover it. Like tiles on a floor. Units: cm², m².\n\n**Rectangle** with length l and breadth b:\n- Perimeter = **2(l + b)**\n- Area = **l × b**\n\n**Worked example:** 12 m by 3 m. Perimeter = 2(12 + 3) = **30 m**. Area = 12 × 3 = **36 m²**.",
+          "links": [
+            {
+              "label": "Math is Fun: area of plane shapes",
+              "url": "https://www.mathsisfun.com/area.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a square has side 6 cm. Find its perimeter and area.",
+              "a": "Perimeter = 4 × 6 = **24 cm**. Area = 6 × 6 = **36 cm²**."
+            },
+            {
+              "q": "Your turn: fence or floor? (a) painting a wall, (b) a border round a photo, (c) carpet for a room.",
+              "a": "(a) **floor** (area). (b) **fence** (perimeter). (c) **floor** (area)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "same-area",
+          "label": "Same area, different perimeter",
+          "type": "core",
+          "desc": "Both rectangles in the picture cover **12 squares**. But their perimeters are 16 and 14.\n\nSo knowing the area does **not** tell you the perimeter, and the other way round.\n\nA **long thin** shape has a big perimeter for its area. A shape close to a **square** has the smallest perimeter.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: 12 m by 3 m and 9 m by 4 m both have area 36 m². Which needs more fencing?",
+              "a": "12 by 3: 2(15) = **30 m**. 9 by 4: 2(13) = **26 m**. The long thin one needs more. (A 6 by 6 square needs only 24 m.)"
+            }
+          ],
+          "images": [
+            {
+              "src": "images/fence-floor.png",
+              "caption": "Same area, different perimeter"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "circle-perimeter",
+      "label": "The perimeter of a circle",
+      "desc": "**Goal:** know what π is, and find the circumference of a circle. Exercise Set 6.1 starts here.",
+      "links": [],
+      "children": [
+        {
+          "id": "what-pi",
+          "label": "What π is",
+          "type": "core",
+          "desc": "Measure round any circle and divide by its diameter. You always get the **same number**, a bit more than 3. That number is **π** (pi).\n\n- π ≈ **3.14** or **22/7**. Neither is exact: π never ends and never repeats (it is irrational).\n- Roll a wheel once. It travels π diameters.",
+          "links": [
+            {
+              "label": "Math is Fun: pi",
+              "url": "https://www.mathsisfun.com/numbers/pi.html"
+            }
+          ],
+          "images": [
+            {
+              "src": "images/pi-wheel.png",
+              "caption": "One turn of a wheel is a bit more than 3 diameters"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "circumference",
+          "label": "Circumference: C = 2πr",
+          "type": "core",
+          "desc": "The perimeter of a circle is called its **circumference**.\n\n**C = π × d = 2πr** (d is the diameter, r is the radius, d = 2r)\n\n**Worked example:** radius 14 cm. C = 2 × 22/7 × 14 = 2 × 44 = **88 cm**.\n\n**Backwards:** C = 132 cm. Then 2 × 22/7 × r = 132, so 44/7 × r = 132, and r = 132 × 7/44 = **21 cm**.",
+          "links": [
+            {
+              "label": "Math is Fun: circle",
+              "url": "https://www.mathsisfun.com/geometry/circle.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: find the circumference when r = 7 cm, and when d = 28 cm.",
+              "a": "r = 7: 2 × 22/7 × 7 = **44 cm**. d = 28: 22/7 × 28 = **88 cm**."
+            },
+            {
+              "q": "Your turn: a circle has circumference 110 cm. Find its radius.",
+              "a": "44/7 × r = 110, so r = 110 × 7/44 = **17.5 cm**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "wheels",
+          "label": "Wheels and how far they go",
+          "type": "core",
+          "desc": "In **one turn**, a wheel travels its own **circumference**.\n\n**Worked example:** a wheel has diameter 70 cm. How many turns for 1.1 km?\n- One turn = 22/7 × 70 = **220 cm**.\n- 1.1 km = 1100 m = **110 000 cm**.\n- Turns = 110 000 ÷ 220 = **500**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a bicycle wheel has diameter 56 cm. How far does it go in 100 turns?",
+              "a": "One turn = 22/7 × 56 = 176 cm. 100 turns = **17 600 cm = 176 m**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "pi-history",
+          "label": "Chasing π through history",
+          "type": "optional",
+          "desc": "- **Archimedes** (Greece) trapped π between two polygons with 96 sides: between 3 10/71 and 3 1/7.\n- **Āryabhaṭa** (India, 499 CE) gave π ≈ 3.1416.\n- **Zu Chongzhi** (China) gave 355/113, correct to 6 decimal places.\n- **Mādhava** (Kerala) found a never-ending sum that gives π exactly.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "arcs",
+      "label": "Arcs and pieces of a circle",
+      "desc": "**Goal:** find the length of an arc, and the perimeter of shapes made from straight lines and arcs.",
+      "links": [],
+      "children": [
+        {
+          "id": "arc-length",
+          "label": "Arc length: what fraction of the circle?",
+          "type": "core",
+          "desc": "An arc is a **fraction** of the whole circle. The fraction is **angle ÷ 360°**.\n\n**Arc length = (θ ÷ 360) × 2πr**\n\n**Worked example:** r = 21 cm, angle 60°.\n- Fraction: 60/360 = **1/6**.\n- Whole circumference: 2 × 22/7 × 21 = 132 cm.\n- Arc = 132 ÷ 6 = **22 cm**.",
+          "links": [
+            {
+              "label": "Math is Fun: arc",
+              "url": "https://www.mathsisfun.com/geometry/arc.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: r = 14 cm. Find the arc for 90° and for 45°.",
+              "a": "Circumference 88. 90° is ¼: **22 cm**. 45° is ⅛: **11 cm**."
+            },
+            {
+              "q": "Your turn: r = 42 cm, angle 30°. Find the arc.",
+              "a": "Circumference 264. 30° is 1/12: **22 cm**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/arc-fraction.png",
+              "caption": "An arc is a fraction of the circle: angle ÷ 360°"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "sector-perimeter",
+          "label": "Perimeter of a sector",
+          "type": "core",
+          "desc": "A **sector** is a slice of a circle, like a slice of pizza. Its perimeter is the **arc plus two radii**.\n\n**Worked example:** r = 21 cm, angle 60°. Arc = 22 cm. Perimeter = 22 + 21 + 21 = **64 cm**.\n\n**The most common mistake:** giving only the arc, and forgetting the two straight edges.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: r = 14 cm, angle 45°. Find the perimeter of the sector.",
+              "a": "Arc = 11 cm. Perimeter = 11 + 14 + 14 = **39 cm**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mixed-shapes",
+          "label": "Shapes made of lines and arcs",
+          "type": "core",
+          "desc": "Go round the edge and add **every** piece: straight bits and curved bits.\n\n**Worked example:** a running track has two straight sides of 50 m and a semicircle at each end, diameter 28 m.\n- Two semicircles make one full circle: 22/7 × 28 = 88 m.\n- Total = 50 + 50 + 88 = **188 m**.\n\nOnly count the **outside** edge. Lines inside the shape are not part of the perimeter.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a semicircle has diameter 14 cm. Find its perimeter (curved edge and straight edge).",
+              "a": "Curved edge: half of 44 = 22 cm. Straight edge: 14 cm. Total **36 cm**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "equal-paths",
+          "label": "A puzzle: which path is longer?",
+          "type": "optional",
+          "desc": "Draw a big semicircle on a line from P to Q. Now split PQ into three parts and draw three small semicircles instead.\n\nWhich path from P to Q is longer? **They are equal.** Each semicircle is π × radius. The small radii add up to the big radius, so the lengths add up too.\n\nTry it with string if you don't believe it.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "straight-areas",
+      "label": "Areas of straight-sided shapes",
+      "desc": "**Goal:** find the area of a parallelogram, triangle, trapezium and rhombus, each by turning it into a shape you already know.\n\nExercise Set 6.2 uses these.",
+      "links": [],
+      "children": [
+        {
+          "id": "parallelogram",
+          "label": "Parallelogram: cut and slide",
+          "type": "core",
+          "desc": "Cut a triangle off one end of a parallelogram and slide it to the other end. You get a **rectangle** with the same base and the same height.\n\n**Area = base × height**\n\nThe **height** is the **straight-up** distance (at right angles to the base), **not** the slanting side.\n\n**Worked example:** base 9 cm, height 4 cm, slanting side 5 cm. Area = 9 × 4 = **36 cm²**. The 5 is not used.",
+          "links": [
+            {
+              "label": "Math is Fun: parallelogram",
+              "url": "https://www.mathsisfun.com/geometry/parallelogram.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: base 7 cm, height 5 cm. Find the area.",
+              "a": "7 × 5 = **35 cm²**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/parallelogram-cut.png",
+              "caption": "Cut and slide: a parallelogram becomes a rectangle"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "triangle",
+          "label": "Triangle: half a parallelogram",
+          "type": "core",
+          "desc": "Two copies of any triangle fit together to make a parallelogram. So a triangle is **half** of one.\n\n**Area = ½ × base × height**\n\nAgain, the height is at **right angles** to the base. In a right triangle, the two short sides are the base and height.\n\n**Worked example:** base 10 cm, height 6 cm. Area = ½ × 10 × 6 = **30 cm²**.",
+          "links": [
+            {
+              "label": "Math is Fun: area of plane shapes",
+              "url": "https://www.mathsisfun.com/area.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a right triangle has short sides 6 cm and 10 cm. Find its area.",
+              "a": "½ × 6 × 10 = **30 cm²**."
+            },
+            {
+              "q": "Your turn: a triangle has base 9 m and height 4 m. Find its area.",
+              "a": "½ × 9 × 4 = **18 m²**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/triangle-half.png",
+              "caption": "A triangle is half a parallelogram"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "trapezium",
+          "label": "Trapezium: half the sum of the parallel sides",
+          "type": "core",
+          "desc": "A **trapezium** has one pair of parallel sides, a and b. Two copies fit together to make a parallelogram with base (a + b).\n\n**Area = ½ × (a + b) × h**\n\n**Worked example:** parallel sides 6 cm and 10 cm, height 5 cm. Area = ½ × 16 × 5 = **40 cm²**.",
+          "links": [
+            {
+              "label": "Math is Fun: trapezoid (trapezium)",
+              "url": "https://www.mathsisfun.com/geometry/trapezoid.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: parallel sides 8 m and 14 m, height 6 m. Find the area.",
+              "a": "½ × 22 × 6 = **66 m²**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/trapezium.png",
+              "caption": "Two copies of a trapezium make a parallelogram"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "rhombus-kite",
+          "label": "Rhombus and kite: use the diagonals",
+          "type": "core",
+          "desc": "For a **rhombus** or a **kite**, the two diagonals cross at right angles.\n\n**Area = ½ × d₁ × d₂** (half the product of the diagonals)\n\n**Worked example:** diagonals 8 cm and 12 cm. Area = ½ × 8 × 12 = **48 cm²**.\n\nWhy: the diagonals cut it into triangles that fit inside a rectangle d₁ by d₂, filling exactly half of it.",
+          "links": [
+            {
+              "label": "Math is Fun: rhombus",
+              "url": "https://www.mathsisfun.com/geometry/rhombus.html"
+            },
+            {
+              "label": "Math is Fun: kite",
+              "url": "https://www.mathsisfun.com/geometry/kite.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a kite has diagonals 6 cm and 10 cm. Find its area.",
+              "a": "½ × 6 × 10 = **30 cm²**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "heron",
+      "label": "Heron's formula: area from three sides",
+      "desc": "**Goal:** find the area of a triangle when you know only its three sides, not its height.",
+      "links": [],
+      "children": [
+        {
+          "id": "heron-formula",
+          "label": "The formula, step by step",
+          "type": "core",
+          "desc": "If a triangle has sides a, b, c, follow four steps:\n- **Step 1:** add the sides and halve: **s = (a + b + c) ÷ 2**.\n- **Step 2:** work out s − a, s − b, s − c.\n- **Step 3:** multiply all four: s × (s − a) × (s − b) × (s − c).\n- **Step 4:** take the **square root**.\n\n**Worked example: sides 13, 14, 15.**\n- s = 42 ÷ 2 = 21.\n- 21 − 13 = 8, 21 − 14 = 7, 21 − 15 = 6.\n- 21 × 8 × 7 × 6 = 7056.\n- √7056 = **84**.\n\nCheck: s − a, s − b and s − c should add up to s (8 + 7 + 6 = 21). If they don't, you made a slip.",
+          "links": [
+            {
+              "label": "Math is Fun: Heron's formula",
+              "url": "https://www.mathsisfun.com/geometry/herons-formula.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: sides 5, 12, 13. Find the area with Heron, then check with ½ × base × height.",
+              "a": "s = 15. 15 × 10 × 3 × 2 = 900, √900 = **30**. It is a right triangle (5² + 12² = 13²), so ½ × 5 × 12 = 30. Same."
+            },
+            {
+              "q": "Your turn: sides 9, 10, 17.",
+              "a": "s = 18. 18 × 9 × 8 × 1 = 1296. √1296 = **36**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "heron-isosceles",
+          "label": "Isosceles triangles: two ways",
+          "type": "core",
+          "desc": "For an isosceles triangle you can also find the height with Pythagoras.\n\n**Worked example: sides 10, 10, 12.**\n- **Heron:** s = 16. 16 × 6 × 6 × 4 = 2304. √2304 = **48**.\n- **Height:** the height cuts the base 12 into 6 and 6. Height² = 10² − 6² = 64, height = 8. Area = ½ × 12 × 8 = **48**.\n\nSame answer both ways. Pick whichever feels easier.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: sides 15, 15, 18. Find the area.",
+              "a": "Half base 9. Height² = 225 − 81 = 144, height 12. Area = ½ × 18 × 12 = **108**. (Heron: s = 24, 24 × 9 × 9 × 6 = 11664, √11664 = 108.)"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "heron-ratio",
+          "label": "When the sides come as a ratio",
+          "type": "optional",
+          "desc": "**Worked example:** a triangle's sides are in the ratio 3 : 4 : 5 and its perimeter is 24 cm.\n- 3 + 4 + 5 = 12 parts. 24 ÷ 12 = 2 cm per part.\n- Sides: 6, 8, 10 cm.\n- s = 12. 12 × 6 × 4 × 2 = 576. √576 = **24 cm²**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: sides 20, 21, 29. Find the area.",
+              "a": "s = 35. 35 × 15 × 14 × 6 = 44100. √44100 = **210**. (It is a right triangle: 20² + 21² = 29², and ½ × 20 × 21 = 210.)"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "circle-area",
+      "label": "The area of a circle",
+      "desc": "**Goal:** know A = πr², see why, and use it for circles, sectors and rings. Exercise Set 6.3 uses these.",
+      "links": [],
+      "children": [
+        {
+          "id": "why-pi-r2",
+          "label": "Why the area is πr²",
+          "type": "core",
+          "desc": "Cut a circle into many thin slices. Lay them out, point up, point down, point up. They make something very close to a **rectangle**.\n- Its height is the radius, **r**.\n- Its length is half the circumference, **πr**.\n- So the area is πr × r = **πr²**.\n\nThe more slices you cut, the closer it gets to a perfect rectangle.",
+          "links": [
+            {
+              "label": "Math is Fun: area of a circle by cutting into sectors",
+              "url": "https://www.mathsisfun.com/geometry/circle-area-by-sectors.html"
+            }
+          ],
+          "images": [
+            {
+              "src": "images/circle-slices.png",
+              "caption": "Slices of a circle rearranged into a near-rectangle"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "circle-area-use",
+          "label": "Using A = πr²",
+          "type": "core",
+          "desc": "**Worked example:** r = 7 cm. A = 22/7 × 7 × 7 = 22 × 7 = **154 cm²**.\n\n**Watch out:** if you are given the **diameter**, halve it first. d = 42 means r = 21, so A = 22/7 × 21 × 21 = **1386 cm²**.\n\n**Fence or floor?** Circumference 2πr is the fence (cm). Area πr² is the floor (cm²).",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: find the area of a circle with r = 14 cm.",
+              "a": "22/7 × 14 × 14 = **616 cm²**."
+            },
+            {
+              "q": "Your turn: a circle has circumference 44 cm. Find its area.",
+              "a": "2 × 22/7 × r = 44, so r = 7. Area = **154 cm²**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "sector-area",
+          "label": "Area of a sector",
+          "type": "core",
+          "desc": "Same idea as an arc: a sector is a **fraction** of the circle, angle ÷ 360.\n\n**Sector area = (θ ÷ 360) × πr²**\n\n**Worked example:** r = 21 cm, angle 60°. Whole circle = 1386 cm². 60° is 1/6, so the sector is 1386 ÷ 6 = **231 cm²**.",
+          "links": [
+            {
+              "label": "Math is Fun: circle sector and segment",
+              "url": "https://www.mathsisfun.com/geometry/circle-sector-segment.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: the minute hand of a clock is 14 cm long. What area does it sweep in 15 minutes?",
+              "a": "15 minutes is ¼ of an hour, so 90°. Area = ¼ × 616 = **154 cm²**."
+            },
+            {
+              "q": "Your turn: a quadrant (quarter circle) has radius 7 cm. Find its area.",
+              "a": "¼ × 154 = **38.5 cm²**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/arc-fraction.png",
+              "caption": "A sector is the same fraction of the area as its arc is of the circumference"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ring-leftover",
+          "label": "Rings and leftover pieces",
+          "type": "core",
+          "desc": "For a shaded region, **take the big area and subtract the parts that are not shaded**.\n\n**Worked example: a ring.** Big radius 14 cm, small radius 7 cm. Ring = 616 − 154 = **462 cm²**.\n\n**Another:** a circle of radius 7 cm is cut from a square of side 14 cm. Leftover = 196 − 154 = **42 cm²**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a round garden has radius 21 m. A path 7 m wide runs round the outside. Find the area of the path.",
+              "a": "Outer radius 21 + 7 = 28 m. Outer circle = 22/7 × 28 × 28 = 2464 m². Garden = 1386 m². Path = 2464 − 1386 = **1078 m²**."
+            },
+            {
+              "q": "Your turn (use π ≈ 3.14): find the area of a circle of radius 10 cm, and of a quarter of it.",
+              "a": "3.14 × 10 × 10 = **314 cm²**. A quarter is **78.5 cm²**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/ring.png",
+              "caption": "Ring: big circle minus small circle"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These match the starred and harder end-of-chapter questions in your textbook. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "baudhayana",
+          "label": "Baudhāyana's square: a rectangle turned into a square",
+          "type": "optional",
+          "desc": "Around 800 BCE, **Baudhāyana**'s Śulbasūtra showed how to draw a **square with the same area as a rectangle**, using only a cord and pegs. Your textbook gives the steps.\n\nIt works because of an identity from Chapter 4: ((a + b)/2)² − ((a − b)/2)² = ab. The construction draws a right triangle with those two sides, and Pythagoras does the rest.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "two-circles",
+          "label": "Two circles through each other's centres",
+          "type": "optional",
+          "desc": "Two circles of radius r each pass through the other's centre. What is the perimeter of the outside shape?\n- The centres and a crossing point make an **equilateral** triangle, so the angles are 60°.\n- Each circle loses an arc of 120° inside the other, so 240° (two thirds) of each is on the outside.\n- Perimeter = 2 × ⅔ × 2πr = **8πr/3**.\n\nWith r = 21 cm: 8/3 × 22/7 × 21 = **176 cm**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "scaling",
+          "label": "Double the sides, four times the area",
+          "type": "optional",
+          "desc": "Double every side of a shape: the **perimeter doubles**, but the **area becomes 4 times** as big. Triple the sides: area 9 times.\n\nCheck with a square: side 3 has area 9. Side 6 has area 36 = 4 × 9.\n\nDraw it: 4 copies of a small triangle fit exactly into one with double the sides.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a circle's radius is tripled. What happens to its area?",
+              "a": "It becomes **9 times** as big, because r² becomes (3r)² = 9r²."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThis chapter has many formulas, and struggling students tend to mix them up: 2πr with πr², a slanting side for a height. The roadmap ties everything to one question, **fence or floor?**, and shows each area formula as a cut-and-rearrange picture, so a formula can be rebuilt instead of half-remembered.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- **Start with *Check yourself*.** Many errors here are unit errors or arithmetic with 22/7.\n- **Ask 'fence or floor?'** before every question. Then ask for the unit: cm or cm².\n- **Make them draw the shape and label it** before choosing a formula.\n- **Cut paper:** a parallelogram into a rectangle, a circle into 16 slices. Students who have done it rarely forget the formula.\n- **Teach 'cancel the 7 first'** for 22/7. It removes most arithmetic errors.\n- **For arcs and sectors, always ask 'what fraction of the circle?'** before any formula.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "An 8-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** units, square roots, 22/7; fence or floor. **Activity:** make rectangles of area 12 from square tiles and measure their perimeters.\n- **Period 2:** π and circumference; wheels. **Activity:** measure round tins and lids with string, divide by the diameter.\n- **Period 3:** arcs, sectors, mixed shapes (Exercise Set 6.1).\n- **Period 4:** parallelogram and triangle by cutting paper.\n- **Period 5:** trapezium, rhombus, kite (Exercise Set 6.2).\n- **Period 6:** Heron's formula, with the check that s − a, s − b, s − c add to s.\n- **Period 7:** area of a circle by slices; sectors; rings (Exercise Set 6.3). **Activity:** cut a paper circle into 16 sectors and rearrange.\n- **Period 8:** mixed problems; exit ticket. Challenge questions for those ready.",
+          "links": [
+            {
+              "label": "Your textbook: NCERT Ganita Manjari, Grade 9 Part I, Chapter 6 (free PDF)",
+              "url": "https://ncert.nic.in/textbook/pdf/iemh106.pdf"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Mixing up 2πr (perimeter) and πr² (area).\n- Using the diameter as the radius.\n- Using the slanting side as the height of a parallelogram or triangle.\n- Forgetting the ½ in the triangle and trapezium formulas.\n- Giving only the arc as the perimeter of a sector.\n- Writing area in cm, or perimeter in cm².\n- Converting 1 m² to 100 cm².\n- In Heron's formula, forgetting the square root at the end.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Find the circumference of a circle with r = 21 cm.",
+              "a": "2 × 22/7 × 21 = **132 cm**."
+            },
+            {
+              "q": "2. Find the area of a circle with d = 14 cm.",
+              "a": "r = 7, area = **154 cm²**."
+            },
+            {
+              "q": "3. A triangle has base 12 cm and height 7 cm. Find its area.",
+              "a": "½ × 12 × 7 = **42 cm²**."
+            },
+            {
+              "q": "4. Use Heron's formula for sides 6, 8, 10.",
+              "a": "s = 12. 12 × 6 × 4 × 2 = 576. √576 = **24**."
+            },
+            {
+              "q": "5. A sector has r = 14 cm and angle 90°. Find its area.",
+              "a": "¼ × 616 = **154 cm²**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

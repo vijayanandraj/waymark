@@ -1,0 +1,653 @@
+{
+  "title": "Class 9 Maths, All Chapters: Start Here (Part I)",
+  "subtitle": "Start here. One roadmap for each chapter of NCERT Ganita Manjari, Grade 9 Part I, written for students who find maths hard. This page shows the one idea in each chapter, what each needs first, and the thread that runs through them all.",
+  "updated": "2026-11-04",
+  "changelog": [
+    {
+      "date": "2026-11-04",
+      "text": "First version: links all eight Part I chapter roadmaps, with the thread between them, what each chapter needs first, and pacing for teachers."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: how this series works",
+      "links": [],
+      "desc": "**Goal:** know how the eight chapter roadmaps fit together, and where to begin.\n\nEach chapter of the NCERT Ganita Manjari, Grade 9 Part I textbook has its own roadmap, written for students who find maths hard. This page connects them.",
+      "children": [
+        {
+          "id": "how-series",
+          "label": "How to use these roadmaps",
+          "type": "core",
+          "desc": "- **One roadmap per chapter.** Open a chapter below, then follow its own steps.\n- **Every chapter starts with *Check yourself*.** Two minutes, four questions. It tells you which small skills to fix before the chapter itself.\n- **Solid boxes are the core path.** Dashed boxes are optional: stories, extra puzzles and the *When you're ready* challenge questions.\n- **Every chapter ends with a section for teachers and parents**, with a lesson plan, common mistakes and a 5-minute exit ticket.\n- **Progress is saved per chapter** on this device. Mark steps **Done** inside each chapter's roadmap.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "thread",
+          "label": "The thread through Part I",
+          "type": "core",
+          "desc": "The chapters look separate, but they tell one story.\n\n- **Chapter 1** puts points on a grid with two numbers.\n- **Chapter 2** draws straight lines through those points: a start, plus the same jump.\n- **Chapter 3** asks which numbers can sit on a line, and finds some, like √2, that are not fractions.\n- **Chapter 4** shows algebra as areas: squares and rectangles cut into pieces.\n- **Chapter 5** turns to circles, where Pythagoras from Chapter 1 does most of the work.\n- **Chapter 6** measures shapes, using Chapter 4's area pictures and Chapter 5's arcs.\n- **Chapter 7** measures chance, with the fractions from Chapter 3.\n- **Chapter 8** comes back to Chapter 2: an AP is the same 'start plus jump', written as a list.\n\nA student who sees the thread finds each new chapter a little smaller than it looks.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "which-needs-which",
+          "label": "Which chapter needs which",
+          "type": "core",
+          "desc": "- **Chapter 1:** needs nothing new.\n- **Chapter 2:** plotting points from Chapter 1.\n- **Chapter 3:** fractions (fixed inside the chapter).\n- **Chapter 4:** the words of algebra from Chapter 2 (like terms and brackets are fixed inside the chapter).\n- **Chapter 5:** triangle angles and Pythagoras (fixed inside the chapter).\n- **Chapter 6:** π from Chapter 3, arcs from Chapter 5.\n- **Chapter 7:** fractions only.\n- **Chapter 8:** 'start plus jump' from Chapter 2.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "pacing",
+          "label": "For teachers: pacing Part I",
+          "type": "optional",
+          "desc": "The eight lesson plans add up to **66 periods**:\n- Chapter 1, Coordinates: 8 periods\n- Chapter 2, Linear Polynomials: 9 periods\n- Chapter 3, The World of Numbers: 10 periods\n- Chapter 4, Algebraic Identities: 10 periods\n- Chapter 5, Circles: 8 periods\n- Chapter 6, Perimeter and Area: 8 periods\n- Chapter 7, Probability: 6 periods\n- Chapter 8, Sequences and Progressions: 7 periods\n\n**A suggestion:** Chapter 7 (Probability) needs only fractions and is the gentlest chapter in the book. For a class that is losing confidence, teaching it early, straight after Chapter 2 or 3, gives an early win.\n\nEach plan leaves space for revision. Keep the optional challenge milestones for students who are ready.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "chapter-1",
+      "label": "Chapter 1: Coordinates",
+      "links": [
+        {
+          "label": "Open the Chapter 1 roadmap",
+          "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-coordinates"
+        }
+      ],
+      "desc": "**The one idea:** Two numbers pin down any spot: go across first, then up.\n\n**Needs first:** Negative numbers and squaring. The roadmap's *Start here* covers both.\n\nTextbook chapter: *Orienting Yourself: The Use of Coordinates*. The roadmap has 31 steps, 20 of them on the core path.",
+      "children": [
+        {
+          "id": "ch1-idea",
+          "label": "Ch 1: the one idea",
+          "type": "core",
+          "desc": "Two numbers pin down any spot: go across first, then up.\n\nOpen the chapter roadmap and start with its first step.",
+          "links": [
+            {
+              "label": "Open the Chapter 1 roadmap",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-coordinates"
+            }
+          ],
+          "images": [
+            {
+              "src": "images/ch1-quadrants.png",
+              "caption": "The four quadrants of the coordinate plane"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch1-check",
+          "label": "Ch 1: check yourself first",
+          "type": "core",
+          "desc": "Two minutes, four questions. Each wrong answer points to the exact step to do before the chapter.",
+          "links": [
+            {
+              "label": "Chapter 1: Check yourself",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-coordinates#check-yourself"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch1-inside",
+          "label": "Ch 1: what's inside",
+          "type": "core",
+          "desc": "The milestones, in order:\n- Why we need two numbers\n- Plotting and reading points\n- Lengths on the grid\n- Distance between any two points\n- Using distances: triangles and squares\n\nThen an optional *When you're ready* milestone with challenge questions.",
+          "links": [
+            {
+              "label": "Open the Chapter 1 roadmap",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-coordinates"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch1-teachers",
+          "label": "Ch 1: for teachers",
+          "type": "optional",
+          "desc": "A 8-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.",
+          "links": [
+            {
+              "label": "Chapter 1: lesson plan",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-coordinates#lesson-plan"
+            },
+            {
+              "label": "Chapter 1: exit ticket",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-coordinates#exit-ticket"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "chapter-2",
+      "label": "Chapter 2: Linear Polynomials",
+      "links": [
+        {
+          "label": "Open the Chapter 2 roadmap",
+          "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-linear-polynomials"
+        }
+      ],
+      "desc": "**The one idea:** A start, plus the same jump every time.\n\n**Needs first:** Chapter 1, for plotting points.\n\nTextbook chapter: *Introduction to Linear Polynomials*. The roadmap has 36 steps, 25 of them on the core path.",
+      "children": [
+        {
+          "id": "ch2-idea",
+          "label": "Ch 2: the one idea",
+          "type": "core",
+          "desc": "A start, plus the same jump every time.\n\nOpen the chapter roadmap and start with its first step.",
+          "links": [
+            {
+              "label": "Open the Chapter 2 roadmap",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-linear-polynomials"
+            }
+          ],
+          "images": [
+            {
+              "src": "images/ch2-line-plot.png",
+              "caption": "A linear polynomial drawn as a straight line"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch2-check",
+          "label": "Ch 2: check yourself first",
+          "type": "core",
+          "desc": "Two minutes, four questions. Each wrong answer points to the exact step to do before the chapter.",
+          "links": [
+            {
+              "label": "Chapter 2: Check yourself",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-linear-polynomials#check-yourself"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch2-inside",
+          "label": "Ch 2: what's inside",
+          "type": "core",
+          "desc": "The milestones, in order:\n- The words of algebra\n- Putting a number in\n- Patterns that grow by the same jump\n- Word problems as equations\n- Growth and decay: a start plus a jump\n- y = ax + b and its graph\n\nThen an optional *When you're ready* milestone with challenge questions.",
+          "links": [
+            {
+              "label": "Open the Chapter 2 roadmap",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-linear-polynomials"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch2-teachers",
+          "label": "Ch 2: for teachers",
+          "type": "optional",
+          "desc": "A 9-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.",
+          "links": [
+            {
+              "label": "Chapter 2: lesson plan",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-linear-polynomials#lesson-plan"
+            },
+            {
+              "label": "Chapter 2: exit ticket",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-linear-polynomials#exit-ticket"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "chapter-3",
+      "label": "Chapter 3: The World of Numbers",
+      "links": [
+        {
+          "label": "Open the Chapter 3 roadmap",
+          "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-numbers"
+        }
+      ],
+      "desc": "**The one idea:** A family of numbers that keeps growing, because each kind could not do a job the next one can.\n\n**Needs first:** Fractions. The roadmap fixes them first.\n\nTextbook chapter: *The World of Numbers*. The roadmap has 44 steps, 30 of them on the core path.",
+      "children": [
+        {
+          "id": "ch3-idea",
+          "label": "Ch 3: the one idea",
+          "type": "core",
+          "desc": "A family of numbers that keeps growing, because each kind could not do a job the next one can.\n\nOpen the chapter roadmap and start with its first step.",
+          "links": [
+            {
+              "label": "Open the Chapter 3 roadmap",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-numbers"
+            }
+          ],
+          "images": [
+            {
+              "src": "images/ch3-number-family.png",
+              "caption": "The family of numbers, each box inside a bigger one"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch3-check",
+          "label": "Ch 3: check yourself first",
+          "type": "core",
+          "desc": "Two minutes, four questions. Each wrong answer points to the exact step to do before the chapter.",
+          "links": [
+            {
+              "label": "Chapter 3: Check yourself",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-numbers#check-yourself"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch3-inside",
+          "label": "Ch 3: what's inside",
+          "type": "core",
+          "desc": "The milestones, in order:\n- The family of numbers\n- Integers: what you have and what you owe\n- Fractions and rational numbers\n- Rational numbers on the number line\n- Numbers that are not fractions\n- Decimals: stop, repeat, or neither\n- Real numbers: the whole family\n\nThen an optional *When you're ready* milestone with challenge questions.",
+          "links": [
+            {
+              "label": "Open the Chapter 3 roadmap",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-numbers"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch3-teachers",
+          "label": "Ch 3: for teachers",
+          "type": "optional",
+          "desc": "A 10-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.",
+          "links": [
+            {
+              "label": "Chapter 3: lesson plan",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-numbers#lesson-plan"
+            },
+            {
+              "label": "Chapter 3: exit ticket",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-numbers#exit-ticket"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "chapter-4",
+      "label": "Chapter 4: Algebraic Identities",
+      "links": [
+        {
+          "label": "Open the Chapter 4 roadmap",
+          "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-identities"
+        }
+      ],
+      "desc": "**The one idea:** An identity is a picture of an area: a square or rectangle cut into pieces.\n\n**Needs first:** Chapter 2's words of algebra (terms and coefficients). Like terms and brackets are fixed inside the chapter.\n\nTextbook chapter: *Exploring Algebraic Identities*. The roadmap has 45 steps, 33 of them on the core path.",
+      "children": [
+        {
+          "id": "ch4-idea",
+          "label": "Ch 4: the one idea",
+          "type": "core",
+          "desc": "An identity is a picture of an area: a square or rectangle cut into pieces.\n\nOpen the chapter roadmap and start with its first step.",
+          "links": [
+            {
+              "label": "Open the Chapter 4 roadmap",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-identities"
+            }
+          ],
+          "images": [
+            {
+              "src": "images/ch4-square-of-sum.png",
+              "caption": "(a + b)² as a square cut into four pieces"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch4-check",
+          "label": "Ch 4: check yourself first",
+          "type": "core",
+          "desc": "Two minutes, four questions. Each wrong answer points to the exact step to do before the chapter.",
+          "links": [
+            {
+              "label": "Chapter 4: Check yourself",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-identities#check-yourself"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch4-inside",
+          "label": "Ch 4: what's inside",
+          "type": "core",
+          "desc": "The milestones, in order:\n- What is an identity?\n- Squaring a sum: (a + b)²\n- Squaring a difference: (a − b)²\n- Difference of two squares\n- Factorising: running the rules backwards\n- Factorising x² + bx + c\n- Three terms and cubes\n- Using factorising\n\nThen an optional *When you're ready* milestone with challenge questions.",
+          "links": [
+            {
+              "label": "Open the Chapter 4 roadmap",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-identities"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch4-teachers",
+          "label": "Ch 4: for teachers",
+          "type": "optional",
+          "desc": "A 10-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.",
+          "links": [
+            {
+              "label": "Chapter 4: lesson plan",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-identities#lesson-plan"
+            },
+            {
+              "label": "Chapter 4: exit ticket",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-identities#exit-ticket"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "chapter-5",
+      "label": "Chapter 5: Circles",
+      "links": [
+        {
+          "label": "Open the Chapter 5 roadmap",
+          "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-circles"
+        }
+      ],
+      "desc": "**The one idea:** Every radius is the same length, which gives an isosceles triangle and a hidden right triangle.\n\n**Needs first:** Triangle angles and Pythagoras. Chapter 1's distance formula helps.\n\nTextbook chapter: *I'm Up and Down, and Round and Round*. The roadmap has 35 steps, 23 of them on the core path.",
+      "children": [
+        {
+          "id": "ch5-idea",
+          "label": "Ch 5: the one idea",
+          "type": "core",
+          "desc": "Every radius is the same length, which gives an isosceles triangle and a hidden right triangle.\n\nOpen the chapter roadmap and start with its first step.",
+          "links": [
+            {
+              "label": "Open the Chapter 5 roadmap",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-circles"
+            }
+          ],
+          "images": [
+            {
+              "src": "images/ch5-radii-isosceles.png",
+              "caption": "Two radii and a chord make an isosceles triangle"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch5-check",
+          "label": "Ch 5: check yourself first",
+          "type": "core",
+          "desc": "Two minutes, four questions. Each wrong answer points to the exact step to do before the chapter.",
+          "links": [
+            {
+              "label": "Chapter 5: Check yourself",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-circles#check-yourself"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch5-inside",
+          "label": "Ch 5: what's inside",
+          "type": "core",
+          "desc": "The milestones, in order:\n- The words for a circle\n- How many circles fit through some points?\n- Chords and their distance from the centre\n- Angles made by an arc\n- Cyclic quadrilaterals\n\nThen an optional *When you're ready* milestone with challenge questions.",
+          "links": [
+            {
+              "label": "Open the Chapter 5 roadmap",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-circles"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch5-teachers",
+          "label": "Ch 5: for teachers",
+          "type": "optional",
+          "desc": "A 8-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.",
+          "links": [
+            {
+              "label": "Chapter 5: lesson plan",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-circles#lesson-plan"
+            },
+            {
+              "label": "Chapter 5: exit ticket",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-circles#exit-ticket"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "chapter-6",
+      "label": "Chapter 6: Perimeter and Area",
+      "links": [
+        {
+          "label": "Open the Chapter 6 roadmap",
+          "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-perimeter-area"
+        }
+      ],
+      "desc": "**The one idea:** Fence or floor? Every area formula is a cut-and-rearrange picture.\n\n**Needs first:** Chapter 3 (π is irrational) and Chapter 5 (arcs and sectors). Chapter 4's area pictures help.\n\nTextbook chapter: *Measuring Space: Perimeter and Area*. The roadmap has 33 steps, 23 of them on the core path.",
+      "children": [
+        {
+          "id": "ch6-idea",
+          "label": "Ch 6: the one idea",
+          "type": "core",
+          "desc": "Fence or floor? Every area formula is a cut-and-rearrange picture.\n\nOpen the chapter roadmap and start with its first step.",
+          "links": [
+            {
+              "label": "Open the Chapter 6 roadmap",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-perimeter-area"
+            }
+          ],
+          "images": [
+            {
+              "src": "images/ch6-fence-floor.png",
+              "caption": "Same area, different perimeter"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch6-check",
+          "label": "Ch 6: check yourself first",
+          "type": "core",
+          "desc": "Two minutes, four questions. Each wrong answer points to the exact step to do before the chapter.",
+          "links": [
+            {
+              "label": "Chapter 6: Check yourself",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-perimeter-area#check-yourself"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch6-inside",
+          "label": "Ch 6: what's inside",
+          "type": "core",
+          "desc": "The milestones, in order:\n- Perimeter and area: fence or floor?\n- The perimeter of a circle\n- Arcs and pieces of a circle\n- Areas of straight-sided shapes\n- Heron's formula: area from three sides\n- The area of a circle\n\nThen an optional *When you're ready* milestone with challenge questions.",
+          "links": [
+            {
+              "label": "Open the Chapter 6 roadmap",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-perimeter-area"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch6-teachers",
+          "label": "Ch 6: for teachers",
+          "type": "optional",
+          "desc": "A 8-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.",
+          "links": [
+            {
+              "label": "Chapter 6: lesson plan",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-perimeter-area#lesson-plan"
+            },
+            {
+              "label": "Chapter 6: exit ticket",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-perimeter-area#exit-ticket"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "chapter-7",
+      "label": "Chapter 7: Probability",
+      "links": [
+        {
+          "label": "Open the Chapter 7 roadmap",
+          "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-probability"
+        }
+      ],
+      "desc": "**The one idea:** Probability is the ways you want divided by all the ways.\n\n**Needs first:** Fractions only. This chapter can be done early.\n\nTextbook chapter: *The Mathematics of Maybe: Introduction to Probability*. The roadmap has 29 steps, 20 of them on the core path.",
+      "children": [
+        {
+          "id": "ch7-idea",
+          "label": "Ch 7: the one idea",
+          "type": "core",
+          "desc": "Probability is the ways you want divided by all the ways.\n\nOpen the chapter roadmap and start with its first step.",
+          "links": [
+            {
+              "label": "Open the Chapter 7 roadmap",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-probability"
+            }
+          ],
+          "images": [
+            {
+              "src": "images/ch7-marbles.png",
+              "caption": "3 red and 5 blue marbles: P(red) = 3/8"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch7-check",
+          "label": "Ch 7: check yourself first",
+          "type": "core",
+          "desc": "Two minutes, four questions. Each wrong answer points to the exact step to do before the chapter.",
+          "links": [
+            {
+              "label": "Chapter 7: Check yourself",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-probability#check-yourself"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch7-inside",
+          "label": "Ch 7: what's inside",
+          "type": "core",
+          "desc": "The milestones, in order:\n- How likely is it?\n- Probability by counting\n- Probability from experiments and data\n- Sample spaces and events\n- Tree diagrams\n\nThen an optional *When you're ready* milestone with challenge questions.",
+          "links": [
+            {
+              "label": "Open the Chapter 7 roadmap",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-probability"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch7-teachers",
+          "label": "Ch 7: for teachers",
+          "type": "optional",
+          "desc": "A 6-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.",
+          "links": [
+            {
+              "label": "Chapter 7: lesson plan",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-probability#lesson-plan"
+            },
+            {
+              "label": "Chapter 7: exit ticket",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-probability#exit-ticket"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "chapter-8",
+      "label": "Chapter 8: Sequences and Progressions",
+      "links": [
+        {
+          "label": "Open the Chapter 8 roadmap",
+          "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-sequences"
+        }
+      ],
+      "desc": "**The one idea:** Do the same thing every time: add the same number for an AP, multiply by the same number for a GP.\n\n**Needs first:** Chapter 2: an AP is a start plus the same jump.\n\nTextbook chapter: *Predicting What Comes Next: Exploring Sequences and Progressions*. The roadmap has 33 steps, 22 of them on the core path.",
+      "children": [
+        {
+          "id": "ch8-idea",
+          "label": "Ch 8: the one idea",
+          "type": "core",
+          "desc": "Do the same thing every time: add the same number for an AP, multiply by the same number for a GP.\n\nOpen the chapter roadmap and start with its first step.",
+          "links": [
+            {
+              "label": "Open the Chapter 8 roadmap",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-sequences"
+            }
+          ],
+          "images": [
+            {
+              "src": "images/ch8-ap-vs-gp.png",
+              "caption": "An AP grows steadily; a GP shoots up"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch8-check",
+          "label": "Ch 8: check yourself first",
+          "type": "core",
+          "desc": "Two minutes, four questions. Each wrong answer points to the exact step to do before the chapter.",
+          "links": [
+            {
+              "label": "Chapter 8: Check yourself",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-sequences#check-yourself"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch8-inside",
+          "label": "Ch 8: what's inside",
+          "type": "core",
+          "desc": "The milestones, in order:\n- What is a sequence?\n- Arithmetic progressions: add the same number\n- Adding up a sequence\n- Geometric progressions: multiply by the same number\n\nThen an optional *When you're ready* milestone with challenge questions.",
+          "links": [
+            {
+              "label": "Open the Chapter 8 roadmap",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-sequences"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch8-teachers",
+          "label": "Ch 8: for teachers",
+          "type": "optional",
+          "desc": "A 7-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.",
+          "links": [
+            {
+              "label": "Chapter 8: lesson plan",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-sequences#lesson-plan"
+            },
+            {
+              "label": "Chapter 8: exit ticket",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-sequences#exit-ticket"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

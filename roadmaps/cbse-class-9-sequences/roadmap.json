@@ -1,0 +1,640 @@
+{
+  "title": "Class 9 Maths, Chapter 8: Sequences and Progressions, Step by Step",
+  "subtitle": "For students who find maths hard. One idea holds the chapter together: do the same thing every time. Add the same number and you get an AP; multiply by the same number and you get a GP. Matchsticks, dot patterns and graphs, every step shown, practice with answers. Follows NCERT Ganita Manjari, Grade 9 Part I, Chapter 8 (Predicting What Comes Next: Exploring Sequences and Progressions).",
+  "updated": "2026-11-04",
+  "changelog": [
+    {
+      "date": "2026-11-04",
+      "text": "Linked into the Class 9 Maths Part I series: links to all chapters and to the chapters before and after this one."
+    },
+    {
+      "date": "2026-11-04",
+      "text": "First version: written for students who find maths hard. Patterns and rules first, APs as Chapter 2's start plus jump, sums by pairing, GPs side by side with APs, practice with answers, and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** feel sure about spotting a difference, putting a number into a rule, solving a one-step equation, and powers.\n\nThis chapter uses Chapter 2 again: a start, plus the same jump every time. If that felt good, you are already halfway there.",
+      "links": [
+        {
+          "label": "Your textbook: NCERT Ganita Manjari, Grade 9 Part I, Chapter 8 (free PDF)",
+          "url": "https://ncert.nic.in/textbook/pdf/iemh108.pdf"
+        },
+        {
+          "label": "DIKSHA: free NCERT videos and lessons",
+          "url": "https://diksha.gov.in/"
+        }
+      ],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. On the map the steps go left and right, so press **Checklist view** at the top to see them as a list, in order.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Write out the first few terms** of every sequence before doing anything clever.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: to get the next term, do the same thing every time.** Add the same number, and you get an **AP**. Multiply by the same number, and you get a **GP**.",
+          "links": [
+            {
+              "label": "All eight chapters: Class 9 Maths, Part I",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-maths-part-1"
+            },
+            {
+              "label": "Previous chapter: 7. Probability",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-probability"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. What is added each time in 4, 7, 10, 13?",
+              "a": "**3.** Wrong? Do *Spotting the jump*."
+            },
+            {
+              "q": "2. Find 4n + 3 when n = 6.",
+              "a": "4 × 6 + 3 = **27**. Wrong? Do *Putting a number into a rule*."
+            },
+            {
+              "q": "3. Solve 4n + 5 = 45.",
+              "a": "4n = 40, so **n = 10**. Wrong? Do *Solving for n*."
+            },
+            {
+              "q": "4. What is 2⁶?",
+              "a": "2 × 2 × 2 × 2 × 2 × 2 = **64**. Wrong? Do *Powers*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "spot-jump",
+          "label": "Spotting the jump",
+          "type": "core",
+          "desc": "Write the numbers in a row and **subtract each from the next**.\n\n- 4, 7, 10, 13: the differences are 3, 3, 3. **Same jump every time.**\n- 1, 4, 9, 16: the differences are 3, 5, 7. Not the same, but the differences themselves go up by 2.\n- 3, 6, 12, 24: the differences are 3, 6, 12. Not the same. But each number is **double** the one before.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: find the jump: 50, 44, 38, 32.",
+              "a": "Each difference is 44 − 50 = **−6**. The numbers go down by 6."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "substitute",
+          "label": "Putting a number into a rule",
+          "type": "core",
+          "desc": "A rule like **3n − 1** means: take the number n, multiply by 3, then take 1 away.\n\n- n = 1: 3 × 1 − 1 = 2.\n- n = 5: 3 × 5 − 1 = 14.\n\nMultiply **before** you add or subtract.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: find 4n − 3 when n = 10.",
+              "a": "4 × 10 − 3 = **37**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "solve-n",
+          "label": "Solving for n",
+          "type": "core",
+          "desc": "To find which n gives a number, undo the rule **backwards**.\n\n**Worked example:** 3n − 1 = 59.\n- Undo the −1: add 1 to both sides. 3n = 60.\n- Undo the ×3: divide both sides by 3. **n = 20**.\n\nIf n comes out as a fraction, the number is not in the sequence. You can't have a 'term number 12.5'.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: solve 4n + 5 = 45.",
+              "a": "4n = 40, so **n = 10**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "powers",
+          "label": "Powers",
+          "type": "core",
+          "desc": "2⁵ means 2 × 2 × 2 × 2 × 2 = **32**. The small number says **how many** 2s to multiply.\n\n- 3⁴ = 3 × 3 × 3 × 3 = **81**.\n- 5³ = **125**.\n- Anything to the power 1 is itself: 7¹ = 7. Anything to the power 0 is 1: 7⁰ = 1.\n\nYou need powers for GPs, where we multiply again and again.",
+          "links": [
+            {
+              "label": "Math is Fun: exponents",
+              "url": "https://www.mathsisfun.com/exponent.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: find 2⁶ and 5³.",
+              "a": "2⁶ = **64**. 5³ = **125**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "sequences",
+      "label": "What is a sequence?",
+      "desc": "**Goal:** know what a sequence is, and describe one with a rule in two ways: from n, and from the term before. Exercise Set 8.1 uses this.",
+      "links": [],
+      "children": [
+        {
+          "id": "what-sequence",
+          "label": "A list in order",
+          "type": "core",
+          "desc": "A **sequence** is a list of numbers in a fixed order. Each number is a **term**.\n\nWe write **t₁** for the first term, **t₂** for the second, and **tₙ** for the term in position n.\n\n**Example:** the odd numbers 1, 3, 5, 7, 9 ... Here t₁ = 1, t₃ = 5, t₅ = 9.\n\nThe three dots ... mean it carries on for ever.",
+          "links": [
+            {
+              "label": "Math is Fun: sequences",
+              "url": "https://www.mathsisfun.com/algebra/sequences-series.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: in 2, 4, 6, 8, 10 ..., what are t₂ and t₅?",
+              "a": "t₂ = **4**. t₅ = **10**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "famous",
+          "label": "Famous sequences, as pictures",
+          "type": "core",
+          "desc": "- **Odd numbers:** 1, 3, 5, 7, 9 ...\n- **Square numbers:** 1, 4, 9, 16, 25 ... Each one adds the next odd number: 1 + 3 = 4, 4 + 5 = 9.\n- **Triangular numbers:** 1, 3, 6, 10, 15 ... Dots in a triangle. Each one adds the next counting number: 1 + 2 = 3, 3 + 3 = 6.",
+          "links": [
+            {
+              "label": "Math is Fun: triangular numbers",
+              "url": "https://www.mathsisfun.com/algebra/triangular-numbers.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: write the next two triangular numbers after 21.",
+              "a": "21 + 7 = **28**, then 28 + 8 = **36**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/dot-patterns.png",
+              "caption": "Triangular and square numbers drawn as dots"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "explicit",
+          "label": "Rule from n: jump straight to any term",
+          "type": "core",
+          "desc": "An **explicit rule** gives tₙ from n directly.\n\n**Worked example:** tₙ = 3n + 2.\n- First five terms: 5, 8, 11, 14, 17.\n- 40th term: 3 × 40 + 2 = **122**. No need to write out 39 terms first.\n\n**Is 200 a term?** 3n + 2 = 200, so 3n = 198 and **n = 66**. Yes: it is the 66th term.\n\n**Is 100 a term?** 3n + 2 = 100, so 3n = 98 and n = 32.67. Not a whole number, so **no**.",
+          "links": [
+            {
+              "label": "Math is Fun: sequences, finding a rule",
+              "url": "https://www.mathsisfun.com/algebra/sequences-finding-rule.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: tₙ = 4n − 1. Find the first four terms and the 25th term.",
+              "a": "3, 7, 11, 15. 25th: 4 × 25 − 1 = **99**."
+            },
+            {
+              "q": "Your turn: tₙ = 4n − 1. Are 155 and 154 terms?",
+              "a": "4n − 1 = 155 gives n = **39**, yes. 4n − 1 = 154 gives n = 38.75, **no**."
+            },
+            {
+              "q": "Your turn: tₙ = n² + 1. Find the first four terms and the 10th.",
+              "a": "2, 5, 10, 17. 10th: 100 + 1 = **101**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "recursive",
+          "label": "Rule from the term before",
+          "type": "core",
+          "desc": "A **recursive rule** says how to get each term **from the one before**. It needs a starting term.\n\n**Worked example:** t₁ = 4, tₙ = tₙ₋₁ + 5.\n- Start with 4. Keep adding 5: **4, 9, 14, 19, 24**.\n\n**Another:** t₁ = 2, tₙ = 3tₙ₋₁ − 1.\n- t₂ = 3 × 2 − 1 = 5. t₃ = 3 × 5 − 1 = 14. t₄ = 3 × 14 − 1 = **41**.\n\ntₙ₋₁ just means 'the term before'.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: t₁ = 1, tₙ = 2tₙ₋₁ + 1. Find the first four terms.",
+              "a": "1, 3, 7, **15**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "virahanka",
+          "label": "Virahānka's sequence",
+          "type": "optional",
+          "desc": "Start with 1, 2. Each next term is the **sum of the two before**:\n\n**1, 2, 3, 5, 8, 13, 21, 34, 55, 89 ...**\n\n**Virahānka** wrote it down in the 7th century while counting rhythms in Prakrit poetry. Gopāla and Hemachandra studied it later, and Fibonacci in Italy around 1200. It turns up in flowers, pine cones and shells.",
+          "links": [
+            {
+              "label": "Math is Fun: Fibonacci sequence",
+              "url": "https://www.mathsisfun.com/numbers/fibonacci-sequence.html"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "ap",
+      "label": "Arithmetic progressions: add the same number",
+      "desc": "**Goal:** recognise an AP, find any term with tₙ = a + (n − 1)d, and decide whether a number is in it. Exercise Set 8.2 uses this.\n\nAn AP is exactly Chapter 2's idea: **a start plus the same jump every time**.",
+      "links": [],
+      "children": [
+        {
+          "id": "what-ap",
+          "label": "What an AP is",
+          "type": "core",
+          "desc": "In an **arithmetic progression (AP)** you **add the same number** every time. That number is the **common difference**, d.\n\n- 4, 7, 10, 13 ...: a = 4, d = 3.\n- 20, 17, 14, 11 ...: a = 20, d = −3. A negative d means the terms go **down**.\n- 1, 4, 9, 16 ... is **not** an AP: the differences change.\n\nIn the picture, each new square needs 3 more matchsticks: 4, 7, 10, 13.",
+          "links": [
+            {
+              "label": "Math is Fun: arithmetic sequences and sums",
+              "url": "https://www.mathsisfun.com/algebra/sequences-sums-arithmetic.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: which are APs? (a) 5, 9, 13, 17, (b) 2, 4, 8, 16, (c) 10, 7, 4, 1.",
+              "a": "(a) **AP**, d = 4. (b) **not** an AP (it doubles). (c) **AP**, d = −3."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/matchsticks.png",
+              "caption": "Matchstick squares: 4, 7, 10, 13"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "nth-term",
+          "label": "The nth term: a + (n − 1)d",
+          "type": "core",
+          "desc": "To reach term n, start at a and make **n − 1 jumps** of d.\n\n**tₙ = a + (n − 1)d**\n\nWhy n − 1? The 1st term needs 0 jumps, the 2nd needs 1, the 3rd needs 2.\n\n**Worked example:** 4, 7, 10, 13 ... Find the 20th term.\n- a = 4, d = 3, n = 20.\n- t₂₀ = 4 + 19 × 3 = 4 + 57 = **61**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: 5, 9, 13 ... Find the 10th and 25th terms.",
+              "a": "t₁₀ = 5 + 9 × 4 = **41**. t₂₅ = 5 + 24 × 4 = **101**."
+            },
+            {
+              "q": "Your turn: 20, 17, 14 ... Find the 10th term.",
+              "a": "t₁₀ = 20 + 9 × (−3) = 20 − 27 = **−7**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "which-term",
+          "label": "Which term is it?",
+          "type": "core",
+          "desc": "Set the rule equal to the number and solve for n.\n\n**Worked example:** is 100 a term of 4, 7, 10 ...?\n- 4 + (n − 1) × 3 = 100.\n- (n − 1) × 3 = 96, so n − 1 = 32, so **n = 33**. Yes, the 33rd term.\n\n**Is 150 a term?** (n − 1) × 3 = 146, n − 1 = 48.67. Not whole, so **no**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which term of 20, 17, 14 ... is −16?",
+              "a": "20 + (n − 1)(−3) = −16, so (n − 1)(−3) = −36, n − 1 = 12, **n = 13**."
+            },
+            {
+              "q": "Your turn: 50, 44, 38 ... What is the last positive term?",
+              "a": "t₉ = 50 − 8 × 6 = **2**. t₁₀ = −4, so the 9th term is the last positive one."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ap-graph",
+          "label": "An AP on a graph is a straight line",
+          "type": "core",
+          "desc": "Plot (term number, term) for 4, 7, 10, 13 ...: (1, 4), (2, 7), (3, 10). The points lie on a **straight line**.\n\nThis is Chapter 2 again: the common difference is the **slope**. tₙ = 4 + (n − 1)3 simplifies to **3n + 1**, a linear polynomial.",
+          "links": [],
+          "images": [
+            {
+              "src": "images/ap-line.png",
+              "caption": "The terms of an AP lie on a straight line"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ap-life",
+          "label": "APs in real life",
+          "type": "core",
+          "desc": "Anything with a **fixed start plus a fixed amount each time** is an AP.\n\n**Worked example:** an auto charges ₹30 to start plus ₹15 per km.\n- After 1, 2, 3 km: ₹45, ₹60, ₹75. An AP with d = 15.\n- After 12 km: 30 + 15 × 12 = **₹210**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: you save ₹400 now and add ₹50 every month. After how many months do you have ₹1000?",
+              "a": "400 + 50m = 1000, so 50m = 600, **m = 12 months**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "sums",
+      "label": "Adding up a sequence",
+      "desc": "**Goal:** add 1 + 2 + ... + n quickly, and add any AP with Āryabhaṭa's shortcut.",
+      "links": [],
+      "children": [
+        {
+          "id": "pairing",
+          "label": "1 + 2 + ... + n: pair them up",
+          "type": "core",
+          "desc": "Add 1 to 10. Write the sum forwards and backwards:\n- 1 + 2 + 3 + ... + 10\n- 10 + 9 + 8 + ... + 1\n- Each column adds to **11**, and there are 10 columns. Both rows together: 10 × 11 = 110.\n- One row is half: **55**.\n\n**In general: 1 + 2 + ... + n = n(n + 1) ÷ 2.** So 1 + 2 + ... + 100 = 100 × 101 ÷ 2 = **5050**.",
+          "links": [
+            {
+              "label": "Math is Fun: triangular numbers",
+              "url": "https://www.mathsisfun.com/algebra/triangular-numbers.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: find 1 + 2 + ... + 20 and 1 + 2 + ... + 50.",
+              "a": "20 × 21 ÷ 2 = **210**. 50 × 51 ÷ 2 = **1275**."
+            },
+            {
+              "q": "Your turn: 25 rows of marbles: 1 in the first, 2 in the second, and so on. How many marbles?",
+              "a": "25 × 26 ÷ 2 = **325**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/pairing.png",
+              "caption": "Two copies of 1 + 2 + ... + 6 make a 6 by 7 rectangle"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "middle-sums",
+          "label": "Adding a stretch in the middle",
+          "type": "core",
+          "desc": "To add 11 + 12 + ... + 30, add from 1 to 30, then take away 1 to 10.\n- 1 to 30: 30 × 31 ÷ 2 = 465.\n- 1 to 10: 55.\n- 11 to 30: 465 − 55 = **410**.\n\nCareful: take away up to **10**, not 11, or you lose the 11.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: find 20 + 21 + ... + 40.",
+              "a": "1 to 40 = 820. 1 to 19 = 190. So **630**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "aryabhata",
+          "label": "Āryabhaṭa's shortcut for any AP",
+          "type": "core",
+          "desc": "In 499 CE **Āryabhaṭa** gave a rule that works for any AP:\n\n**Sum = (first + last) ÷ 2 × number of terms**\n\nIt is the pairing trick again: (first + last) ÷ 2 is the average term.\n\n**Worked example:** 3 + 7 + 11 + ... + 39 (10 terms).\n- (3 + 39) ÷ 2 = 21.\n- 21 × 10 = **210**.",
+          "links": [
+            {
+              "label": "Math is Fun: arithmetic sequences and sums",
+              "url": "https://www.mathsisfun.com/algebra/sequences-sums-arithmetic.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: add all two-digit multiples of 5: 10 + 15 + ... + 95.",
+              "a": "Count: (95 − 10) ÷ 5 + 1 = 18 terms. (10 + 95) ÷ 2 × 18 = **945**."
+            },
+            {
+              "q": "Your turn: how many two-digit numbers divide by 3, and what is their sum?",
+              "a": "12, 15, ..., 99: (99 − 12) ÷ 3 + 1 = **30** numbers. Sum = (12 + 99) ÷ 2 × 30 = **1665**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "gp",
+      "label": "Geometric progressions: multiply by the same number",
+      "desc": "**Goal:** recognise a GP, find any term with tₙ = arⁿ⁻¹, and see how fast GPs grow or shrink. Exercise Set 8.3 uses this.",
+      "links": [],
+      "children": [
+        {
+          "id": "what-gp",
+          "label": "What a GP is",
+          "type": "core",
+          "desc": "In a **geometric progression (GP)** you **multiply by the same number** every time. That number is the **common ratio**, r.\n\n- 3, 6, 12, 24 ...: r = 2.\n- 2, 6, 18, 54 ...: r = 3.\n- 81, 27, 9, 3, 1 ...: r = 1/3. A fraction r makes the terms **shrink**.\n- 1, −1, 1, −1 ...: r = −1.\n\n**Test:** divide each term by the one before. If you always get the same answer, it is a GP. For 3, 6, 12: 6/3 = 2 and 12/6 = 2.",
+          "links": [
+            {
+              "label": "Math is Fun: geometric sequences and sums",
+              "url": "https://www.mathsisfun.com/algebra/sequences-sums-geometric.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: AP, GP or neither? (a) 5, 10, 20, 40, (b) 5, 10, 15, 20, (c) 5, 10, 15, 25.",
+              "a": "(a) **GP**, r = 2. (b) **AP**, d = 5. (c) **neither**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "gp-nth",
+          "label": "The nth term: a × rⁿ⁻¹",
+          "type": "core",
+          "desc": "To reach term n, start at a and **multiply by r, n − 1 times**.\n\n**tₙ = a × rⁿ⁻¹**\n\n**Worked example:** 3, 6, 12 ... Find the 10th term.\n- a = 3, r = 2.\n- t₁₀ = 3 × 2⁹ = 3 × 512 = **1536**.\n\n**Which term is 384?** 3 × 2ⁿ⁻¹ = 384, so 2ⁿ⁻¹ = 128 = 2⁷. So n − 1 = 7, **n = 8**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: 2, 6, 18 ... Find the 7th term.",
+              "a": "2 × 3⁶ = 2 × 729 = **1458**."
+            },
+            {
+              "q": "Your turn: 5, 15, 45 ... Find the 5th term.",
+              "a": "5 × 3⁴ = 5 × 81 = **405**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ap-vs-gp",
+          "label": "Adding versus multiplying",
+          "type": "core",
+          "desc": "Start both at 3. The AP adds 3, the GP doubles:\n- AP: 3, 6, 9, 12, 15, 18, 21\n- GP: 3, 6, 12, 24, 48, 96, 192\n\nThey start together, then the GP races away. An AP on a graph is a straight line. A GP curves up more and more steeply.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: 500 bacteria double every hour. How many after 6 hours?",
+              "a": "500 × 2⁶ = **32 000**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/ap-vs-gp.png",
+              "caption": "An AP grows steadily; a GP shoots up"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "shrinking",
+          "label": "Shrinking GPs: a bouncing ball",
+          "type": "core",
+          "desc": "A ball is dropped from 64 m. Each bounce reaches **¾** of the height before.\n- 1st bounce: 64 × ¾ = 48 m.\n- 2nd: 48 × ¾ = 36 m.\n- 3rd: 27 m. 4th: 20.25 m.\n\nA GP with r between 0 and 1 gets smaller and smaller, but never reaches zero.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a ball is dropped from 100 m and bounces to half its height each time. Find the first four bounce heights.",
+              "a": "**50, 25, 12.5 and 6.25 m.**"
+            }
+          ],
+          "images": [
+            {
+              "src": "images/bounce.png",
+              "caption": "Each bounce is three quarters of the one before"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "fractals",
+          "label": "Fractals: GPs you can see",
+          "type": "optional",
+          "desc": "Start with a triangle. Cut out the middle to leave 3 smaller triangles. Do the same to each of those. And again.\n\nThe number of triangles is **1, 3, 9, 27 ...**: a GP with r = 3. This is the **Sierpiński triangle**, a fractal. Zoom into any part and it looks like the whole.",
+          "links": [
+            {
+              "label": "Math is Fun: the Sierpinski triangle",
+              "url": "https://www.mathsisfun.com/sierpinski-triangle.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: how many triangles at stage 5?",
+              "a": "3⁵ = **243**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/sierpinski.png",
+              "caption": "The Sierpiński triangle: 1, 3, 9, 27 triangles"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These match the starred end-of-chapter questions in your textbook. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "two-terms",
+          "label": "Finding an AP from two terms",
+          "type": "optional",
+          "desc": "**Worked example:** the 3rd term of an AP is 11 and the 7th is 23. Find the AP.\n- From the 3rd to the 7th term is 4 jumps: 23 − 11 = 12, so **d = 3**.\n- Go back 2 jumps from the 3rd: a = 11 − 6 = **5**.\n- The AP is 5, 8, 11, 14, 17, 20, 23 ... and the 20th term is 5 + 19 × 3 = **62**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "count-multiples",
+          "label": "How many three-digit multiples of 7?",
+          "type": "optional",
+          "desc": "- The first is 105 (7 × 15). The last is 994 (7 × 142).\n- They make an AP with d = 7.\n- Number of terms = (994 − 105) ÷ 7 + 1 = 127 + 1 = **128**.\n\nDon't forget the **+ 1**: counting from 105 to 994 includes both ends.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "consecutive-100",
+          "label": "100 as a sum of numbers in a row",
+          "type": "optional",
+          "desc": "Can 100 be written as a sum of consecutive whole numbers?\n- 18 + 19 + 20 + 21 + 22 = **100** (5 numbers, middle one 20).\n- 9 + 10 + ... + 16 = **100** (8 numbers, average 12.5).\n\nThe trick: (average) × (how many) = 100.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "tribonacci",
+          "label": "Adding the three before",
+          "type": "optional",
+          "desc": "T₁ = 1, T₂ = 2, T₃ = 4, and each next term adds the **three** before it.\n\n1, 2, 4, **7, 13, 24, 44, 81** ...",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "smallest-n",
+          "label": "When does the sum pass 500?",
+          "type": "optional",
+          "desc": "Find the smallest n for which 1 + 2 + ... + n is more than 500.\n- n(n + 1) ÷ 2 > 500, so n(n + 1) > 1000.\n- 31 × 32 = 992. Too small.\n- 32 × 33 = 1056. Big enough. So **n = 32**.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThis chapter reuses Chapter 2's 'start plus the same jump' idea, which is a real chance to build confidence: an AP is the same thing written as a list. The roadmap keeps two ideas side by side, **add the same number (AP)** and **multiply by the same number (GP)**, and always writes out the first few terms before using a formula.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- **Start with *Check yourself*.** Most errors here are arithmetic with negatives, or solving for n.\n- **Always write out the first four terms** before using tₙ = a + (n − 1)d. It catches wrong values of a and d.\n- **Explain n − 1 with jumps:** the 1st term needs no jumps, the 2nd needs one.\n- **Use matchsticks and dot patterns.** Counting real objects makes the rule feel earned.\n- **Connect back to Chapter 2:** the AP's common difference is the slope of the line.\n- **Keep AP and GP side by side** with the same start, so students see adding versus multiplying.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 7-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** the *Start here* tools; what a sequence is; famous sequences. **Activity:** build triangular and square numbers with counters.\n- **Period 2:** explicit and recursive rules (Exercise Set 8.1).\n- **Period 3:** APs: matchsticks, common difference, tₙ = a + (n − 1)d. **Activity:** matchstick squares and triangles in rows.\n- **Period 4:** which term; APs on a graph; real-life APs.\n- **Period 5:** sums: pairing, middle stretches, Āryabhaṭa's shortcut (Exercise Set 8.2).\n- **Period 6:** GPs: common ratio, nth term, growing and shrinking (Exercise Set 8.3). **Activity:** fold paper in half repeatedly and count the layers.\n- **Period 7:** mixed practice; exit ticket. Fractals and challenge questions for those ready.",
+          "links": [
+            {
+              "label": "Your textbook: NCERT Ganita Manjari, Grade 9 Part I, Chapter 8 (free PDF)",
+              "url": "https://ncert.nic.in/textbook/pdf/iemh108.pdf"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Using n instead of n − 1 in a + (n − 1)d.\n- Getting d the wrong way round (term before minus term after) or forgetting a negative d.\n- Accepting a fraction as a term number.\n- Calling a sequence an AP from only two terms.\n- Forgetting the + 1 when counting terms from first to last.\n- In a GP, working out (ar)ⁿ⁻¹ instead of a × rⁿ⁻¹.\n- Taking away up to the wrong number in middle sums.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Find the 12th term of 6, 11, 16 ...",
+              "a": "6 + 11 × 5 = **61**."
+            },
+            {
+              "q": "2. Which term of 1, 3, 5, 7 ... is 91?",
+              "a": "1 + (n − 1) × 2 = 91, so n − 1 = 45, **n = 46**."
+            },
+            {
+              "q": "3. Find 1 + 2 + ... + 60.",
+              "a": "60 × 61 ÷ 2 = **1830**."
+            },
+            {
+              "q": "4. Find the 6th term of 2, 6, 18 ...",
+              "a": "2 × 3⁵ = **486**."
+            },
+            {
+              "q": "5. AP, GP or neither: 100, 50, 25, 12.5?",
+              "a": "**GP**, r = ½."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

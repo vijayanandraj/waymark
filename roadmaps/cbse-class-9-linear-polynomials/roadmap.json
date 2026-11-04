@@ -1,0 +1,819 @@
+{
+  "title": "Class 9 Maths, Chapter 2: Linear Polynomials, Step by Step",
+  "subtitle": "For students who find maths hard. The whole chapter is one idea, a start plus the same jump every time, taught in small steps with every calculation shown and plenty of practice. Follows NCERT Ganita Manjari, Grade 9 Part I, Chapter 2 (Introduction to Linear Polynomials).",
+  "updated": "2026-11-04",
+  "changelog": [
+    {
+      "date": "2026-11-04",
+      "text": "Linked into the Class 9 Maths Part I series: links to all chapters and to the chapters before and after this one."
+    },
+    {
+      "date": "2026-11-03",
+      "text": "First version: written for students who find maths hard. Basic skills first, the chapter taught as 'a start plus a jump', practice in levels with answers, and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** feel sure about four small skills this chapter uses on almost every page: what a letter means, the order of working, negative numbers, and undoing.\n\nMost students who find algebra hard are stuck on one of these four, not on the new ideas. So we fix them first. If they are already easy, do *Check yourself* and move on.",
+      "links": [
+        {
+          "label": "Your textbook: NCERT Ganita Manjari, Grade 9 Part I, Chapter 2 (free PDF)",
+          "url": "https://ncert.nic.in/textbook/pdf/iemh102.pdf"
+        },
+        {
+          "label": "DIKSHA: free NCERT videos and lessons",
+          "url": "https://diksha.gov.in/"
+        }
+      ],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. On the map the steps go left and right, so press **Checklist view** at the top to see them as a list, in order.\n- Click a box to open it. Read the idea, follow the worked example, then do **Your turn**.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: a start, plus the same jump every time.** Watch for it. Once you see it, the chapter becomes much smaller than it looks.",
+          "links": [
+            {
+              "label": "All eight chapters: Class 9 Maths, Part I",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-maths-part-1"
+            },
+            {
+              "label": "Previous chapter: 1. Coordinates",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-coordinates"
+            },
+            {
+              "label": "Next chapter: 3. The World of Numbers",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-numbers"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. What is 4 + 3 × 2?",
+              "a": "**10.** Multiply first: 3 × 2 = 6, then 4 + 6 = 10. Wrote 14? Do *Order: multiply before you add*."
+            },
+            {
+              "q": "2. What is 5 × (−3)?",
+              "a": "**−15.** A positive times a negative is negative. Wrong? Do *Multiplying with negative numbers*."
+            },
+            {
+              "q": "3. If x = 6, what is 2x?",
+              "a": "**12.** 2x means 2 × x = 2 × 6. Wrote 26? Do *Letters stand for numbers*."
+            },
+            {
+              "q": "4. Solve x + 9 = 20.",
+              "a": "**x = 11.** Take 9 away from both sides. Wrong? Do *Undoing: solving simple equations*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "letters",
+          "label": "Letters stand for numbers",
+          "type": "core",
+          "desc": "In algebra a letter, like **x**, is a box with a number hidden inside. We use a letter when the number can change, or when we don't know it yet.\n\nHow to read letters:\n- **2x** means 2 × x. We leave out the × sign.\n- **x + 4** means 'x, plus 4'.\n- **x²** means x × x.\n\n**Worked example: x = 3.**\n- 2x = 2 × 3 = **6**\n- x + 4 = 3 + 4 = **7**\n- x² = 3 × 3 = **9**\n\nNotice that 2x and x² are different: 6 and 9.",
+          "links": [
+            {
+              "label": "Math is Fun: introduction to algebra",
+              "url": "https://www.mathsisfun.com/algebra/introduction.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: x = 5. Find 3x, x − 2 and x².",
+              "a": "3x = 3 × 5 = **15**. x − 2 = **3**. x² = 5 × 5 = **25**."
+            },
+            {
+              "q": "Common mistake: 'x = 4, so 2x = 24'",
+              "a": "2x does not mean 'write 2, then write x'. It means 2 **times** x: 2 × 4 = **8**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "order",
+          "label": "Order: multiply before you add",
+          "type": "core",
+          "desc": "When a sum has both × and +, the order matters. **Multiply (and divide) before you add (and subtract).**\n\n**Worked example: 4 + 3 × 2.**\n- First multiply: 3 × 2 = 6\n- Then add: 4 + 6 = **10** (not 14)\n\nThe full order for this chapter:\n- **Brackets** first\n- then **powers** (like ²)\n- then **× and ÷**\n- then **+ and −**\n\nIn India this is often remembered as BODMAS.",
+          "links": [
+            {
+              "label": "Math is Fun: order of operations (BODMAS)",
+              "url": "https://www.mathsisfun.com/operation-order-bodmas.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: 10 − 2 × 3",
+              "a": "Multiply first: 2 × 3 = 6. Then 10 − 6 = **4**."
+            },
+            {
+              "q": "Your turn: (10 − 2) × 3",
+              "a": "Brackets first: 10 − 2 = 8. Then 8 × 3 = **24**. The brackets changed the answer."
+            },
+            {
+              "q": "Your turn: 2 × 5²",
+              "a": "Power first: 5² = 25. Then 2 × 25 = **50**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "negatives",
+          "label": "Multiplying with negative numbers",
+          "type": "core",
+          "desc": "Two simple rules:\n\n- **Same signs** give a **positive** answer: (−3) × (−4) = **12**\n- **Different signs** give a **negative** answer: 3 × (−4) = **−12**\n\nSo a negative number squared is positive: (−2)² = (−2) × (−2) = **4**.\n\n**Always write brackets around a negative number** when you multiply it. It stops the minus sign getting lost.",
+          "links": [
+            {
+              "label": "Math is Fun: multiplying negatives",
+              "url": "https://www.mathsisfun.com/multiplying-negatives.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: 5 × (−2), (−6) × (−2) and (−1) × 7",
+              "a": "5 × (−2) = **−10** (different signs). (−6) × (−2) = **12** (same signs). (−1) × 7 = **−7**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "undoing",
+          "label": "Undoing: solving simple equations",
+          "type": "core",
+          "desc": "An **equation** is like a balance: the left side equals the right side. To find x, **undo** what was done to it. Whatever you do to one side, do to the other.\n\n- Undo **+** with **−**, and **−** with **+**\n- Undo **×** with **÷**, and **÷** with **×**\n\n**Worked example: x + 9 = 20.**\n- 9 was added to x, so take 9 from both sides: x = 20 − 9 = **11**.\n\n**Worked example: 3x + 4 = 19.**\n- Undo the last thing first. The +4 came last, so take 4 from both sides: 3x = 15.\n- Now undo × 3: divide both sides by 3: x = **5**.\n- Check: put 5 back in. 3 × 5 + 4 = 19. Correct.\n\n**Always check** by putting your answer back into the equation. It takes ten seconds and catches most mistakes.",
+          "links": [
+            {
+              "label": "Math is Fun: solving equations",
+              "url": "https://www.mathsisfun.com/algebra/equations-solving.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: x − 7 = 3",
+              "a": "Add 7 to both sides: x = **10**. Check: 10 − 7 = 3."
+            },
+            {
+              "q": "Your turn: 4x = 28",
+              "a": "Divide both sides by 4: x = **7**. Check: 4 × 7 = 28."
+            },
+            {
+              "q": "Your turn: 2x + 5 = 17",
+              "a": "Take 5 from both sides: 2x = 12. Divide by 2: x = **6**. Check: 2 × 6 + 5 = 17."
+            },
+            {
+              "q": "Your turn: 5x − 3 = 22",
+              "a": "Add 3 to both sides: 5x = 25. Divide by 5: x = **5**. Check: 5 × 5 − 3 = 22."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "algebra-words",
+      "label": "The words of algebra",
+      "desc": "**Goal:** name the parts of an expression, and find its degree.\n\nExercise Set 2.1 in your textbook is all about these words.",
+      "links": [],
+      "children": [
+        {
+          "id": "parts",
+          "label": "Terms, coefficients and constants",
+          "type": "core",
+          "desc": "Meena buys **x** notebooks at ₹40 each and one pen for ₹15. The total cost is **40x + 15** rupees. That is an **expression**.\n\nIts parts:\n- **Terms**: the pieces joined by + or −. Here: 40x and 15.\n- **Variable**: the letter. Here: x.\n- **Coefficient**: the number in front of the letter. Here: **40**.\n- **Constant**: the number on its own, with no letter. Here: **15**.\n\n**The sign belongs to the term.** In 5 − 2x, the terms are 5 and −2x, so the coefficient of x is **−2**.",
+          "links": [
+            {
+              "label": "Math is Fun: algebra words (term, coefficient, constant)",
+              "url": "https://www.mathsisfun.com/algebra/definitions.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: in 7y − 3, name the terms, the variable, the coefficient and the constant.",
+              "a": "Terms: 7y and −3. Variable: y. Coefficient: **7**. Constant: **−3**."
+            },
+            {
+              "q": "Your turn: what is the coefficient of x in x + 8?",
+              "a": "**1.** When there is no number in front, it is 1, because x means 1 × x."
+            },
+            {
+              "q": "Your turn: Ravi buys y pencils at ₹6 each and a sharpener for ₹10. Write the total cost.",
+              "a": "**6y + 10** rupees. The coefficient is 6 (the price of one pencil) and the constant is 10."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "degree",
+          "label": "Polynomials and their degree",
+          "type": "core",
+          "desc": "A **polynomial** in one variable is made of terms like numbers, x, x², x³..., added or subtracted. Its **degree** is the **biggest power** of the variable.\n\n- 7x + 2: biggest power is 1 (x means x¹), so degree **1**. This is a **linear** polynomial.\n- 3x² − x + 4: biggest power 2, degree **2**. **Quadratic.**\n- 2y³ + y: biggest power 3, degree **3**. **Cubic.**\n- 9: no letter at all, degree **0**. **Constant.**\n\n**How to find it:** look at the small numbers above the letter. The biggest one is the degree. A letter with no small number has power 1.\n\nThis chapter is about **linear** polynomials: degree 1, like 2x + 3.",
+          "links": [
+            {
+              "label": "Math is Fun: polynomials",
+              "url": "https://www.mathsisfun.com/algebra/polynomials.html"
+            },
+            {
+              "label": "Math is Fun: degree of an expression",
+              "url": "https://www.mathsisfun.com/algebra/degree-expression.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: find the degree of 4x³ − x + 1, of 6 − 5x, and of 8.",
+              "a": "4x³ − x + 1: **3** (cubic). 6 − 5x: **1** (linear). 8: **0** (constant)."
+            },
+            {
+              "q": "Your turn: in x⁴ − 2x³ + 5x² + 7, what is the coefficient of x², of x³, and the constant?",
+              "a": "Coefficient of x²: **5**. Coefficient of x³: **−2** (the sign comes with it). Constant: **7**."
+            },
+            {
+              "q": "Your turn: write a linear polynomial in the variable y.",
+              "a": "Any expression whose biggest power of y is 1, for example **3y + 2**, or **5 − y**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "putting-numbers-in",
+      "label": "Putting a number in",
+      "desc": "**Goal:** find the value of an expression when you are told what the letter is. Your textbook calls this *evaluating*, and Exercise Set 2.2 starts with it.",
+      "links": [],
+      "children": [
+        {
+          "id": "machine",
+          "label": "The input-output machine",
+          "type": "core",
+          "desc": "Think of **3x + 1** as a machine. You put in x. It multiplies by 3, then adds 1.\n\n**Worked example: x = 4.**\n- 3 × 4 = 12\n- 12 + 1 = **13**\n\n**Worked example: x = −2.**\n- 3 × (−2) = −6\n- −6 + 1 = **−5**\n\n**Tip:** when you put in a negative number, put brackets round it: 3 × (−2), not 3 × −2. Your textbook calls a machine like this a **function**.",
+          "links": [
+            {
+              "label": "Math is Fun: substitution",
+              "url": "https://www.mathsisfun.com/algebra/substitution.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: find the value of 4x − 3 when x = 0, x = 2 and x = −1.",
+              "a": "x = 0: 4 × 0 − 3 = **−3**. x = 2: 8 − 3 = **5**. x = −1: 4 × (−1) − 3 = −4 − 3 = **−7**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/machine.png",
+              "caption": "The machine for 3x + 1: multiply by 3, then add 1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "with-squares",
+          "label": "Machines with x²",
+          "type": "core",
+          "desc": "The same idea works when there is an x². Do the **power first**, and keep the brackets.\n\n**Worked example: 2x² − x + 3 when x = −1.**\n- Put in (−1): 2 × (−1)² − (−1) + 3\n- Power first: (−1)² = 1\n- So: 2 × 1 − (−1) + 3 = 2 + 1 + 3 = **6**\n\nNote: − (−1) is + 1. Minus a minus is a plus.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: find x² + 2x when x = 3, and when x = −3.",
+              "a": "x = 3: 9 + 6 = **15**. x = −3: (−3)² + 2 × (−3) = 9 − 6 = **3**."
+            },
+            {
+              "q": "Common mistake: '(−3)² = −9'",
+              "a": "(−3)² means (−3) × (−3) = **9**. Same signs give a positive. Without brackets, −3² would mean −(3²) = −9, which is why the brackets matter."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "practice-values",
+          "label": "Practice set: find the value",
+          "type": "core",
+          "desc": "Write each step. Start with Level 1.\n\n**Level 1:** 2x + 5 when x = 3. Then 10 − x when x = 4.\n\n**Level 2, negatives:** 3x − 4 when x = −2. Then 6 − 2x when x = −3.\n\n**Level 3, squares:** x² − 3x + 2 when x = 4. Then 2x² + 1 when x = −2.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Answers: Level 1",
+              "a": "- 2 × 3 + 5 = 6 + 5 = **11**\n- 10 − 4 = **6**"
+            },
+            {
+              "q": "Answers: Level 2",
+              "a": "- 3 × (−2) − 4 = −6 − 4 = **−10**\n- 6 − 2 × (−3) = 6 − (−6) = 6 + 6 = **12**"
+            },
+            {
+              "q": "Answers: Level 3",
+              "a": "- 4² − 3 × 4 + 2 = 16 − 12 + 2 = **6**\n- 2 × (−2)² + 1 = 2 × 4 + 1 = **9**"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "patterns",
+      "label": "Patterns that grow by the same jump",
+      "desc": "**Goal:** spot a linear pattern, find its rule, and use the rule.\n\nThis is the heart of the chapter. Section 2.3 of your textbook and Exercise Set 2.3 use exactly these skills.",
+      "links": [],
+      "children": [
+        {
+          "id": "same-jump",
+          "label": "The same jump every time",
+          "type": "core",
+          "desc": "Square tables are joined in a row, with chairs around them. 1 table seats 4. 2 tables seat 6. 3 tables seat 8. Every new table adds **2 more chairs**.\n\nWhen a pattern goes up (or down) by the **same amount every step**, it is a **linear pattern**. We call that amount the **jump**.\n\n- 5, 8, 11, 14 ... jump **+3**: linear\n- 20, 17, 14, 11 ... jump **−3** (going down): linear\n- 1, 2, 4, 8 ... jumps 1, 2, 4: **not** the same, so **not** linear",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which are linear? 7, 12, 17, 22 ... / 2, 4, 8, 16 ... / 30, 26, 22, 18 ...",
+              "a": "7, 12, 17, 22: **yes**, jump +5. 2, 4, 8, 16: **no**, the jumps grow (2, 4, 8). 30, 26, 22, 18: **yes**, jump −4."
+            },
+            {
+              "q": "Your turn: write the next three numbers of 3, 7, 11, 15 ...",
+              "a": "The jump is 4. **19, 23, 27.**"
+            }
+          ],
+          "images": [
+            {
+              "src": "images/tables-chairs.png",
+              "caption": "Each extra table adds 2 chairs"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "find-rule",
+          "label": "Finding the rule: jump × n, then fix",
+          "type": "core",
+          "desc": "A rule lets you find any step without counting. Here is a way that always works for linear patterns.\n\n**Worked example: chairs 4, 6, 8, 10 ...**\n- **Step 1. Find the jump:** 6 − 4 = 2. So the rule starts with **2 × n** (n is the step number).\n- **Step 2. Test step 1:** 2 × 1 = 2. But step 1 should be 4. We are **2 short**, so add 2.\n- **Step 3. The rule:** chairs = **2n + 2**.\n- **Step 4. Check another step:** n = 3 gives 2 × 3 + 2 = 8. Correct.\n\n**Worked example: 5, 8, 11, 14 ...** The jump is 3, so start with 3n. Step 1: 3 × 1 = 3, but it should be 5, so add 2. Rule: **3n + 2**. Check n = 4: 12 + 2 = 14. Correct.",
+          "links": [
+            {
+              "label": "Math is Fun: finding the rule of a sequence",
+              "url": "https://www.mathsisfun.com/algebra/sequences-finding-rule.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: find the rule for 6, 10, 14, 18 ...",
+              "a": "Jump 4, so start with 4n. Step 1: 4 × 1 = 4, but it should be 6: add 2. Rule: **4n + 2**. Check n = 4: 16 + 2 = 18."
+            },
+            {
+              "q": "Your turn (harder): find the rule for 20, 17, 14, 11 ...",
+              "a": "Jump **−3**, so start with −3n. Step 1: −3 × 1 = −3, but it should be 20, so add 23. Rule: **23 − 3n**. Check n = 4: 23 − 12 = 11."
+            },
+            {
+              "q": "Common mistake: writing the first number as the fix (4, 6, 8 ... → 2n + 4)",
+              "a": "Test it: n = 1 gives 2 + 4 = 6, but step 1 is 4. Always test step 1. The fix is whatever makes step 1 come out right: here **2n + 2**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/jump-table.png",
+              "caption": "The jump is 2 every time, so the rule is 2 × tables + 2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "use-rule",
+          "label": "Using the rule both ways",
+          "type": "core",
+          "desc": "**Forwards: 'how many chairs for 10 tables?'** Put n = 10 into the rule: 2 × 10 + 2 = **22 chairs**.\n\n**Backwards: 'how many tables for 30 chairs?'** Now you know the answer and want n. That is an equation:\n- 2n + 2 = 30\n- Take 2 from both sides: 2n = 28\n- Divide by 2: n = **14 tables**\n- Check: 2 × 14 + 2 = 30. Correct.\n\nBackwards questions are just equations, so your *undoing* skills do the work.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a pattern has the rule 3n + 2. What is the 20th number? Which step gives 50?",
+              "a": "20th: 3 × 20 + 2 = **62**. For 50: 3n + 2 = 50, so 3n = 48 and n = **16**."
+            },
+            {
+              "q": "Think about it: can the tables-and-chairs pattern ever have exactly 25 chairs?",
+              "a": "2n + 2 = 25 gives 2n = 23 and n = 11.5. You cannot have half a table, so **no**. (The number of chairs is always even.) Your textbook asks a question like this at the end of the chapter."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "word-problems",
+      "label": "Word problems as equations",
+      "desc": "**Goal:** turn a story into an equation, solve it, and check the answer in the story.\n\nExercise Set 2.2 (questions 3 to 7) is all word problems like these.",
+      "links": [],
+      "children": [
+        {
+          "id": "word-steps",
+          "label": "Four steps for any word problem",
+          "type": "core",
+          "desc": "- **Step 1.** Choose a letter for the number you don't know. Write it down: 'Let x = ...'.\n- **Step 2.** Write everything else using x.\n- **Step 3.** Find the sentence that gives a total, and make it an equation.\n- **Step 4.** Solve it, then **check in the story**, not just in the equation.\n\n**Worked example.** Two numbers add up to 50. One is 8 more than the other. Find them.\n- Step 1: let the smaller number be **x**.\n- Step 2: the bigger one is **x + 8**.\n- Step 3: they add up to 50: x + x + 8 = 50, so **2x + 8 = 50**.\n- Step 4: 2x = 42, so x = **21**. The numbers are **21 and 29**.\n- Check: 21 + 29 = 50, and 29 is 8 more than 21. Correct.",
+          "links": [
+            {
+              "label": "Math is Fun: solving word questions",
+              "url": "https://www.mathsisfun.com/algebra/word-questions-solving.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a number plus 3 times the same number is 48. Find the number.",
+              "a": "Let it be x. x + 3x = 48, so 4x = 48 and x = **12**. Check: 12 + 36 = 48."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ages",
+          "label": "Age problems",
+          "type": "core",
+          "desc": "**Worked example.** Ravi's father is 4 times as old as Ravi. In 6 years, their ages will add up to 72. How old are they now?\n\nA small table helps:\n- Now: Ravi **x**, father **4x**\n- In 6 years: Ravi **x + 6**, father **4x + 6**\n\nThen:\n- In 6 years they add to 72: (x + 6) + (4x + 6) = 72\n- Collect: 5x + 12 = 72\n- Take 12 from both sides: 5x = 60, so x = **12**\n- Ravi is **12** and his father is **48**.\n- Check: in 6 years, 18 + 54 = 72. Correct.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: Asha is 3 years older than her brother. Their ages add up to 25. How old is each?",
+              "a": "Brother x, Asha x + 3. x + x + 3 = 25, so 2x = 22 and x = 11. Brother **11**, Asha **14**. Check: 11 + 14 = 25."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "shapes-money",
+          "label": "Rectangles, money and rope",
+          "type": "core",
+          "desc": "**Worked example: a rectangle.** Its length is 5 cm more than its width, and its perimeter is 34 cm.\n- Width **x**, length **x + 5**\n- Perimeter = 2 × (length + width) = 2 × (x + 5 + x) = 4x + 10\n- 4x + 10 = 34, so 4x = 24 and x = **6**\n- Width **6 cm**, length **11 cm**. Check: 2 × (6 + 11) = 34.\n\n**Worked example: money.** Sana has some ₹10 notes and twice as many ₹5 notes. Altogether she has ₹200.\n- ₹10 notes: **x**. ₹5 notes: **2x**\n- Money: 10 × x + 5 × 2x = 10x + 10x = 20x\n- 20x = 200, so x = **10**: ten ₹10 notes and twenty ₹5 notes.\n- Check: ₹100 + ₹100 = ₹200.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a 40 m rope is cut into two pieces. One piece is 3 times as long as the other. How long is each?",
+              "a": "Short piece x, long piece 3x. x + 3x = 40, so 4x = 40 and x = 10. The pieces are **10 m and 30 m**. Check: 10 + 30 = 40."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "practice-words",
+          "label": "Practice set: word problems",
+          "type": "core",
+          "desc": "Use the four steps every time, including the check.\n\n**Level 1:** a number plus 15 is 42. Find the number.\n\n**Level 2:** three numbers in a row (like 4, 5, 6) add up to 54. Find them.\n\n**Level 3:** pens cost ₹12 and notebooks cost ₹30. Raju buys the same number of each and pays ₹294. How many of each did he buy?",
+          "links": [],
+          "faq": [
+            {
+              "q": "Answer: Level 1",
+              "a": "x + 15 = 42, so x = **27**. Check: 27 + 15 = 42."
+            },
+            {
+              "q": "Answer: Level 2",
+              "a": "Call them x, x + 1, x + 2. They add to 3x + 3 = 54, so 3x = 51 and x = 17. The numbers are **17, 18, 19**. Check: 17 + 18 + 19 = 54."
+            },
+            {
+              "q": "Answer: Level 3",
+              "a": "Let x be the number of each. Cost: 12x + 30x = 42x. 42x = 294, so x = **7**: 7 pens and 7 notebooks. Check: 84 + 210 = 294."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "growth-decay",
+      "label": "Growth and decay: a start plus a jump",
+      "desc": "**Goal:** write a rule for something that goes up or down by the same amount each day, week or year, and use it.\n\nThis is section 2.4 of your textbook (linear growth and linear decay) and Exercise Set 2.4. It is the same 'start plus jump' idea as the patterns.",
+      "links": [],
+      "children": [
+        {
+          "id": "start-jump",
+          "label": "Start + jump × time",
+          "type": "core",
+          "desc": "**Growth.** A plant is 10 cm tall and grows 2 cm every week. After w weeks:\n- **height = 10 + 2w**\n- The **start** is 10 (its height at week 0). The **jump** is +2 each week.\n- After 6 weeks: 10 + 2 × 6 = **22 cm**.\n\nWhen the jump is positive, the amount goes up steadily. That is **linear growth**.\n\n**Decay.** A notebook has 60 pages and you use 4 pages a day. After d days:\n- **pages left = 60 − 4d**\n- Start 60, jump **−4**. After 10 days: 60 − 40 = **20 pages**.\n\nWhen the jump is negative, the amount goes down steadily. That is **linear decay**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a piggy bank has ₹300, and you add ₹200 every month. Write a rule for the money after n months. How much after 5 months?",
+              "a": "Start 300, jump +200: **300 + 200n**. After 5 months: 300 + 1000 = **₹1300**."
+            },
+            {
+              "q": "Your turn: a water tank holds 900 litres, and 75 litres are used each day. Write the rule. When will it be empty?",
+              "a": "Start 900, jump −75: **900 − 75d**. Empty means 0 left: 900 − 75d = 0, so 75d = 900 and d = **12 days**. Check: 75 × 12 = 900."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/growth-decay.png",
+              "caption": "Growth goes up by the same jump each week; decay goes down by the same jump each day"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "make-table",
+          "label": "Making a table",
+          "type": "core",
+          "desc": "Your textbook often asks you to **make a table**. Start at time 0 with the start value, then add the jump each time.\n\n**The plant, height = 10 + 2w:**\n- Week 0: 10 cm\n- Week 1: 12 cm\n- Week 2: 14 cm\n- Week 3: 16 cm\n- Week 4: 18 cm\n\nCheck the last line with the rule: 10 + 2 × 4 = 18. Correct. A table is a quick way to check a rule, and a rule is a quick way to check a table.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a phone costs ₹12,000 and loses ₹1,500 of value every year. Make a table for years 0 to 4, and write the rule.",
+              "a": "Year 0: ₹12,000. Year 1: ₹10,500. Year 2: ₹9,000. Year 3: ₹7,500. Year 4: ₹6,000. Rule: **12000 − 1500t**. It is decay, because the jump is negative."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "late-start",
+          "label": "When the jump starts later",
+          "type": "optional",
+          "desc": "Sometimes the first part has a fixed price, and the jump starts after it.\n\n**Worked example.** A cycle shop charges ₹30 for the first hour, then ₹20 for each extra hour.\n- For h hours, the extra hours are h − 1.\n- Cost = 30 + 20 × (h − 1)\n- For 5 hours: 30 + 20 × 4 = 30 + 80 = **₹110**\n- Check 1 hour: 30 + 20 × 0 = ₹30. Correct.\n\nYour textbook's auto-rickshaw fare works the same way.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: with this rule, how much do 3 hours cost?",
+              "a": "30 + 20 × (3 − 1) = 30 + 40 = **₹70**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "straight-lines",
+      "label": "y = ax + b and its graph",
+      "desc": "**Goal:** see that every rule in this chapter has the form **y = ax + b**, find a and b from two facts, and draw the line.\n\nThis is sections 2.5 and 2.6 of your textbook. New names, same idea: **a is the jump, b is the start.**",
+      "links": [],
+      "children": [
+        {
+          "id": "y-ax-b",
+          "label": "Every rule is y = ax + b",
+          "type": "core",
+          "desc": "Look back at our rules. They all have the same shape: **y = ax + b**.\n\n- Chairs: y = 2x + 2. Jump **a = 2**, start **b = 2**.\n- Plant: y = 2x + 10. Jump 2, start 10.\n- Notebook: y = −4x + 60. Jump −4, start 60.\n\n- **a** is the jump: how much y changes when x goes up by 1. Your textbook calls it the **slope**.\n- **b** is the start: the value of y when x = 0. Your textbook calls it the **y-intercept**.",
+          "links": [
+            {
+              "label": "Math is Fun: equation of a straight line",
+              "url": "https://www.mathsisfun.com/equation_of_line.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: in y = 5x − 3, what are a and b?",
+              "a": "**a = 5** (the jump) and **b = −3** (the start)."
+            },
+            {
+              "q": "Your turn: in y = 7 − x, what are a and b?",
+              "a": "Rewrite it as y = −1x + 7. So **a = −1** and **b = 7**. The order in which the terms are written does not matter."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "two-facts",
+          "label": "Finding the rule from two facts",
+          "type": "core",
+          "desc": "Often you are given two facts and must find a and b.\n\n**Worked example.** A tuition centre charges a fixed fee plus a fee for each class. 5 classes cost ₹900. 8 classes cost ₹1260. Find the rule y = ax + b.\n- **Step 1, the jump:** 3 more classes (8 − 5) cost 1260 − 900 = ₹360 more. So one class costs 360 ÷ 3 = **₹120**. a = 120.\n- **Step 2, the start:** 5 classes cost ₹900, and 5 × 120 = ₹600 of that is for the classes. So the fixed fee is 900 − 600 = **₹300**. b = 300.\n- **The rule:** y = 120x + 300\n- **Check with the other fact:** 120 × 8 + 300 = 960 + 300 = 1260. Correct.\n\nIn short: **jump = change in y ÷ change in x**, then **start = y − jump × x**. Your textbook solves the same kind of problem a different way (by substituting); both give the same answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a taxi ride of 4 km costs ₹140, and a ride of 10 km costs ₹290. Find the rule. What does each number mean?",
+              "a": "Jump: (290 − 140) ÷ (10 − 4) = 150 ÷ 6 = **25**. Start: 140 − 25 × 4 = 140 − 100 = **40**. Rule: **y = 25x + 40**: ₹25 per km plus a fixed ₹40. Check: 25 × 10 + 40 = 290."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "draw-line",
+          "label": "Drawing the graph",
+          "type": "core",
+          "desc": "**Steps to draw y = 2x − 1:**\n- Make a small table. Choose x = 0, 1, 2, 3.\n- Work out y for each: −1, 1, 3, 5.\n- Plot the points (0, −1), (1, 1), (2, 3) and (3, 5).\n- Join them with a ruler, and extend the line both ways.\n\n**Use three or more points.** If they don't lie in a straight line, there is a mistake somewhere. That is a free check.\n\nLook for the start and the jump on the graph:\n- The line crosses the y-axis at **−1**: that is the start, b.\n- For every **1 across**, the line goes **2 up**: that is the jump, a.",
+          "links": [
+            {
+              "label": "Desmos: draw any line for free (works on phones)",
+              "url": "https://www.desmos.com/calculator"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: make a table for y = x + 2 with x = 0, 1, 2.",
+              "a": "x = 0: **2**. x = 1: **3**. x = 2: **4**. The points are (0, 2), (1, 3), (2, 4)."
+            },
+            {
+              "q": "Your turn: is the point (4, 7) on the line y = 2x − 1? What about (5, 8)?",
+              "a": "Put x = 4: 2 × 4 − 1 = 7. That matches, so **(4, 7) is on the line**. Put x = 5: 2 × 5 − 1 = 9, not 8, so **(5, 8) is not**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/line-plot.png",
+              "caption": "y = 2x − 1: it crosses the y-axis at −1, and goes 2 up for every 1 across"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "steepness",
+          "label": "Steep, flat or downhill",
+          "type": "core",
+          "desc": "For lines that start at 0 (y = ax), all of them pass through (0, 0). The jump **a** decides the shape:\n\n- **Bigger a, steeper line.** y = 3x is steeper than y = x. y = ½x is flatter.\n- **Negative a, the line goes downhill** from left to right, like y = −2x.\n\nSo growth (a positive jump) goes uphill, and decay (a negative jump) goes downhill.",
+          "links": [
+            {
+              "label": "Math is Fun: slope (gradient)",
+              "url": "https://www.mathsisfun.com/gradient.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: which is steeper, y = 4x or y = 2x?",
+              "a": "**y = 4x.** Its jump is bigger: 4 up for every 1 across."
+            },
+            {
+              "q": "Your turn: does y = −5x + 1 go uphill or downhill?",
+              "a": "**Downhill.** The jump is −5, which is negative."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/slopes.png",
+              "caption": "Bigger jump, steeper line. A negative jump goes downhill."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "cross-parallel",
+          "label": "Where it crosses, and parallel lines",
+          "type": "core",
+          "desc": "- **b tells you where the line crosses the y-axis**: at the point (0, b). y = 2x + 4 crosses at (0, 4). y = 2x − 2 crosses at (0, −2).\n- **Lines with the same jump are parallel.** They never meet, like railway tracks. y = 2x + 4, y = 2x + 1 and y = 2x − 2 all have jump 2, so they are parallel.\n\nChanging **a** turns the line (steeper or flatter). Changing **b** slides it up or down without turning it.",
+          "links": [
+            {
+              "label": "Math is Fun: linear equations",
+              "url": "https://www.mathsisfun.com/algebra/linear-equations.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: where does y = 3x − 5 cross the y-axis?",
+              "a": "At **(0, −5)**, because b = −5."
+            },
+            {
+              "q": "Your turn: which two of these are parallel? y = 4x + 1, y = x + 4, y = 4x − 7",
+              "a": "**y = 4x + 1 and y = 4x − 7.** Both have jump 4. y = x + 4 has jump 1."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/parallel.png",
+              "caption": "Same jump, different starts: three parallel lines"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These match the starred (challenge) questions at the end of your textbook chapter. Come here only after the earlier milestones feel comfortable. It is completely fine to skip this the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "fractions",
+          "label": "Equations with fractions",
+          "type": "optional",
+          "desc": "**Worked example: (2/3)x + 1/2 = 5/6.**\n- The trick: multiply **every** term by a number that clears all the fractions. 6 works for thirds, halves and sixths.\n- 6 × (2/3)x = 4x. 6 × 1/2 = 3. 6 × 5/6 = 5.\n- So: 4x + 3 = 5, then 4x = 2, and x = **1/2**.\n- Check: (2/3) × (1/2) + 1/2 = 1/3 + 1/2 = 2/6 + 3/6 = 5/6. Correct.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: x/4 + 1 = 3",
+              "a": "Take 1 from both sides: x/4 = 2. Multiply by 4: x = **8**. Check: 8/4 + 1 = 3."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "digits",
+          "label": "Two-digit number puzzles",
+          "type": "optional",
+          "desc": "A two-digit number with tens digit t and units digit u is worth **10t + u**. (For 36: 10 × 3 + 6.)\n\n**Worked example.** The digits of a two-digit number add up to 9. Swapping the digits makes the number 27 bigger. Find it.\n- Tens digit **x**, units digit **9 − x** (they add to 9).\n- The number: 10x + (9 − x) = 9x + 9.\n- Swapped: 10(9 − x) + x = 90 − 9x.\n- Swapped minus original is 27: (90 − 9x) − (9x + 9) = 27, so 81 − 18x = 27.\n- 18x = 54, so x = 3. The number is **36**.\n- Check: 3 + 6 = 9, and 63 − 36 = 27. Correct.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "y-on-its-own",
+          "label": "Getting y on its own",
+          "type": "optional",
+          "desc": "Some equations are not written as y = ax + b yet. Divide everything by the number in front of y.\n\n**Worked example: 2y = 6x + 8.** Divide every term by 2: **y = 3x + 4**. So the jump is 3 and the line crosses the y-axis at (0, 4).",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: write 3y = 6x − 9 as y = ax + b. What are a and b?",
+              "a": "Divide every term by 3: **y = 2x − 3**. a = 2 and b = −3."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "temperature",
+          "label": "Celsius and Fahrenheit",
+          "type": "optional",
+          "desc": "Water freezes at 0 °C, which is 32 °F, and boils at 100 °C, which is 212 °F. The two scales are linked by a straight line.\n- Jump: (212 − 32) ÷ (100 − 0) = 180 ÷ 100 = **1.8**\n- Start (at 0 °C): **32**\n- Rule: **°F = 1.8 × °C + 32**\n- 25 °C: 1.8 × 25 + 32 = 45 + 32 = **77 °F**\n\nYour textbook asks for this the other way round (°C from °F). Same method.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a healthy body temperature is 37 °C. What is it in °F?",
+              "a": "1.8 × 37 + 32 = 66.6 + 32 = **98.6 °F**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "two-points",
+          "label": "A line through two points",
+          "type": "optional",
+          "desc": "**Worked example.** A line passes through (1, 4) and (3, 10). Find its rule, and where it cuts each axis.\n- Jump: (10 − 4) ÷ (3 − 1) = 6 ÷ 2 = **3**\n- Start: 4 − 3 × 1 = **1**. Rule: **y = 3x + 1**.\n- It cuts the y-axis where x = 0: at **(0, 1)**.\n- It cuts the x-axis where y = 0: 3x + 1 = 0, so x = −1/3. At **(−1/3, 0)**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "matchsticks",
+          "label": "Matchstick squares",
+          "type": "optional",
+          "desc": "Squares are made in a row with matchsticks, sharing sides. 1 square takes 4 matchsticks, 2 squares take 7, 3 squares take 10.\n- Jump 3, so start with 3n. Step 1: 3 × 1 = 3, but it should be 4: add 1. Rule: **3n + 1**.\n- 15 squares: 3 × 15 + 1 = **46 matchsticks**.\n\nYour textbook's end-of-chapter question uses hexagons; the method is the same.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: can you use exactly 100 matchsticks? What about 200?",
+              "a": "100: 3n + 1 = 100, so 3n = 99 and n = **33 squares**. Yes. 200: 3n + 1 = 200, so 3n = 199 and n = 66⅓, not a whole number. **No.**"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThis chapter looks like six topics: algebra words, evaluating, patterns, equations, growth and decay, and graphs. For a student who finds maths hard, that is overwhelming. This roadmap teaches them as **one idea: a start, plus the same jump every time**. The tables-and-chairs pattern, the plant, the tuition fee, and y = ax + b and its graph are all the same thing. Keep saying 'start' and 'jump'.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- **Find the real gap first.** Use *Check yourself*. Most failures in this chapter come from BODMAS, negative numbers, or reading 2x as 'twenty-something'.\n- **Name the start and the jump every time,** in patterns, tables, word problems and graphs. The repetition is the point.\n- **Insist on brackets** when substituting a negative number: 3 × (−2), never 3 × −2.\n- **Always check by putting the answer back,** in the equation and in the story. It builds confidence as well as accuracy.\n- **Use real objects** for patterns: actual desks pushed together, or matchsticks, before numbers.\n- **Ask 'how did you get that?'** before correcting. A wrong answer usually comes from one small, fixable step.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 9-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** the *Start here* tools: letters, BODMAS, negatives, undoing. Don't skip this with a weaker group.\n- **Period 2:** algebra words and degree (Exercise Set 2.1).\n- **Period 3:** the input-output machine. **Human function machine:** one student secretly picks a rule like '× 2 then + 3'; classmates call out inputs, hear outputs, and guess the rule.\n- **Period 4:** patterns. Push real desks together and count chairs, or build matchstick squares. Find the jump, then the rule.\n- **Period 5:** word problems with the four steps (Exercise Set 2.2).\n- **Period 6:** growth and decay; making tables (Exercise Sets 2.3 and 2.4).\n- **Period 7:** y = ax + b; finding a and b from two facts (Exercise Set 2.5).\n- **Period 8:** drawing lines. In Desmos, type y = ax + b and it creates sliders for a and b. Drag them in front of the class: the steepness and the sliding are unforgettable.\n- **Period 9:** practice and the exit ticket. Challenge questions as homework for those ready.",
+          "links": [
+            {
+              "label": "Your textbook: NCERT Ganita Manjari, Grade 9 Part I, Chapter 2 (free PDF)",
+              "url": "https://ncert.nic.in/textbook/pdf/iemh102.pdf"
+            },
+            {
+              "label": "Desmos: draw any line for free (works on phones)",
+              "url": "https://www.desmos.com/calculator"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Reading 2x as '2 then x' (24 when x = 4).\n- Treating x² as 2x.\n- Writing −3² when they mean (−3)².\n- Losing the sign of a coefficient: in 5 − 2x, the coefficient is −2.\n- Doing something to one side of an equation only, or undoing in the wrong order (dividing before subtracting).\n- Using the first number of a pattern as the fix (2n + 4 for 4, 6, 8 ...).\n- Mixing up a and b in y = ax + b.\n- Thinking a negative slope means the line is below the x-axis, rather than going downhill.\n- Plotting (y, x) instead of (x, y), a Chapter 1 skill worth re-checking.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Four short questions, one from each big idea. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. In 3x² − 5x + 2, what is the degree, and what is the coefficient of x?",
+              "a": "Degree **2**. The coefficient of x is **−5**."
+            },
+            {
+              "q": "2. Find the rule for 7, 10, 13, 16 ...",
+              "a": "Jump 3; 3 × 1 = 3, but step 1 is 7, so add 4. Rule: **3n + 4**."
+            },
+            {
+              "q": "3. Solve 4x − 3 = 17.",
+              "a": "Add 3: 4x = 20. Divide by 4: x = **5**. Check: 20 − 3 = 17."
+            },
+            {
+              "q": "4. For y = −2x + 6: what is the start, what is the jump, and does the line go uphill or downhill?",
+              "a": "Start (b) **6**, jump (a) **−2**, **downhill** because the jump is negative."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

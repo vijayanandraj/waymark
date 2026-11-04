@@ -1,0 +1,27 @@
+{
+  "audience": "Class 9 students who find maths hard, learning perimeter and area step by step, and the teachers and parents helping them",
+  "stages": [
+    "school"
+  ],
+  "subject": "maths",
+  "follows": "CBSE Class 9 Mathematics (NCERT Ganita Manjari, Chapter 6)",
+  "level": "beginner",
+  "lang": "en",
+  "tags": [
+    "maths",
+    "cbse",
+    "class 9",
+    "ncert",
+    "mensuration",
+    "area",
+    "step by step",
+    "ganita manjari"
+  ],
+  "authors": [
+    {
+      "name": "vijayanandraj",
+      "url": "https://github.com/vijayanandraj"
+    }
+  ],
+  "license": "CC-BY-SA-4.0"
+}

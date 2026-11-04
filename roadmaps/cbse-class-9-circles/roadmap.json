@@ -1,0 +1,689 @@
+{
+  "title": "Class 9 Maths, Chapter 5: Circles, Step by Step",
+  "subtitle": "For students who find maths hard. One idea holds the chapter together: every radius is the same length, which gives an isosceles triangle and a hidden right triangle. Learn to use each fact first; the proofs come later. Small steps, a picture for every fact, practice with answers. Follows NCERT Ganita Manjari, Grade 9 Part I, Chapter 5 (I'm Up and Down, and Round and Round).",
+  "updated": "2026-11-04",
+  "changelog": [
+    {
+      "date": "2026-11-04",
+      "text": "Linked into the Class 9 Maths Part I series: links to all chapters and to the chapters before and after this one."
+    },
+    {
+      "date": "2026-11-03",
+      "text": "First version: written for students who find maths hard. Triangle tools first, every fact drawn, using the facts before proving them, practice in levels with answers, and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** feel sure about the four tools every circle fact uses: angles in a triangle, isosceles triangles, Pythagoras, and drawing a perpendicular bisector.\n\nIf geometry has ever felt like a pile of rules, spend time here. Almost every question in this chapter is one of these four tools in disguise.",
+      "links": [
+        {
+          "label": "Your textbook: NCERT Ganita Manjari, Grade 9 Part I, Chapter 5 (free PDF)",
+          "url": "https://ncert.nic.in/textbook/pdf/iemh105.pdf"
+        },
+        {
+          "label": "DIKSHA: free NCERT videos and lessons",
+          "url": "https://diksha.gov.in/"
+        }
+      ],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. On the map the steps go left and right, so press **Checklist view** at the top to see them as a list, in order.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Draw a picture for every question.** In geometry the picture does half the work.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: every radius is the same length.** Draw two radii and you get an isosceles triangle. Draw a radius to a chord and you get a right triangle. Nearly every circle fact comes from that.",
+          "links": [
+            {
+              "label": "All eight chapters: Class 9 Maths, Part I",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-maths-part-1"
+            },
+            {
+              "label": "Previous chapter: 4. Algebraic Identities",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-identities"
+            },
+            {
+              "label": "Next chapter: 6. Perimeter and Area",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-perimeter-area"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Two angles of a triangle are 50° and 60°. What is the third?",
+              "a": "**70°**, because the three angles add to 180°. Wrong? Do *Angles in a triangle*."
+            },
+            {
+              "q": "2. A triangle has two equal sides. The angle between them is 40°. What are the other two angles?",
+              "a": "**70° each.** 180 − 40 = 140, shared equally. Wrong? Do *Isosceles triangles*."
+            },
+            {
+              "q": "3. A right triangle has short sides 6 and 8. How long is the long side?",
+              "a": "**10**, because 36 + 64 = 100 = 10². Wrong? Do *Pythagoras*."
+            },
+            {
+              "q": "4. What is a perpendicular bisector?",
+              "a": "A line that cuts a segment **in half** at a **right angle**. Wrong? Do *The perpendicular bisector*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "triangle-angles",
+          "label": "Angles in a triangle",
+          "type": "core",
+          "desc": "- The three angles of a triangle always add to **180°**.\n- Angles on a straight line add to **180°**.\n- All the way round a point is **360°**.\n- **Exterior angle:** if you extend one side, the outside angle equals the two far inside angles added together.\n\n**Worked example:** a triangle has angles 35° and 75°. The third is 180 − 35 − 75 = **70°**. The outside angle next to the 70° is 35 + 75 = **110°**.",
+          "links": [
+            {
+              "label": "Math is Fun: triangles",
+              "url": "https://www.mathsisfun.com/triangle.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a triangle has angles 90° and 35°. Find the third.",
+              "a": "180 − 90 − 35 = **55°**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "isosceles",
+          "label": "Isosceles triangles",
+          "type": "core",
+          "desc": "An **isosceles** triangle has two equal sides. The two angles at the ends of the third side (the **base angles**) are **equal**.\n\nThis is the most used fact in the whole chapter, because two radii always make an isosceles triangle.\n\n**Worked example:** the top angle is 40°. The two base angles share 180 − 40 = 140°, so each is **70°**.\n\n**Other way round:** the base angles are 30° each. The top angle is 180 − 30 − 30 = **120°**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: an isosceles triangle has top angle 70°. Find the base angles.",
+              "a": "180 − 70 = 110, shared: **55° each**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "pythagoras",
+          "label": "Pythagoras (Baudhāyana–Pythagoras theorem)",
+          "type": "core",
+          "desc": "In a right triangle, the long side (the **hypotenuse**) is opposite the right angle.\n\n**short² + short² = long²**\n\n- Finding the long side: 6² + 8² = 36 + 64 = 100, so the long side is **10**.\n- Finding a short side: long 13, short 12. Then 13² − 12² = 169 − 144 = 25, so the other short side is **5**.\n\nFamilies worth knowing by heart: **3, 4, 5** and **5, 12, 13** and **8, 15, 17**. (6, 8, 10 is just 3, 4, 5 doubled.)",
+          "links": [
+            {
+              "label": "Math is Fun: Pythagoras' theorem",
+              "url": "https://www.mathsisfun.com/pythagoras.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: long side 10, one short side 6. Find the other short side.",
+              "a": "10² − 6² = 100 − 36 = 64, so **8**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "perp-bisector",
+          "label": "The perpendicular bisector",
+          "type": "core",
+          "desc": "The **perpendicular bisector** of a segment AB cuts it in half, at a right angle.\n\n**Its special power:** every point on it is the **same distance** from A and from B. This is why it keeps appearing with circles.\n\n**To draw it with a compass:**\n- Open the compass to more than half of AB.\n- Draw an arc from A, above and below AB.\n- Keep the same opening. Draw an arc from B. The arcs cross at two points.\n- Join those two points with a ruler.",
+          "links": [
+            {
+              "label": "Math is Fun: construct a perpendicular bisector",
+              "url": "https://www.mathsisfun.com/geometry/construct-linebisect.html"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "congruence",
+          "label": "Congruent triangles, in one minute",
+          "type": "optional",
+          "desc": "Two triangles are **congruent** if they are exact copies. Then **all** their matching sides and angles are equal.\n\nYou know they are copies if you can match:\n- **SSS:** all three sides\n- **SAS:** two sides and the angle between them\n- **RHS:** a right angle, the hypotenuse and one side.\n\nYou need this mostly for the *why* explanations. For calculation questions, isosceles triangles and Pythagoras do the work.",
+          "links": [
+            {
+              "label": "Math is Fun: congruent triangles",
+              "url": "https://www.mathsisfun.com/geometry/triangles-congruent.html"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "circle-words",
+      "label": "The words for a circle",
+      "desc": "**Goal:** know the parts of a circle by name, and see the one big idea: all radii are equal.\n\nMany marks are lost just because a word like *chord* or *arc* is unclear. Fix the words first.",
+      "links": [],
+      "children": [
+        {
+          "id": "what-circle",
+          "label": "What a circle is",
+          "type": "core",
+          "desc": "A **circle** is all the points that are the **same distance** from one point, the **centre**.\n\n- **Radius:** the distance from the centre to the circle. Every radius is the same length.\n- **Chord:** a straight line joining two points on the circle.\n- **Diameter:** a chord through the centre. It is two radii long, and it is the **longest** chord.\n- **Arc:** a piece of the circle itself. A chord cuts the circle into a **minor** (small) arc and a **major** (big) arc.",
+          "links": [
+            {
+              "label": "Math is Fun: circles",
+              "url": "https://www.mathsisfun.com/geometry/circle.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a circle has radius 7 cm. How long is the longest chord?",
+              "a": "The longest chord is the diameter: **14 cm**."
+            },
+            {
+              "q": "Your turn: is a radius a chord?",
+              "a": "**No.** A chord has **both** ends on the circle. A radius has one end at the centre."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/circle-parts.png",
+              "caption": "The parts of a circle"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "symmetry",
+          "label": "A circle looks the same every way",
+          "type": "core",
+          "desc": "- **Turn it** by any angle about the centre and it looks exactly the same. A rolling wheel always looks the same.\n- **Fold it** along any diameter and the two halves match exactly. Every diameter is a line of symmetry.\n\n**Try it:** cut out a paper circle. Fold it in half, open it, and fold it in half another way. The two creases cross at the **centre**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: how many lines of symmetry does a square have? A circle?",
+              "a": "A square has **4**. A circle has **infinitely many**, one for every diameter."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "big-idea",
+          "label": "The big idea: two radii make an isosceles triangle",
+          "type": "core",
+          "desc": "Join the ends of any chord to the centre. The two lines are radii, so they are equal.\n\nThat gives an **isosceles triangle**, so its two base angles are equal.\n\n**Worked example:** chord AB, centre O, angle AOB = 100°. The base angles share 180 − 100 = 80°, so angle OAB = angle OBA = **40°**.\n\nWhenever you are stuck on a circle question, **draw in the radii** and look for this triangle.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: angle AOB = 60° at the centre. Find angle OAB. What kind of triangle is OAB?",
+              "a": "Base angles: (180 − 60) ÷ 2 = **60°**. All three angles are 60°, so the triangle is **equilateral**: the chord AB equals the radius."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/radii-isosceles.png",
+              "caption": "Two radii and a chord: always an isosceles triangle"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "how-many-circles",
+      "label": "How many circles fit through some points?",
+      "desc": "**Goal:** know that through 3 points (not in a line) there is exactly one circle, and find its centre.\n\nThis is the section with the compass. Exercise Set 5.1 uses it.",
+      "links": [],
+      "children": [
+        {
+          "id": "two-points",
+          "label": "Through two points: a whole family of circles",
+          "type": "core",
+          "desc": "A circle through A and B has its centre the same distance from A and B.\n\nSo the centre lies on the **perpendicular bisector** of AB. Any point on that line works.\n\n- There are **infinitely many** circles through two points.\n- The **smallest** has its centre at the midpoint of AB, so AB is a diameter.\n- As the centre moves further from AB, the circles get bigger and flatter.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: A and B are 6 cm apart. What is the smallest radius of a circle through both?",
+              "a": "The smallest circle has AB as a diameter, so the radius is **3 cm**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/two-points.png",
+              "caption": "Every circle through A and B has its centre on the dashed line"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "three-points",
+          "label": "Through three points: exactly one circle",
+          "type": "core",
+          "desc": "Take three points A, B, C that are **not** in a straight line.\n- The centre is the same distance from A and B, so it is on the perpendicular bisector of AB.\n- It is the same distance from B and C, so it is also on the perpendicular bisector of BC.\n- Two lines cross at **one** point. That point is the centre, O.\n\nDraw the circle with centre O through A. It also passes through B and C. This is the **circumcircle** of triangle ABC, and O is the **circumcentre**.\n\nIf A, B, C **are** in a straight line, the bisectors are parallel and never meet. No circle passes through three points in a line.",
+          "links": [
+            {
+              "label": "Math is Fun: construct a circle through three points",
+              "url": "https://www.mathsisfun.com/geometry/construct-trianglecircum.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: draw any triangle. Construct two perpendicular bisectors and draw the circumcircle. Check it passes through all three corners.",
+              "a": "If it misses a corner by a little, your bisectors are slightly off. Redraw with a sharper pencil. Measure OA, OB, OC: they should be equal."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/circumcircle.png",
+              "caption": "The circumcircle: centre where two perpendicular bisectors cross"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "centre-position",
+          "label": "Where does the centre land?",
+          "type": "core",
+          "desc": "It depends on the biggest angle of the triangle:\n- All angles less than 90° (**acute**): the centre is **inside** the triangle.\n- One angle exactly 90° (**right**): the centre is the **midpoint of the longest side**.\n- One angle more than 90° (**obtuse**): the centre is **outside** the triangle.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a triangle has angles 30°, 50° and 100°. Is its circumcentre inside or outside?",
+              "a": "100° is more than 90°, so it is **outside**."
+            },
+            {
+              "q": "Your turn: a right triangle has sides 6, 8, 10. What is the radius of its circumcircle?",
+              "a": "The centre is the midpoint of the longest side (10), so the radius is **5**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/centre-positions.png",
+              "caption": "Acute, right and obtuse triangles in their circumcircles"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "find-centre",
+          "label": "Finding the centre of a round plate",
+          "type": "optional",
+          "desc": "You have a round plate and want its centre.\n- Draw round it on paper. Draw any two chords that are not parallel.\n- Draw the perpendicular bisector of each chord.\n- They cross at the **centre**.\n\nIt works because the perpendicular bisector of any chord passes through the centre. You will see why in the next milestone.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "chords",
+      "label": "Chords and their distance from the centre",
+      "desc": "**Goal:** know the chord facts and use the hidden right triangle to find a chord's length, its distance from the centre, or the radius.\n\nThis is where most calculation questions come from. Exercise Sets 5.2 to 5.5 use it.",
+      "links": [],
+      "children": [
+        {
+          "id": "equal-chords",
+          "label": "Equal chords, equal angles",
+          "type": "core",
+          "desc": "Tie a tight thread between two points on a bicycle wheel. Turn the wheel. The thread moves, but its length stays the same, and so does the angle it makes at the centre.\n\n- **Equal chords make equal angles at the centre.**\n- And the other way: **equal angles at the centre give equal chords.**\n\nWhy: the two triangles (radius, radius, chord) have all three sides equal, so they are copies (SSS).",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: chords AB and CD are equal. Angle AOB = 72°. What is angle COD?",
+              "a": "**72°.** Equal chords make equal angles at the centre."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "centre-to-chord",
+          "label": "The line from the centre cuts a chord in half",
+          "type": "core",
+          "desc": "Draw a line from the centre O to the **midpoint** M of a chord. It meets the chord at a **right angle**.\n\nThe other way round works too: a line from the centre that is **perpendicular** to a chord cuts it **in half**.\n\nWhy: triangle OAB is isosceles (two radii). The line to the midpoint splits it into two copies, so the two angles at M are equal. They add to 180°, so each is 90°.\n\nSo the **perpendicular bisector of a chord always passes through the centre.**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a chord is 10 cm long. The perpendicular from the centre meets it at M. How long is AM?",
+              "a": "The perpendicular cuts the chord in half: **5 cm**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "chord-triangle",
+          "label": "The hidden right triangle",
+          "type": "core",
+          "desc": "Whenever a question gives you two of these three, you can find the third:\n- **r**, the radius\n- **d**, the distance from the centre to the chord\n- **half the chord**.\n\nThey form a right triangle with r as the long side:\n\n**half² + d² = r²**\n\n**Worked example:** radius 5 cm, chord 3 cm from the centre.\n- half² + 3² = 5², so half² = 25 − 9 = 16 and **half = 4**.\n- The chord is 2 × 4 = **8 cm**.\n\n**The most common mistake:** forgetting to double at the end. The triangle gives you only **half** the chord.",
+          "links": [
+            {
+              "label": "Math is Fun: Pythagoras' theorem",
+              "url": "https://www.mathsisfun.com/pythagoras.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: radius 10 cm, distance 6 cm. Find the chord.",
+              "a": "half² = 100 − 36 = 64, so half = 8. Chord = **16 cm**."
+            },
+            {
+              "q": "Your turn: radius 25 cm, chord 40 cm. How far is the chord from the centre?",
+              "a": "half = 20. d² = 625 − 400 = 225, so **d = 15 cm**."
+            },
+            {
+              "q": "Your turn: a chord of 24 cm is 5 cm from the centre. Find the radius.",
+              "a": "half = 12. r² = 144 + 25 = 169, so **r = 13 cm**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/chord-distance.png",
+              "caption": "Radius, distance and half the chord make a right triangle"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "closer-longer",
+          "label": "Longer chords are closer to the centre",
+          "type": "core",
+          "desc": "- **Equal chords** are the **same distance** from the centre. (And chords the same distance away are equal.)\n- A **longer** chord is **closer** to the centre.\n- The longest chord, the diameter, is at distance **0**: it passes through the centre.\n\nYou can see it in the right triangle: r stays fixed. If half the chord grows, d must shrink to keep half² + d² = r².",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: in a circle of radius 10, chord P is 6 cm from the centre and chord Q is 8 cm from the centre. Which is longer, and by how much?",
+              "a": "P: half² = 100 − 36 = 64, half 8, chord **16**. Q: half² = 100 − 64 = 36, half 6, chord **12**. P is closer, so it is longer, by **4 cm**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "two-chords",
+          "label": "Two parallel chords",
+          "type": "optional",
+          "desc": "Draw both right triangles, one for each chord, with the same radius.\n\n**Worked example:** radius 5 cm. Parallel chords of 8 cm and 6 cm. How far apart are they?\n- 8 cm chord: half 4, so d = 3 (because 4² + 3² = 5²).\n- 6 cm chord: half 3, so d = 4.\n- **Same side** of the centre: 4 − 3 = **1 cm** apart.\n- **Opposite sides** of the centre: 4 + 3 = **7 cm** apart.\n\nAlways draw the picture to see which case you have.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "arcs-angles",
+      "label": "Angles made by an arc",
+      "desc": "**Goal:** know three angle facts: the centre angle is double, angles from the same arc are equal, and the angle on a diameter is 90°.\n\nThese three facts answer most angle questions in this chapter. Exercise Set 5.6 uses them.",
+      "links": [],
+      "children": [
+        {
+          "id": "double",
+          "label": "The centre angle is double",
+          "type": "core",
+          "desc": "Take an arc AB. Join A and B to the centre O, and also to a point D on the **other** part of the circle.\n\n**The angle at the centre is twice the angle at the circle:** angle AOB = 2 × angle ADB.\n\n**Worked example:** angle AOB = 100°, so angle ADB = 100 ÷ 2 = **50°**.\n\nHow to spot it: both angles must **stand on the same arc**. Trace the arms of each angle and check they end at the same two points.",
+          "links": [
+            {
+              "label": "Math is Fun: circle theorems",
+              "url": "https://www.mathsisfun.com/geometry/circle-theorems.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: the angle at the centre is 130°. Find the angle at the circle on the same arc.",
+              "a": "130 ÷ 2 = **65°**."
+            },
+            {
+              "q": "Your turn: the angle at the circle is 35°. Find the angle at the centre on the same arc.",
+              "a": "2 × 35 = **70°**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/double-angle.png",
+              "caption": "Both angles stand on the red arc AB"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "same-arc",
+          "label": "Angles from the same arc are equal",
+          "type": "core",
+          "desc": "Every angle at the circle standing on the same arc is **half** the same centre angle. So they are all **equal**.\n\nIn the picture, P, Q and R all see the arc AB at **40°**. Move to anywhere on that part of the circle and you still see 40°.\n\nThis is something only a circle does. No other shape has it.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: angle APB = 28° and Q is on the same part of the circle as P. Find angle AQB.",
+              "a": "Same arc, so **28°**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/same-segment.png",
+              "caption": "Points P, Q and R all see arc AB at the same angle"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "semicircle",
+          "label": "The angle on a diameter is 90°",
+          "type": "core",
+          "desc": "If AB is a **diameter**, the angle at the centre is a straight line, 180°.\n\nHalf of 180° is **90°**. So any point on the circle sees a diameter at a right angle.\n\n**Worked example:** AB is a diameter and C is on the circle. Angle CAB = 35°. Then angle ACB = 90°, so angle CBA = 180 − 90 − 35 = **55°**.\n\nThis gives a quick way to draw a right angle: draw a circle, a diameter, and join both ends to any point on the circle.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: AB is a diameter of length 10. C is on the circle and AC = 6. Find BC.",
+              "a": "Angle ACB = 90°, so use Pythagoras: BC² = 100 − 36 = 64, so **BC = 8**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/semicircle.png",
+              "caption": "Every angle standing on the diameter AB is 90°"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "arc-chord",
+          "label": "Using radii with arc angles",
+          "type": "core",
+          "desc": "Many questions mix both ideas: centre angles and isosceles triangles.\n\n**Worked example:** O is the centre, angle AOB = 90°. Find angle ACB (C on the major arc) and angle OAB.\n- Angle ACB = 90 ÷ 2 = **45°**.\n- Triangle OAB is isosceles: angle OAB = (180 − 90) ÷ 2 = **45°**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: angle AOB = 120°. Find angle OAB and angle ACB (C on the major arc).",
+              "a": "Angle OAB = (180 − 120) ÷ 2 = **30°**. Angle ACB = 120 ÷ 2 = **60°**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "cyclic",
+      "label": "Cyclic quadrilaterals",
+      "desc": "**Goal:** know that in a 4-sided shape with all corners on a circle, opposite angles add to 180°, and use it.\n\nThis is the last big fact in the chapter, and many end-of-chapter questions use it.",
+      "links": [],
+      "children": [
+        {
+          "id": "cyclic-rule",
+          "label": "Opposite angles add to 180°",
+          "type": "core",
+          "desc": "A **cyclic quadrilateral** has all four corners on one circle.\n\n**Its opposite angles add to 180°.** A + C = 180° and B + D = 180°.\n\nWhy: angle A and angle C stand on the two arcs that together make the whole circle, 360° at the centre. Each is half of its centre angle, so together they are half of 360°, which is 180°.\n\n**Worked example:** angle A = 85°, so angle C = 180 − 85 = **95°**. Angle B = 100°, so angle D = **80°**.",
+          "links": [
+            {
+              "label": "Math is Fun: circle theorems (scroll to cyclic quadrilateral)",
+              "url": "https://www.mathsisfun.com/geometry/circle-theorems.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: in cyclic ABCD, angle B = 70°. Find angle D.",
+              "a": "180 − 70 = **110°**."
+            },
+            {
+              "q": "Your turn: careful. Angle A = 120°. Can you find angle B?",
+              "a": "**No.** B is next to A, not opposite. You can only find **C** = 180 − 120 = **60°**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/cyclic-quad.png",
+              "caption": "A cyclic quadrilateral: opposite angles add to 180°"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "cyclic-algebra",
+          "label": "Cyclic quadrilaterals with algebra",
+          "type": "core",
+          "desc": "**Worked example:** cyclic PQRS has angle P = (3x + 8)° and angle R = (2x + 2)°. Find x.\n- P and R are opposite, so they add to 180: (3x + 8) + (2x + 2) = 180.\n- 5x + 10 = 180, so 5x = 170 and **x = 34**.\n- Angle P = 3 × 34 + 8 = **110°**. Angle R = 2 × 34 + 2 = **70°**.\n- Check: 110 + 70 = 180.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: angle A = (x + 20)° and angle C = (2x + 10)° in a cyclic quadrilateral ABCD. Find x and both angles.",
+              "a": "(x + 20) + (2x + 10) = 180, so 3x + 30 = 180, 3x = 150, **x = 50**. Angle A = **70°**, angle C = **110°**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "is-it-cyclic",
+          "label": "Is this quadrilateral cyclic?",
+          "type": "core",
+          "desc": "The rule also works backwards: **if a pair of opposite angles adds to 180°, the four corners lie on a circle.**\n\n**Worked example:** a quadrilateral has angles 90°, 85°, 90°, 95° in order. Opposite pairs: 90 + 90 = 180 and 85 + 95 = 180. **Yes, cyclic.**\n\nA rectangle is always cyclic (90 + 90). A parallelogram that is not a rectangle never is.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a quadrilateral has angles 80°, 110°, 100°, 70° in order. Is it cyclic?",
+              "a": "Opposite pairs: 80 + 100 = 180, and 110 + 70 = 180. **Yes.**"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "exterior-cyclic",
+          "label": "The outside angle of a cyclic quadrilateral",
+          "type": "optional",
+          "desc": "Extend one side of a cyclic quadrilateral. The **outside angle** equals the **inside opposite angle**.\n\nWhy: the outside angle at C plus angle C makes 180° (a straight line). Angle A plus angle C also makes 180°. So the outside angle equals angle A.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: angle A = 75° in cyclic ABCD. Side DC is extended past C. What is the outside angle at C?",
+              "a": "It equals the opposite inside angle, A: **75°**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: the why, and challenge questions",
+      "desc": "**For later.** Your textbook explains *why* each fact is true, and the starred end-of-chapter questions ask you to explain too. Come here once you can **use** all the facts above. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "why-double",
+          "label": "Why the centre angle is double",
+          "type": "optional",
+          "desc": "Join D to the centre O and carry the line on to E on the arc.\n- OA = OD (radii), so triangle OAD is isosceles: its two base angles are equal. Call each one x.\n- The outside angle AOE of that triangle is x + x = **2x** (exterior angle rule).\n- In the same way, on the other side, angle BOE = 2y, where y is angle ODB.\n- So angle AOB = 2x + 2y = 2(x + y) = **2 × angle ADB**.\n\nYour textbook also handles the case where the line from D through O misses the arc.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "hexagon",
+          "label": "A hexagon in a circle",
+          "type": "optional",
+          "desc": "A regular hexagon fits in a circle of radius r. Join each corner to the centre: 6 triangles, each with centre angle 360 ÷ 6 = 60°.\n\nEach triangle has two sides r and base angles (180 − 60) ÷ 2 = 60°. All angles are 60°, so it is **equilateral**: each side of the hexagon is **r**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: how far is each side of the hexagon from the centre, if r = 2?",
+              "a": "Half a side is 1. d² = 2² − 1² = 3, so **d = √3** (about 1.73)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "rectangle-only",
+          "label": "Why a cyclic parallelogram must be a rectangle",
+          "type": "optional",
+          "desc": "- In a parallelogram, opposite angles are **equal**: A = C.\n- In a cyclic quadrilateral, opposite angles **add to 180°**: A + C = 180.\n- Both together: A = C = 90°. So every angle is 90°, and it is a **rectangle**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "shortest-chord",
+          "label": "The shortest chord through a point",
+          "type": "optional",
+          "desc": "Take a point P inside a circle. Of all chords through P, which is shortest?\n\nThe one **perpendicular to OP**. Any other chord through P is closer to the centre (its distance from O is less than OP), and closer chords are longer.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThis chapter states twelve theorems with proofs, which can bury a student who finds maths hard. The roadmap separates **using** the facts (core) from **explaining** them (optional, in the last student milestone). It ties everything to one idea, **all radii are equal**, which produces the isosceles triangle and the chord's right triangle. Those two triangles answer almost every calculation in the exercises.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- **Start with *Check yourself*.** Most trouble here is really trouble with triangle angles, isosceles base angles or Pythagoras.\n- **Insist on a drawing** for every question, with the radii drawn in.\n- **Teach the hidden right triangle** as a routine: radius, distance, half chord. Then double.\n- **For angle facts, trace the arc.** Have the student put a finger on both arms of each angle and check they land on the same two points.\n- **Use paper circles.** Folding finds diameters, the centre, and the perpendicular bisector of a chord.\n- **Keep proofs separate.** A student who can use all the facts confidently is ready to see why they are true. Not before.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "An 8-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** the *Start here* tools: triangle angles, isosceles, Pythagoras, perpendicular bisector.\n- **Period 2:** words for a circle; symmetry; the radii-make-isosceles idea. **Activity:** fold paper circles to find the centre.\n- **Period 3:** circles through two and three points; constructing the circumcircle; where the centre lands (Exercise Set 5.1). **Activity:** find the centre of a round plate.\n- **Period 4:** equal chords; the line from the centre; the hidden right triangle (Exercise Sets 5.2 to 5.4). **Activity:** the thread-on-a-wheel demonstration.\n- **Period 5:** chord calculations and longer-is-closer (Exercise Set 5.5). **Activity:** draw chords, measure length and distance, fill a table.\n- **Period 6:** the double angle, same arc, semicircle (Exercise Set 5.6). **Activity:** measure angles from several points on one arc.\n- **Period 7:** cyclic quadrilaterals, including algebra.\n- **Period 8:** mixed practice; exit ticket. The why and challenge questions for those ready.",
+          "links": [
+            {
+              "label": "Your textbook: NCERT Ganita Manjari, Grade 9 Part I, Chapter 5 (free PDF)",
+              "url": "https://ncert.nic.in/textbook/pdf/iemh105.pdf"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Calling a radius a chord, or an arc a chord.\n- Forgetting to double half the chord at the end.\n- Using r as a short side in Pythagoras instead of the long side.\n- Halving the centre angle when the two angles stand on **different** arcs.\n- Doubling the angle at the circle when the question gives the centre angle (or the reverse).\n- Adding **neighbouring** angles of a cyclic quadrilateral to 180° instead of **opposite** ones.\n- Thinking every quadrilateral is cyclic.\n- Constructing perpendicular bisectors with the compass opening changed between arcs.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Radius 17 cm, chord 8 cm from the centre. How long is the chord?",
+              "a": "half² = 289 − 64 = 225, half = 15. Chord = **30 cm**."
+            },
+            {
+              "q": "2. The centre angle on an arc is 140°. What is the angle at the circle on the same arc?",
+              "a": "140 ÷ 2 = **70°**."
+            },
+            {
+              "q": "3. AB is a diameter, C is on the circle. What is angle ACB?",
+              "a": "**90°.**"
+            },
+            {
+              "q": "4. In cyclic ABCD, angle A = 64°. Find angle C.",
+              "a": "180 − 64 = **116°**."
+            },
+            {
+              "q": "5. Where is the circumcentre of a right triangle?",
+              "a": "At the **midpoint of the longest side** (the hypotenuse)."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}
