@@ -1,6 +1,7 @@
-// A minimal ZIP writer (stored, not compressed) for the contribution package.
-// The contents are JSON and already-compressed JPEGs, so deflate would save
-// little, and this keeps the site free of a zip dependency.
+// A minimal ZIP writer (stored, not compressed) for the contribution package,
+// and a reader for importing one. The contents are JSON and already-compressed
+// JPEGs, so deflate would save little when writing, and this keeps the site
+// free of a zip dependency.
 
 export interface ZipEntry { name: string; data: Uint8Array }
 
@@ -74,4 +75,69 @@ export function makeZip(entries: ZipEntry[]): Blob {
   end.setUint32(12, cdSize, true)
   end.setUint32(16, offset, true)
   return new Blob([...parts, ...central, new Uint8Array(end.buffer)] as BlobPart[], { type: 'application/zip' })
+}
+
+const JUNK = /(^|\/)(__MACOSX\/|\.DS_Store$|Thumbs\.db$)/i
+
+async function inflate(data: Uint8Array): Promise<Uint8Array> {
+  const stream = new Blob([data as BlobPart]).stream().pipeThrough(new DecompressionStream('deflate-raw'))
+  return new Uint8Array(await new Response(stream).arrayBuffer())
+}
+
+/**
+ * Reads the files in a zip: stored or deflated entries, as made by the
+ * package download, Windows "Compressed folder" and macOS "Compress". Works
+ * from the central directory, so entries written with data descriptors read
+ * fine. Folders and OS clutter (__MACOSX/, .DS_Store, Thumbs.db) are left out;
+ * names use "/" whatever the zip used.
+ */
+export async function readZip(data: ArrayBuffer): Promise<ZipEntry[]> {
+  const v = new DataView(data)
+  const bytes = new Uint8Array(data)
+  const notZip = () => new Error('this file is not a zip')
+
+  // The end-of-central-directory record sits in the last 22 bytes plus up to 64 KB of comment.
+  let eocd = -1
+  for (let i = data.byteLength - 22; i >= Math.max(0, data.byteLength - 22 - 0xffff); i--) {
+    if (v.getUint32(i, true) === 0x06054b50) { eocd = i; break }
+  }
+  if (eocd < 0) throw notZip()
+  const count = v.getUint16(eocd + 10, true)
+  const cdSize = v.getUint32(eocd + 12, true)
+  const cdOffset = v.getUint32(eocd + 16, true)
+  if (count === 0xffff || cdOffset === 0xffffffff || (eocd >= 20 && v.getUint32(eocd - 20, true) === 0x07064b50))
+    throw new Error('this zip uses the zip64 format, which the site cannot read; zip the folder again with your system\'s standard tool')
+  if (cdOffset + cdSize > eocd) throw notZip()
+
+  const dec = new TextDecoder()
+  const out: ZipEntry[] = []
+  let p = cdOffset
+  for (let n = 0; n < count; n++) {
+    if (v.getUint32(p, true) !== 0x02014b50) throw notZip()
+    const flags = v.getUint16(p + 8, true)
+    const method = v.getUint16(p + 10, true)
+    const crc = v.getUint32(p + 16, true)
+    const compSize = v.getUint32(p + 20, true)
+    const size = v.getUint32(p + 24, true)
+    const nameLen = v.getUint16(p + 28, true)
+    const extraLen = v.getUint16(p + 30, true)
+    const commentLen = v.getUint16(p + 32, true)
+    const local = v.getUint32(p + 42, true)
+    const name = dec.decode(bytes.subarray(p + 46, p + 46 + nameLen)).replace(/\\/g, '/')
+    p += 46 + nameLen + extraLen + commentLen
+
+    if (name.endsWith('/') || JUNK.test(name)) continue
+    if (flags & 1) throw new Error(`"${name}" is encrypted; zip the folder again without a password`)
+    if (compSize === 0xffffffff || size === 0xffffffff || local === 0xffffffff)
+      throw new Error('this zip uses the zip64 format, which the site cannot read; zip the folder again with your system\'s standard tool')
+    if (method !== 0 && method !== 8)
+      throw new Error(`"${name}" uses a compression method the site cannot read; zip the folder again with your system's standard tool`)
+    if (v.getUint32(local, true) !== 0x04034b50) throw notZip()
+    const start = local + 30 + v.getUint16(local + 26, true) + v.getUint16(local + 28, true)
+    const raw = bytes.subarray(start, start + compSize)
+    const body = method === 0 ? raw.slice() : await inflate(raw)
+    if (body.length !== size || crc32(body) !== crc) throw new Error(`"${name}" is damaged in this zip`)
+    out.push({ name, data: body })
+  }
+  return out
 }

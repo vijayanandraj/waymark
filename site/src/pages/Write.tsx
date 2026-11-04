@@ -5,7 +5,7 @@ import type { CatalogEntry } from '../lib/types'
 import { useToast } from '../components/Toast'
 import Editor, { ImportButton } from '../write/Editor'
 import { type Draft, getDraft, getImages, listDrafts, requestPersistence } from '../write/store'
-import { createBlank, createFromJson, createFromPublished } from '../write/drafts'
+import { createBlank, createFromJson, createFromPublished, createFromZip, isZipFile } from '../write/drafts'
 
 /** /write: this browser's drafts, and ways to start a new one. */
 export function Drafts() {
@@ -78,7 +78,12 @@ export function Drafts() {
           else start(() => createFromPublished(pick))
         }}>Edit</button>
         <span className="or">or</span>
-        <ImportButton label="Import a JSON file" onText={text => start(() => createFromJson(text))} />
+        <ImportButton label="Import a JSON or ZIP file" onFile={file => start(async () => {
+          if (!await isZipFile(file)) return createFromJson(await file.text())
+          const { draft, message } = await createFromZip(file)
+          toast(message)
+          return draft
+        })} />
       </div>
 
       <h2>Your drafts in this browser</h2>
@@ -100,7 +105,7 @@ export function Drafts() {
       )}
       <p className="hint">
         Drafts live only in this browser. Clearing site data removes them; use <b>More → Download package</b> in the editor
-        to keep a copy, or to carry a draft to another computer (import the JSON there).
+        to keep a copy, or to carry a draft to another computer (import the zip there).
       </p>
     </div>
   )

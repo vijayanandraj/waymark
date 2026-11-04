@@ -9,8 +9,8 @@ import RoadmapView from '../viewer/RoadmapView'
 import MdEditor from './MdEditor'
 import { SAMPLE } from './sample'
 import { imageName, referencedImages, shrink, withImageUrls } from './images'
-import { type Draft, deleteDraft, deleteImage, getImages, putDraft, putImage } from './store'
-import { type CheckResult, type Problem, checkDraft, coerceDoc, exportInline, exportPackage, extractInlineImages, parseTags, saveAs, today } from './drafts'
+import { type Draft, type DraftMeta, deleteDraft, deleteImage, getImages, putDraft, putImage } from './store'
+import { type CheckResult, type Problem, checkDraft, coerceDoc, exportInline, exportPackage, extractInlineImages, importPackage, isZipFile, parseTags, saveAs, today } from './drafts'
 import './builder.css'
 
 interface Found { node: RNode; depth: number; parent: RNode[]; index: number; parentNode: RNode | null }
@@ -35,7 +35,7 @@ function newNode(label: string, depth: number): RNode {
   return n
 }
 
-type Modal = null | 'json' | 'changelog' | 'details' | 'check' | 'submit' | 'delete'
+type Modal = null | 'json' | 'changelog' | 'details' | 'check' | 'submit' | 'delete' | 'zip-details'
 
 /**
  * The roadmap editor. Everything is saved to this browser (IndexedDB) a
@@ -164,6 +164,35 @@ export default function Editor({ initial, initialImages }: { initial: Draft; ini
     } catch { toast('Could not read that JSON file.') }
   }
 
+  // Details from a zip's meta.json, waiting for the author to say whether they replace the draft's own.
+  const [zipMeta, setZipMeta] = useState<{ meta: DraftMeta; folder: string } | null>(null)
+  const applyZipMeta = (m: { meta: DraftMeta; folder: string }) => updateDraft(p => ({
+    ...p, meta: m.meta,
+    slug: !p.base && m.folder && /^[a-z0-9]+(-[a-z0-9]+)*$/.test(m.folder) ? m.folder : p.slug,
+  }))
+
+  const importZip = async (file: File) => {
+    try {
+      const pkg = await importPackage(draft.id, await file.arrayBuffer())
+      setImages(await getImages(draft.id))
+      const doc = pkg.doc
+      update(x => { Object.assign(x, { topics: doc.topics, changelog: doc.changelog || [] }); if (doc.title) x.title = doc.title; if (doc.subtitle) x.subtitle = doc.subtitle })
+      setSelectedId(null)
+      toast(pkg.message)
+      if (pkg.meta) {
+        const m = draft.meta
+        const blank = !m.audience.trim() && !m.tags.length && !m.follows?.trim() && !m.authors.some(a => a.name.trim())
+        if (blank) applyZipMeta({ meta: pkg.meta, folder: pkg.folder })
+        else { setZipMeta({ meta: pkg.meta, folder: pkg.folder }); setModal('zip-details') }
+      }
+    } catch (e) { toast('Could not import that zip: ' + (e as Error).message) }
+  }
+
+  const importFile = async (file: File) => {
+    if (await isZipFile(file)) importZip(file)
+    else importJson(await file.text())
+  }
+
   const doc = draft.doc
   return (
     <div className="bld">
@@ -193,7 +222,7 @@ export default function Editor({ initial, initialImages }: { initial: Draft; ini
             <button className="ghost" onClick={() => setModal('json')}>Edit JSON</button>
             <button className="ghost" onClick={async () => saveAs(await exportPackage(draft, images), `${draft.slug || 'roadmap'}.zip`)}>Download package (.zip)</button>
             <button className="ghost" title="Screenshots embedded; opens in tools/roadmap-builder.html" onClick={async () => saveAs(await exportInline(draft, images), `${draft.slug || 'roadmap'}.roadmap.json`)}>Download JSON (inline images)</button>
-            <ImportButton onText={importJson} />
+            <ImportButton onFile={importFile} />
             {!doc.topics.length && <button className="ghost" onClick={() => { update(d => { Object.assign(d, structuredClone(SAMPLE), { title: d.title || SAMPLE.title }) }); toast('Sample loaded.') }}>Load sample</button>}
             <button className="danger" onClick={() => setModal('delete')}>Delete draft</button>
           </div>
@@ -234,6 +263,14 @@ export default function Editor({ initial, initialImages }: { initial: Draft; ini
         onLog={text => update(d => { d.changelog = [{ date: today(), text }, ...(d.changelog || [])]; d.updated = today() })} />}
       {modal === 'json' && <JsonModal doc={doc} onClose={() => setModal(null)} onApply={d => { updateDraft(x => ({ ...x, doc: d })); setSelectedId(null); setModal(null); toast('Applied.') }} />}
       {modal === 'changelog' && <ChangelogModal doc={doc} onClose={() => setModal(null)} onApply={entries => { update(d => { d.changelog = entries; d.updated = today() }); setModal(null) }} />}
+      {modal === 'zip-details' && zipMeta && (
+        <ModalBox onClose={() => setModal(null)}>
+          <h3>Use the Details from the zip?</h3>
+          <p className="prose">The zip has its own Details (who it is for, tags, author) in meta.json. Replace this draft’s Details with them, or keep the ones you have?</p>
+          <div className="row"><button className="ghost" onClick={() => setModal(null)}>Keep mine</button>
+            <button onClick={() => { applyZipMeta(zipMeta); setModal(null); toast('Details replaced.') }}>Use the zip’s</button></div>
+        </ModalBox>
+      )}
       {modal === 'delete' && (
         <ModalBox onClose={() => setModal(null)}>
           <h3>Delete this draft?</h3>
@@ -591,13 +628,14 @@ function ChangelogModal({ doc, onClose, onApply }: { doc: RoadmapDoc; onClose: (
   )
 }
 
-export function ImportButton({ onText, label = 'Import JSON' }: { onText: (text: string) => void; label?: string }) {
+/** Picks a builder JSON file or a package zip; the caller tells them apart (isZipFile). */
+export function ImportButton({ onFile, label = 'Import JSON or ZIP' }: { onFile: (file: File) => void; label?: string }) {
   const ref = useRef<HTMLInputElement>(null)
   return (
     <>
-      <input ref={ref} type="file" accept="application/json,.json" hidden onChange={async e => {
+      <input ref={ref} type="file" accept="application/json,.json,application/zip,.zip" hidden onChange={e => {
         const f = e.target.files?.[0]; if (!f) return
-        onText(await f.text()); e.target.value = ''
+        onFile(f); e.target.value = ''
       }} />
       <button className="ghost" onClick={() => ref.current?.click()}>{label}</button>
     </>

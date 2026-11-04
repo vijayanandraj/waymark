@@ -20,6 +20,11 @@ Developers can skip the form: unzip the package at the repository root (or
 write the folder by hand, as described in `roadmaps/README.md`), run
 `node site/scripts/validate.mjs`, and open a pull request.
 
+To keep working on a roadmap in the editor, **Write → Import a JSON or ZIP
+file** takes the package back (or any zip of a `roadmaps/<slug>/` folder, with
+`roadmap.json`, `meta.json` and `images/`), as well as a `.roadmap.json` from the
+offline builder.
+
 Some habits that make a roadmap useful to strangers:
 
 - **Say who it is for.** "Class 9 students revising for the final exam" beats
@@ -59,7 +64,7 @@ site/                   static site: React 19 + TypeScript + Vite
   scripts/validate.mjs  runs them over roadmaps/ (no npm install needed)
   scripts/build-content.mjs, prerender.mjs   build steps around Vite
   src/viewer/           the roadmap map/checklist view
-  src/write/            the editor: drafts in IndexedDB, checks, package export
+  src/write/            the editor: drafts in IndexedDB, checks, package export and import
 tools/                  the offline single-file builder
 selfhost/               the self-hosted server for private instances
 docs/adr/               decisions and why they were made
@@ -68,6 +73,7 @@ docs/adr/               decisions and why they were made
 ```
 cd site && npm install && npm run dev      # http://localhost:5174
 npm run build                              # what CI deploys to GitHub Pages
+npm run test:import                        # builds, then imports packages in a headless browser (Playwright)
 ```
 
 - Frontend is React 19 + TypeScript, strict mode, no UI framework. `npm run build`
