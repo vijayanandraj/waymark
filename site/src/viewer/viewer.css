@@ -9,9 +9,10 @@
 .k-topic{background:#16232e}.k-core{background:#fff;border:1.5px solid #16232e}
 .k-alt{background:#e4e2da;border:1.5px solid #9aa4ac}.k-opt{background:#fff;border:1.5px dashed #9aa4ac}
 .rm-count{font-family:ui-monospace,Menlo,Consolas,monospace;border:1px solid #d7d4cb;border-radius:3px;padding:2px 7px;background:#fff}
-.rm-scroll{overflow-x:auto;width:100%}
+.rm-scroll{overflow-x:auto;overflow-y:hidden;width:100%}
 .rm-canvas{position:relative;margin:0 auto}
 .rm-svg{position:absolute;inset:0;pointer-events:none}
+.rm-svg svg{display:block}
 .rm-spine{stroke:#16232e;stroke-width:3.5}
 .rm-edge{stroke:#8b96a0;stroke-width:1.6;fill:none}
 .rm-edge-dash{stroke-dasharray:5 5}
