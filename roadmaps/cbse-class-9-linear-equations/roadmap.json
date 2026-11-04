@@ -1,0 +1,535 @@
+{
+  "title": "Class 9 Maths, Chapter 13: Linear Equations in Two Variables, Step by Step",
+  "subtitle": "For students who find maths hard. One idea holds the chapter together: every solution is a point, the solutions of one equation make a straight line, and two equations meet where their lines cross. Graphs first, then slope, then substitution and elimination. Small steps, every check shown, practice with answers. Follows NCERT Ganita Manjari, Grade 9 Part II, Chapter 13 (Two Variables, One Line).",
+  "updated": "2026-11-04",
+  "changelog": [
+    {
+      "date": "2026-11-04",
+      "text": "Added an 'About this roadmap' step: who it is for, how it differs from the textbook, and licence."
+    },
+    {
+      "date": "2026-11-04",
+      "text": "Linked into the Class 9 Maths series: links to the start page for this part and to the chapters before and after this one."
+    },
+    {
+      "date": "2026-11-04",
+      "text": "First version: written for students who find maths hard. Solutions as points, lines from tables, slope as rise over run, pairs of equations by graph, substitution and elimination, practice with answers, and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** feel sure about solving a one-letter equation, putting numbers into an expression, and plotting points. Chapters 1 and 2 gave you all three.",
+      "links": [
+        {
+          "label": "Your textbook: NCERT Ganita Manjari, Grade 9 Part II, Chapter 13 (free PDF)",
+          "url": "https://ncert.nic.in/textbook/pdf/iemh205.pdf"
+        },
+        {
+          "label": "DIKSHA: free NCERT videos and lessons",
+          "url": "https://diksha.gov.in/"
+        }
+      ],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. On the map the steps go left and right, so press **Checklist view** at the top to see them as a list, in order.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Draw every graph on squared paper** with a ruler. A careful graph shows the answer; a rough one hides it.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: every solution is a point, and all the solutions of one equation make a straight line.** Two equations: the answer is where their two lines cross.",
+          "links": [
+            {
+              "label": "All chapters in Term 2: start page",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-maths-part-2"
+            },
+            {
+              "label": "The whole year: Term 1 and Term 2",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-maths-year"
+            },
+            {
+              "label": "Previous chapter: 12. Quadrilaterals",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-quadrilaterals"
+            },
+            {
+              "label": "Next chapter: 14. Surface Area and Volume",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-surface-volume"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 13 of the NCERT textbook *Ganita Manjari*, Grade 9 Part II: *Two Variables, One Line*.\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** Every solution is a point, and all the solutions of one equation make a straight line.\n\n**How it is different from the textbook.** Solutions are plotted as points before any shortcut, so 'one equation is one line' is seen, not told. Slope is tied back to Chapter 2's jump, and every answer is checked in both equations.\n\n**What is inside.**\n- 8 milestones and 27 small steps. The 20 solid steps are the core path. The dashed ones are optional.\n- 26 practice questions with hidden answers, and 5 pictures.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: challenge questions on taxi fares, two-digit numbers and incomes.\n- For teachers and parents: a 7-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Three quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Solve 3x + 5 = 20.",
+              "a": "3x = 15, so **x = 5**. Wrong? Do *Solving for one letter*."
+            },
+            {
+              "q": "2. Find 4x − 2y when x = 3 and y = −1.",
+              "a": "12 + 2 = **14**. Wrong? Do *Putting numbers in*."
+            },
+            {
+              "q": "3. Plot (2, −1). Which quadrant is it in?",
+              "a": "Right 2, down 1: the **fourth** quadrant. Wrong? Revisit Chapter 1, *Plotting points*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "one-letter",
+          "label": "Solving for one letter",
+          "type": "core",
+          "desc": "Do the same thing to both sides until the letter is alone.\n\n**Example:** 3x + 5 = 20. Take 5 from both sides: 3x = 15. Divide both by 3: **x = 5**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: solve 2y − 1 = 7.",
+              "a": "2y = 8, so **y = 4**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "substitute",
+          "label": "Putting numbers in",
+          "type": "core",
+          "desc": "Replace each letter with its number, in brackets, then work it out.\n\n**Example:** 4x − 2y with x = 3, y = −1: 4(3) − 2(−1) = 12 + 2 = **14**. Careful with the double minus.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: find 3x + 2y when x = 4, y = 0.",
+              "a": "**12.**"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "equations",
+      "label": "Equations with two letters",
+      "desc": "**Goal:** know what a linear equation in two variables is, write it in standard form, and check a solution. Exercise Set 13.1 uses this.",
+      "links": [],
+      "children": [
+        {
+          "id": "many-solutions",
+          "label": "One equation, many answers",
+          "type": "core",
+          "desc": "'Two numbers add to 10': x + y = 10.\n\nThere is no single answer. (3, 7) works. So do (10, 0), (12, −2) and (2.5, 7.5). There are **infinitely many** solutions.\n\nEach solution is a **pair** of numbers, written (x, y), in that order.",
+          "links": [
+            {
+              "label": "Math is Fun: linear equations",
+              "url": "https://www.mathsisfun.com/algebra/linear-equations.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: give three solutions of x − y = 2.",
+              "a": "For example **(2, 0), (5, 3), (0, −2)**. Any pair where x is 2 more than y."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "standard-form",
+          "label": "Standard form: ax + by + c = 0",
+          "type": "core",
+          "desc": "A **linear equation in two variables** can always be written as\n\n**ax + by + c = 0**\n\nwhere a and b are not both zero. Move everything to one side.\n\n**Example:** y = 2x − 3 becomes 2x − y − 3 = 0. So a = 2, b = −1, c = −3.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: write 3x = 12 − 4y in standard form.",
+              "a": "**3x + 4y − 12 = 0**: a = 3, b = 4, c = −12."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-solution",
+          "label": "Is it a solution?",
+          "type": "core",
+          "desc": "Put the pair into the equation. If both sides agree, it is a solution.\n\n**Example:** 3x + 2y = 12.\n- (2, 3): 6 + 6 = 12. **Yes.**\n- (4, 0): 12 + 0 = 12. **Yes.**\n- (1, 4): 3 + 8 = 11. **No.**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which of (0, 4), (2, 3), (3, 2) satisfy x + 2y = 8?",
+              "a": "(0, 4): 8 **yes**. (2, 3): 8 **yes**. (3, 2): 7 **no**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "graph",
+      "label": "Drawing the line",
+      "desc": "**Goal:** draw the graph of a linear equation and read solutions from it. Exercise Set 13.2 uses this.",
+      "links": [],
+      "children": [
+        {
+          "id": "points-line",
+          "label": "The solutions make a straight line",
+          "type": "core",
+          "desc": "Find a few solutions of x + 2y = 8 and plot them: (0, 4), (2, 3), (4, 2), (8, 0), (−2, 5).\n\nThey all sit on **one straight line**. Every point on the line is a solution, and every solution is on the line.\n\nThat is why it is called a **linear** equation, and the chapter's title: two variables, one line.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: is (6, 1) on the line x + 2y = 8? Check without drawing.",
+              "a": "6 + 2 = 8. **Yes.**"
+            }
+          ],
+          "images": [
+            {
+              "src": "images/line-points.png",
+              "caption": "Five solutions of x + 2y = 8 on one line"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "two-points",
+          "label": "Quick method: the two crossings",
+          "type": "core",
+          "desc": "Two points fix a line. The easiest two are where it crosses the axes.\n- Put **x = 0**, find y. That is where it crosses the y-axis.\n- Put **y = 0**, find x. That is where it crosses the x-axis.\n- Join them with a ruler, and check with a third point.\n\n**Example:** 3x + 4y = 12. x = 0 gives y = 3: (0, 3). y = 0 gives x = 4: (4, 0).",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: find where 2x + 5y = 10 crosses both axes.",
+              "a": "x = 0: y = 2, so **(0, 2)**. y = 0: x = 5, so **(5, 0)**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "special-lines",
+          "label": "Special lines",
+          "type": "core",
+          "desc": "- **c = 0** (like 2x − y = 0): the line passes through **(0, 0)**.\n- **y = 3**: every point has y = 3, so it is a **flat** line.\n- **x = −2**: every point has x = −2, so it is an **upright** line.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: does 4x + 3y = 0 pass through the origin?",
+              "a": "**Yes**: 0 + 0 = 0."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "slope",
+      "label": "Slope: how steep the line is",
+      "desc": "**Goal:** find the slope of a line, and read the slope and crossing point from y = mx + d. Exercise Set 13.3 uses this.",
+      "links": [],
+      "children": [
+        {
+          "id": "rise-run",
+          "label": "Rise over run",
+          "type": "core",
+          "desc": "Pick two points on the line. Go across from one to the other (the **run**), then up (the **rise**).\n\n**slope = rise ÷ run**\n\n**Example:** (1, 2) to (4, 8). Run = 4 − 1 = 3. Rise = 8 − 2 = 6. Slope = 6 ÷ 3 = **2**.\n\nAs a formula: slope = (y₂ − y₁) ÷ (x₂ − x₁). It doesn't matter which point you call first, as long as you use the same order on top and bottom.",
+          "links": [
+            {
+              "label": "Math is Fun: slope of a line",
+              "url": "https://www.mathsisfun.com/geometry/slope.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: find the slope through (−1, 5) and (2, −1).",
+              "a": "Rise −6, run 3. Slope = **−2**."
+            },
+            {
+              "q": "Your turn: find the slope through (2, 1) and (6, 3).",
+              "a": "2 ÷ 4 = **½**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/slope-triangle.png",
+              "caption": "The slope is rise ÷ run"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "sign",
+          "label": "Up, down, flat or upright",
+          "type": "core",
+          "desc": "- **Positive** slope: the line goes **up** from left to right.\n- **Negative** slope: it goes **down**.\n- **Zero** slope: it is **flat** (like y = 3).\n- An **upright** line (like x = −2) has no slope: the run is 0, and you can't divide by 0.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a road rises 1 m for every 20 m across. What is its slope?",
+              "a": "1 ÷ 20 = **0.05**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "y-mx-d",
+          "label": "Reading y = mx + d",
+          "type": "core",
+          "desc": "When the equation is written as **y = mx + d**:\n- **m** is the slope.\n- **d** is where it crosses the y-axis.\n\n**Example:** y = −5x + 3 has slope −5 (down 5 for each step right) and crosses at (0, 3).\n\nThis is Chapter 2 again: d is the **start** and m is the **jump**.",
+          "links": [
+            {
+              "label": "Math is Fun: equation of a straight line",
+              "url": "https://www.mathsisfun.com/equation_of_line.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: write 2x + y = 7 as y = mx + d. What are the slope and crossing?",
+              "a": "y = −2x + 7. Slope **−2**, crosses at **(0, 7)**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/slope-intercept.png",
+              "caption": "Three lines in the form y = mx + d"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "pairs",
+      "label": "Two equations together",
+      "desc": "**Goal:** turn a story into two equations, and solve them by graph, substitution or elimination. Exercise Sets 13.4 and 13.5 use this.",
+      "links": [],
+      "children": [
+        {
+          "id": "from-story",
+          "label": "Two facts, two equations",
+          "type": "core",
+          "desc": "**Story:** 2 pens and 3 pencils cost ₹34. 1 pen and 2 pencils cost ₹20. Find each price.\n- Let a pen cost ₹p and a pencil ₹q.\n- First fact: **2p + 3q = 34**.\n- Second fact: **p + 2q = 20**.\n\nOne equation alone has infinitely many answers. Two together usually have **just one**.",
+          "links": [
+            {
+              "label": "Math is Fun: systems of linear equations",
+              "url": "https://www.mathsisfun.com/algebra/systems-linear-equations.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: two numbers add to 25 and differ by 11. Write the equations.",
+              "a": "**x + y = 25** and **x − y = 11**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "by-graph",
+          "label": "Solve by drawing",
+          "type": "core",
+          "desc": "Draw both lines on the same axes. The point where they **cross** is on both lines, so it satisfies **both** equations.\n\nThe pen-and-pencil lines cross at **(8, 6)**: a pen costs ₹8 and a pencil ₹6.\n\nCheck: 2 × 8 + 3 × 6 = 34 and 8 + 2 × 6 = 20.",
+          "links": [],
+          "images": [
+            {
+              "src": "images/two-lines.png",
+              "caption": "The two lines cross at the answer"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "substitution",
+          "label": "Solve by substitution",
+          "type": "core",
+          "desc": "Get one letter alone from one equation, and **substitute** it into the other.\n\n**Example:** x + y = 25, x − y = 11.\n- From the first: x = 25 − y.\n- Into the second: (25 − y) − y = 11, so 25 − 2y = 11, 2y = 14, **y = 7**.\n- Then x = 25 − 7 = **18**.\n- Check: 18 + 7 = 25 and 18 − 7 = 11.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: solve 3x − y = 7 and x + 2y = 7 by substitution.",
+              "a": "From the first, y = 3x − 7. Then x + 6x − 14 = 7, so 7x = 21, **x = 3**, and **y = 2**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "elimination",
+          "label": "Solve by elimination",
+          "type": "core",
+          "desc": "Make one letter have the **same number** in both equations, then add or subtract to make it disappear.\n\n**Example:** 2p + 3q = 34 and p + 2q = 20.\n- Double the second: 2p + 4q = 40.\n- Subtract the first: (2p + 4q) − (2p + 3q) = 40 − 34, so **q = 6**.\n- Then p + 12 = 20, so **p = 8**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: solve x + y = 7 and x − y = 1 by adding the equations.",
+              "a": "Adding: 2x = 8, so **x = 4**. Then **y = 3**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "tickets",
+          "label": "A word problem, start to finish",
+          "type": "core",
+          "desc": "120 people went to a show. Adult tickets cost ₹50 and child tickets ₹30. The takings were ₹4800. How many adults?\n- Let x adults and y children. x + y = 120 and 50x + 30y = 4800.\n- From the first, y = 120 − x. So 50x + 3600 − 30x = 4800, 20x = 1200, **x = 60**.\n- So 60 adults and **60 children**. Check: 3000 + 1800 = 4800.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: 2 parathas and 1 bowl of dahi cost ₹90; 1 paratha and 3 bowls cost ₹80. Find each price.",
+              "a": "2p + d = 90 and p + 3d = 80. From the first, d = 90 − 2p. So p + 270 − 6p = 80, 5p = 190, **p = ₹38**, **d = ₹14**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "how-many",
+      "label": "One answer, none, or infinitely many",
+      "desc": "**Goal:** tell from the equations whether two lines cross, are parallel, or are the same line.",
+      "links": [],
+      "children": [
+        {
+          "id": "three-cases",
+          "label": "Three ways two lines can sit",
+          "type": "core",
+          "desc": "- **They cross:** exactly **one** solution.\n- **They are parallel:** they never meet, so **no** solution.\n- **They are the same line:** every point works, so **infinitely many** solutions.",
+          "links": [],
+          "images": [
+            {
+              "src": "images/three-cases.png",
+              "caption": "Two lines can cross, be parallel, or be the same line"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ratio-test",
+          "label": "The test without drawing",
+          "type": "core",
+          "desc": "Compare the numbers in a₁x + b₁y = c₁ and a₂x + b₂y = c₂:\n- a₁/a₂ ≠ b₁/b₂: the lines **cross**, one solution.\n- a₁/a₂ = b₁/b₂ ≠ c₁/c₂: **parallel**, no solution.\n- a₁/a₂ = b₁/b₂ = c₁/c₂: the **same line**, infinitely many.\n\n**Example:** 2x − y = 3 and 4x − 2y = 6. Ratios: 2/4, −1/−2, 3/6, all ½. **Same line.**\n\nIn words: if the second equation is just the first multiplied by a number, it is the same line. If only the left side is a multiple, the lines are parallel.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: how many solutions do 2x − y = 3 and 4x − 2y = 5 have?",
+              "a": "2/4 = −1/−2, but 3/5 is different. Parallel: **none**."
+            },
+            {
+              "q": "Your turn: and 2x + 3y = 7, 4x + y = 9?",
+              "a": "2/4 ≠ 3/1, so they cross: **one** solution, (2, 1)."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These match the starred and harder end-of-chapter questions in your textbook. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "taxi",
+          "label": "Fixed charge plus per km",
+          "type": "optional",
+          "desc": "A taxi trip of 5 km costs ₹110 and 8 km costs ₹164. Find the fixed charge x and the charge per km y.\n- x + 5y = 110 and x + 8y = 164.\n- Subtract: 3y = 54, so **y = ₹18** per km, and **x = ₹20**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "two-digit",
+          "label": "A two-digit number puzzle",
+          "type": "optional",
+          "desc": "The digits of a two-digit number add to 9. Reversing the digits makes it 27 bigger. Find the number.\n- Tens digit a, units b. a + b = 9.\n- (10b + a) − (10a + b) = 27, so 9b − 9a = 27, so b − a = 3.\n- Adding: 2b = 12, **b = 6**, **a = 3**. The number is **36** (and 63 − 36 = 27).",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "incomes",
+          "label": "Incomes and spending",
+          "type": "optional",
+          "desc": "Two people's incomes are in the ratio 5 : 4. Each saves ₹2000 a month, and their spending is in the ratio 3 : 2. Find their incomes.\n- Incomes 5k and 4k. Spending 5k − 2000 and 4k − 2000.\n- 2(5k − 2000) = 3(4k − 2000), so 10k − 4000 = 12k − 6000, and **k = 1000**.\n- Incomes **₹5000** and **₹4000**.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThis chapter connects algebra and graphs: an equation in two letters is a line, and solving two equations means finding where lines meet. For a student who finds maths hard, the roadmap keeps the picture in front: always draw the lines, and always check the answer in both equations.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- **Start with *Check yourself*.** Solving a one-letter equation and plotting points are the tools; the Chapter 1 and 2 roadmaps help.\n- **Plot many solutions by hand** before using the two-crossings shortcut, so 'solutions make a line' is seen, not told.\n- **Use graph paper and rulers.** A careful graph solves simple pairs exactly.\n- **Teach one algebraic method well** (elimination is often easiest) before the other.\n- **Always check in both equations.** It turns guessing into checking.\n- **Link slope to Chapter 2's jump** and to real ramps and roads.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 7-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** *Start here*; two-letter equations; standard form; checking solutions (Exercise Set 13.1).\n- **Period 2:** drawing the line from a table; the two-crossings method; special lines (Exercise Set 13.2). **Activity:** each student plots one solution of x + 2y = 8 on a class graph.\n- **Period 3:** slope as rise over run; signs; y = mx + d (Exercise Set 13.3). **Activity:** measure the slope of a ramp or staircase.\n- **Period 4:** writing a pair from a story (Exercise Set 13.4); solving by graph.\n- **Period 5:** substitution and elimination (Exercise Set 13.5).\n- **Period 6:** one, none or infinitely many; the ratio test.\n- **Period 7:** word problems; exit ticket. Challenge questions for those ready.",
+          "links": [
+            {
+              "label": "Your textbook: NCERT Ganita Manjari, Grade 9 Part II, Chapter 13 (free PDF)",
+              "url": "https://ncert.nic.in/textbook/pdf/iemh205.pdf"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Swapping x and y when plotting a solution.\n- Joining only two points with no check, and drawing the wrong line from one slip.\n- Computing rise and run in opposite orders, giving the wrong sign of slope.\n- Reading m as the crossing point and d as the slope.\n- Forgetting to find the second letter after finding the first.\n- Sign errors when subtracting one equation from another.\n- Saying parallel lines have 'two solutions'.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Is (3, 1) a solution of 2x + 3y = 9?",
+              "a": "6 + 3 = 9. **Yes.**"
+            },
+            {
+              "q": "2. Where does 2x + y = 6 cross the axes?",
+              "a": "**(0, 6)** and **(3, 0)**."
+            },
+            {
+              "q": "3. Find the slope through (0, 1) and (2, 7).",
+              "a": "6 ÷ 2 = **3**."
+            },
+            {
+              "q": "4. Solve x + y = 10, x − y = 4.",
+              "a": "**x = 7, y = 3.**"
+            },
+            {
+              "q": "5. How many solutions: x + y = 3 and 2x + 2y = 9?",
+              "a": "Parallel: **none**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

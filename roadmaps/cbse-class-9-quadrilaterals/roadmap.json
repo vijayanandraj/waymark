@@ -1,0 +1,518 @@
+{
+  "title": "Class 9 Maths, Chapter 12: Quadrilaterals, Step by Step",
+  "subtitle": "For students who find maths hard. One move holds the chapter together: cut a quadrilateral into triangles, and the triangle facts you know do the work. Parallelograms and their tests, the midpoint theorem, medians, and tiling with any quadrilateral. Marked diagrams, small steps, practice with answers. Follows NCERT Ganita Manjari, Grade 9 Part II, Chapter 12 (Quadrilaterals).",
+  "updated": "2026-11-04",
+  "changelog": [
+    {
+      "date": "2026-11-04",
+      "text": "Added an 'About this roadmap' step: who it is for, how it differs from the textbook, and licence."
+    },
+    {
+      "date": "2026-11-04",
+      "text": "Linked into the Class 9 Maths series: links to the start page for this part and to the chapters before and after this one."
+    },
+    {
+      "date": "2026-11-04",
+      "text": "First version: written for students who find maths hard. Triangle tools first, parallelogram properties and tests, the midpoint theorem, the centroid, tiling, practice with answers, and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** feel sure about angles with parallel lines, the triangle angle sum, and the tests for congruent triangles. Every fact in this chapter is proved with these three.",
+      "links": [
+        {
+          "label": "Your textbook: NCERT Ganita Manjari, Grade 9 Part II, Chapter 12 (free PDF)",
+          "url": "https://ncert.nic.in/textbook/pdf/iemh204.pdf"
+        },
+        {
+          "label": "DIKSHA: free NCERT videos and lessons",
+          "url": "https://diksha.gov.in/"
+        }
+      ],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. On the map the steps go left and right, so press **Checklist view** at the top to see them as a list, in order.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Draw every shape and mark it**: equal sides with ticks, parallel sides with arrows, angles with their sizes.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: cut a quadrilateral into triangles.** One diagonal makes two triangles, and the triangle facts you already know do all the work.",
+          "links": [
+            {
+              "label": "All chapters in Term 2: start page",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-maths-part-2"
+            },
+            {
+              "label": "The whole year: Term 1 and Term 2",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-maths-year"
+            },
+            {
+              "label": "Previous chapter: 11. Algorithms",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-algorithms"
+            },
+            {
+              "label": "Next chapter: 13. Linear Equations in Two Variables",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-linear-equations"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 12 of the NCERT textbook *Ganita Manjari*, Grade 9 Part II: *Quadrilaterals*.\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** Cut a quadrilateral into triangles.\n\n**How it is different from the textbook.** Every fact is shown on a marked diagram and comes from one move: cut the shape into triangles. Using the facts comes first; the longer proofs are optional.\n\n**What is inside.**\n- 8 milestones and 26 small steps. The 16 solid steps are the core path. The dashed ones are optional.\n- 21 practice questions with hidden answers, and 7 pictures.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the converse of the midpoint theorem, Varignon's parallelogram, the balancing point, and the challenge questions.\n- For teachers and parents: a 6-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Three quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Two parallel lines are crossed by a third. One angle is 65°. What is the co-interior (same-side) angle?",
+              "a": "They add to 180°, so **115°**. Wrong? Do *Angles and parallel lines*."
+            },
+            {
+              "q": "2. A triangle has angles 70° and 45°. Find the third.",
+              "a": "**65°.** Wrong? Do *Angles and parallel lines*."
+            },
+            {
+              "q": "3. Two triangles have all three sides equal. What can you say?",
+              "a": "They are **congruent** (SSS): exact copies. Wrong? Do *Congruent triangles*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "parallel-angles",
+          "label": "Angles and parallel lines",
+          "type": "core",
+          "desc": "When a line crosses two **parallel** lines:\n- **Alternate** angles (a Z shape) are equal.\n- **Corresponding** angles (an F shape) are equal.\n- **Co-interior** angles (a C shape) add to **180°**.\n\nAnd the angles of any triangle add to **180°**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a co-interior angle is 72°. Find its partner.",
+              "a": "180 − 72 = **108°**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "congruent",
+          "label": "Congruent triangles",
+          "type": "core",
+          "desc": "Two triangles are **congruent** (exact copies) if you can match:\n- **SSS:** three sides\n- **SAS:** two sides and the angle between them\n- **ASA** or **AAS:** two angles and a side\n- **RHS:** a right angle, the hypotenuse and a side.\n\nThen **every** matching side and angle is equal. That is how we prove things are equal in this chapter.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "what-quad",
+      "label": "What a quadrilateral is",
+      "desc": "**Goal:** know what counts as a quadrilateral, tell convex from non-convex, and use the 360° angle sum. Exercise Set 12.1 uses this.",
+      "links": [],
+      "children": [
+        {
+          "id": "definition",
+          "label": "Four points, four sides",
+          "type": "core",
+          "desc": "A **quadrilateral** (or **4-gon**) ABCD is made by joining four points in order: A to B, B to C, C to D, D to A.\n- No three of the points are on one straight line.\n- The sides only meet at their ends. A shape like a bow tie, where two sides cross, is **not** a quadrilateral.\n\nAC and BD are its **diagonals**.",
+          "links": [
+            {
+              "label": "Math is Fun: quadrilaterals",
+              "url": "https://www.mathsisfun.com/quadrilaterals.html"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "convex",
+          "label": "Convex or not?",
+          "type": "core",
+          "desc": "- **Convex:** every inside angle is less than 180°. Both diagonals are inside the shape.\n- **Non-convex** (like a dart or arrowhead): one inside angle is more than 180°. One diagonal lies outside.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a quadrilateral has an angle of 200°. Is it convex?",
+              "a": "**No.** A convex quadrilateral has every angle under 180°."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/convex-dart.png",
+              "caption": "A convex quadrilateral and a non-convex dart"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "angle-sum",
+          "label": "The angles add to 360°",
+          "type": "core",
+          "desc": "Draw a diagonal. It cuts the quadrilateral into **two triangles**. Each has angles adding to 180°, so all four angles add to **360°**.\n\n**Example:** three angles are 90°, 100° and 80°. The fourth is 360 − 270 = **90°**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: three angles are 110°, 75° and 95°. Find the fourth.",
+              "a": "360 − 280 = **80°**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "family",
+          "label": "The quadrilateral family",
+          "type": "core",
+          "desc": "- **Trapezium:** at least one pair of parallel sides.\n- **Parallelogram:** both pairs of opposite sides parallel.\n- **Rectangle:** a parallelogram with right angles.\n- **Rhombus:** a parallelogram with four equal sides.\n- **Square:** both a rectangle and a rhombus.\n- **Kite:** two pairs of equal sides next to each other.\n\nEvery square is a rectangle, but not every rectangle is a square. (Chapter 9's converses again.)",
+          "links": [
+            {
+              "label": "Math is Fun: interactive quadrilaterals",
+              "url": "https://www.mathsisfun.com/geometry/quadrilaterals-interactive.html"
+            }
+          ],
+          "images": [
+            {
+              "src": "images/quad-family.png",
+              "caption": "Six members of the quadrilateral family"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "parallelograms",
+      "label": "Parallelograms",
+      "desc": "**Goal:** know the three properties of a parallelogram, and the tests that prove a shape is one. Exercise Set 12.2 uses this.",
+      "links": [],
+      "children": [
+        {
+          "id": "properties",
+          "label": "Three properties",
+          "type": "core",
+          "desc": "In a parallelogram ABCD:\n- **Opposite sides are equal:** AB = DC and AD = BC.\n- **Opposite angles are equal:** angle A = angle C, angle B = angle D.\n- **The diagonals cut each other in half** (bisect each other).\n\n**Why:** the diagonal AC makes two triangles, ABC and CDA. The parallel sides give equal alternate angles, and AC is shared, so the triangles are congruent (ASA). Matching parts are equal.\n\nAlso, **neighbouring angles add to 180°** (co-interior angles).",
+          "links": [
+            {
+              "label": "Math is Fun: parallelogram",
+              "url": "https://www.mathsisfun.com/geometry/parallelogram.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: one angle of a parallelogram is 70°. Find the other three.",
+              "a": "Opposite: **70°**. Neighbours: 180 − 70 = **110°** each."
+            },
+            {
+              "q": "Your turn: the diagonals of a parallelogram are 12 cm and 9 cm. How long is each half?",
+              "a": "**6 cm** and **4.5 cm**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/parallelogram-props.png",
+              "caption": "Opposite sides equal; diagonals bisect each other"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "tests",
+          "label": "Tests: is it a parallelogram?",
+          "type": "core",
+          "desc": "The **converses** are all true. A quadrilateral **is** a parallelogram if any one of these holds:\n- both pairs of opposite sides are equal\n- both pairs of opposite angles are equal\n- the diagonals bisect each other\n- one pair of opposite sides is **equal and parallel**.\n\nSo to prove a parallelogram, you only need to show **one** of these.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a quadrilateral has opposite angles 72°, 108°, 72°, 108°. Is it a parallelogram?",
+              "a": "**Yes**: both pairs of opposite angles are equal."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "special",
+          "label": "Rectangles, rhombuses and squares",
+          "type": "core",
+          "desc": "Extra facts about the diagonals:\n- **Rectangle:** the diagonals are **equal**.\n- **Rhombus:** the diagonals are **perpendicular** (cross at 90°) and cut the corner angles in half.\n- **Square:** both.\n\nAnd backwards: a parallelogram with **equal diagonals** is a rectangle. A parallelogram with **perpendicular diagonals** is a rhombus.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a parallelogram has one right angle. Show it is a rectangle.",
+              "a": "Neighbouring angles add to 180°, so the neighbours are 90° too, and opposite angles are equal. **All four are 90°.**"
+            },
+            {
+              "q": "Your turn: a quadrilateral has equal diagonals. Must it be a rectangle?",
+              "a": "**No.** A kite or an isosceles trapezium can have equal diagonals. It must be a **parallelogram** first."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "algebra-angles",
+          "label": "Parallelogram angles with algebra",
+          "type": "core",
+          "desc": "**Worked example:** two neighbouring angles are (3x + 5)° and (2x + 50)°.\n- Neighbours add to 180: 5x + 55 = 180, so 5x = 125 and **x = 25**.\n- The angles are **80°** and **100°**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: opposite angles of a parallelogram are (4y − 10)° and (2y + 40)°. Find y.",
+              "a": "Opposite angles are equal: 4y − 10 = 2y + 40, so 2y = 50 and **y = 25**. Each angle is 90°: a rectangle."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "midpoints",
+      "label": "The midpoint theorem",
+      "desc": "**Goal:** know the midpoint theorem and use it. Exercise Set 12.3 uses this.",
+      "links": [],
+      "children": [
+        {
+          "id": "midpoint-theorem",
+          "label": "Join two midpoints",
+          "type": "core",
+          "desc": "In any triangle ABC, join the midpoints P (of AB) and Q (of AC).\n\n**PQ is parallel to BC, and PQ is half as long as BC.**\n\n**Example:** BC = 4.6 cm, so PQ = **2.3 cm**.\n\n**Why (short version):** extend PQ and draw a line through C parallel to AB. This makes a parallelogram with BC as one side, and PQ is half of its opposite side.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: the midpoints of two sides of a triangle are 7 cm apart. How long is the third side?",
+              "a": "Twice as long: **14 cm**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/midpoint.png",
+              "caption": "The midpoint theorem"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "four-triangles",
+          "label": "Four copies inside every triangle",
+          "type": "core",
+          "desc": "Join all **three** midpoints. The triangle splits into **four small triangles**, all exact copies of each other, each a half-size copy of the original.\n\nTry it: cut a paper triangle along the three midpoint lines and stack the pieces.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a triangle has sides 6, 8 and 10 cm. What is the perimeter of the middle triangle made by joining midpoints?",
+              "a": "Each side is half: 3, 4, 5. Perimeter **12 cm**, half of 24."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "converse-midpoint",
+          "label": "The other way round",
+          "type": "optional",
+          "desc": "A line through the **midpoint** of one side, **parallel** to a second side, cuts the third side **in half**.\n\nThis is useful for proving that a point is a midpoint.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "varignon",
+          "label": "Midpoints of any quadrilateral",
+          "type": "optional",
+          "desc": "Take **any** quadrilateral, even a lopsided one, and join the midpoints of its four sides in order. You always get a **parallelogram**.\n\n**Why:** draw one diagonal. The midpoint theorem in each of the two triangles gives two sides of the new shape that are both parallel to that diagonal.",
+          "links": [],
+          "images": [
+            {
+              "src": "images/varignon.png",
+              "caption": "The midpoints of any quadrilateral make a parallelogram"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "medians",
+      "label": "Medians and the centroid",
+      "desc": "**Goal:** know that the three medians of a triangle meet at one point, which cuts each 2 : 1.",
+      "links": [],
+      "children": [
+        {
+          "id": "centroid",
+          "label": "Three medians, one point",
+          "type": "core",
+          "desc": "A **median** joins a corner to the **midpoint of the opposite side**. Every triangle has three.\n- The three medians always **meet at one point**, the **centroid** G.\n- G is **two-thirds** of the way along each median from the corner: it splits each median **2 : 1**.\n\n**Example:** a median is 9 cm long. From the corner to G is 6 cm; from G to the midpoint is 3 cm.",
+          "links": [
+            {
+              "label": "Math is Fun: median of a triangle",
+              "url": "https://www.mathsisfun.com/definitions/median-of-triangle.html"
+            },
+            {
+              "label": "Math is Fun: triangle centers",
+              "url": "https://www.mathsisfun.com/geometry/triangle-centers.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a median is 12 cm long. How far is the centroid from the corner?",
+              "a": "Two-thirds of 12 = **8 cm**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/centroid.png",
+              "caption": "The three medians meet at the centroid"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "balance",
+          "label": "The balancing point",
+          "type": "optional",
+          "desc": "Cut a triangle from stiff card and mark the centroid. It **balances** on a pencil tip at that point. That is why the centroid is also called the triangle's centre of mass.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "tiling",
+      "label": "Tiling with any quadrilateral",
+      "desc": "**Goal:** see why copies of any quadrilateral can cover a floor with no gaps. Exercise Set 12.4 uses this.",
+      "links": [],
+      "children": [
+        {
+          "id": "any-quad-tiles",
+          "label": "Any quadrilateral tiles the plane",
+          "type": "core",
+          "desc": "Squares and rectangles obviously tile a floor. Surprisingly, **every** quadrilateral does, even a lopsided one.\n\n- Turn a copy **half way round** (180°) about the midpoint of one side. It fits exactly against that side.\n- Keep doing this round every side.\n- At each corner point, the **four different angles** of the quadrilateral meet. They add to **360°**, so they fill the space exactly.",
+          "links": [
+            {
+              "label": "Math is Fun: tessellation",
+              "url": "https://www.mathsisfun.com/geometry/tessellation.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why does the 360° angle sum matter for tiling?",
+              "a": "Around each corner point the angles must fill a full turn, **360°**, with no gap or overlap. The four angles of the quadrilateral do exactly that."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/tiling.png",
+              "caption": "Copies of one lopsided quadrilateral cover the floor"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These match the starred and harder end-of-chapter questions in your textbook. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "rectangle-diagonals",
+          "label": "Why a rectangle's diagonals are equal",
+          "type": "optional",
+          "desc": "In rectangle ABCD, triangles ABC and DCB share BC, have AB = DC, and both have a right angle at B and C. So they are congruent (SAS), and **AC = DB**.\n\nWith coordinates: corners (0, 0), (4, 0), (4, 3), (0, 3). Both diagonals are √(16 + 9) = **5**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "rhombus-diagonal",
+          "label": "A diagonal that bisects an angle",
+          "type": "optional",
+          "desc": "In parallelogram ABCD, the diagonal AC cuts angle A in half. Then it cuts angle C in half too, and ABCD is a **rhombus**: the two triangles made by AC are isosceles, so neighbouring sides are equal.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "converse-traps",
+          "label": "Converses that fail",
+          "type": "optional",
+          "desc": "- **Both** diagonals cut the corner angles in half: **yes**, a rhombus. Only **one** does: **no**, a kite is a counterexample.\n- Diagonals that bisect each other at right angles: **yes**, always a rhombus.\n- Equal diagonals: **no**, an isosceles trapezium is a counterexample.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThis chapter is proof-heavy, but every proof uses the same move: **draw a diagonal or a helper line and find congruent triangles**. For a student who finds maths hard, the roadmap puts the facts and their use first, uses tick marks and arrows on every diagram, and keeps the longer proofs optional.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- **Start with *Check yourself*.** Parallel-line angles and congruence tests are the tools for every proof here.\n- **Insist on marked diagrams**: ticks for equal sides, arrows for parallel sides.\n- **Use paper:** fold and cut triangles for the midpoint theorem; balance card triangles on a pencil for the centroid.\n- **Use Chapter 9 language:** 'every square is a rectangle; is every rectangle a square?'\n- **Tile with real card copies** of a student-drawn lopsided quadrilateral. It is a memorable surprise.\n- **Keep algebra light:** angle questions with x are enough at this level.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 6-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** *Start here* tools; what a quadrilateral is; convex and non-convex; 360° (Exercise Set 12.1).\n- **Period 2:** the family; parallelogram properties via the diagonal.\n- **Period 3:** parallelogram tests; rectangles, rhombuses, squares (Exercise Set 12.2).\n- **Period 4:** the midpoint theorem; four copies; Varignon. **Activity:** cut a triangle along its midpoint lines.\n- **Period 5:** medians and the centroid (Exercise Set 12.3). **Activity:** balance a card triangle.\n- **Period 6:** tiling with any quadrilateral (Exercise Set 12.4); exit ticket. **Activity:** each student tiles with copies of their own quadrilateral.",
+          "links": [
+            {
+              "label": "Your textbook: NCERT Ganita Manjari, Grade 9 Part II, Chapter 12 (free PDF)",
+              "url": "https://ncert.nic.in/textbook/pdf/iemh204.pdf"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Calling a bow-tie shape a quadrilateral.\n- Assuming a shape is a rectangle because its diagonals are equal (it must be a parallelogram first).\n- Adding opposite angles of a parallelogram to 180° (it is the neighbouring ones).\n- Using the slanted side for the midpoint theorem instead of the third side.\n- Placing the centroid halfway along a median instead of two-thirds.\n- Proving with a measured diagram instead of a reason.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Three angles of a quadrilateral are 85°, 95°, 100°. Find the fourth.",
+              "a": "360 − 280 = **80°**."
+            },
+            {
+              "q": "2. One angle of a parallelogram is 110°. Find the others.",
+              "a": "**110°, 70°, 70°.**"
+            },
+            {
+              "q": "3. In a triangle, BC = 10 cm. P and Q are the midpoints of AB and AC. Find PQ.",
+              "a": "**5 cm.**"
+            },
+            {
+              "q": "4. A median is 15 cm. How far is the centroid from the midpoint end?",
+              "a": "One-third: **5 cm**."
+            },
+            {
+              "q": "5. Can every quadrilateral tile a floor?",
+              "a": "**Yes**: half-turns about the side midpoints, and the four angles add to 360° at each corner."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,424 @@
+{
+  "title": "Class 9 Maths, A Whole Year: Term 1 and Term 2",
+  "subtitle": "Start here. The whole Class 9 maths year on one page: Term 1 (NCERT Ganita Manjari Part I, Chapters 1 to 8) and Term 2 (Part II, Chapters 9 to 14), with the one idea in each chapter, what it needs first, and links to every chapter's step-by-step roadmap. Written for students who find maths hard, and the teachers and parents helping them.",
+  "updated": "2026-11-04",
+  "changelog": [
+    {
+      "date": "2026-11-04",
+      "text": "Added an 'About this roadmap' step: who it is for, how it differs from the textbook, and licence."
+    },
+    {
+      "date": "2026-11-04",
+      "text": "First version: the whole year in one roadmap, organised by term, with every chapter's one idea, what it needs first, pacing and revision links."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the year at a glance",
+      "desc": "**Goal:** see the whole Class 9 maths year in one place, and know where to start.\n\nThe year has two terms. **Term 1** follows Part I of the NCERT textbook *Ganita Manjari* (Chapters 1 to 8). **Term 2** follows Part II (Chapters 9 to 14). Every chapter has its own step-by-step roadmap, written for students who find maths hard.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-year",
+          "label": "How to use this page",
+          "type": "core",
+          "desc": "- **Pick your term below**, then the chapter you are on. Each box opens a short summary with a link to the chapter's own roadmap.\n- **Every chapter starts with *Check yourself*.** Do it first. It points to the exact small skills to fix before the chapter.\n- **Progress is saved inside each chapter's roadmap**, on this device.\n- **Fallen behind?** Go back to the chapter named under *Needs first*. That is usually where the real gap is.\n\n**One idea runs through the whole year: every chapter is built from a few ideas you already have.** Each chapter's summary below names its one idea and what it needs first.",
+          "links": [
+            {
+              "label": "Term 1 start page (Part I)",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-maths-part-1"
+            },
+            {
+              "label": "Term 2 start page (Part II)",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-maths-part-2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** The starting page for the whole Class 9 maths year: Term 1 follows Part I of the NCERT textbook *Ganita Manjari* (Chapters 1 to 8) and Term 2 follows Part II (Chapters 9 to 14). Every chapter has its own roadmap.\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**What this page does.** It lists every chapter by term, with its one idea, what it needs first, and a link to its *Check yourself*. It also links each chapter's exit ticket, for revision before exams. It does not teach the chapters itself: open a chapter to start.\n\n**Time needed.** The lesson plans add up to 66 periods in Term 1 and 35 in Term 2.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "at-a-glance",
+          "label": "All the chapters, in order",
+          "type": "core",
+          "desc": "**Term 1 (Part I)**\n- 1. Coordinates: 8 periods\n- 2. Linear Polynomials: 9 periods\n- 3. The World of Numbers: 10 periods\n- 4. Algebraic Identities: 10 periods\n- 5. Circles: 8 periods\n- 6. Perimeter and Area: 8 periods\n- 7. Probability: 6 periods\n- 8. Sequences and Progressions: 7 periods\n\n**Term 2 (Part II)**\n- 9. Propositions and Converses: 4 periods\n- 10. Combining Data: 6 periods\n- 11. Algorithms: 5 periods\n- 12. Quadrilaterals: 6 periods\n- 13. Linear Equations in Two Variables: 7 periods\n- 14. Surface Area and Volume: 7 periods\n\nThe lesson plans add up to **66 periods** in Term 1 and **35** in Term 2.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "year-thread",
+          "label": "How the chapters connect across the year",
+          "type": "core",
+          "desc": "Term 2 keeps reaching back into Term 1:\n- **Chapter 12** (quadrilaterals) uses Chapter 5's triangle facts and Chapter 9's converses.\n- **Chapter 13** (two variables, one line) joins Chapter 1's points with Chapter 2's 'start plus jump', which also came back in Chapter 8's APs.\n- **Chapter 14** (surface area and volume) is Chapter 6 in three dimensions: fence or floor becomes wrapping or filling.\n- **Chapter 10** (combining data) uses Chapter 7's fractions and percentages on real data.\n- **Chapter 11** (algorithms) finds the greatest common divisor, which Chapter 3 used to simplify fractions.\n\nSo a gap in Term 1 often shows up in Term 2. The *Needs first* line in each chapter below says where to look.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "term-1",
+      "label": "Term 1: Part I, Chapters 1 to 8",
+      "desc": "Eight chapters, about **66 periods**. Numbers, algebra and the first geometry of the year.\n\nOpen the Term 1 start page for the thread through these chapters and pacing notes.",
+      "links": [
+        {
+          "label": "Term 1 start page (Part I)",
+          "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-maths-part-1"
+        }
+      ],
+      "children": [
+        {
+          "id": "ch1",
+          "label": "1. Coordinates",
+          "type": "core",
+          "desc": "**The one idea:** Two numbers pin down any spot: go across first, then up.\n\n**Needs first:** Negative numbers and squaring. The roadmap's *Start here* covers both.\n\n31 steps (20 on the core path), and a 8-period lesson plan for teachers.\n\nStart with the chapter's *Check yourself*: two minutes, and it tells you which small skills to fix first.",
+          "links": [
+            {
+              "label": "Open Chapter 1",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-coordinates"
+            },
+            {
+              "label": "Chapter 1: Check yourself",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-coordinates#check-yourself"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch2",
+          "label": "2. Linear Polynomials",
+          "type": "core",
+          "desc": "**The one idea:** A start, plus the same jump every time.\n\n**Needs first:** Chapter 1, for plotting points.\n\n36 steps (25 on the core path), and a 9-period lesson plan for teachers.\n\nStart with the chapter's *Check yourself*: two minutes, and it tells you which small skills to fix first.",
+          "links": [
+            {
+              "label": "Open Chapter 2",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-linear-polynomials"
+            },
+            {
+              "label": "Chapter 2: Check yourself",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-linear-polynomials#check-yourself"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch3",
+          "label": "3. The World of Numbers",
+          "type": "core",
+          "desc": "**The one idea:** A family of numbers that keeps growing, because each kind could not do a job the next one can.\n\n**Needs first:** Fractions. The roadmap fixes them first.\n\n44 steps (30 on the core path), and a 10-period lesson plan for teachers.\n\nStart with the chapter's *Check yourself*: two minutes, and it tells you which small skills to fix first.",
+          "links": [
+            {
+              "label": "Open Chapter 3",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-numbers"
+            },
+            {
+              "label": "Chapter 3: Check yourself",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-numbers#check-yourself"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch4",
+          "label": "4. Algebraic Identities",
+          "type": "core",
+          "desc": "**The one idea:** An identity is a picture of an area: a square or rectangle cut into pieces.\n\n**Needs first:** Chapter 2's words of algebra (terms and coefficients). Like terms and brackets are fixed inside the chapter.\n\n45 steps (33 on the core path), and a 10-period lesson plan for teachers.\n\nStart with the chapter's *Check yourself*: two minutes, and it tells you which small skills to fix first.",
+          "links": [
+            {
+              "label": "Open Chapter 4",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-identities"
+            },
+            {
+              "label": "Chapter 4: Check yourself",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-identities#check-yourself"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch5",
+          "label": "5. Circles",
+          "type": "core",
+          "desc": "**The one idea:** Every radius is the same length, which gives an isosceles triangle and a hidden right triangle.\n\n**Needs first:** Triangle angles and Pythagoras. Chapter 1's distance formula helps.\n\n35 steps (23 on the core path), and a 8-period lesson plan for teachers.\n\nStart with the chapter's *Check yourself*: two minutes, and it tells you which small skills to fix first.",
+          "links": [
+            {
+              "label": "Open Chapter 5",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-circles"
+            },
+            {
+              "label": "Chapter 5: Check yourself",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-circles#check-yourself"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch6",
+          "label": "6. Perimeter and Area",
+          "type": "core",
+          "desc": "**The one idea:** Fence or floor? Every area formula is a cut-and-rearrange picture.\n\n**Needs first:** Chapter 3 (π is irrational) and Chapter 5 (arcs and sectors). Chapter 4's area pictures help.\n\n33 steps (23 on the core path), and a 8-period lesson plan for teachers.\n\nStart with the chapter's *Check yourself*: two minutes, and it tells you which small skills to fix first.",
+          "links": [
+            {
+              "label": "Open Chapter 6",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-perimeter-area"
+            },
+            {
+              "label": "Chapter 6: Check yourself",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-perimeter-area#check-yourself"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch7",
+          "label": "7. Probability",
+          "type": "core",
+          "desc": "**The one idea:** Probability is the ways you want divided by all the ways.\n\n**Needs first:** Fractions only. This chapter can be done early.\n\n29 steps (20 on the core path), and a 6-period lesson plan for teachers.\n\nStart with the chapter's *Check yourself*: two minutes, and it tells you which small skills to fix first.",
+          "links": [
+            {
+              "label": "Open Chapter 7",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-probability"
+            },
+            {
+              "label": "Chapter 7: Check yourself",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-probability#check-yourself"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch8",
+          "label": "8. Sequences and Progressions",
+          "type": "core",
+          "desc": "**The one idea:** Do the same thing every time: add the same number for an AP, multiply by the same number for a GP.\n\n**Needs first:** Chapter 2: an AP is a start plus the same jump.\n\n33 steps (22 on the core path), and a 7-period lesson plan for teachers.\n\nStart with the chapter's *Check yourself*: two minutes, and it tells you which small skills to fix first.",
+          "links": [
+            {
+              "label": "Open Chapter 8",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-sequences"
+            },
+            {
+              "label": "Chapter 8: Check yourself",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-sequences#check-yourself"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "term-2",
+      "label": "Term 2: Part II, Chapters 9 to 14",
+      "desc": "6 chapters, about **35 periods**. Reasoning, data, algorithms, more geometry, and solids.\n\nOpen the Term 2 start page for the thread through these chapters and pacing notes.",
+      "links": [
+        {
+          "label": "Term 2 start page (Part II)",
+          "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-maths-part-2"
+        }
+      ],
+      "children": [
+        {
+          "id": "ch9",
+          "label": "9. Propositions and Converses",
+          "type": "core",
+          "desc": "**The one idea:** An 'if ... then' statement only works one way: turn it round and check again. One counterexample is enough to show a statement is false.\n\n**Needs first:** Multiples, factors and square numbers. The roadmap's *Start here* covers them.\n\n27 steps (18 on the core path), and a 4-period lesson plan for teachers.\n\nStart with the chapter's *Check yourself*: two minutes, and it tells you which small skills to fix first.",
+          "links": [
+            {
+              "label": "Open Chapter 9",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-propositions"
+            },
+            {
+              "label": "Chapter 9: Check yourself",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-propositions#check-yourself"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch10",
+          "label": "10. Combining Data",
+          "type": "core",
+          "desc": "**The one idea:** An average has to remember how many: when groups combine, bigger groups count for more.\n\n**Needs first:** Averages, percentages and ratios.\n\n26 steps (18 on the core path), and a 6-period lesson plan for teachers.\n\nStart with the chapter's *Check yourself*: two minutes, and it tells you which small skills to fix first.",
+          "links": [
+            {
+              "label": "Open Chapter 10",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-data"
+            },
+            {
+              "label": "Chapter 10: Check yourself",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-data#check-yourself"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch11",
+          "label": "11. Algorithms",
+          "type": "core",
+          "desc": "**The one idea:** An algorithm is a recipe so exact that nobody has to think while following it, and a smarter recipe does less work.\n\n**Needs first:** Divisors and remainders.\n\n24 steps (14 on the core path), and a 5-period lesson plan for teachers.\n\nStart with the chapter's *Check yourself*: two minutes, and it tells you which small skills to fix first.",
+          "links": [
+            {
+              "label": "Open Chapter 11",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-algorithms"
+            },
+            {
+              "label": "Chapter 11: Check yourself",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-algorithms#check-yourself"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch12",
+          "label": "12. Quadrilaterals",
+          "type": "core",
+          "desc": "**The one idea:** Cut a quadrilateral into triangles, and the triangle facts you know do the work.\n\n**Needs first:** Chapter 9 (converses) and Chapter 5 (triangle angles and congruence).\n\n26 steps (16 on the core path), and a 6-period lesson plan for teachers.\n\nStart with the chapter's *Check yourself*: two minutes, and it tells you which small skills to fix first.",
+          "links": [
+            {
+              "label": "Open Chapter 12",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-quadrilaterals"
+            },
+            {
+              "label": "Chapter 12: Check yourself",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-quadrilaterals#check-yourself"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch13",
+          "label": "13. Linear Equations in Two Variables",
+          "type": "core",
+          "desc": "**The one idea:** Every solution is a point, one equation is a line, and two equations meet where their lines cross.\n\n**Needs first:** Chapter 1 (plotting points) and Chapter 2 (start plus jump).\n\n27 steps (20 on the core path), and a 7-period lesson plan for teachers.\n\nStart with the chapter's *Check yourself*: two minutes, and it tells you which small skills to fix first.",
+          "links": [
+            {
+              "label": "Open Chapter 13",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-linear-equations"
+            },
+            {
+              "label": "Chapter 13: Check yourself",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-linear-equations#check-yourself"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ch14",
+          "label": "14. Surface Area and Volume",
+          "type": "core",
+          "desc": "**The one idea:** Wrapping or filling? Surface area is the paper to wrap a solid, volume is the water to fill it.\n\n**Needs first:** Chapter 6 (circle formulas) and Pythagoras.\n\n27 steps (19 on the core path), and a 7-period lesson plan for teachers.\n\nStart with the chapter's *Check yourself*: two minutes, and it tells you which small skills to fix first.",
+          "links": [
+            {
+              "label": "Open Chapter 14",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-surface-volume"
+            },
+            {
+              "label": "Chapter 14: Check yourself",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-surface-volume#check-yourself"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.",
+      "links": [],
+      "children": [
+        {
+          "id": "pacing-year",
+          "label": "Pacing the year",
+          "type": "optional",
+          "desc": "- **Term 1:** 66 periods of lesson plans across 8 chapters.\n- **Term 2:** 35 periods across 6 chapters.\n\nEach plan leaves room for revision and tests. Two suggestions for a class that is losing confidence:\n- **Chapter 7** (Probability) needs only fractions and is the gentlest chapter in Term 1. Teaching it early, after Chapter 2 or 3, gives an early win.\n- **Chapter 9** (Propositions) has almost no arithmetic. It is a good fresh start for Term 2, and it makes Chapter 12 easier.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "revision",
+          "label": "Revision before each term's exams",
+          "type": "optional",
+          "desc": "Every chapter ends with a **5-minute exit ticket**: five short questions on its main ideas, with answers. Together they make a quick revision quiz for the term.\n\n- Give each exit ticket without warning. A wrong answer names the chapter to revisit.\n- For students who are struggling, go back further: that chapter's *Check yourself*.",
+          "links": [
+            {
+              "label": "Chapter 1: exit ticket",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-coordinates#exit-ticket"
+            },
+            {
+              "label": "Chapter 2: exit ticket",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-linear-polynomials#exit-ticket"
+            },
+            {
+              "label": "Chapter 3: exit ticket",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-numbers#exit-ticket"
+            },
+            {
+              "label": "Chapter 4: exit ticket",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-identities#exit-ticket"
+            },
+            {
+              "label": "Chapter 5: exit ticket",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-circles#exit-ticket"
+            },
+            {
+              "label": "Chapter 6: exit ticket",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-perimeter-area#exit-ticket"
+            },
+            {
+              "label": "Chapter 7: exit ticket",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-probability#exit-ticket"
+            },
+            {
+              "label": "Chapter 8: exit ticket",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-sequences#exit-ticket"
+            },
+            {
+              "label": "Chapter 9: exit ticket",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-propositions#exit-ticket"
+            },
+            {
+              "label": "Chapter 10: exit ticket",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-data#exit-ticket"
+            },
+            {
+              "label": "Chapter 11: exit ticket",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-algorithms#exit-ticket"
+            },
+            {
+              "label": "Chapter 12: exit ticket",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-quadrilaterals#exit-ticket"
+            },
+            {
+              "label": "Chapter 13: exit ticket",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-linear-equations#exit-ticket"
+            },
+            {
+              "label": "Chapter 14: exit ticket",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-surface-volume#exit-ticket"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "whole-class",
+          "label": "Starting with a class that is behind",
+          "type": "optional",
+          "desc": "- Run the *Check yourself* of the **current** chapter with the whole class.\n- Group students by the step each one needs, and give each group that step.\n- Come back together for the chapter's first core milestone.\n\nTwo minutes of checking saves a lot of teaching that doesn't land.",
+          "links": [],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

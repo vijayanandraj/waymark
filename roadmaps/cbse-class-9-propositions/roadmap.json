@@ -1,0 +1,518 @@
+{
+  "title": "Class 9 Maths, Chapter 9: Propositions and Converses, Step by Step",
+  "subtitle": "For students who find maths hard. One habit holds the chapter together: an 'if ... then' statement only works one way, so turn it round and check again. One counterexample is enough to show a statement is false. Small steps, everyday examples first, practice with answers. Follows NCERT Ganita Manjari, Grade 9 Part II, Chapter 9 (Propositions and their Converses).",
+  "updated": "2026-11-04",
+  "changelog": [
+    {
+      "date": "2026-11-04",
+      "text": "Added an 'About this roadmap' step: who it is for, how it differs from the textbook, and licence."
+    },
+    {
+      "date": "2026-11-04",
+      "text": "Linked into the Class 9 Maths series: links to the start page for this part and to the chapters before and after this one."
+    },
+    {
+      "date": "2026-11-04",
+      "text": "First version: written for students who find maths hard. Everyday statements first, converses as circles, counterexample hunting, short reasons, practice with answers, and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** feel sure about the facts this chapter tests statements on: multiples and factors, square numbers, and two triangle facts.\n\nThis chapter is about **reasoning**, not calculating. The numbers stay small. What matters is reading a statement carefully.",
+      "links": [
+        {
+          "label": "Your textbook: NCERT Ganita Manjari, Grade 9 Part II, Chapter 9 (free PDF)",
+          "url": "https://ncert.nic.in/textbook/pdf/iemh201.pdf"
+        },
+        {
+          "label": "DIKSHA: free NCERT videos and lessons",
+          "url": "https://diksha.gov.in/"
+        }
+      ],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. On the map the steps go left and right, so press **Checklist view** at the top to see them as a list, in order.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Read every statement twice**, slowly. Many mistakes in this chapter are reading mistakes.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: an 'if ... then' statement only works in one direction.** Turn it round, and you must check it all over again. One example that breaks a statement is enough to show it is false.",
+          "links": [
+            {
+              "label": "All chapters in Term 2: start page",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-maths-part-2"
+            },
+            {
+              "label": "The whole year: Term 1 and Term 2",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-maths-year"
+            },
+            {
+              "label": "Previous chapter: 8. Sequences and Progressions",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-sequences"
+            },
+            {
+              "label": "Next chapter: 10. Combining Data",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-data"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 9 of the NCERT textbook *Ganita Manjari*, Grade 9 Part II: *Propositions and their Converses*.\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** An 'if ... then' statement only works in one direction.\n\n**How it is different from the textbook.** It starts with everyday statements, like 'if it rains, the road is wet', before numbers and geometry, and draws 'every X is Y' as one circle inside another so converses can be seen. Counterexample hunting is treated as a game.\n\n**What is inside.**\n- 8 milestones and 27 small steps. The 18 solid steps are the core path. The dashed ones are optional.\n- 25 practice questions with hidden answers, and 4 pictures.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: products of squares, squares versus cubes, and the starred questions.\n- For teachers and parents: a 4-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Is 18 a multiple of 6? Is 15?",
+              "a": "**18: yes** (6 × 3). **15: no.** Wrong? Do *Multiples and factors*."
+            },
+            {
+              "q": "2. List all the factors of 12.",
+              "a": "**1, 2, 3, 4, 6, 12.** Wrong? Do *Multiples and factors*."
+            },
+            {
+              "q": "3. Is 49 a perfect square? Is 50?",
+              "a": "**49: yes** (7 × 7). **50: no.** Wrong? Do *Square numbers*."
+            },
+            {
+              "q": "4. A triangle has two equal sides. What do you know about its angles?",
+              "a": "The two angles **opposite the equal sides are equal.** Wrong? Do *Two triangle facts*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "multiples-factors",
+          "label": "Multiples and factors",
+          "type": "core",
+          "desc": "- A **multiple** of 6 is 6 times a whole number: 6, 12, 18, 24 ...\n- A **factor** of 12 divides 12 exactly: 1, 2, 3, 4, 6, 12.\n- **Factor pairs** multiply to the number: 1 × 12, 2 × 6, 3 × 4.\n- A **prime** has exactly two factors, 1 and itself: 2, 3, 5, 7, 11 ... (1 is not prime.)",
+          "links": [
+            {
+              "label": "Math is Fun: prime and composite numbers",
+              "url": "https://www.mathsisfun.com/prime-composite-number.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: list the factor pairs of 18.",
+              "a": "1 × 18, 2 × 9, 3 × 6. So 18 has **6 factors**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "squares",
+          "label": "Square numbers",
+          "type": "core",
+          "desc": "A **perfect square** is a whole number times itself: 1, 4, 9, 16, 25, 36, 49, 64, 81, 100.\n\nQuick test: is there a whole number that times itself gives it? 36 = 6 × 6, yes. 40: 6 × 6 = 36 and 7 × 7 = 49, so **no**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which are perfect squares: 64, 72, 81, 90?",
+              "a": "**64** (8 × 8) and **81** (9 × 9)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "triangle-facts",
+          "label": "Two triangle facts",
+          "type": "core",
+          "desc": "- **Isosceles:** if two sides are equal, the angles opposite them are equal.\n- **Baudhāyana–Pythagoras:** in a right triangle with short sides a, b and long side c, a² + b² = c².\n\nThis chapter asks: do these facts also work **backwards**?",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "propositions",
+      "label": "Statements that are true or false",
+      "desc": "**Goal:** know what a proposition is, and pick out the two parts of an 'if ... then' statement.",
+      "links": [],
+      "children": [
+        {
+          "id": "what-proposition",
+          "label": "What a proposition is",
+          "type": "core",
+          "desc": "A **proposition** is a statement that is **either true or false**.\n\n- '7 is a prime number.' **Proposition** (true).\n- '10 is a multiple of 4.' **Proposition** (false).\n- 'Close the door.' **Not** a proposition: it is an order.\n- 'Is it raining?' **Not** a proposition: it is a question.\n- 'Mangoes are the best fruit.' **Not** a proposition: it is an opinion.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which are propositions? (a) 15 is odd. (b) Please sit down. (c) Every square is a rectangle. (d) Cricket is boring.",
+              "a": "(a) **yes**, true. (b) **no**, an order. (c) **yes**, true. (d) **no**, an opinion."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "if-then",
+          "label": "The two parts of 'if ... then'",
+          "type": "core",
+          "desc": "Many propositions have the shape **if X, then Y**.\n- X is the **condition**: what you start with.\n- Y is the **result**: what must follow.\n\n**Example:** 'If a number is a multiple of 6, then it is a multiple of 3.' X = 'multiple of 6', Y = 'multiple of 3'.\n\nThe same meaning can be written other ways:\n- X **implies** Y.\n- Y **when** X: 'A number is a multiple of 3 when it is a multiple of 6.'\n- **Every** X is Y: 'Every multiple of 6 is a multiple of 3.'",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: find X and Y in 'A shape is a rectangle when it is a square.'",
+              "a": "Rewrite as 'If a shape is a square, then it is a rectangle.' **X = square, Y = rectangle.**"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "converses",
+      "label": "Turning a statement round",
+      "desc": "**Goal:** write the converse of a statement, and see that it can be true or false on its own.",
+      "links": [],
+      "children": [
+        {
+          "id": "converse",
+          "label": "The converse: swap the two parts",
+          "type": "core",
+          "desc": "The **converse** of 'if X, then Y' is **'if Y, then X'**.\n\n- Proposition: if it rains, the road is wet. **True.**\n- Converse: if the road is wet, it has rained. **Not always.** A water tanker might have spilled.\n\nA true statement can have a false converse. You must check the converse separately.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: write the converse of 'If a shape is a square, then it has four sides.' Is it true?",
+              "a": "Converse: 'If a shape has four sides, then it is a square.' **False**: a rectangle has four sides but need not be a square."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/flip-arrow.png",
+              "caption": "A proposition and its converse: same parts, arrow turned round"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "multiples-picture",
+          "label": "A picture of 'if ... then'",
+          "type": "core",
+          "desc": "Draw all the X things inside a circle, and all the Y things inside another.\n\n'If X then Y' is true when the **X circle sits inside the Y circle**. Every multiple of 6 is also a multiple of 3, so the 6-circle sits inside the 3-circle.\n\nThe converse asks whether the Y circle sits inside the X circle. It doesn't: 9, 15 and 21 are in the big circle but not the small one.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: is 'If a number is a multiple of 3, then it is a multiple of 6' true?",
+              "a": "**False.** 9 is a multiple of 3 but not of 6."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/multiples-circles.png",
+              "caption": "Multiples of 6 sit inside multiples of 3"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "four-cases",
+          "label": "All four things can happen",
+          "type": "core",
+          "desc": "A proposition and its converse can be:\n- **True and false:** if a number is a multiple of 6, it is a multiple of 3. (Converse false: 9.)\n- **Both true:** if two sides of a triangle are equal, the opposite angles are equal. (Converse: equal angles give equal sides. Also true.)\n- **Both false:** if a number is odd, it is prime (9 is odd, not prime). Converse: if a number is prime, it is odd (2 is prime, not odd).\n- **False and true:** if a number is even, it is a multiple of 4 (6 is even). Converse: if a multiple of 4, then even. True.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: 'If n is a multiple of 10, then n ends in 0.' Is it true? Is its converse?",
+              "a": "**Both true.** A multiple of 10 ends in 0, and a whole number ending in 0 is a multiple of 10."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "counterexamples",
+      "label": "Counterexamples: one is enough",
+      "desc": "**Goal:** show a statement is false with a single example, and know that examples alone never prove a statement true.",
+      "links": [],
+      "children": [
+        {
+          "id": "one-is-enough",
+          "label": "One example breaks a statement",
+          "type": "core",
+          "desc": "A **counterexample** is one case where the 'if' part is true but the 'then' part is false.\n\n**Claim:** every multiple of 3 is a multiple of 6.\n- Try 9. It is a multiple of 3. It is **not** a multiple of 6.\n- So the claim is **false**. One example is enough. No long argument needed.\n\nA counterexample must satisfy the 'if' part. 7 is no use here: it isn't a multiple of 3 at all.",
+          "links": [
+            {
+              "label": "Math is Fun: counterexample",
+              "url": "https://www.mathsisfun.com/definitions/counterexample.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: find a counterexample to 'every odd number is prime'.",
+              "a": "**9** (or 15, 21 ...): odd but 9 = 3 × 3."
+            },
+            {
+              "q": "Your turn: find a counterexample to 'if a quadrilateral has four equal sides, it is a square'.",
+              "a": "A **rhombus** that is not a square: four equal sides, but its angles are not 90°."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "hunting",
+          "label": "How to hunt for a counterexample",
+          "type": "core",
+          "desc": "- **Try small cases first:** 1, 2, 3 ... Many claims fail early.\n- **Try the odd ones out:** 0, 1, 2 (the only even prime), negative numbers, fractions.\n- **In geometry, try a special shape:** a rhombus, a kite, a very flat triangle.\n\n**Example:** 'If x² = y², then x = y.' Try a negative: 3² = 9 and (−3)² = 9, but 3 ≠ −3. **False.**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: 'If a number is divisible by 4 and by 6, then it is divisible by 24.' True?",
+              "a": "**False.** 12 is divisible by 4 and by 6, but not by 24."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "examples-dont-prove",
+          "label": "Many examples still don't prove it",
+          "type": "optional",
+          "desc": "Checking 10, or 100, or 1000 cases does **not** prove a statement.\n\n**A famous trap:** n² + n + 41 is prime for n = 0, 1, 2 ... all the way to 39. Forty primes in a row! But at n = 40 you get 1681 = 41 × 41. Not prime.\n\n**Another:** Fermat believed every number 2^(2ⁿ) + 1 is prime. The first five are: 3, 5, 17, 257, 65537. Euler found that the next one, 4 294 967 297, equals 641 × 6 700 417.\n\nTo show a statement is **true** you need a reason that covers **every** case. To show it is **false** you need just one case.",
+          "links": [
+            {
+              "label": "Math is Fun: prime and composite numbers",
+              "url": "https://www.mathsisfun.com/prime-composite-number.html"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "reasons",
+      "label": "Showing a statement is true",
+      "desc": "**Goal:** give a reason that covers every case, and see what 'both directions' means.",
+      "links": [],
+      "children": [
+        {
+          "id": "reason-numbers",
+          "label": "A reason that covers every case",
+          "type": "core",
+          "desc": "**Claim:** if a number is a multiple of 6, it is a multiple of 3.\n\n**Reason:** a multiple of 6 is 6 × k for some whole number k. And 6 × k = 3 × (2k). That is 3 times a whole number, so it is a multiple of 3.\n\nThis works for **every** k, which is why it is a proof and not just an example.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: show that if a number is a multiple of 4, it is even.",
+              "a": "A multiple of 4 is 4k = 2 × (2k), which is 2 times a whole number. So it is **even**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "odd-factors",
+          "label": "Squares and odd numbers of factors",
+          "type": "core",
+          "desc": "Factors come in **pairs** that multiply to the number. 12: 1 × 12, 2 × 6, 3 × 4. Six factors, an even number.\n\n36: 1 × 36, 2 × 18, 3 × 12, 4 × 9, and **6 × 6**. The 6 is paired with itself, so it is counted once. Nine factors, an odd number.\n\n- Only a square has a pair like 6 × 6. So: **if a number has an odd number of factors, it is a square.**\n- A square has exactly one such pair. So: **if a number is a square, it has an odd number of factors.**\n\nBoth directions are true.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: how many factors do 16 and 18 have? Does that fit the rule?",
+              "a": "16: 1, 2, 4, 8, 16, so **5** (odd, and 16 is a square). 18: **6** (even, and 18 is not a square). It fits."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/factor-pairs.png",
+              "caption": "12 has 6 factors; 36 has 9, because 6 × 6 pairs with itself"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "both-ways",
+          "label": "When both directions are true",
+          "type": "core",
+          "desc": "When a statement and its converse are **both** true, the two parts always go together. Mathematicians say X **if and only if** Y.\n\n- A number is a perfect square **if and only if** it has an odd number of factors.\n- A number is divisible by 3 **if and only if** the sum of its digits is divisible by 3.\n\n**Example:** 4512: digits add to 12, so it divides by 3. 7351: digits add to 16, so it doesn't.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: is 'a number is divisible by 60 if and only if it is divisible by 5 and by 12' true?",
+              "a": "**Yes.** 5 and 12 share no factor, so a number divisible by both is divisible by 5 × 12 = 60. And 60 itself divides by 5 and 12."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "geometry",
+      "label": "Converses in geometry",
+      "desc": "**Goal:** check the converses of facts you already know about triangles.",
+      "links": [],
+      "children": [
+        {
+          "id": "isosceles-converse",
+          "label": "The isosceles converse",
+          "type": "core",
+          "desc": "- **Fact:** if two sides of a triangle are equal, the angles opposite them are equal.\n- **Converse:** if two angles of a triangle are equal, the sides opposite them are equal.\n\nThe converse is **true**. Draw a line from the third corner straight down to the opposite side, at right angles. It splits the triangle into two halves with a shared side, a right angle, and an equal angle. The halves are copies, so the two sides are equal.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a triangle has angles 50°, 50° and 80°. Which sides are equal?",
+              "a": "The two sides **opposite the 50° angles**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "pythagoras-converse",
+          "label": "The Pythagoras converse",
+          "type": "core",
+          "desc": "- **Fact:** if a triangle has a right angle, then a² + b² = c².\n- **Converse:** if a² + b² = c², the triangle has a right angle.\n\nThe converse is **true**. Builders have used it for thousands of years: a rope with 12 equal gaps, pegged out as 3, 4 and 5, makes a perfect right angle.\n\n**Test a triangle:** square the two short sides, add, and compare with the long side squared.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which are right triangles? (a) 5, 12, 13 (b) 6, 7, 9 (c) 8, 15, 17.",
+              "a": "(a) 25 + 144 = 169: **yes**. (b) 36 + 49 = 85, not 81: **no**. (c) 64 + 225 = 289: **yes**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/rope-triangle.png",
+              "caption": "A 3, 4, 5 rope triangle has a right angle"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "area-congruent",
+          "label": "Same area, same triangle?",
+          "type": "core",
+          "desc": "- **Statement:** if two triangles are congruent (exact copies), they have the same area. **True.**\n- **Converse:** if two triangles have the same area, they are congruent. **False.**\n\n**Counterexample:** base 6, height 4 has area 12. Base 8, height 3 also has area 12. Different triangles, same area.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: 'If a quadrilateral is a square, all its angles are equal.' Is the converse true?",
+              "a": "Converse: 'If all the angles are equal, it is a square.' **False**: a rectangle that is not a square has four equal angles."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These match the starred and harder end-of-chapter questions in your textbook. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "squares-product",
+          "label": "Products of squares",
+          "type": "optional",
+          "desc": "- **Statement:** if a and b are perfect squares, then ab is a perfect square. **True**: if a = p² and b = q², then ab = (pq)².\n- **Converse:** if ab is a perfect square, a and b are perfect squares. **False**: 2 × 8 = 16, but neither 2 nor 8 is a square.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "cubes",
+          "label": "Squares versus cubes",
+          "type": "optional",
+          "desc": "- 'If x = y, then x² = y².' True. Converse 'if x² = y², then x = y' is **false**: 3 and −3.\n- 'If x = y, then x³ = y³.' True. Converse 'if x³ = y³, then x = y' is **true**: cubing keeps the sign, so different numbers always have different cubes.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "three-factors",
+          "label": "Exactly three factors",
+          "type": "optional",
+          "desc": "'If n is the square of a prime, it has exactly 3 factors.' **True**: p² has factors 1, p, p².\n\nThe converse, 'if n has exactly 3 factors, it is the square of a prime', is also **true**. Factors pair up, so an odd count means n is a square. If n = m² and m were not prime, m's own factors would give extra factors of n.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "prime-formulas",
+          "label": "No neat formula makes only primes",
+          "type": "optional",
+          "desc": "Find counterexamples:\n- 4n + 1 is always prime? n = 2 gives **9**.\n- 2ⁿ − 1 is prime whenever n is prime? n = 11 gives 2047 = **23 × 89**.\n- 4ⁿ + 3 is always prime? 7, 19 and 67 are prime, but n = 4 gives 259 = **7 × 37**.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThis chapter is short and has almost no calculation, which is a chance for a student who struggles with arithmetic to shine. The roadmap rests on one habit: **turn the statement round and check again**, and on one tool: **a single counterexample is enough**.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- **Start with *Check yourself*.** The chapter tests statements about multiples, factors and squares, so those must be secure.\n- **Use everyday statements first** (if it rains, the road is wet) before number and geometry ones.\n- **Draw the circles.** 'Every X is Y' as one circle inside another makes converses visible.\n- **Make counterexample hunting a game.** Give a false claim; the first to find a counterexample wins.\n- **Insist that a counterexample satisfies the 'if' part.** This is the most common slip.\n- **Keep proofs short.** A one-line reason like 6k = 3(2k) is enough at this stage.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 4-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** the *Start here* facts; propositions; the two parts of 'if ... then'. **Activity:** students sort statement cards into proposition / not a proposition.\n- **Period 2:** converses; the circles picture; the four cases. **Activity:** each student writes a true statement with a false converse from everyday life.\n- **Period 3:** counterexamples; examples don't prove; reasons that cover every case; squares and factors.\n- **Period 4:** converses in geometry, including the rope triangle; Exercise Set 9.1. Challenge questions for those ready.",
+          "links": [
+            {
+              "label": "Your textbook: NCERT Ganita Manjari, Grade 9 Part II, Chapter 9 (free PDF)",
+              "url": "https://ncert.nic.in/textbook/pdf/iemh201.pdf"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Calling a question, order or opinion a proposition.\n- Writing the converse with the parts in the same order.\n- Assuming a converse is true because the statement is.\n- A 'counterexample' that doesn't satisfy the 'if' part.\n- Thinking several examples prove a statement.\n- Forgetting negative numbers, 0, 1 or 2 when hunting for counterexamples.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Is 'Please sit down' a proposition?",
+              "a": "**No**: it is an order, not true or false."
+            },
+            {
+              "q": "2. Write the converse of 'If a number ends in 5, it is a multiple of 5.'",
+              "a": "**If a number is a multiple of 5, it ends in 5.** (False: 10.)"
+            },
+            {
+              "q": "3. Give a counterexample to 'every prime is odd'.",
+              "a": "**2.**"
+            },
+            {
+              "q": "4. Is a triangle with sides 9, 12, 15 a right triangle?",
+              "a": "81 + 144 = 225 = 15². **Yes.**"
+            },
+            {
+              "q": "5. Show that a multiple of 10 is a multiple of 5.",
+              "a": "10k = 5 × (2k). **So yes, always.**"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

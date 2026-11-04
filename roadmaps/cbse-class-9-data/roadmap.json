@@ -1,0 +1,521 @@
+{
+  "title": "Class 9 Maths, Chapter 10: Combining Data, Step by Step",
+  "subtitle": "For students who find maths hard. One idea holds the chapter together: an average has to remember how many, so when groups combine, bigger groups count for more. Averages of groups, mixtures, weighted marks and charts of shares. Small steps, every calculation shown, practice with answers. Follows NCERT Ganita Manjari, Grade 9 Part II, Chapter 10 (How Quantities Combine: Understanding Data).",
+  "updated": "2026-11-04",
+  "changelog": [
+    {
+      "date": "2026-11-04",
+      "text": "Added an 'About this roadmap' step: who it is for, how it differs from the textbook, and licence."
+    },
+    {
+      "date": "2026-11-04",
+      "text": "Linked into the Class 9 Maths series: links to the start page for this part and to the chapters before and after this one."
+    },
+    {
+      "date": "2026-11-04",
+      "text": "First version: written for students who find maths hard. Averages back to totals, mixtures, weighted marks, three charts from one data set, practice with answers, and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** feel sure about the average (mean), percentages, and ratios. This chapter combines all three.",
+      "links": [
+        {
+          "label": "Your textbook: NCERT Ganita Manjari, Grade 9 Part II, Chapter 10 (free PDF)",
+          "url": "https://ncert.nic.in/textbook/pdf/iemh202.pdf"
+        },
+        {
+          "label": "DIKSHA: free NCERT videos and lessons",
+          "url": "https://diksha.gov.in/"
+        }
+      ],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. On the map the steps go left and right, so press **Checklist view** at the top to see them as a list, in order.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Write the totals down.** Almost every question here gets easier once you turn averages back into totals.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: an average has to remember how many.** When you combine groups, give each one its fair weight: big groups count for more. Every question in this chapter is a version of that.",
+          "links": [
+            {
+              "label": "All chapters in Term 2: start page",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-maths-part-2"
+            },
+            {
+              "label": "The whole year: Term 1 and Term 2",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-maths-year"
+            },
+            {
+              "label": "Previous chapter: 9. Propositions and Converses",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-propositions"
+            },
+            {
+              "label": "Next chapter: 11. Algorithms",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-algorithms"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 10 of the NCERT textbook *Ganita Manjari*, Grade 9 Part II: *How Quantities Combine: Understanding Data*.\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** An average has to remember how many.\n\n**How it is different from the textbook.** Every combining question is turned back into totals (total = average × how many), so averages of groups, mixtures and weighted marks all become one method. The three chart types are drawn from the same data, so students see which question each one answers easily.\n\n**What is inside.**\n- 7 milestones and 26 small steps. The 18 solid steps are the core path. The dashed ones are optional.\n- 24 practice questions with hidden answers, and 5 pictures.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: Śrīdharācārya's gold mixing, and challenge questions that work backwards from averages.\n- For teachers and parents: a 6-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Three quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Find the average of 12, 15, 9 and 14.",
+              "a": "Total 50, four numbers: 50 ÷ 4 = **12.5**. Wrong? Do *The average*."
+            },
+            {
+              "q": "2. What is 30% of 200?",
+              "a": "30/100 × 200 = **60**. Wrong? Do *Percentages*."
+            },
+            {
+              "q": "3. ₹50 is shared in the ratio 3 : 2. How much is the bigger share?",
+              "a": "3 + 2 = 5 parts, so 1 part = ₹10. Bigger share **₹30**. Wrong? Do *Ratios*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mean",
+          "label": "The average",
+          "type": "core",
+          "desc": "The **average** (or **mean**) is the total shared out equally.\n\n**Average = total ÷ how many**\n\nTurn it round and you get the most useful line in this chapter:\n\n**Total = average × how many**\n\n**Example:** 5 friends have an average of ₹40 each. Together they have 5 × 40 = **₹200**.",
+          "links": [
+            {
+              "label": "Math is Fun: how to find the mean",
+              "url": "https://www.mathsisfun.com/mean.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: 8 bags weigh 6 kg on average. What is the total weight?",
+              "a": "8 × 6 = **48 kg**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "percent",
+          "label": "Percentages",
+          "type": "core",
+          "desc": "**Per cent** means 'out of 100'. 30% = 30/100.\n\n- 30% of 200 = 30/100 × 200 = **60**.\n- 35 out of 50 as a percentage = 35/50 × 100 = **70%**.",
+          "links": [
+            {
+              "label": "Math is Fun: percentages",
+              "url": "https://www.mathsisfun.com/percentage.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: write 48 out of 60 as a percentage.",
+              "a": "48/60 × 100 = **80%**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ratios",
+          "label": "Ratios",
+          "type": "core",
+          "desc": "A ratio like **2 : 3 : 5** means 2 parts, 3 parts and 5 parts: 10 parts in all.\n\nIn this chapter, ratios are used as **weights**: 'combine in the ratio 2 : 3 : 5' means the last one counts most.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: ₹600 is shared in the ratio 3 : 2. Find both shares.",
+              "a": "5 parts, 1 part = ₹120. **₹360 and ₹240.**"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "average-of-averages",
+      "label": "Combining averages",
+      "desc": "**Goal:** find the average of two groups together, and avoid the most common trap. Exercise Set 10.1 starts here.",
+      "links": [],
+      "children": [
+        {
+          "id": "trap",
+          "label": "The average trap",
+          "type": "core",
+          "desc": "Class A has **30 students** with an average of 60. Class B has **10 students** with an average of 80. What is the average of all 40?\n\n- **Wrong:** (60 + 80) ÷ 2 = 70. This treats the two classes as if they were the same size.\n- **Right:** go back to totals. Class A scored 30 × 60 = 1800. Class B scored 10 × 80 = 800.\n- All 40 students: (1800 + 800) ÷ 40 = **65**.\n\n65 is closer to 60, because there are more students in Class A.",
+          "links": [
+            {
+              "label": "Math is Fun: weighted mean",
+              "url": "https://www.mathsisfun.com/data/weighted-mean.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: 20 girls average 72 marks and 30 boys average 64. Find the average of all 50.",
+              "a": "Totals: 20 × 72 = 1440 and 30 × 64 = 1920. (1440 + 1920) ÷ 50 = **67.2**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/average-trap.png",
+              "caption": "Two classes of different sizes: average the totals, not the averages"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "formula",
+          "label": "The rule, in one line",
+          "type": "core",
+          "desc": "If one group has n values with average a, and another has m values with average b:\n\n**combined average = (a × n + b × m) ÷ (n + m)**\n\nThis is a **weighted average**: each average is weighted by the size of its group.\n\nIt works for three or more groups too. Multiply each average by its size, add, and divide by the total size.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: 10 players average 50 runs, 30 players average 70. Find the combined average.",
+              "a": "(10 × 50 + 30 × 70) ÷ 40 = 2600 ÷ 40 = **65**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "equal-sizes",
+          "label": "When the simple way does work",
+          "type": "core",
+          "desc": "If **every group is the same size**, you can just average the averages.\n\n**Example:** Riya cycled 5 days each week. Her weekly averages were 12, 15 and 18 minutes. Each week has the same number of days, so the overall average is (12 + 15 + 18) ÷ 3 = **15 minutes**.\n\nCheck with totals: 5 × 12 + 5 × 15 + 5 × 18 = 225 minutes over 15 days = 15. Same.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: May has 31 days and June has 30. Can you average their daily rainfall averages directly?",
+              "a": "**Not exactly**: the months are different sizes. Weight each by its number of days. (Here they are close in size, so the error is small.)"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "mixtures",
+      "label": "Mixing things",
+      "desc": "**Goal:** find the strength of a mixture. Mixtures are weighted averages in disguise.",
+      "links": [],
+      "children": [
+        {
+          "id": "equal-amounts",
+          "label": "Mixing equal amounts",
+          "type": "core",
+          "desc": "Two equal glasses of lemonade: one is 10% jaggery, the other 20%. Pour them together.\n\nEqual amounts, so the mixture is the simple average: (10 + 20) ÷ 2 = **15%**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: equal amounts of 5% and 15% salt water are mixed. What is the strength?",
+              "a": "(5 + 15) ÷ 2 = **10%**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "unequal-amounts",
+          "label": "Mixing unequal amounts",
+          "type": "core",
+          "desc": "Now mix **1 litre** at 10% with **3 litres** at 20%.\n- Jaggery in the first: 10% of 1 L = 0.1 L.\n- Jaggery in the second: 20% of 3 L = 0.6 L.\n- Total: 0.7 L of jaggery in 4 L.\n- Strength: 0.7 ÷ 4 = **17.5%**.\n\n**Always between the two**, and closer to the one there is more of.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: 3 L at 5% and 1 L at 15% are mixed. Find the strength.",
+              "a": "Salt: 0.15 + 0.15 = 0.3 L in 4 L. 0.3 ÷ 4 = **7.5%**. Closer to 5%, because there is more of it."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/mixing.png",
+              "caption": "Mixing 1 L at 10% with 3 L at 20%"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "diluting",
+          "label": "Adding plain water",
+          "type": "core",
+          "desc": "Plain water is a 0% mixture. Adding it makes the mixture weaker.\n\n**Worked example:** 12 L of pani is 6% spice. How much water makes it 4%?\n- Spice: 6% of 12 = 0.72 L. Adding water doesn't change this.\n- For 4%, the total must be 0.72 ÷ 0.04 = 18 L.\n- So add 18 − 12 = **6 L of water**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: 20 L of juice is 8% sugar. 12 L of water is added. Find the new strength.",
+              "a": "Sugar: 1.6 L in 32 L. 1.6 ÷ 32 = **5%**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "gold",
+          "label": "Old Indian gold mixing",
+          "type": "optional",
+          "desc": "Around 750 CE, **Śrīdharācārya** set problems on melting gold together. Purity was measured in **varṇa**: 16 varṇa was pure gold.\n\n**Example:** 4 units at 12 varṇa melted with 6 units at 14 varṇa: (4 × 12 + 6 × 14) ÷ 10 = 132 ÷ 10 = **13.2 varṇa**.\n\nA 1200-year-old weighted average.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "custom-weights",
+      "label": "Giving some things more weight",
+      "desc": "**Goal:** combine marks or ratings when some parts count more than others. Exercise Sets 10.2 and 10.3 use this.",
+      "links": [],
+      "children": [
+        {
+          "id": "weighted-marks",
+          "label": "Weighted marks",
+          "type": "core",
+          "desc": "Asha scored **70** in tests, **80** in her project and **60** in the final exam. The school combines them in the ratio **2 : 3 : 5**.\n- Multiply each mark by its weight: 70 × 2 + 80 × 3 + 60 × 5 = 140 + 240 + 300 = 680.\n- Divide by the total weight, 2 + 3 + 5 = 10.\n- Final mark: 680 ÷ 10 = **68**.\n\nThe plain average would be 70. Her lowest mark, the final, carries the most weight, so she gets less.",
+          "links": [
+            {
+              "label": "Math is Fun: weighted mean",
+              "url": "https://www.mathsisfun.com/data/weighted-mean.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: 90 in tests and 60 in the final, weights 1 : 4. Find the final mark. Then swap the weights.",
+              "a": "(90 + 240) ÷ 5 = **66**. Swapped, 4 : 1: (360 + 60) ÷ 5 = **84**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "different-totals",
+          "label": "Marks out of different totals",
+          "type": "core",
+          "desc": "Convert each mark to a **percentage first**, then weight them.\n\n**Example:** 35 out of 50, 48 out of 60, and 66 out of 100, weighted 1 : 1 : 2.\n- Percentages: 70%, 80%, 66%.\n- (70 + 80 + 2 × 66) ÷ 4 = 282 ÷ 4 = **70.5%**.\n\nAdding the raw marks (35 + 48 + 66) mixes different totals and gives nonsense.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why can't you just average 35/50 and 66/100 by adding the tops and the bottoms?",
+              "a": "Because each part has its own weight. Adding tops and bottoms silently weights each part by its **total marks**, not the weights the school chose."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ratings",
+          "label": "Ratings",
+          "type": "core",
+          "desc": "A customer rates a restaurant: **food 4**, **service 3**, **ambience 5**. The site weights them **5 : 3 : 2**.\n\n(4 × 5 + 3 × 3 + 5 × 2) ÷ 10 = (20 + 9 + 10) ÷ 10 = **3.9**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: with equal weights, what would the rating be?",
+              "a": "(4 + 3 + 5) ÷ 3 = **4**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "charts",
+      "label": "Charts that combine",
+      "desc": "**Goal:** read cluster columns, stacked columns and 100% stacked bars, and know what each one can and cannot tell you. Exercise Sets 10.4 and 10.5 use this.",
+      "links": [],
+      "children": [
+        {
+          "id": "cluster",
+          "label": "Cluster columns: compare amounts",
+          "type": "core",
+          "desc": "Put the bars for each family side by side. It is easy to compare **one category across families**, or the categories inside one family.\n\nIn the picture, Family C spends the most on food: ₹3000.",
+          "links": [
+            {
+              "label": "Math is Fun: bar graphs",
+              "url": "https://www.mathsisfun.com/data/bar-graphs.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: from the chart, which family spends the least on school fees?",
+              "a": "**Family B**, ₹500."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/cluster-columns.png",
+              "caption": "Weekly spending of three families, by category"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "stacked",
+          "label": "Stacked columns: parts and the total",
+          "type": "core",
+          "desc": "Stack each family's bars on top of each other. Now the **height of the whole column** is the total.\n\n- Family A spends ₹5000, B ₹4000, C ₹6000.\n- The bottom part (food) is easy to compare. The parts higher up are harder, because they don't start at the same level.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: is it easy to tell from the stacked chart whether A or B spends more on travel?",
+              "a": "**Harder** than in the cluster chart, because the travel blocks start at different heights. The numbers say A ₹800, B ₹1500."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/stacked-columns.png",
+              "caption": "The same spending, stacked: totals are visible"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "hundred-percent",
+          "label": "100% stacked bars: compare shares",
+          "type": "core",
+          "desc": "Make every bar the **same length**, 100%. Each part shows its **share** of that family's total.\n\n**Worked example:** Family A spends ₹1200 of ₹5000 on school fees: 1200 ÷ 5000 × 100 = **24%**.\n\nNow 'which family spends the biggest share on fees?' is easy: Family C, 30%. A pie chart shows shares too, but lengths are easier to compare than angles.",
+          "links": [
+            {
+              "label": "Math is Fun: pie charts",
+              "url": "https://www.mathsisfun.com/data/pie-charts.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a home used 1000 units of electricity, 250 for lighting. Another used 1500, 450 for lighting. Find each share.",
+              "a": "250 ÷ 1000 = **25%**. 450 ÷ 1500 = **30%**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/stacked-100.png",
+              "caption": "The same spending as shares of each family's total"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "shares-not-counts",
+          "label": "Careful: shares are not amounts",
+          "type": "core",
+          "desc": "Family A spends 24% on fees and Family B 12.5%. Does A spend more? **You can't tell from shares alone**: you need the totals. (Here A does: ₹1200 against ₹500.)\n\n**Example:** in Meera's garden 60% of flowers bloom in summer. In Ravi's, 40%. If Meera has 200 flowers and Ravi 600, Meera has 120 summer flowers and Ravi has **240**. The bigger share is the smaller number.\n\n**Within one bar** you can compare: a bigger share is a bigger amount. **Across bars**, only if the totals are the same.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: two shops each sell 40% tea. Do they sell the same amount of tea?",
+              "a": "**Not necessarily.** Only if their total sales are the same."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These match the starred and harder end-of-chapter questions in your textbook. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "find-counts",
+          "label": "Working backwards from averages",
+          "type": "optional",
+          "desc": "In a class of 50, boys average 40 kg and girls average 36 kg. The whole class averages 38.4 kg. How many boys?\n- Let b be the number of boys, so 50 − b girls.\n- Total weight: 40b + 36(50 − b) = 38.4 × 50 = 1920.\n- 40b + 1800 − 36b = 1920, so 4b = 120 and **b = 30**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "change-average",
+          "label": "When someone joins or leaves",
+          "type": "optional",
+          "desc": "Turn the average back into a total, change the total, then divide again.\n\n**Example:** 24 girls average 36 kg. A girl weighing 30 kg joins. New total: 24 × 36 + 30 = 894 kg for 25 girls. New average: 894 ÷ 25 = **35.76 kg**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "impossible-mix",
+          "label": "A mixture that can't be made",
+          "type": "optional",
+          "desc": "A mixture always lies **between** its ingredients. So mixing 10% and 20% juice can never give 25%, or 5%.\n\nMixing with plain water (0%) can make it as weak as you like, but never 0% exactly.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThis chapter takes one idea, the weighted average, through groups, mixtures, marks and charts. For a student who finds maths hard, the single most useful habit is **turning averages back into totals** (total = average × how many). Every combining question becomes simple once they do.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- **Start with *Check yourself*.** Percentages and ratios are the arithmetic this chapter needs.\n- **Ask 'how many in each group?'** before any combining question.\n- **Use real mixing.** Two glasses of water with different spoons of sugar make 'between, and closer to the bigger amount' obvious.\n- **Use the students' own marks** for weighted marks; it makes the weights feel real.\n- **Draw all three charts from the same data** so students see that the chart changes the question it answers easily.\n- **Ask 'shares or amounts?'** whenever a 100% chart is used.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 6-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** average, percentages, ratios; the average trap with two class groups. **Activity:** compare the average height of a small group and a large group, then combine them two ways.\n- **Period 2:** the weighted-average rule; when averaging averages works (Exercise Set 10.1).\n- **Period 3:** mixtures, including diluting with water. **Activity:** mix sugar solutions and taste-test the predictions.\n- **Period 4:** weighted marks, different totals, ratings (Exercise Sets 10.2 and 10.3).\n- **Period 5:** cluster, stacked and 100% stacked charts from one data set (Exercise Sets 10.4 and 10.5). **Activity:** draw all three from the class's own survey.\n- **Period 6:** shares versus amounts; mixed practice; exit ticket. Challenge questions for those ready.",
+          "links": [
+            {
+              "label": "Your textbook: NCERT Ganita Manjari, Grade 9 Part II, Chapter 10 (free PDF)",
+              "url": "https://ncert.nic.in/textbook/pdf/iemh202.pdf"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Averaging two averages when the groups are different sizes.\n- Forgetting to divide by the total weight (or total size).\n- Adding raw marks out of different totals.\n- Giving a mixture strength outside the range of its ingredients.\n- Treating a bigger percentage as a bigger amount across different totals.\n- Reading a middle part of a stacked column from the axis instead of its own length.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. 10 students average 50 and 40 students average 60. Find the average of all 50.",
+              "a": "(500 + 2400) ÷ 50 = **58**."
+            },
+            {
+              "q": "2. Equal amounts of 4% and 12% salt water are mixed. Strength?",
+              "a": "**8%.**"
+            },
+            {
+              "q": "3. Marks 80 and 50 are weighted 1 : 2. Final mark?",
+              "a": "(80 + 100) ÷ 3 = **60**."
+            },
+            {
+              "q": "4. ₹300 of a ₹1200 budget goes on food. What share is that?",
+              "a": "**25%.**"
+            },
+            {
+              "q": "5. Shop A sells 50% rice, Shop B 30%. Must A sell more rice?",
+              "a": "**No**: it depends on their total sales."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

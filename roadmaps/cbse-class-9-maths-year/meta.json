@@ -1,0 +1,26 @@
+{
+  "stages": [
+    "school"
+  ],
+  "subject": "maths",
+  "level": "beginner",
+  "lang": "en",
+  "authors": [
+    {
+      "name": "vijayanandraj",
+      "url": "https://github.com/vijayanandraj"
+    }
+  ],
+  "license": "CC-BY-SA-4.0",
+  "audience": "Class 9 students who find maths hard, and their teachers and parents: the whole year's maths, organised by term",
+  "follows": "CBSE Class 9 Mathematics (NCERT Ganita Manjari, Parts I and II)",
+  "tags": [
+    "maths",
+    "cbse",
+    "class 9",
+    "ncert",
+    "ganita manjari",
+    "step by step",
+    "series"
+  ]
+}

@@ -1,0 +1,441 @@
+{
+  "title": "Class 9 Maths, Chapter 11: Algorithms, Step by Step",
+  "subtitle": "For students who find maths hard. One idea holds the chapter together: an algorithm is a recipe so exact that nobody has to think while following it, and a smarter recipe does less work. Column addition, the gcd from lists, and Euclid's algorithm, all traced by hand. Small steps, practice with answers. Follows NCERT Ganita Manjari, Grade 9 Part II, Chapter 11 (The World of Algorithms).",
+  "updated": "2026-11-04",
+  "changelog": [
+    {
+      "date": "2026-11-04",
+      "text": "Added an 'About this roadmap' step: who it is for, how it differs from the textbook, and licence."
+    },
+    {
+      "date": "2026-11-04",
+      "text": "Linked into the Class 9 Maths series: links to the start page for this part and to the chapters before and after this one."
+    },
+    {
+      "date": "2026-11-04",
+      "text": "First version: written for students who find maths hard. Algorithms as exact recipes, testing awkward cases, gcd from lists, Euclid by subtraction and by remainders, practice with answers, and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** feel sure about adding in columns, divisors and remainders, and what the greatest common divisor is.\n\nThis chapter is about **writing down steps so exactly that anyone, or any computer, can follow them**. The maths inside is maths you already know.",
+      "links": [
+        {
+          "label": "Your textbook: NCERT Ganita Manjari, Grade 9 Part II, Chapter 11 (free PDF)",
+          "url": "https://ncert.nic.in/textbook/pdf/iemh203.pdf"
+        },
+        {
+          "label": "DIKSHA: free NCERT videos and lessons",
+          "url": "https://diksha.gov.in/"
+        }
+      ],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. On the map the steps go left and right, so press **Checklist view** at the top to see them as a list, in order.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Follow every algorithm by hand, with a pencil**, step by step. Don't skip steps you think are obvious.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: an algorithm is a recipe so exact that nobody has to think while following it.** Then we look for a smarter recipe that does less work.",
+          "links": [
+            {
+              "label": "All chapters in Term 2: start page",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-maths-part-2"
+            },
+            {
+              "label": "The whole year: Term 1 and Term 2",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-maths-year"
+            },
+            {
+              "label": "Previous chapter: 10. Combining Data",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-data"
+            },
+            {
+              "label": "Next chapter: 12. Quadrilaterals",
+              "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-quadrilaterals"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 11 of the NCERT textbook *Ganita Manjari*, Grade 9 Part II: *The World of Algorithms*.\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** An algorithm is a recipe so exact that nobody has to think while following it.\n\n**How it is different from the textbook.** Every algorithm is traced by hand with small numbers, and Euclid's algorithm is shown as squares cut from a rectangle, so 'why it works' is visible without algebra.\n\n**What is inside.**\n- 6 milestones and 24 small steps. The 14 solid steps are the core path. The dashed ones are optional.\n- 18 practice questions with hidden answers, and 4 pictures.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the history of the word, and challenge questions on testing for primes, the lcm and counting steps.\n- For teachers and parents: a 5-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Work out 2748 + 1563.",
+              "a": "**4311.** Wrong? Do *Adding in columns*."
+            },
+            {
+              "q": "2. List the divisors (factors) of 18.",
+              "a": "**1, 2, 3, 6, 9, 18.** Wrong? Do *Divisors and remainders*."
+            },
+            {
+              "q": "3. What is the remainder when 47 is divided by 5?",
+              "a": "47 = 9 × 5 + 2, so **2**. Wrong? Do *Divisors and remainders*."
+            },
+            {
+              "q": "4. What is the greatest number that divides both 12 and 18?",
+              "a": "**6.** Wrong? Do *The greatest common divisor*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "column-add",
+          "label": "Adding in columns",
+          "type": "core",
+          "desc": "Write the numbers one under the other with the **units lined up**. Add from the **right**. If a column reaches 10 or more, write the units digit and **carry 1** to the next column.\n\n**Example:** 586 + 347: 6 + 7 = 13, write 3 carry 1. 8 + 4 + 1 = 13, write 3 carry 1. 5 + 3 + 1 = 9. Answer **933**.",
+          "links": [
+            {
+              "label": "Math is Fun: addition in columns",
+              "url": "https://www.mathsisfun.com/numbers/addition-column.html"
+            }
+          ],
+          "images": [
+            {
+              "src": "images/column-add.png",
+              "caption": "586 + 347, adding right to left with carries"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "divisors",
+          "label": "Divisors and remainders",
+          "type": "core",
+          "desc": "- A **divisor** of 28 divides it exactly: 1, 2, 4, 7, 14, 28. (Divisor means the same as factor.)\n- The **remainder** is what is left over: 60 ÷ 7 = 8 remainder **4**, because 8 × 7 = 56 and 60 − 56 = 4.\n- d divides n exactly when the remainder is 0.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: list the divisors of 36.",
+              "a": "**1, 2, 3, 4, 6, 9, 12, 18, 36.**"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "gcd-meaning",
+          "label": "The greatest common divisor",
+          "type": "core",
+          "desc": "The **greatest common divisor (gcd)**, also called the **HCF**, of two numbers is the biggest number that divides both.\n\n- Divisors of 12: 1, 2, 3, 4, 6, 12.\n- Divisors of 18: 1, 2, 3, 6, 9, 18.\n- In both: 1, 2, 3, 6. The greatest is **6**.",
+          "links": [
+            {
+              "label": "Math is Fun: greatest common factor",
+              "url": "https://www.mathsisfun.com/greatest-common-factor.html"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "what-algorithm",
+      "label": "What an algorithm is",
+      "desc": "**Goal:** see that column addition is an algorithm, and test a written algorithm by following it exactly. Exercise Set 11.1 uses this.",
+      "links": [],
+      "children": [
+        {
+          "id": "recipe",
+          "label": "A recipe with no guessing",
+          "type": "core",
+          "desc": "An **algorithm** is a list of steps that solves a problem. It must be so **exact** that someone can follow it without making any choices of their own.\n\nAlgorithms are built from three kinds of step:\n- **Do something:** add these two digits.\n- **Decide:** if the sum is 10 or more, carry 1.\n- **Repeat:** do the same for the next column, until there are no columns left.\n\nA computer follows algorithms. So do you, every time you add in columns.",
+          "links": [
+            {
+              "label": "Math is Fun: algorithm",
+              "url": "https://www.mathsisfun.com/definitions/algorithm.html"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "addition-steps",
+          "label": "Column addition, written as steps",
+          "type": "core",
+          "desc": "1. Write the numbers one below the other, units lined up.\n2. Set carry to 0. Start with the rightmost column.\n3. Add the two digits and the carry.\n4. If the sum is less than 10, write it and set carry to 0. Otherwise write its units digit and set carry to 1.\n5. If there is another column to the left, move to it and go back to step 3.\n6. If carry is 1, write 1 at the far left.\n\n**Follow it exactly** for 586 + 347. You should get 933.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why can the carry never be 2?",
+              "a": "The biggest a column can be is 9 + 9 + 1 = **19**, which is less than 20. So the carry is at most 1."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "testing",
+          "label": "Test the steps on awkward cases",
+          "type": "core",
+          "desc": "A good algorithm works for **every** input, not just the easy ones. Try cases that might break it:\n- **Different lengths:** 98765 + 432. Step 3 needs a rule for a missing digit: treat it as 0.\n- **A carry at the very end:** 99 + 1 = 100. Without step 6, you would write 00.\n- **Nothing to carry:** 123 + 456. Should still work.\n\nThis is like hunting for counterexamples in Chapter 9.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what goes wrong if you line the numbers up on the left instead of the right?",
+              "a": "Digits of different place values get added together. For 586 + 47 you would add 5 + 4 (hundreds plus tens). The answer is wrong."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "gcd-lists",
+      "label": "Finding the gcd with lists",
+      "desc": "**Goal:** write an algorithm for the gcd straight from its meaning, then make it do less work. Exercise Sets 11.2 and 11.3 use this.",
+      "links": [],
+      "children": [
+        {
+          "id": "divisor-list",
+          "label": "Step 1: list the divisors",
+          "type": "core",
+          "desc": "To list the divisors of n:\n1. Start with an **empty list**.\n2. For each number j from 1 up to n: if j divides n, add j to the end of the list.\n\nThe list comes out in **increasing order**, because we check j = 1, 2, 3 ... in order.\n\nA **list** is a simple example of a **data structure**: a way of keeping intermediate results organised. Giving it a name, like *divisors-of-n*, lets later steps refer to it.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: run the algorithm for n = 28. Which values of j get added?",
+              "a": "j = 1, 2, 4, 7, 14, 28. The list is **[1, 2, 4, 7, 14, 28]**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "common-list",
+          "label": "Step 2: keep the common ones",
+          "type": "core",
+          "desc": "- Make the divisor lists of both numbers.\n- Go through the first list. Keep each number that is also in the second list.\n- Both lists are in increasing order, so the common list is too. Its **last** number is the gcd.\n\n**Example: gcd(84, 120).** Common divisors: 1, 2, 3, 4, 6, 12. The last one: **12**.",
+          "links": [
+            {
+              "label": "Math is Fun: greatest common factor",
+              "url": "https://www.mathsisfun.com/greatest-common-factor.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: find gcd(36, 60) this way.",
+              "a": "Divisors of 36: 1, 2, 3, 4, 6, 9, 12, 18, 36. Of 60, the common ones are 1, 2, 3, 4, 6, 12. **gcd = 12**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/divisor-lists.png",
+              "caption": "Divisors of 84 and 120; the common ones are marked"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "improve",
+          "label": "Doing less work",
+          "type": "core",
+          "desc": "The first version checks 84 numbers for 84 and then 120 numbers for 120: **204 checks**. We can do better.\n- **One scan:** check each j once, against both numbers.\n- **Stop early:** a common divisor can't be bigger than the **smaller** number. So scan only up to 84.\n- **No list at all:** keep just one number, the *biggest common divisor so far*. Each time j divides both, replace it with j.\n\nNow we check 84 numbers and remember one value. Same answer, less work.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: if you scan from the smaller number **down** to 1, when can you stop?",
+              "a": "At the **first** j that divides both. Scanning downwards, the first common divisor you meet is the greatest."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "too-slow",
+          "label": "Why this is still slow",
+          "type": "optional",
+          "desc": "Scanning up to the smaller number means **more digits, much more work**. A 3-digit number needs up to 999 checks; a 6-digit number up to 999 999.\n\nColumn addition is different: a 6-digit sum takes just 6 column steps. Can we find a gcd algorithm that is fast like addition? Euclid found one.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "euclid",
+      "label": "Euclid's algorithm",
+      "desc": "**Goal:** find the gcd quickly by subtracting (or dividing) again and again, and see why it works.",
+      "links": [],
+      "children": [
+        {
+          "id": "subtract",
+          "label": "Subtract the smaller from the bigger",
+          "type": "core",
+          "desc": "**The key fact:** if m is bigger than n, then **gcd(m, n) = gcd(n, m − n)**.\n\nSo keep replacing the bigger number by the difference:\n- (120, 84) → 120 − 84 = 36 → (84, 36)\n- (84, 36) → 48 → (48, 36)\n- (48, 36) → 12 → (36, 12)\n- (36, 12) → 24 → (24, 12) → 12 → (12, 12) → 0 → (12, 0)\n\nWhen one number becomes **0**, the other is the gcd: **12**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: find gcd(75, 45) by subtracting.",
+              "a": "(75, 45) → (45, 30) → (30, 15) → (15, 15) → (15, 0). **gcd = 15**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/euclid-table.png",
+              "caption": "Euclid's subtraction algorithm for 120 and 84"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "why-euclid",
+          "label": "Why it works",
+          "type": "core",
+          "desc": "Any number that divides both m and n also divides m − n.\n- If m = 12 × 10 and n = 12 × 7, then m − n = 12 × 3.\n- And the other way: anything dividing n and m − n also divides m, because m = n + (m − n).\n\nSo (m, n) and (n, m − n) have **exactly the same common divisors**, and so the same gcd.\n\n**A picture:** cut the biggest square you can from a 120 by 84 rectangle, then from what is left, and so on. The last square is 12 by 12. Squares of side 12 tile every piece, so they tile the whole rectangle.",
+          "links": [],
+          "images": [
+            {
+              "src": "images/euclid-squares.png",
+              "caption": "Cutting squares from a 120 by 84 rectangle"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "divide",
+          "label": "The fast version: use remainders",
+          "type": "core",
+          "desc": "Subtracting the same number several times in a row is just **division**. So replace m − n by the **remainder** of m ÷ n:\n\n**gcd(m, n) = gcd(n, remainder of m ÷ n)**\n\n- (120, 84): 120 ÷ 84 leaves 36 → (84, 36)\n- 84 ÷ 36 leaves 12 → (36, 12)\n- 36 ÷ 12 leaves 0 → (12, 0). **gcd = 12**.\n\nThree steps instead of six. This is the version Indian mathematicians used, going back to Āryabhaṭa. The number of steps grows with the number of **digits**, not the size of the numbers.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: find gcd(825, 375) with remainders.",
+              "a": "825 ÷ 375 leaves 75 → (375, 75). 375 ÷ 75 leaves 0. **gcd = 75**."
+            },
+            {
+              "q": "Your turn: find gcd(1071, 462).",
+              "a": "1071 ÷ 462 leaves 147. 462 ÷ 147 leaves 21. 147 ÷ 21 leaves 0. **gcd = 21**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "word-algorithm",
+          "label": "Where the word comes from",
+          "type": "optional",
+          "desc": "Around 820 CE, the Persian scholar **al-Khwārizmī** in Baghdad wrote a book explaining the **Indian** number system and its methods for adding, subtracting, multiplying and dividing. In Latin his name became *Algoritmi*, and the methods came to be called **algorisms**, and later **algorithms**.\n\nSo the word first meant 'an Indian method of arithmetic'.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These match the starred and harder end-of-chapter questions in your textbook. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "prime-test",
+          "label": "An algorithm to test for a prime",
+          "type": "optional",
+          "desc": "**prime(n):** make the divisor list of n. If it is exactly [1, n], n is prime.\n\n**Faster:** check only j from 2 up to √n. If none divides n, it is prime, because divisors come in pairs and one of each pair is at most √n.\n\nTest 91: 7 divides it (91 = 7 × 13), so **not prime**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lcm",
+          "label": "The lcm from the gcd",
+          "type": "optional",
+          "desc": "The **lowest common multiple** can be found from the gcd:\n\n**lcm(m, n) = m × n ÷ gcd(m, n)**\n\nlcm(84, 120) = 84 × 120 ÷ 12 = **840**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "count-steps",
+          "label": "Counting steps",
+          "type": "optional",
+          "desc": "Subtraction is slow when one number is much bigger: gcd(1000, 1) takes 1000 subtractions. With remainders it takes 1 step: 1000 ÷ 1 leaves 0.\n\nCounting the steps an algorithm takes, and how that grows with the input, is called **analysing** the algorithm.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "prime-divisors",
+          "label": "Prime divisors",
+          "type": "optional",
+          "desc": "**primedivisors(n):** make the divisor list of n, then keep only those that pass prime(d).\n\nFor 60: divisors 1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60. Prime ones: **2, 3, 5**.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThis chapter introduces algorithmic thinking through arithmetic students already know. For a student who finds maths hard, it can be reassuring: the maths is familiar and the new skill is **precision**. The roadmap keeps everything hand-traceable with small numbers, and treats efficiency as 'doing less work' rather than formal analysis.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- **Start with *Check yourself*.** Divisors and remainders must be secure.\n- **Play 'robot'.** One student reads an algorithm aloud; another follows it literally, with no common sense. Gaps in the steps appear immediately.\n- **Always trace on paper** with a table of the values at each step.\n- **Use the square-cutting picture** for Euclid; it makes 'why it works' visible without algebra.\n- **Compare work done:** count the checks each gcd method needs for the same pair of numbers.\n- **Link to coding** if your school teaches it: these algorithms are a few lines in Scratch or Python.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 5-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** column addition as an algorithm; testing awkward cases (Exercise Set 11.1). **Activity:** the robot game with written addition steps.\n- **Period 2:** divisor lists; common divisors; gcd from lists (Exercise Set 11.2).\n- **Period 3:** improving the algorithm; counting the work (Exercise Set 11.3).\n- **Period 4:** Euclid by subtraction and by remainders. **Activity:** cut squares from a paper rectangle 12 cm by 8.4 cm (scaled 120 by 84).\n- **Period 5:** mixed practice; exit ticket. Prime test and lcm for those ready.",
+          "links": [
+            {
+              "label": "Your textbook: NCERT Ganita Manjari, Grade 9 Part II, Chapter 11 (free PDF)",
+              "url": "https://ncert.nic.in/textbook/pdf/iemh203.pdf"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Lining numbers up on the left in column addition.\n- Skipping a step because it seems obvious, then getting a different answer.\n- Forgetting the final carry.\n- Taking the first common divisor instead of the last (greatest) one.\n- Stopping Euclid's algorithm too early, before a 0 appears.\n- Mixing up the quotient and the remainder in the division version.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Find 4679 + 2853 by columns.",
+              "a": "**7532.**"
+            },
+            {
+              "q": "2. List the common divisors of 18 and 24.",
+              "a": "**1, 2, 3, 6.**"
+            },
+            {
+              "q": "3. Find gcd(56, 42) by subtracting.",
+              "a": "(56, 42) → (42, 14) → (28, 14) → (14, 14) → (14, 0). **14.**"
+            },
+            {
+              "q": "4. Find gcd(252, 105) with remainders.",
+              "a": "252 ÷ 105 leaves 42; 105 ÷ 42 leaves 21; 42 ÷ 21 leaves 0. **21.**"
+            },
+            {
+              "q": "5. Why does Euclid's algorithm always stop?",
+              "a": "The numbers keep getting **smaller** but stay whole and at least 0, so they can't shrink for ever."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

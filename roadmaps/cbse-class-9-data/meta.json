@@ -1,0 +1,27 @@
+{
+  "stages": [
+    "school"
+  ],
+  "subject": "maths",
+  "level": "beginner",
+  "lang": "en",
+  "authors": [
+    {
+      "name": "vijayanandraj",
+      "url": "https://github.com/vijayanandraj"
+    }
+  ],
+  "license": "CC-BY-SA-4.0",
+  "audience": "Class 9 students who find maths hard, learning weighted averages and data charts step by step, and the teachers and parents helping them",
+  "follows": "CBSE Class 9 Mathematics (NCERT Ganita Manjari, Chapter 10)",
+  "tags": [
+    "maths",
+    "cbse",
+    "class 9",
+    "ncert",
+    "data",
+    "statistics",
+    "step by step",
+    "ganita manjari"
+  ]
+}
