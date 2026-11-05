@@ -1,0 +1,25 @@
+{
+  "stages": [
+    "school"
+  ],
+  "subject": "science",
+  "level": "beginner",
+  "lang": "en",
+  "authors": [
+    {
+      "name": "vijayanandraj",
+      "url": "https://github.com/vijayanandraj"
+    }
+  ],
+  "license": "CC-BY-SA-4.0",
+  "audience": "ICSE Class 10 students who find physics hard, and their teachers and parents: Chapter 1, Force (moments, couple, equilibrium, centre of gravity, circular motion)",
+  "follows": "ICSE Class 10 Physics (Selina Concise Physics, Chapter 1: Force)",
+  "tags": [
+    "physics",
+    "icse",
+    "class 10",
+    "force",
+    "moments",
+    "step by step"
+  ]
+}

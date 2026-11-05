@@ -1,0 +1,890 @@
+{
+  "title": "ICSE Class 10 Physics, Chapter 1: Force, Step by Step",
+  "subtitle": "For students who find physics hard. Moments, couples, balance, centre of gravity and circular motion in small steps, with every numerical shown line by line and an exam toolkit of definitions, units and reasons. Follows the ICSE Class 10 syllabus, Chapter 1 (Force), in the order of Selina Concise Physics.",
+  "updated": "2026-11-05",
+  "changelog": [
+    {
+      "date": "2026-11-05",
+      "text": "First version: the whole chapter in small steps, with original worked examples, an exam toolkit and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** be sure of units, weight in kgf, and rearranging a formula. Every numerical in this chapter uses these three.",
+      "links": [
+        {
+          "label": "Math is Fun: the metric system",
+          "url": "https://www.mathsisfun.com/measure/metric-system.html"
+        }
+      ],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. On the map the steps go left and right, so press **Checklist view** at the top to see them as a list, in order.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Every answer needs a unit**: N m, kgf m or gf cm. In the exam, a number without its unit loses marks. The *Exam toolkit* milestone collects the definitions, units and reasons to learn.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: turning = force × distance from the pivot.** A small force far away turns as much as a big force close in. Balance means the turning one way equals the turning the other way. Even circular motion fits: a force is needed just to keep changing direction.",
+          "links": [
+            {
+              "label": "Math is Fun: force",
+              "url": "https://www.mathsisfun.com/physics/force.html"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 1, *Force*, of the ICSE Class 10 Physics syllabus. It follows the order of *Selina Concise Physics* for Class 10.\n\n**Who it is for.** Class 10 students who find physics hard, and want to understand this chapter and score decent marks in it. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** Turning = force × distance from the pivot. Balance means the turning one way equals the turning the other way.\n\n**How it is different from the textbook.** Every numerical follows one method, with each line shown and units checked. Balance questions, which carry the most marks, get their own milestone and a step-by-step routine. An *Exam toolkit* collects the definitions, conversions and 'give reasons' answers to learn.\n\n**What is inside.**\n- 10 milestones and 46 small steps. The 36 solid steps are the core path. The dashed ones are optional.\n- 54 practice questions with hidden answers, and 8 pictures.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the challenge questions, and a section for teachers and parents with a 10-period lesson plan, the mistakes to watch for and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from their textbook. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the ICSE syllabus but is not made or endorsed by CISCE or by any publisher. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Change 25 cm into metres.",
+              "a": "25 ÷ 100 = **0.25 m**. Wrong? Do *Changing units*."
+            },
+            {
+              "q": "2. A bag has a mass of 5 kg. What is its weight in kgf, and in newtons? (Take g = 9.8 N/kg.)",
+              "a": "**5 kgf**, and 5 × 9.8 = **49 N**. Wrong? Do *Mass, weight and kgf*."
+            },
+            {
+              "q": "3. Solve 12 × r = 3.",
+              "a": "r = 3 ÷ 12 = **0.25**. Wrong? Do *Rearranging a formula*."
+            },
+            {
+              "q": "4. What is the shortest distance from a point to a straight line?",
+              "a": "The **perpendicular** distance: the one at a right angle to the line. Wrong? Do *Perpendicular distance*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "units",
+          "label": "Changing units",
+          "type": "core",
+          "desc": "Physics answers need the right unit. The ones in this chapter:\n\n- **1 m = 100 cm.** To change cm to m, divide by 100.\n- **1 N = 100 000 dyne** (10⁵ dyne). The dyne is the small CGS unit of force.\n\n**Worked example:** 30 cm = 30 ÷ 100 = **0.3 m**.\n\nChange everything to the same units **before** you multiply.",
+          "links": [
+            {
+              "label": "Math is Fun: the metric system",
+              "url": "https://www.mathsisfun.com/measure/metric-system.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: change 40 cm to metres, and 2.5 m to centimetres.",
+              "a": "40 ÷ 100 = **0.4 m**. 2.5 × 100 = **250 cm**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "kgf",
+          "label": "Mass, weight and kgf",
+          "type": "core",
+          "desc": "**Mass** is how much stuff (kg). **Weight** is the pull of the Earth on it, a force.\n\n- A 1 kg mass weighs **1 kgf** (kilogram-force). 1 kgf = **9.8 N**.\n- A 1 g mass weighs **1 gf** (gram-force). 1 gf = **980 dyne**.\n\n**Worked example:** a 3 kg mass weighs 3 kgf = 3 × 9.8 = **29.4 N**.\n\nIn balance questions, a '30 g weight' means a force of **30 gf**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a child of mass 25 kg sits on a see-saw. What force does she put on it, in kgf?",
+              "a": "**25 kgf** (that is 25 × 9.8 = 245 N)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "rearrange",
+          "label": "Rearranging a formula",
+          "type": "core",
+          "desc": "Most numericals here use one formula: **moment = force × distance**. If you know two of them, you can find the third.\n\n- To find the distance: **divide the moment by the force**.\n- To find the force: **divide the moment by the distance**.\n\n**Worked example:** 3 = 12 × d\n\nd = 3 ÷ 12\n\nd = **0.25**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: 36 = F × 0.3. Find F.",
+              "a": "F = 36 ÷ 0.3 = **120**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "perpendicular",
+          "label": "Perpendicular distance",
+          "type": "core",
+          "desc": "**Perpendicular** means at a right angle (90°).\n\nThe perpendicular distance from a point to a line is the **shortest** way to the line. Drop a straight line from the point that meets the line at 90°.\n\nThis chapter uses it all the time: the distance in 'force × distance' is always the perpendicular one.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: you stand 3 m from a straight wall. Is 3 m measured along the floor at a slant, or straight across at 90°?",
+              "a": "**Straight across at 90°.** Any slanted path to the wall is longer."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "two-motions",
+      "label": "Moving along or turning?",
+      "desc": "**Goal:** tell the two effects of a force apart. Exercise 1(A) begins here.",
+      "links": [],
+      "children": [
+        {
+          "id": "two-kinds",
+          "label": "Two kinds of motion",
+          "type": "core",
+          "desc": "A force can do two different things:\n\n- **Translational motion:** the whole body moves along a line. A box pushed across a floor.\n- **Rotational motion:** the body **turns about a fixed point or axis**, called the pivot. A door, a ceiling fan.\n\nA wheel of a moving bicycle does both: it turns, and it also moves forward.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: translational or rotational? (a) a lift going up, (b) the hands of a clock, (c) a ball rolling on the ground.",
+              "a": "(a) **translational**. (b) **rotational**. (c) **both**: it turns and moves along."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "pivoted-free",
+          "label": "Pivoted or free?",
+          "type": "core",
+          "desc": "- If a body is **fixed at a pivot**, a force can only **turn** it.\n- If a body is **free** and you push it through its centre, it **moves along** without turning.\n- Push a free body **off-centre** and it does both. Try it: push one end of a ruler lying on a table. It slides and spins.\n\nA force whose line passes **through the pivot** cannot turn the body at all.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why does a door not open if you push it right at the hinge?",
+              "a": "The force passes **through the pivot**, so its distance from the pivot is zero. Zero distance means **no turning effect**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "moment",
+      "label": "The moment of a force",
+      "desc": "**Goal:** calculate how strongly a force turns a body. Exercise 1(A) questions on moments use this.",
+      "links": [],
+      "children": [
+        {
+          "id": "what-turns",
+          "label": "What turns things",
+          "type": "core",
+          "desc": "The turning effect of a force is called its **moment** (or torque). It depends on two things:\n\n- the **size of the force**, and\n- the **perpendicular distance** from the pivot to the line of the force.\n\n**Moment of a force = force × perpendicular distance from the pivot.**\n\nSo a small force far from the pivot can turn as much as a big force near it.",
+          "links": [
+            {
+              "label": "Math is Fun: moment (torque)",
+              "url": "https://www.mathsisfun.com/physics/moment-torque.html"
+            },
+            {
+              "label": "PhET simulation: Torque (free)",
+              "url": "https://phet.colorado.edu/en/simulations/torque"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: on the door in the picture, check that both forces give the same moment.",
+              "a": "20 × 1.2 = **24 N m**. 80 × 0.3 = **24 N m**. The same."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/door.png",
+              "caption": "A door from above: 20 N at 1.2 m turns it as much as 80 N at 0.3 m"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "calc-moment",
+          "label": "Calculating a moment",
+          "type": "core",
+          "desc": "**Worked example:** a force of 20 N acts at 25 cm from the pivot.\n\nDistance = 25 cm = 0.25 m\n\nMoment = F × d = 20 × 0.25\n\nMoment = **5 N m**\n\nChange cm to m first, so the answer comes in **N m**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a moment of 3 N m comes from a force of 12 N. How far from the pivot is the force?",
+              "a": "d = moment ÷ force = 3 ÷ 12 = **0.25 m** (25 cm)."
+            },
+            {
+              "q": "Your turn: you pull a spanner with 120 N at 30 cm from the nut. What is the moment?",
+              "a": "120 × 0.3 = **36 N m**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "units-moment",
+          "label": "Units of moment",
+          "type": "core",
+          "desc": "Force × distance gives the unit.\n\n- **SI:** newton metre, **N m**.\n- **CGS:** **dyne cm**.\n- **Gravitational:** **kgf m** and **gf cm**.\n\nConversions to learn:\n- 1 N m = 10⁵ dyne × 100 cm = **10⁷ dyne cm**\n- 1 kgf m = **9.8 N m**\n- 1 gf cm = **980 dyne cm**\n\n**Worked example:** 2 N m = 2 × 10⁷ dyne cm.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: change 3 kgf m into N m.",
+              "a": "3 × 9.8 = **29.4 N m**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "slanted-force",
+          "label": "When the force is slanted",
+          "type": "core",
+          "desc": "The distance in the formula is **not** the length of the bar. It is the **perpendicular** distance from the pivot to the **line of the force**.\n\n**Worked example:** a 10 N force pulls the end of a 0.5 m bar at 60° to the bar.\n\nPerpendicular distance d = 0.43 m (from the picture, or 0.5 × sin 60°)\n\nMoment = 10 × 0.43 = **4.3 N m**\n\nA force at 90° to the bar gives the **biggest** moment. That is why you push a door at right angles.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: you push along the bar, straight towards the pivot. What is the moment?",
+              "a": "The line of the force goes **through the pivot**, so d = 0 and the moment is **zero**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/moment-arm.png",
+              "caption": "d is drawn from the pivot to the force's line, at a right angle"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "direction",
+          "label": "Clockwise or anticlockwise",
+          "type": "core",
+          "desc": "A moment turns a body one of two ways.\n\n- **Anticlockwise** moments are taken as **positive (+)**.\n- **Clockwise** moments are taken as **negative (−)**.\n\nMoment is a **vector**: it has a size and a direction.\n\n**Worked example:** 30 N at 0.2 m turning clockwise gives a moment of −30 × 0.2 = **−6 N m**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a metre rule is pivoted at its middle. A weight hangs on the right half. Which way does the rule turn?",
+              "a": "The right side goes down, so it turns **clockwise**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/clockwise.png",
+              "caption": "Anticlockwise counts plus, clockwise counts minus"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "everyday",
+          "label": "Everyday turning",
+          "type": "core",
+          "desc": "Look for 'force × distance' around you:\n\n- **Door handles** are far from the hinge.\n- **Spanners** have long handles.\n- A **steering wheel** is large.\n- A **hand flour grinder** has its handle near the rim.\n- A **bicycle pedal** is on a long crank.\n\nEach one makes the distance big, so a **small force** gives a **big moment**.\n\n**Worked example:** a door is 1.2 m wide. A force of 40 N at its middle (0.6 m) gives 40 × 0.6 = 24 N m. At the edge, the force needed is 24 ÷ 1.2 = **20 N**. Half the force!",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a nut needs 36 N m to turn. You can pull with only 45 N. How long must the spanner be?",
+              "a": "d = 36 ÷ 45 = **0.8 m**."
+            },
+            {
+              "q": "Your turn: give a reason. Why is it hard to open a door by pushing near the hinge?",
+              "a": "Near the hinge the **perpendicular distance is small**. So a much **larger force** is needed for the same moment."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "couple",
+      "label": "A couple: two hands on a wheel",
+      "desc": "**Goal:** know what a couple is and find its moment. Exercise 1(A) uses this.",
+      "links": [],
+      "children": [
+        {
+          "id": "what-couple",
+          "label": "What is a couple",
+          "type": "core",
+          "desc": "A **couple** is two forces that are:\n\n- **equal** in size,\n- **opposite** in direction,\n- **parallel**, but **not along the same line**.\n\nA couple only **turns** a body. It does not move it along.\n\nExamples: turning a **tap**, a **key** in a lock, a **steering wheel** with two hands, opening a **bottle cap**, winding a **clock**.",
+          "links": [
+            {
+              "label": "Wikipedia: couple",
+              "url": "https://en.wikipedia.org/wiki/Couple_(mechanics)"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why is turning a key a couple, not a single force?",
+              "a": "Your thumb and finger push **equally**, in **opposite directions**, on **two sides** of the key. That is two equal, opposite, parallel forces."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/couple.png",
+              "caption": "Two equal, opposite forces on a steering wheel, 0.4 m apart"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "moment-couple",
+          "label": "Moment of a couple",
+          "type": "core",
+          "desc": "**Moment of a couple = one force × the perpendicular distance between the two forces.** That distance is called the **couple arm**.\n\n**Worked example:** a steering wheel is 0.4 m across. Each hand pushes with 15 N.\n\nMoment = F × d = 15 × 0.4\n\nMoment = **6 N m**\n\nCheck with the centre as pivot: 15 × 0.2 + 15 × 0.2 = 3 + 3 = 6 N m. Same answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: you turn a tap with two fingers 4 cm apart, each pushing with 5 N. Find the moment of the couple.",
+              "a": "4 cm = 0.04 m. Moment = 5 × 0.04 = **0.2 N m**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "couple-balance",
+          "label": "Balancing a couple",
+          "type": "core",
+          "desc": "A couple **cannot** be balanced by one single force. One force would always move the body along.\n\n**A couple can only be balanced by an equal and opposite couple.**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a wheel is turned by a couple of 6 N m, clockwise. What stops it turning?",
+              "a": "An equal couple of **6 N m, anticlockwise**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "balance",
+      "label": "Balance: equilibrium and the principle of moments",
+      "desc": "**Goal:** solve any balancing question. This is the most important milestone for marks. Exercise 1(A) numericals use it.",
+      "links": [],
+      "children": [
+        {
+          "id": "equilibrium",
+          "label": "Static and dynamic equilibrium",
+          "type": "core",
+          "desc": "A body is in **equilibrium** when the forces on it cause **no change** in its rest or motion.\n\n- **Static equilibrium:** it stays **at rest**. A book on a table. A balanced see-saw.\n- **Dynamic equilibrium:** it keeps **moving steadily**. A raindrop falling at a steady speed. A fan turning at a steady speed.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: static or dynamic? (a) a picture hanging on a wall, (b) a car at a steady 40 km/h on a straight road.",
+              "a": "(a) **static**: at rest. (b) **dynamic**: moving, but steadily."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "two-conditions",
+          "label": "Two conditions for equilibrium",
+          "type": "core",
+          "desc": "1. **The resultant force is zero.** Then the body does not start moving along.\n\n2. **The sum of the moments is zero.** Then the body does not start turning.\n\nBoth must be true. A couple has zero resultant force, but it still turns, because condition 2 fails.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a ruler has a couple acting on it. Is it in equilibrium?",
+              "a": "**No.** The forces add to zero, but the **moments do not**, so it turns."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "principle",
+          "label": "The principle of moments",
+          "type": "core",
+          "desc": "For a body in equilibrium:\n\n**Sum of anticlockwise moments = sum of clockwise moments.**\n\n**Worked example:** a 25 kg child sits 2 m from the middle of a see-saw.\n\nAnticlockwise: 25 × 2 = 50 kgf m\n\nA 50 kg adult balances it at d where 50 × d = 50, so d = **1 m**.",
+          "links": [
+            {
+              "label": "PhET simulation: Balancing Act (free)",
+              "url": "https://phet.colorado.edu/en/simulations/balancing-act"
+            },
+            {
+              "label": "Wikipedia: lever",
+              "url": "https://en.wikipedia.org/wiki/Lever"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: on one side, a 20 kg child sits at 1.5 m and a 30 kg child at 2 m. Where must a 60 kg man sit to balance them?",
+              "a": "Their moments: 20 × 1.5 + 30 × 2 = 30 + 60 = 90 kgf m. The man: 60 × d = 90, so d = **1.5 m**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/see-saw.png",
+              "caption": "Heavier means closer to the pivot: 25 × 2 = 50 × 1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "method",
+          "label": "A method for every balance question",
+          "type": "core",
+          "desc": "1. Draw the rule. Mark the **pivot**.\n2. Write each force and its **distance from the pivot** (not from the end!).\n3. Sort them: anticlockwise or clockwise.\n4. Write **anticlockwise = clockwise** and solve.\n\n**Worked example:** a metre rule is pivoted at the 50 cm mark. A 30 gf weight hangs at the 20 cm mark. Where must a 45 gf weight hang to balance it?\n\nDistance of 30 gf: 50 − 20 = 30 cm\n\nAnticlockwise: 30 × 30 = 900 gf cm\n\nClockwise: 45 × d = 900, so d = 20 cm\n\nAnswer: 50 + 20 = the **70 cm mark**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: same rule, pivot at 50 cm. 40 gf hangs at the 10 cm mark. Where must 80 gf hang?",
+              "a": "40 × 40 = 1600 gf cm. 80 × d = 1600, so d = 20 cm. Answer: the **70 cm mark**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "rule-weight",
+          "label": "Using the weight of the rule",
+          "type": "core",
+          "desc": "A uniform metre rule has its own weight. It acts at the **50 cm mark**, its centre.\n\n**Worked example:** a rule balances on a knife edge at 55 cm when 20 g hangs at the 100 cm mark. Find the mass of the rule.\n\nRule's weight M acts at 50 cm: distance 55 − 50 = 5 cm\n\n20 g acts at 100 cm: distance 100 − 55 = 45 cm\n\nM × 5 = 20 × 45 = 900\n\nM = **180 g**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a rule balances at the 40 cm mark when 30 g hangs at the 0 cm mark. Find the mass of the rule.",
+              "a": "30 g is 40 cm from the pivot. The rule's weight is 10 cm away (at 50). M × 10 = 30 × 40 = 1200, so M = **120 g**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/metre-rule.png",
+              "caption": "The rule's own weight acts at 50 cm, on the other side of the knife edge"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "experiment",
+          "label": "The experiment, and the beam balance",
+          "type": "core",
+          "desc": "**Verifying the principle of moments:**\n\n- Balance a metre rule on a knife edge at its centre.\n- Hang a weight on each side. Slide them until the rule is **horizontal**.\n- Measure each distance **from the knife edge**.\n- Repeat with different weights. Each time, **weight × distance** is equal on both sides.\n\nSample readings: 50 gf at 30 cm and 75 gf at 20 cm give 1500 = 1500. 40 gf at 25 cm and 100 gf at 10 cm give 1000 = 1000.\n\n**The beam balance** works on this principle. Its two arms are **equal**, so it balances only when the two weights are **equal**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: one reading is 60 gf at 35 cm on the left. On the right, 70 gf balances it. How far from the knife edge is it?",
+              "a": "70 × d = 60 × 35 = 2100, so d = **30 cm**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "centre-gravity",
+      "label": "Centre of gravity",
+      "desc": "**Goal:** know where a body's weight acts, and how to find it. Exercise 1(B) covers this.",
+      "links": [],
+      "children": [
+        {
+          "id": "what-cg",
+          "label": "What is the centre of gravity",
+          "type": "core",
+          "desc": "The **centre of gravity** (CG) is the point where the **whole weight** of a body seems to act.\n\n- A body **balances** if you support it exactly at its CG.\n- That is why a metre rule balances on your finger at the 50 cm mark.",
+          "links": [
+            {
+              "label": "Wikipedia: centre of mass",
+              "url": "https://en.wikipedia.org/wiki/Centre_of_mass"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why can a plate balance on one finger?",
+              "a": "Your finger is under the plate's **centre of gravity**, so its whole weight acts straight down onto your finger."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "regular-cg",
+          "label": "Where it is for regular shapes",
+          "type": "core",
+          "desc": "For a uniform body of regular shape:\n\n- **Rod:** its middle.\n- **Circular disc, ring, sphere:** the centre.\n- **Cylinder:** the middle of its axis.\n- **Square, rectangle, parallelogram:** where the **diagonals** cross.\n- **Triangular lamina:** where the **medians** cross.\n- **Solid cone:** on its axis, **h/4** from the base.\n- **Hollow cone:** on its axis, **h/3** from the base.\n\n**Worked example:** a cone is 12 cm tall. Solid: 12 ÷ 4 = **3 cm** from the base. Hollow: 12 ÷ 3 = **4 cm** from the base.",
+          "links": [
+            {
+              "label": "Math is Fun: centres of a triangle",
+              "url": "https://www.mathsisfun.com/geometry/triangle-centers.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a hollow cone is 15 cm tall. Where is its centre of gravity?",
+              "a": "On its axis, 15 ÷ 3 = **5 cm** from the base."
+            },
+            {
+              "q": "Your turn: a solid cone is 20 cm tall. Where is its centre of gravity?",
+              "a": "On its axis, 20 ÷ 4 = **5 cm** from the base."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "cg-outside",
+          "label": "It can be outside the body",
+          "type": "core",
+          "desc": "The CG does **not** have to be on the material.\n\n- A **ring**: the CG is at the centre, where there is no material.\n- A **hollow sphere** and a **bangle**: the same.\n- An **L-shaped** piece: the CG is in the corner gap.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: give a reason. The centre of gravity of a ring is not on the ring.",
+              "a": "The ring's weight is spread **evenly around** the centre, so the whole weight seems to act at the **centre**, where there is no material."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "cg-shape",
+          "label": "It depends on shape",
+          "type": "core",
+          "desc": "The CG depends on the **shape** of the body, that is, on how its mass is spread out.\n\n- Bend a straight wire into a **U**: its CG moves off the wire.\n- It does **not** change if you just move or turn the body.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a straight wire is bent into a circle. Where is its CG now?",
+              "a": "At the **centre** of the circle, not on the wire."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "plumb-line",
+          "label": "Finding it: the plumb line method",
+          "type": "core",
+          "desc": "For an **irregular** flat card (lamina):\n\n1. Make **three small holes** near the edge.\n2. Hang the card from a pin through one hole, so it swings freely.\n3. Hang a **plumb line** (a thread with a weight) from the same pin. Draw along it.\n4. Repeat for the other two holes.\n\nThe lines **cross at one point**. That point is the **CG**. The third line is a check.",
+          "links": [
+            {
+              "label": "Wikipedia: plumb bob",
+              "url": "https://en.wikipedia.org/wiki/Plumb_bob"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why does the plumb line pass through the CG?",
+              "a": "A freely hanging body comes to rest with its **CG straight below the pin**, so the vertical line from the pin goes **through the CG**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/cg-plumb.png",
+              "caption": "Three plumb lines from three holes meet at G"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "circular",
+      "label": "Uniform circular motion",
+      "desc": "**Goal:** explain why moving in a circle needs a force. Exercise 1(C) covers this.",
+      "links": [],
+      "children": [
+        {
+          "id": "changing-velocity",
+          "label": "Same speed, changing velocity",
+          "type": "core",
+          "desc": "**Uniform circular motion** means moving in a circle at **constant speed**.\n\n- At each point, the velocity is along the **tangent** to the circle.\n- The **direction keeps changing**, so the **velocity keeps changing**.\n- Changing velocity means **acceleration**. So uniform circular motion is **accelerated** motion.",
+          "links": [
+            {
+              "label": "Physics Classroom: speed and velocity in a circle",
+              "url": "https://www.physicsclassroom.com/class/circles/Lesson-1/Speed-and-Velocity"
+            },
+            {
+              "label": "Physics Classroom: acceleration in a circle",
+              "url": "https://www.physicsclassroom.com/class/circles/Lesson-1/Acceleration"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: you whirl a stone on a string, then let go. Which way does it fly?",
+              "a": "Along the **tangent**: the direction it was moving at that instant. It does not fly straight outwards."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/circular-motion.png",
+              "caption": "Velocity along the tangent, force towards the centre, at every point"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "centripetal",
+          "label": "A force towards the centre",
+          "type": "core",
+          "desc": "To keep changing direction, a body needs a force **towards the centre**. This is the **centripetal force**.\n\n- **Stone on a string:** the tension in the string.\n- **Moon round the Earth:** the Earth's gravity.\n- **Planets round the Sun:** the Sun's gravity.\n- **Electron round the nucleus:** electric attraction.\n- **Car on a curve:** friction between tyres and road.\n\nThe force is at right angles to the motion, so it **bends the path** without changing the speed.",
+          "links": [
+            {
+              "label": "Physics Classroom: the centripetal force requirement",
+              "url": "https://www.physicsclassroom.com/class/circles/Lesson-1/The-Centripetal-Force-Requirement"
+            },
+            {
+              "label": "Wikipedia: circular motion",
+              "url": "https://en.wikipedia.org/wiki/Circular_motion"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what provides the centripetal force for a satellite going round the Earth?",
+              "a": "The **Earth's gravitational pull** on the satellite."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "centrifugal",
+          "label": "Centrifugal force is not a real force",
+          "type": "core",
+          "desc": "On a merry-go-round you **feel** pushed outwards. People call this the **centrifugal force**.\n\n- It is **fictitious**. Nothing is pushing you out.\n- Your body tends to keep going **straight**, while the seat pulls you round.\n- It is **not** the reaction to the centripetal force. A reaction acts on a different body.",
+          "links": [
+            {
+              "label": "Physics Classroom: the 'forbidden F-word' (centrifugal)",
+              "url": "https://www.physicsclassroom.com/class/circles/Lesson-1/The-Forbidden-F-Word"
+            },
+            {
+              "label": "Wikipedia: centrifugal force",
+              "url": "https://en.wikipedia.org/wiki/Centrifugal_force"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: give a reason. A rider on a merry-go-round feels thrown outwards.",
+              "a": "The body tends to move **in a straight line** (along the tangent). The seat keeps pulling it **towards the centre**, so it **feels** pushed out. No outward force really acts."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "linear-circular",
+          "label": "Linear and circular, side by side",
+          "type": "core",
+          "desc": "**Uniform linear motion:**\n- moves in a straight line\n- speed **and** velocity stay constant\n- no acceleration, so **no force** is needed\n\n**Uniform circular motion:**\n- moves in a circle\n- speed stays constant, **velocity changes**\n- it is accelerated, so a **centripetal force** is needed",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: is a body in uniform circular motion in equilibrium?",
+              "a": "**No.** Its velocity is changing, so a resultant force (the centripetal force) acts on it."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "exam-toolkit",
+      "label": "Exam toolkit: words, units and reasons",
+      "desc": "**Goal:** collect the marks that come from learning. Definitions, units and 'give reasons' answers are easy marks if you know them exactly.",
+      "links": [],
+      "children": [
+        {
+          "id": "definitions",
+          "label": "Definitions to learn word for word",
+          "type": "core",
+          "desc": "- **Moment of a force:** the turning effect of a force about a point. It equals force × perpendicular distance of the point from the line of the force.\n- **Couple:** two equal and opposite parallel forces, not acting along the same line.\n- **Equilibrium:** a body is in equilibrium when the forces on it produce no change in its state of rest or motion.\n- **Principle of moments:** for a body in equilibrium, the sum of anticlockwise moments about the pivot equals the sum of clockwise moments.\n- **Centre of gravity:** the point through which the whole weight of the body acts.\n- **Uniform circular motion:** motion in a circle at constant speed.\n- **Centripetal force:** the force on a body in circular motion, directed towards the centre.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: cover the list. Write the principle of moments from memory.",
+              "a": "For a body in equilibrium, **sum of anticlockwise moments = sum of clockwise moments** about the pivot."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "units-sheet",
+          "label": "Units and conversions in one place",
+          "type": "core",
+          "desc": "- Moment of force and of couple: **N m** (SI), **dyne cm** (CGS), **kgf m**, **gf cm**\n- 1 N m = **10⁷ dyne cm**\n- 1 kgf m = **9.8 N m**\n- 1 gf cm = **980 dyne cm**\n- 1 kgf = **9.8 N**, 1 gf = **980 dyne**\n\nWrite N m, not J, for a moment. A moment is **not** work.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: change 900 gf cm into dyne cm.",
+              "a": "900 × 980 = **882 000 dyne cm**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "numerical-method",
+          "label": "Numericals: four lines every time",
+          "type": "core",
+          "desc": "Examiners give marks for each line. Write all four:\n\n1. **Given:** the numbers, changed to the same units.\n2. **Formula:** in words or symbols.\n3. **Substitute:** put the numbers in.\n4. **Answer:** with its **unit**.\n\n**Worked example:** a couple of forces 20 N each acts on a wheel of radius 15 cm. Find its moment.\n\nGiven: F = 20 N, couple arm d = 2 × 15 cm = 0.3 m\n\nFormula: moment of couple = F × d\n\nSubstitute: 20 × 0.3\n\nAnswer: **6 N m**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why is the couple arm 30 cm, not 15 cm, in the example?",
+              "a": "The two forces act at **opposite ends of a diameter**. The distance between them is the diameter: 2 × 15 = **30 cm**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "give-reasons",
+          "label": "Give reasons: model answers",
+          "type": "core",
+          "desc": "Many questions ask *give a reason*. Use the chapter's idea in one or two sentences. Try these before opening the answers.",
+          "links": [],
+          "faq": [
+            {
+              "q": "A spanner with a long handle is used to open a tight nut.",
+              "a": "A long handle gives a **large perpendicular distance**, so a **small force** produces the large moment needed."
+            },
+            {
+              "q": "A steering wheel has a large diameter.",
+              "a": "A large diameter gives a **large couple arm**, so a **small force** from each hand gives a large moment."
+            },
+            {
+              "q": "A ring balances at a point that is not on the ring.",
+              "a": "Its **centre of gravity is at its centre**, where there is no material."
+            },
+            {
+              "q": "A body in uniform circular motion is accelerated.",
+              "a": "Its **direction keeps changing**, so its **velocity changes**, even though its speed is constant."
+            },
+            {
+              "q": "Centrifugal force is called fictitious.",
+              "a": "**No real body exerts it.** It is only the feeling caused by the body's tendency to move in a straight line."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "diagrams-practise",
+          "label": "Diagrams to practise",
+          "type": "optional",
+          "desc": "Practise drawing these. Label every force, distance and the pivot.\n\n- A metre rule on a knife edge with weights on both sides.\n- A couple acting on a steering wheel.\n- The plumb line method on an irregular card.\n- A body in a circle: velocity along the tangent, force towards the centre.\n- The CG of a triangle (medians) and a rectangle (diagonals).",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These are like the harder questions at the end of the chapter. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "hinged-rule",
+          "label": "A rule hinged at one end",
+          "type": "optional",
+          "desc": "A uniform rule 100 cm long weighs 10 kgf. It is **hinged at the 0 cm end** and kept horizontal by an upward force F at the 100 cm end. A 30 kgf weight hangs at the 60 cm mark.\n\nTake moments about the hinge:\n\nF × 100 = 30 × 60 + 10 × 50\n\nF × 100 = 1800 + 500 = 2300\n\nF = **23 kgf**\n\nDo not forget the rule's own weight at its middle.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why is the hinge a good point to take moments about?",
+              "a": "The hinge force passes **through** it, so its moment is zero. It drops out of the equation."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "two-supports",
+          "label": "A bar on two supports",
+          "type": "optional",
+          "desc": "A light bar 2 m long rests on supports at its two ends. A load of 60 kgf sits 0.5 m from the left end. Find the push of each support.\n\nMoments about the left end: R₂ × 2 = 60 × 0.5 = 30, so R₂ = **15 kgf**\n\nForces up = forces down: R₁ + 15 = 60, so R₁ = **45 kgf**\n\nThe nearer support takes **more** of the load.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which condition of equilibrium did each line use?",
+              "a": "The first line used the **sum of moments is zero**. The second used the **resultant force is zero**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "net-moment",
+          "label": "Which way does it turn?",
+          "type": "optional",
+          "desc": "A metre rule is pivoted at 50 cm. 40 gf hangs at the 10 cm mark and 30 gf at the 80 cm mark.\n\nAnticlockwise: 40 × 40 = 1600 gf cm\n\nClockwise: 30 × 30 = 900 gf cm\n\nResultant: 1600 − 900 = **700 gf cm, anticlockwise**. The rule turns anticlockwise.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what extra weight at the 100 cm mark would balance it?",
+              "a": "It must give 700 gf cm at 50 cm from the pivot: 700 ÷ 50 = **14 gf**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "unit-trap",
+          "label": "The unit trap",
+          "type": "optional",
+          "desc": "Answers in gf cm sometimes have to be given in SI units.\n\n**Worked example:** 900 gf cm\n\n= 900 × 980 dyne cm = 882 000 dyne cm\n\n= 882 000 ÷ 10⁷ N m = **0.0882 N m**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: change 2 N m into gf cm. (Use 1 gf cm = 980 dyne cm.)",
+              "a": "2 N m = 2 × 10⁷ dyne cm. Divide by 980: about **20 408 gf cm**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThis chapter carries a lot of marks for little calculation. A struggling student can score well by mastering the balance method, the definitions and the 'give reasons' answers.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- Start with a **real see-saw**, a ruler on a pencil, or a door. Let them feel that distance matters before any formula.\n- Insist on the **distance from the pivot**, not from the end of the rule. This is the most common lost mark.\n- Make them **write units at every line**, and change cm to m first.\n- Use the four-line method (Given, Formula, Substitute, Answer) for every numerical, even easy ones.\n- Learn **one definition a day** aloud, then write it from memory.\n- For circular motion, swing a bucket or a ball on a string, then let go safely outdoors to show the tangent.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 10-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** translational and rotational motion. Activity: push a ruler on a desk at its centre, then at its end.\n- **Period 2:** moment of a force. Activity: open the classroom door with one finger at the handle, then near the hinge.\n- **Period 3:** units and conversions, slanted forces. Exercise 1(A) short questions.\n- **Period 4:** couple and its moment. Activity: list couples in the classroom and at home.\n- **Period 5:** equilibrium and its two conditions. The principle of moments with a ruler on a pencil and coins.\n- **Period 6:** the metre rule experiment in the lab. Students record three sets of readings.\n- **Period 7:** balance numericals, including the rule's own weight. Exercise 1(A) numericals.\n- **Period 8:** centre of gravity, regular shapes, plumb line method with card cut-outs. Exercise 1(B).\n- **Period 9:** uniform circular motion, centripetal and centrifugal. Exercise 1(C).\n- **Period 10:** the exam toolkit: definitions test, give-reasons practice, exit ticket.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Measuring distance from the **end of the rule** instead of the pivot.\n- Mixing **cm and m** in one calculation.\n- Forgetting the **rule's own weight** at the 50 cm mark.\n- Using the **length of the bar** instead of the perpendicular distance for a slanted force.\n- Calling **centrifugal** force the reaction to centripetal force.\n- Thinking uniform circular motion has **no acceleration** because the speed is constant.\n- Writing **J** for moment instead of N m.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. A force of 50 N acts 20 cm from a pivot. Find the moment.",
+              "a": "50 × 0.2 = **10 N m**."
+            },
+            {
+              "q": "2. State the principle of moments.",
+              "a": "For a body in equilibrium, **sum of anticlockwise moments = sum of clockwise moments**."
+            },
+            {
+              "q": "3. A 40 kg child sits 1.5 m from the pivot of a see-saw. Where must a 60 kg child sit to balance?",
+              "a": "60 × d = 40 × 1.5 = 60, so d = **1 m**."
+            },
+            {
+              "q": "4. Where is the centre of gravity of a solid cone 8 cm tall?",
+              "a": "On its axis, 8 ÷ 4 = **2 cm** from the base."
+            },
+            {
+              "q": "5. Why does a body moving in a circle at constant speed need a force?",
+              "a": "Its **direction**, and so its **velocity**, keeps changing. A change of velocity needs a force, the **centripetal force**, towards the centre."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}
