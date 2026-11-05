@@ -13,6 +13,8 @@ export interface LNode {
   toggle: { open: boolean; count: number } | null
   label: string
   ref: RNode
+  /** 1-based reading order of a milestone's direct step (depth 1 only). */
+  num?: number
 }
 export interface LEdge { d: string; dashed: boolean }
 export interface Layout {
@@ -90,6 +92,7 @@ export function layout(data: RoadmapDoc, expandedFn?: (n: RNode) => boolean): La
   const W = Math.round(half * 2), spineX = half
 
   const nodes: LNode[] = [], edges: LEdge[] = []
+  const numOf = new Map<RNode, number>()
   let y = 24
 
   const buildBlock = (k: RNode, d: number): Block => {
@@ -108,7 +111,7 @@ export function layout(data: RoadmapDoc, expandedFn?: (n: RNode) => boolean): La
     nodes.push({
       id: b.k.id, kind: 'child', type: b.k.type || 'core', x, y: cy2 - b.kh / 2, w, h: b.kh,
       cx: x + w / 2, cy: cy2, side: isLeft ? 'left' : 'right', toggle: b.toggle,
-      label: b.k.label || 'Untitled', ref: b.k,
+      label: b.k.label || 'Untitled', ref: b.k, num: b.d === 1 ? numOf.get(b.k) : undefined,
     })
     edges.push({ d: bez(parentEdgeX, parentCy, isLeft ? x + w : x, cy2), dashed: b.k.type === 'optional' })
     let gy = cy2 - b.kidsTotal / 2
@@ -120,6 +123,7 @@ export function layout(data: RoadmapDoc, expandedFn?: (n: RNode) => boolean): La
     const th = measure(t.label || 'Untitled', topicW, true)
     const left: RNode[] = [], right: RNode[] = []
     ;(t.children || []).forEach((k, i) => {
+      numOf.set(k, i + 1)
       const side = k.side && k.side !== 'auto' ? k.side : (i % 2 === 0 ? 'right' : 'left')
       ;(side === 'left' ? left : right).push(k)
     })

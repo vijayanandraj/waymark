@@ -86,3 +86,13 @@
 .rm-l-tag{font:10px ui-monospace,Menlo,Consolas,monospace;color:#41525f;border:1px solid #d7d4cb;border-radius:3px;padding:1px 5px}
 .rm-l-done .rm-l-btn{color:#41525f;text-decoration:line-through}
 @media (prefers-reduced-motion:reduce){.rm-node{transition:none}}
+
+/* Reading order: step number on the map, Previous / Next in the drawer. */
+.rm-num{position:absolute;top:-9px;left:-9px;min-width:20px;height:20px;padding:0 5px;border-radius:10px;background:#e8a13d;color:#16232e;font:700 11px/20px ui-monospace,Menlo,Consolas,monospace;text-align:center;box-shadow:0 0 0 2px #f7f6f2}
+.rm-t-optional .rm-num{background:#fff;border:1.5px dashed #9aa4ac;line-height:17px;color:#41525f}
+.rm-d-nav{display:flex;justify-content:space-between;gap:8px;margin-top:22px;padding-top:14px;border-top:1px solid #e6e3da}
+.rm-d-nav button{flex:1;max-width:50%;font-family:inherit;font-size:13px;font-weight:600;text-align:left;padding:8px 10px;border:1.5px solid #16232e;border-radius:6px;background:#fff;color:#16232e;cursor:pointer;line-height:1.3}
+.rm-d-nav button small{display:block;font-size:11px;font-weight:400;color:#41525f;letter-spacing:.04em;text-transform:uppercase;margin-bottom:2px}
+.rm-d-nav .rm-d-next{text-align:right;background:#16232e;color:#f7f6f2;margin-left:auto}
+.rm-d-nav .rm-d-next small{color:#c9d1d7}
+.rm-d-nav button:hover{box-shadow:0 2px 8px rgba(22,35,46,.2)}

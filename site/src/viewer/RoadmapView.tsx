@@ -36,6 +36,12 @@ export default function RoadmapView({ doc, mode, progress = {}, onProgress, onSe
   const [flashId, setFlashId] = useState<string | null>(null)
 
   const { byId, parentOf, total } = useMemo(() => indexTree(doc.topics), [doc])
+  const order = useMemo(() => {
+    const ids: string[] = []
+    const walk = (arr: RNode[]) => { for (const n of arr || []) { ids.push(n.id); walk(n.children) } }
+    walk(doc.topics)
+    return ids
+  }, [doc])
 
   useEffect(() => {
     const t = setTimeout(() => setQ(query.trim().toLowerCase()), 160)
@@ -69,6 +75,24 @@ export default function RoadmapView({ doc, mode, progress = {}, onProgress, onSe
     onSelect?.(id)
     if (mode === 'reader') { try { history.replaceState(null, '', '#' + id) } catch { /* ignore */ } }
   }, [byId, onSelect, mode])
+
+  // Expand a node's ancestors, scroll the map to it, flash it and open the drawer.
+  const reveal = useCallback((id: string) => {
+    if (!byId[id]) return
+    setExpanded(prev => {
+      const next = { ...prev }
+      let p = parentOf[id]
+      while (p) { next[p.id] = true; p = parentOf[p.id] }
+      return next
+    })
+    setTimeout(() => {
+      const el = scrollRef.current?.querySelector(`[data-id="${CSS.escape(id)}"]`)
+      el?.scrollIntoView({ block: 'center', behavior: 'smooth' })
+      setFlashId(id)
+      setTimeout(() => setFlashId(null), 1500)
+    }, 50)
+    openNode(id)
+  }, [byId, parentOf, openNode])
 
   // Deep links: #nodeId expands ancestors, scrolls, flashes and opens the drawer.
   useEffect(() => {
@@ -166,7 +190,9 @@ export default function RoadmapView({ doc, mode, progress = {}, onProgress, onSe
       </div>
 
       {drawer?.kind === 'node' && byId[drawer.id] && (
-        <NodeDrawer node={byId[drawer.id]} isTopic={!parentOf[drawer.id]} mode={mode}
+        <NodeDrawer key={drawer.id} node={byId[drawer.id]} isTopic={!parentOf[drawer.id]} mode={mode}
+          prev={byId[order[order.indexOf(drawer.id) - 1]]} next={byId[order[order.indexOf(drawer.id) + 1]]}
+          num={numberOf(drawer.id, parentOf)} onGo={reveal}
           status={progress[drawer.id] || ''} onProgress={onProgress}
           onClose={() => setDrawer(null)} onLightbox={(src, cap) => setLightbox({ src, cap })} />
       )}
@@ -198,7 +224,8 @@ function MapNode({ n, status, hit, dim, onOpen, onToggle }: {
   return (
     <>
       <button type="button" className={cls} data-id={n.id} onClick={onOpen}
-        style={{ left: n.x, top: n.y, width: n.w, height: n.h }}>{n.label}</button>
+        style={{ left: n.x, top: n.y, width: n.w, height: n.h }}>
+        {n.num && <span className="rm-num" aria-hidden="true">{n.num}</span>}{n.label}</button>
       {n.toggle && onToggle && (
         <button type="button" className={'rm-x' + (n.toggle.open ? ' open' : '')} aria-expanded={n.toggle.open}
           title={`${n.toggle.open ? 'Hide' : 'Show'} ${n.toggle.count} item${n.toggle.count > 1 ? 's' : ''} under "${n.label}"`}
@@ -235,9 +262,18 @@ function ListKids({ arr, depth, q, matchSet, subtreeHasMatch, progress, onProgre
   )
 }
 
-function NodeDrawer({ node, isTopic, mode, status, onProgress, onClose, onLightbox }: {
+/** "Step 3 of 7" for a milestone's direct step, otherwise null. */
+function numberOf(id: string, parentOf: Record<string, RNode | null>): { n: number; of: number } | null {
+  const p = parentOf[id]
+  if (!p || parentOf[p.id]) return null
+  const kids = p.children || []
+  return { n: kids.findIndex(k => k.id === id) + 1, of: kids.length }
+}
+
+function NodeDrawer({ node, isTopic, mode, status, onProgress, onClose, onLightbox, prev, next, num, onGo }: {
   node: RNode; isTopic: boolean; mode: 'reader' | 'preview'; status: Status
   onProgress?: (id: string, s: Status) => void; onClose: () => void; onLightbox: (src: string, cap: string) => void
+  prev?: RNode; next?: RNode; num: { n: number; of: number } | null; onGo: (id: string) => void
 }) {
   const ref = useRef<HTMLDivElement>(null)
   // Wire the Copy buttons that mdToHtml emits inside code blocks.
@@ -259,7 +295,7 @@ function NodeDrawer({ node, isTopic, mode, status, onProgress, onClose, onLightb
   return (
     <div className="rm-drawer" ref={ref}>
       <div className="rm-d-top">
-        <span className="rm-d-type">{typeLabel}</span>
+        <span className="rm-d-type">{typeLabel}{num ? ` · Step ${num.n} of ${num.of}` : ''}</span>
         <span className="rm-d-tools">
           {mode === 'reader' && (
             <button type="button" ref={linkBtn} className="rm-linkbtn" title="Copy a direct link to this item"
@@ -311,6 +347,14 @@ function NodeDrawer({ node, isTopic, mode, status, onProgress, onClose, onLightb
             ))}
           </div>
         </>
+      )}
+      {(prev || next) && (
+        <nav className="rm-d-nav" aria-label="Move through the roadmap">
+          {prev
+            ? <button type="button" className="rm-d-prev" onClick={() => onGo(prev.id)}><small>Previous</small>{prev.label || 'Untitled'}</button>
+            : <span />}
+          {next && <button type="button" className="rm-d-next" onClick={() => onGo(next.id)}><small>Next</small>{next.label || 'Untitled'}</button>}
+        </nav>
       )}
     </div>
   )
