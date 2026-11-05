@@ -21,7 +21,6 @@ How it works and why: `docs/adr/0001-git-backed-content-gitless-authoring.md`.
 roadmaps/                    the roadmaps: one folder each (format in roadmaps/README.md)
 site/                        static site, built by GitHub Actions and served from GitHub Pages
 tools/roadmap-builder.html   offline single-file builder; also exports an embeddable HTML page
-selfhost/                    self-hosted server for a private school or company instance
 docs/adr/                    design decisions
 ```
 

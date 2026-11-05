@@ -66,7 +66,6 @@ site/                   static site: React 19 + TypeScript + Vite
   src/viewer/           the roadmap map/checklist view
   src/write/            the editor: drafts in IndexedDB, checks, package export and import
 tools/                  the offline single-file builder
-selfhost/               the self-hosted server for private instances
 docs/adr/               decisions and why they were made
 ```
 
@@ -81,20 +80,12 @@ npm run test:import                        # builds, then imports packages in a 
 - The site is static. Anything that needs a server belongs in the submission
   service (ADR 0001), not the site.
 - The document format is a contract with existing roadmaps, the offline builder
-  and `selfhost/`. Additive changes only; never rename or repurpose a field.
+  and the self-hosted server. Additive changes only; never rename or repurpose a field.
   Rules go in `site/src/lib/rules.mjs` and `roadmaps/README.md` together.
 - Security: every authored string is rendered through `esc()` or React; link
   hrefs are checked for scheme; images come only from the roadmap's own
   `images/` folder or an https URL. Keep those invariants.
 - No analytics or tracking scripts. Learners include children.
-
-### The self-hosted server
-
-`selfhost/` is a separate product (Go 1.24, standard library only). See
-`selfhost/README.md`. Behaviour changes need a line in
-`selfhost/scripts/smoke.sh` (API) or `selfhost/scripts/ui-smoke.mjs` (UI); to
-add a SQL store, implement `store.Store` in
-`selfhost/server/internal/store/sqlite.go` (modernc.org/sqlite is cgo-free).
 
 ### Pull requests
 

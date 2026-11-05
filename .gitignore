@@ -1,9 +1,4 @@
 data/
-selfhost/server/bin/
-selfhost/server/webdist/dist/*
-!selfhost/server/webdist/dist/.keep
-selfhost/web/node_modules/
-selfhost/web/dist/
 *.tmp
 .DS_Store
 

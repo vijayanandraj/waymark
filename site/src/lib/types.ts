@@ -1,5 +1,5 @@
 // The roadmap document format (roadmaps/<slug>/roadmap.json), shared with the
-// offline builder and selfhost/. Additive changes only.
+// offline builder and the self-hosted server. Additive changes only.
 
 export type NodeType = 'core' | 'alt' | 'optional'
 export type Side = 'auto' | 'left' | 'right'
