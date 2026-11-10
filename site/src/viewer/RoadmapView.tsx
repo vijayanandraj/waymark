@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
-import type { Progress, RNode, RoadmapDoc, Status } from '../lib/types'
-import { indexTree, layout, type LNode } from '../lib/layout'
+import type { Progress, QuizItem, RNode, RoadmapDoc, Status } from '../lib/types'
+import { indexTree, layout, MILESTONE_COLOURS, type LNode } from '../lib/layout'
 import { copyText, esc, mdToHtml } from '../lib/md'
 import './viewer.css'
 
@@ -162,7 +162,7 @@ export default function RoadmapView({ doc, mode, progress = {}, onProgress, onSe
             <div className="rm-svg">
               <svg width={lay.W} height={lay.H} xmlns="http://www.w3.org/2000/svg">
                 {lay.spine && <line x1={lay.spine.x} y1={lay.spine.y1} x2={lay.spine.x} y2={lay.spine.y2} className="rm-spine" />}
-                {lay.edges.map((e, i) => <path key={i} d={e.d} className={'rm-edge' + (e.dashed ? ' rm-edge-dash' : '')} />)}
+                {lay.edges.map((e, i) => <path key={i} d={e.d} className={`rm-edge rm-ec${e.ci}` + (e.dashed ? ' rm-edge-dash' : '')} />)}
               </svg>
             </div>
             {lay.nodes.map(n => (
@@ -177,7 +177,7 @@ export default function RoadmapView({ doc, mode, progress = {}, onProgress, onSe
           <div className="rm-list">
             {doc.topics.map((t, i) => (q && !matchSet[t.id] && !subtreeHasMatch(t)) ? null : (
               <div key={t.id}>
-                <div className="rm-l-topic">
+                <div className={`rm-l-topic rm-c${i % MILESTONE_COLOURS}`}>
                   <span className="num">{i + 1}</span>
                   <button type="button" className="rm-l-btn rm-l-tbtn" onClick={() => openNode(t.id)}>{t.label || 'Untitled'}</button>
                 </div>
@@ -190,7 +190,7 @@ export default function RoadmapView({ doc, mode, progress = {}, onProgress, onSe
       </div>
 
       {drawer?.kind === 'node' && byId[drawer.id] && (
-        <NodeDrawer key={drawer.id} node={byId[drawer.id]} isTopic={!parentOf[drawer.id]} mode={mode}
+        <NodeDrawer key={drawer.id} ci={colourOf(drawer.id, parentOf, doc.topics)} node={byId[drawer.id]} isTopic={!parentOf[drawer.id]} mode={mode}
           prev={byId[order[order.indexOf(drawer.id) - 1]]} next={byId[order[order.indexOf(drawer.id) + 1]]}
           num={numberOf(drawer.id, parentOf)} onGo={reveal}
           status={progress[drawer.id] || ''} onProgress={onProgress}
@@ -219,7 +219,7 @@ export default function RoadmapView({ doc, mode, progress = {}, onProgress, onSe
 function MapNode({ n, status, hit, dim, onOpen, onToggle }: {
   n: LNode; status?: Status; q: string; hit: boolean; dim: boolean; onOpen: () => void; onToggle?: () => void
 }) {
-  const cls = ['rm-node', n.kind === 'topic' ? 'rm-topic' : `rm-child rm-t-${n.type}`,
+  const cls = ['rm-node', `rm-c${n.ci}`, n.kind === 'topic' ? 'rm-topic' : `rm-child rm-t-${n.type}`,
     status === 'done' ? 'rm-done' : '', status === 'prog' ? 'rm-prog' : '', hit ? 'rm-hit' : '', dim ? 'rm-dim' : ''].filter(Boolean).join(' ')
   return (
     <>
@@ -262,6 +262,13 @@ function ListKids({ arr, depth, q, matchSet, subtreeHasMatch, progress, onProgre
   )
 }
 
+/** Colour slot of the milestone a node belongs to. */
+function colourOf(id: string, parentOf: Record<string, RNode | null>, topics: RNode[]): number {
+  let top = id
+  while (parentOf[top]) top = parentOf[top]!.id
+  return Math.max(0, topics.findIndex(t => t.id === top)) % MILESTONE_COLOURS
+}
+
 /** "Step 3 of 7" for a milestone's direct step, otherwise null. */
 function numberOf(id: string, parentOf: Record<string, RNode | null>): { n: number; of: number } | null {
   const p = parentOf[id]
@@ -270,10 +277,10 @@ function numberOf(id: string, parentOf: Record<string, RNode | null>): { n: numb
   return { n: kids.findIndex(k => k.id === id) + 1, of: kids.length }
 }
 
-function NodeDrawer({ node, isTopic, mode, status, onProgress, onClose, onLightbox, prev, next, num, onGo }: {
+function NodeDrawer({ ci, node, isTopic, mode, status, onProgress, onClose, onLightbox, prev, next, num, onGo }: {
   node: RNode; isTopic: boolean; mode: 'reader' | 'preview'; status: Status
   onProgress?: (id: string, s: Status) => void; onClose: () => void; onLightbox: (src: string, cap: string) => void
-  prev?: RNode; next?: RNode; num: { n: number; of: number } | null; onGo: (id: string) => void
+  prev?: RNode; next?: RNode; num: { n: number; of: number } | null; onGo: (id: string) => void; ci: number
 }) {
   const ref = useRef<HTMLDivElement>(null)
   // Wire the Copy buttons that mdToHtml emits inside code blocks.
@@ -293,7 +300,7 @@ function NodeDrawer({ node, isTopic, mode, status, onProgress, onClose, onLightb
   const typeLabel = isTopic ? 'Milestone' : TYPE_LABEL[node.type || 'core'] || 'Core'
   const linkBtn = useRef<HTMLButtonElement>(null)
   return (
-    <div className="rm-drawer" ref={ref}>
+    <div className={`rm-drawer rm-c${ci}`} ref={ref}>
       <div className="rm-d-top">
         <span className="rm-d-type">{typeLabel}{num ? ` · Step ${num.n} of ${num.of}` : ''}</span>
         <span className="rm-d-tools">
@@ -328,6 +335,7 @@ function NodeDrawer({ node, isTopic, mode, status, onProgress, onClose, onLightb
           ))}
         </>
       )}
+      {(node.quiz || []).length > 0 && <Quiz items={node.quiz!} />}
       {(node.links || []).length > 0 && (
         <>
           <h3>Resources</h3>
@@ -357,5 +365,53 @@ function NodeDrawer({ node, isTopic, mode, status, onProgress, onClose, onLightb
         </nav>
       )}
     </div>
+  )
+}
+
+const LETTERS = 'ABCDE'
+
+/** Click an option: it says right or not quite, shows the right one, and why. */
+function Quiz({ items }: { items: QuizItem[] }) {
+  const [picked, setPicked] = useState<(number | null)[]>(() => items.map(() => null))
+  const answered = picked.filter(p => p !== null).length
+  const right = picked.filter((p, i) => p === items[i].answer).length
+  const reset = (i?: number) => setPicked(ps => ps.map((p, j) => (i === undefined || i === j ? null : p)))
+  return (
+    <section className="rm-quiz" aria-label="Test yourself">
+      <h3>Test yourself <span className="rm-qz-score" aria-live="polite">{answered ? `${right} of ${answered} right` : `${items.length} question${items.length > 1 ? 's' : ''}`}</span></h3>
+      {items.map((it, i) => {
+        const p = picked[i]
+        return (
+          <div className="rm-qz" key={i}>
+            <div className="rm-qz-q"><span className="rm-qz-n">{i + 1}</span><span dangerouslySetInnerHTML={{ __html: mdToHtml(it.q) }} /></div>
+            <div className="rm-qz-opts" role="group" aria-label={`Question ${i + 1}`}>
+              {it.options.map((o, j) => {
+                const state = p === null ? '' : j === it.answer ? ' ok' : j === p ? ' no' : ' off'
+                return (
+                  <button type="button" key={j} className={'rm-qz-o' + state} disabled={p !== null}
+                    onClick={() => setPicked(ps => ps.map((x, k) => (k === i ? j : x)))}>
+                    <b>{p !== null && j === it.answer ? '✓' : p === j ? '✗' : LETTERS[j]}</b>
+                    <span dangerouslySetInnerHTML={{ __html: mdToHtml(o) }} />
+                  </button>
+                )
+              })}
+            </div>
+            {p !== null && (
+              <div className={'rm-qz-why' + (p === it.answer ? ' ok' : ' no')}>
+                <strong>{p === it.answer ? 'Right!' : `Not quite. The answer is ${LETTERS[it.answer]}.`}</strong>{' '}
+                <span dangerouslySetInnerHTML={{ __html: mdToHtml(it.why) }} />
+                {p !== it.answer && <button type="button" className="rm-qz-again" onClick={() => reset(i)}>Try again</button>}
+              </div>
+            )}
+          </div>
+        )
+      })}
+      {answered === items.length && items.length > 1 && (
+        <div className="rm-qz-end">
+          <span>You got <strong>{right} of {items.length}</strong> right. {right === items.length ? 'Well done!' : 'Read the reasons above, then try again.'}</span>
+          <button type="button" className="rm-qz-again" onClick={() => reset()}>Start again</button>
+        </div>
+      )}
+    </section>
   )
 }

@@ -1,8 +1,12 @@
 {
   "title": "Class 9 Maths, Chapter 9: Propositions and Converses, Step by Step",
   "subtitle": "For students who find maths hard. One habit holds the chapter together: an 'if ... then' statement only works one way, so turn it round and check again. One counterexample is enough to show a statement is false. Small steps, everyday examples first, practice with answers. Follows NCERT Ganita Manjari, Grade 9 Part II, Chapter 9 (Propositions and their Converses).",
-  "updated": "2026-11-04",
+  "updated": "2026-11-10",
   "changelog": [
+    {
+      "date": "2026-11-10",
+      "text": "Added a quick check (click an answer to check it) at the end of each milestone, and a new Wrap up milestone with a one-page summary and a 10-question self-test."
+    },
     {
       "date": "2026-11-04",
       "text": "Added an 'About this roadmap' step: who it is for, how it differs from the textbook, and licence."
@@ -36,7 +40,7 @@
           "id": "how-to-use",
           "label": "How to use this roadmap",
           "type": "core",
-          "desc": "- Go in order. Each step is small. On the map the steps go left and right, so press **Checklist view** at the top to see them as a list, in order.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Read every statement twice**, slowly. Many mistakes in this chapter are reading mistakes.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: an 'if ... then' statement only works in one direction.** Turn it round, and you must check it all over again. One example that breaks a statement is enough to show it is false.",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Read every statement twice**, slowly. Many mistakes in this chapter are reading mistakes.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: an 'if ... then' statement only works in one direction.** Turn it round, and you must check it all over again. One example that breaks a statement is enough to show it is false.",
           "links": [
             {
               "label": "All chapters in Term 2: start page",
@@ -61,7 +65,7 @@
           "id": "about",
           "label": "About this roadmap",
           "type": "optional",
-          "desc": "**What it is.** A step-by-step path through Chapter 9 of the NCERT textbook *Ganita Manjari*, Grade 9 Part II: *Propositions and their Converses*.\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** An 'if ... then' statement only works in one direction.\n\n**How it is different from the textbook.** It starts with everyday statements, like 'if it rains, the road is wet', before numbers and geometry, and draws 'every X is Y' as one circle inside another so converses can be seen. Counterexample hunting is treated as a game.\n\n**What is inside.**\n- 8 milestones and 27 small steps. The 18 solid steps are the core path. The dashed ones are optional.\n- 25 practice questions with hidden answers, and 4 pictures.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: products of squares, squares versus cubes, and the starred questions.\n- For teachers and parents: a 4-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
+          "desc": "**What it is.** A step-by-step path through Chapter 9 of the NCERT textbook *Ganita Manjari*, Grade 9 Part II: *Propositions and their Converses*.\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** An 'if ... then' statement only works in one direction.\n\n**How it is different from the textbook.** It starts with everyday statements, like 'if it rains, the road is wet', before numbers and geometry, and draws 'every X is Y' as one circle inside another so converses can be seen. Counterexample hunting is treated as a game.\n\n**What is inside.**\n- 9 milestones and 34 small steps. The 25 solid steps are the core path. The dashed ones are optional.\n- 25 practice questions with hidden answers, and 4 pictures.\n- 24 click-to-check questions that say right or wrong, and why: a quick check after each of the 5 main milestones, and a 10-question self-test.\n- A *Wrap up* milestone with a **one-page summary** of the whole chapter.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: products of squares, squares versus cubes, and the starred questions.\n- For teachers and parents: a 4-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
           "links": [
             {
               "label": "The licence: CC BY-SA 4.0",
@@ -172,6 +176,38 @@
             }
           ],
           "children": []
+        },
+        {
+          "id": "qc-propositions",
+          "label": "Quick check: propositions",
+          "type": "core",
+          "desc": "Two questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which one is a proposition?",
+              "options": [
+                "What a lovely day!",
+                "Is it raining?",
+                "Close the door.",
+                "7 is an even number."
+              ],
+              "answer": 3,
+              "why": "A proposition is **either true or false**. '7 is even' is a (false) proposition. Orders, questions and exclamations are not."
+            },
+            {
+              "q": "In 'If a shape is a square, then it has four sides', which part is the condition?",
+              "options": [
+                "if ... then",
+                "it has four sides",
+                "four",
+                "a shape is a square"
+              ],
+              "answer": 3,
+              "why": "The **condition** comes after 'if': **a shape is a square**. The result comes after 'then'."
+            }
+          ],
+          "children": []
         }
       ]
     },
@@ -234,6 +270,49 @@
             }
           ],
           "children": []
+        },
+        {
+          "id": "qc-converses",
+          "label": "Quick check: converses",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "What is the converse of 'If it is a dog, then it has four legs'?",
+              "options": [
+                "If it has four legs, it is not a dog",
+                "If it is not a dog, it does not have four legs",
+                "It is a dog and has four legs",
+                "If it has four legs, then it is a dog"
+              ],
+              "answer": 3,
+              "why": "The converse **swaps the two parts**: 'if Y, then X'."
+            },
+            {
+              "q": "Is the converse 'If it has four legs, then it is a dog' true?",
+              "options": [
+                "No: a cat has four legs too",
+                "Yes, for animals",
+                "Only for big dogs",
+                "Yes, always"
+              ],
+              "answer": 0,
+              "why": "A cat has four legs and is not a dog. **The converse can be false** even when the statement is true."
+            },
+            {
+              "q": "A statement is true. What can you say about its converse?",
+              "options": [
+                "It is false",
+                "It has no meaning",
+                "It might be true or false: check it on its own",
+                "It is true too"
+              ],
+              "answer": 2,
+              "why": "All four things can happen. **Check the converse on its own.** See *All four things can happen*."
+            }
+          ],
+          "children": []
         }
       ]
     },
@@ -289,6 +368,49 @@
             {
               "label": "Math is Fun: prime and composite numbers",
               "url": "https://www.mathsisfun.com/prime-composite-number.html"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-counterexamples",
+          "label": "Quick check: counterexamples",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Claim: every odd number bigger than 1 is prime. Which is a counterexample?",
+              "options": [
+                "7",
+                "3",
+                "9",
+                "11"
+              ],
+              "answer": 2,
+              "why": "9 is odd but 9 = 3 × 3, so it is **not prime**. One counterexample is enough to show the claim is **false**."
+            },
+            {
+              "q": "You check a claim for 1000 numbers and it works every time. Is it proved?",
+              "options": [
+                "No: examples never cover every case",
+                "Yes, if the numbers are big",
+                "Only if you check 10 000",
+                "Yes"
+              ],
+              "answer": 0,
+              "why": "**Many examples still don't prove it.** n² + n + 41 is prime for n = 0 to 39, then fails at n = 40."
+            },
+            {
+              "q": "Where is a good place to look for a counterexample in geometry?",
+              "options": [
+                "Only in big shapes",
+                "In shapes with no angles",
+                "In special shapes, like a square or a right angle",
+                "Never in triangles"
+              ],
+              "answer": 2,
+              "why": "**Try a special shape.** Odd cases often break a claim. See *How to hunt for a counterexample*."
             }
           ],
           "children": []
@@ -348,6 +470,49 @@
             }
           ],
           "children": []
+        },
+        {
+          "id": "qc-reasons",
+          "label": "Quick check: reasons",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "How many factors does 36 have?",
+              "options": [
+                "9",
+                "8",
+                "12",
+                "6"
+              ],
+              "answer": 0,
+              "why": "1, 2, 3, 4, 6, 9, 12, 18, 36: **9 factors**. An odd number, because 6 × 6 pairs with itself."
+            },
+            {
+              "q": "Which numbers have an odd number of factors?",
+              "options": [
+                "Odd numbers",
+                "Prime numbers",
+                "Square numbers",
+                "Even numbers"
+              ],
+              "answer": 2,
+              "why": "Factors come in **pairs**, except when a number is a square: its square root pairs with itself. So **squares**, and only squares."
+            },
+            {
+              "q": "What does 'if and only if' mean?",
+              "options": [
+                "The statement and its converse are both true",
+                "It means 'maybe'",
+                "Only the converse is true",
+                "The statement is false"
+              ],
+              "answer": 0,
+              "why": "'X **if and only if** Y' means if X then Y, **and** if Y then X: both directions."
+            }
+          ],
+          "children": []
         }
       ]
     },
@@ -401,6 +566,185 @@
             {
               "q": "Your turn: 'If a quadrilateral is a square, all its angles are equal.' Is the converse true?",
               "a": "Converse: 'If all the angles are equal, it is a square.' **False**: a rectangle that is not a square has four equal angles."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-geometry",
+          "label": "Quick check: converses in geometry",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Converse of: 'If two sides of a triangle are equal, the angles opposite them are equal.'",
+              "options": [
+                "If two sides are not equal, the angles are not equal",
+                "If the angles are equal, it is equilateral",
+                "All triangles have equal sides",
+                "If two angles are equal, the sides opposite them are equal"
+              ],
+              "answer": 3,
+              "why": "Swap the parts: **if two angles are equal, the sides opposite them are equal**. This converse is **true**."
+            },
+            {
+              "q": "A triangle has sides 6, 8 and 10. Is it right-angled?",
+              "options": [
+                "We need an angle",
+                "Yes: 36 + 64 = 100",
+                "No",
+                "Only if drawn on squared paper"
+              ],
+              "answer": 1,
+              "why": "By the **converse of Pythagoras**: 6² + 8² = 10², so it is right-angled."
+            },
+            {
+              "q": "Is the converse of 'Two copies of the same triangle have the same area' true?",
+              "options": [
+                "Yes",
+                "No: base 6, height 1 and base 3, height 2 both have area 3",
+                "Yes, if the sides are whole numbers",
+                "Only for right triangles"
+              ],
+              "answer": 1,
+              "why": "Same area does **not** mean the same triangle. Two very different triangles can both have area 3."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: summary and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Do this before a class test, and again before the exam.",
+      "links": [],
+      "children": [
+        {
+          "id": "summary",
+          "label": "One-page summary",
+          "type": "core",
+          "desc": "**The one idea:** an 'if ... then' statement only works in one direction.\n\n**Words**\n- **Proposition:** a sentence that is **either true or false**.\n- **If X, then Y:** X is the **condition**, Y is the **result**.\n- **Converse:** swap them: **if Y, then X**.\n\n**The big lesson**\n- A true statement can have a **false** converse. Check each one **on its own**.\n- **If and only if:** both the statement and its converse are true.\n\n**False or true?**\n- To show a statement is **false**: one **counterexample** is enough.\n- To show it is **true**: you need a **reason that covers every case**. Examples are never enough.\n- Hunting for a counterexample: try small numbers, odd ones out, and special shapes.\n\n**Facts to remember**\n- A number has an **odd number of factors if and only if it is a square**.\n- Isosceles converse: **equal angles mean equal opposite sides**. True.\n- Pythagoras converse: if **a² + b² = c²**, the triangle is right-angled. True.\n- Same area does **not** mean the same triangle.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which is NOT a proposition?",
+              "options": [
+                "Delhi is in India",
+                "Every square is a rectangle",
+                "Please sit down.",
+                "2 + 2 = 5"
+              ],
+              "answer": 2,
+              "why": "'Please sit down' is an order. It is **neither true nor false**."
+            },
+            {
+              "q": "Converse of 'If a number ends in 0, it is divisible by 5'?",
+              "options": [
+                "If a number does not end in 0, it is not divisible by 5",
+                "If it ends in 5, it is divisible by 0",
+                "Every number ends in 0",
+                "If a number is divisible by 5, it ends in 0"
+              ],
+              "answer": 3,
+              "why": "Swap the parts: **if divisible by 5, then it ends in 0**."
+            },
+            {
+              "q": "Is 'If a number is divisible by 5, it ends in 0' true?",
+              "options": [
+                "Yes, for even numbers",
+                "No: 15 is divisible by 5 but ends in 5",
+                "Yes",
+                "No: 10 ends in 0"
+              ],
+              "answer": 1,
+              "why": "**15** is a counterexample. The converse is false."
+            },
+            {
+              "q": "How many counterexamples are needed to show a statement is false?",
+              "options": [
+                "Ten",
+                "One",
+                "One for every case",
+                "None"
+              ],
+              "answer": 1,
+              "why": "**One** counterexample is enough."
+            },
+            {
+              "q": "How many factors does 25 have?",
+              "options": [
+                "2",
+                "3",
+                "25",
+                "5"
+              ],
+              "answer": 1,
+              "why": "1, 5, 25: **3**, an odd number, because 25 is a square."
+            },
+            {
+              "q": "12 has 6 factors. Is 12 a square?",
+              "options": [
+                "Yes",
+                "No: an even number of factors means it is not a square",
+                "Yes, 12 = 3 × 4",
+                "We cannot tell"
+              ],
+              "answer": 1,
+              "why": "Only squares have an odd number of factors. 6 is even, so 12 is **not a square**."
+            },
+            {
+              "q": "Sides 5, 6 and 8. Is the triangle right-angled?",
+              "options": [
+                "Yes",
+                "Only if isosceles",
+                "Yes, 5 + 6 > 8",
+                "No: 25 + 36 = 61, not 64"
+              ],
+              "answer": 3,
+              "why": "5² + 6² = 61 but 8² = 64. **Not** right-angled."
+            },
+            {
+              "q": "'n² + n + 41 is prime' works for n = 0, 1, 2, ..., 39. What happens at n = 40?",
+              "options": [
+                "It gives 0",
+                "It gives 41², which is not prime",
+                "It is still prime",
+                "It gives a fraction"
+              ],
+              "answer": 1,
+              "why": "40² + 40 + 41 = 1681 = **41 × 41**. Many examples never prove a statement."
+            },
+            {
+              "q": "Which pair is an 'if and only if'?",
+              "options": [
+                "An animal is a dog; it has a tail",
+                "A shape is a square; it has four sides",
+                "A number is even; it ends in 4",
+                "A triangle has two equal sides; it has two equal angles"
+              ],
+              "answer": 3,
+              "why": "Equal sides give equal angles, **and** equal angles give equal sides. Both directions are true."
+            },
+            {
+              "q": "A triangle has two equal angles of 50°. What else do you know?",
+              "options": [
+                "It is right-angled",
+                "Two of its sides are equal",
+                "Nothing",
+                "All its sides are equal"
+              ],
+              "answer": 1,
+              "why": "By the isosceles converse, **the sides opposite the equal angles are equal**."
             }
           ],
           "children": []

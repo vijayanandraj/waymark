@@ -1,8 +1,12 @@
 {
   "title": "Class 9 Maths, Chapter 1: Coordinates, Step by Step",
   "subtitle": "For students who find maths hard. Small steps, every calculation shown, and plenty of practice with answers. Follows NCERT Ganita Manjari, Grade 9 Part I, Chapter 1 (Orienting Yourself: The Use of Coordinates).",
-  "updated": "2026-11-04",
+  "updated": "2026-11-10",
   "changelog": [
+    {
+      "date": "2026-11-10",
+      "text": "Added a quick check (click an answer to check it) at the end of each milestone, and a new Wrap up milestone with a one-page summary and a 10-question self-test."
+    },
     {
       "date": "2026-11-04",
       "text": "Linked into the Class 9 Maths series: links to the start page for this part and to the chapters before and after this one."
@@ -40,7 +44,7 @@
           "id": "how-to-use",
           "label": "How to use this roadmap",
           "type": "core",
-          "desc": "- Go in order. Each step is small. On the map the steps go left and right, so press **Checklist view** at the top to see them as a list, in order.\n- Click a box to open it. Read the idea, follow the worked example, then do **Your turn**.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: two numbers pin down any spot.** Go across first, then up. Every question in the chapter, from plotting a point to finding a distance, starts from that.\n\nOne step a day is enough. Slow and steady works.",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea, follow the worked example, then do **Your turn**.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: two numbers pin down any spot.** Go across first, then up. Every question in the chapter, from plotting a point to finding a distance, starts from that.\n\nOne step a day is enough. Slow and steady works.",
           "links": [
             {
               "label": "All chapters in Term 1: start page",
@@ -61,7 +65,7 @@
           "id": "about",
           "label": "About this roadmap",
           "type": "optional",
-          "desc": "**What it is.** A step-by-step path through Chapter 1 of the NCERT textbook *Ganita Manjari*, Grade 9 Part I: *Orienting Yourself: The Use of Coordinates*.\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** Two numbers pin down any spot.\n\n**How it is different from the textbook.** It fixes negative numbers, subtraction and squaring before any coordinates, because that is where most students really get stuck. A classroom floor plan is the map for the whole chapter, and every distance calculation is written out line by line.\n\n**What is inside.**\n- 8 milestones and 31 small steps. The 20 solid steps are the core path. The dashed ones are optional.\n- 53 practice questions with hidden answers, and 11 pictures.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: a little history, and challenge questions on the midpoint, points in a line, circles and reflections.\n- For teachers and parents: an 8-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
+          "desc": "**What it is.** A step-by-step path through Chapter 1 of the NCERT textbook *Ganita Manjari*, Grade 9 Part I: *Orienting Yourself: The Use of Coordinates*.\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** Two numbers pin down any spot.\n\n**How it is different from the textbook.** It fixes negative numbers, subtraction and squaring before any coordinates, because that is where most students really get stuck. A classroom floor plan is the map for the whole chapter, and every distance calculation is written out line by line.\n\n**What is inside.**\n- 9 milestones and 38 small steps. The 27 solid steps are the core path. The dashed ones are optional.\n- 53 practice questions with hidden answers, and 11 pictures.\n- 24 click-to-check questions that say right or wrong, and why: a quick check after each of the 5 main milestones, and a 10-question self-test.\n- A *Wrap up* milestone with a **one-page summary** of the whole chapter.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: a little history, and challenge questions on the midpoint, points in a line, circles and reflections.\n- For teachers and parents: an 8-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
           "links": [
             {
               "label": "The licence: CC BY-SA 4.0",
@@ -226,6 +230,49 @@
             }
           ],
           "children": []
+        },
+        {
+          "id": "qc-why-two-numbers",
+          "label": "Quick check: two numbers",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Why does a spot on a flat map need **two** numbers?",
+              "options": [
+                "It does not: one number is enough",
+                "Because there are two axes to label",
+                "One number tells how far across, the other how far up",
+                "Because maps are drawn on squared paper"
+              ],
+              "answer": 2,
+              "why": "A flat surface has two directions. One number fixes how far **across**, the other how far **up**. See *One number is not enough*."
+            },
+            {
+              "q": "On a floor plan, 1 small square = 1 foot. A table is 6 squares from the front wall. How far is that?",
+              "options": [
+                "3 feet",
+                "12 feet",
+                "1 foot",
+                "6 feet"
+              ],
+              "answer": 3,
+              "why": "Each square is 1 foot, so 6 squares = **6 feet**."
+            },
+            {
+              "q": "Who first used two numbers to describe points on a plane, giving the idea its name 'Cartesian'?",
+              "options": [
+                "Euclid",
+                "Brahmagupta",
+                "Pythagoras",
+                "René Descartes"
+              ],
+              "answer": 3,
+              "why": "**Descartes** gave his name to 'Cartesian' coordinates. Brahmagupta had already worked with negative numbers. See *A little history*."
+            }
+          ],
+          "children": []
         }
       ]
     },
@@ -369,6 +416,49 @@
             }
           ],
           "children": []
+        },
+        {
+          "id": "qc-plotting-points",
+          "label": "Quick check: plotting points",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "To plot P(4, 3), what do you do?",
+              "options": [
+                "Go right 3, then up 4",
+                "Go right 4, then up 3",
+                "Go left 4, then down 3",
+                "Go up 4, then right 3"
+              ],
+              "answer": 1,
+              "why": "First number: **walk across** (right 4). Second number: **climb** (up 3). See *Plotting a point: walk, then climb*."
+            },
+            {
+              "q": "Where is the point (0, −5)?",
+              "options": [
+                "At the origin",
+                "In quadrant III",
+                "On the x-axis",
+                "On the y-axis"
+              ],
+              "answer": 3,
+              "why": "Its **x is 0**, so it does not move across at all. It sits **on the y-axis**, 5 below the origin."
+            },
+            {
+              "q": "Which quadrant is (−3, 2) in?",
+              "options": [
+                "I",
+                "II",
+                "III",
+                "IV"
+              ],
+              "answer": 1,
+              "why": "x is negative (left) and y is positive (up): that is **quadrant II**. See *The four quadrants*."
+            }
+          ],
+          "children": []
         }
       ]
     },
@@ -444,6 +534,49 @@
           "type": "optional",
           "desc": "Do this with friends. It makes the whole chapter real.\n\n- Pick one corner of your classroom as O (0, 0).\n- Count floor tiles, or use a measuring tape, to find how far things are along each wall.\n- Draw it on graph paper. Mark the door, the blackboard and your bench with their two numbers.\n- Give a friend only your bench's two numbers. Can they find it?",
           "links": [],
+          "children": []
+        },
+        {
+          "id": "qc-lengths-on-grid",
+          "label": "Quick check: lengths on the grid",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "How long is the line from (2, 3) to (2, −4)?",
+              "options": [
+                "5",
+                "7",
+                "1",
+                "−7"
+              ],
+              "answer": 1,
+              "why": "Same x, so it goes straight up and down. Subtract the y's: 3 − (−4) = **7**. A length is never negative."
+            },
+            {
+              "q": "Three corners of a rectangle are (1, 2), (6, 2) and (6, 5). What is the fourth?",
+              "options": [
+                "(5, 6)",
+                "(1, 5)",
+                "(2, 5)",
+                "(6, 1)"
+              ],
+              "answer": 1,
+              "why": "A rectangle uses only two x's (1 and 6) and two y's (2 and 5). The missing corner is **(1, 5)**."
+            },
+            {
+              "q": "What is the middle point of (2, 3) and (8, 7)?",
+              "options": [
+                "(10, 10)",
+                "(5, 5)",
+                "(4, 5)",
+                "(6, 4)"
+              ],
+              "answer": 1,
+              "why": "Halfway across: (2 + 8) ÷ 2 = 5. Halfway up: (3 + 7) ÷ 2 = 5. So **(5, 5)**. See *Finding the middle*."
+            }
+          ],
           "children": []
         }
       ]
@@ -559,6 +692,49 @@
             }
           ],
           "children": []
+        },
+        {
+          "id": "qc-distance",
+          "label": "Quick check: distance",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A right triangle has short sides 6 and 8. How long is the longest side?",
+              "options": [
+                "7",
+                "48",
+                "10",
+                "14"
+              ],
+              "answer": 2,
+              "why": "6² + 8² = 36 + 64 = 100, and √100 = **10**. See *Right triangles*."
+            },
+            {
+              "q": "Find the distance from (1, 2) to (4, 6).",
+              "options": [
+                "3",
+                "25",
+                "7",
+                "5"
+              ],
+              "answer": 3,
+              "why": "Across 3, up 4. 3² + 4² = 9 + 16 = 25. √25 = **5**. Remember the last step: the square root."
+            },
+            {
+              "q": "Find the distance from (−2, 1) to (4, 9).",
+              "options": [
+                "10",
+                "100",
+                "8",
+                "14"
+              ],
+              "answer": 0,
+              "why": "Across 4 − (−2) = 6. Up 9 − 1 = 8. 36 + 64 = 100, √100 = **10**. See *Distances with negative numbers*."
+            }
+          ],
+          "children": []
         }
       ]
     },
@@ -600,6 +776,174 @@
             {
               "q": "Your turn: is (0, 0), (2, 1), (3, 3), (1, 2) a square?",
               "a": "Each side squared is 5, so all four sides are equal. But the diagonals squared are 18 and 2, which are **not** equal. So it is **not a square**. It is a rhombus."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-using-distance",
+          "label": "Quick check: triangles and squares",
+          "type": "core",
+          "desc": "Two questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "The squared sides of a triangle are 9, 16 and 25. What kind of triangle is it?",
+              "options": [
+                "Right-angled",
+                "It cannot be a triangle",
+                "Isosceles",
+                "Equilateral"
+              ],
+              "answer": 0,
+              "why": "9 + 16 = 25: the two smaller squares add up to the biggest, so it is **right-angled**. See *What kind of triangle is it?*"
+            },
+            {
+              "q": "A shape has four equal sides, but its two diagonals are different lengths. Is it a square?",
+              "options": [
+                "Yes, if one side is horizontal",
+                "We cannot tell from sides at all",
+                "No, a square also needs equal diagonals",
+                "Yes, four equal sides is enough"
+              ],
+              "answer": 2,
+              "why": "A rhombus also has four equal sides. A square needs **four equal sides and two equal diagonals**. See *Is it a square?*"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: summary and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Do this before a class test, and again before the exam.",
+      "links": [],
+      "children": [
+        {
+          "id": "summary",
+          "label": "One-page summary",
+          "type": "core",
+          "desc": "**The one idea:** two numbers pin down any spot. Go across first, then up.\n\n**Words**\n- **x-axis** goes across, **y-axis** goes up. They meet at the **origin** O = (0, 0).\n- A point (x, y): **x** = how far across, **y** = how far up.\n- **Quadrants:** I (+, +), II (−, +), III (−, −), IV (+, −). Going anticlockwise from top right.\n- On the **x-axis**, y = 0. On the **y-axis**, x = 0.\n\n**Rules**\n- **Straight across or straight up:** subtract the two numbers that are different. Bigger minus smaller.\n- **Middle point:** halfway across and halfway up: ((x₁ + x₂) ÷ 2, (y₁ + y₂) ÷ 2).\n- **Distance:** across, up, square and add, square root. **d = √((x₂ − x₁)² + (y₂ − y₁)²)**\n- **Right triangle:** longest side² = short side² + other short side².\n\n**Checking shapes**\n- **Right-angled:** the two smaller squared sides add up to the biggest.\n- **Isosceles:** two squared sides are equal.\n- **Square:** four equal sides **and** two equal diagonals.\n\n**Remember:** a length is never negative. If you get a minus sign, you subtracted the wrong way round.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "What are the coordinates of the origin?",
+              "options": [
+                "(0, 1)",
+                "(1, 0)",
+                "(1, 1)",
+                "(0, 0)"
+              ],
+              "answer": 3,
+              "why": "The origin is where the axes meet: **(0, 0)**."
+            },
+            {
+              "q": "Which point is in quadrant IV?",
+              "options": [
+                "(−5, 2)",
+                "(2, 5)",
+                "(5, −2)",
+                "(−2, −5)"
+              ],
+              "answer": 2,
+              "why": "Quadrant IV is right and down: x positive, y negative. That is **(5, −2)**."
+            },
+            {
+              "q": "A point is 3 units **below** the origin, on the y-axis. What is it?",
+              "options": [
+                "(3, 0)",
+                "(0, −3)",
+                "(−3, 0)",
+                "(0, 3)"
+              ],
+              "answer": 1,
+              "why": "On the y-axis, x = 0. Below means y is negative: **(0, −3)**."
+            },
+            {
+              "q": "Are (2, 5) and (5, 2) the same point?",
+              "options": [
+                "Only on graph paper",
+                "Yes, they use the same numbers",
+                "Yes, if you swap the axes",
+                "No: the order matters"
+              ],
+              "answer": 3,
+              "why": "(2, 5) is 2 across and 5 up. (5, 2) is 5 across and 2 up. **The order matters.**"
+            },
+            {
+              "q": "How long is the line from (−5, 4) to (3, 4)?",
+              "options": [
+                "8",
+                "7",
+                "2",
+                "−8"
+              ],
+              "answer": 0,
+              "why": "Same y, so it goes straight across. 3 − (−5) = **8**."
+            },
+            {
+              "q": "What is the middle point of (−4, 1) and (6, 9)?",
+              "options": [
+                "(1, 5)",
+                "(5, 5)",
+                "(2, 10)",
+                "(1, 4)"
+              ],
+              "answer": 0,
+              "why": "Across: (−4 + 6) ÷ 2 = 1. Up: (1 + 9) ÷ 2 = 5. So **(1, 5)**."
+            },
+            {
+              "q": "Find the distance from (0, 0) to (6, 8).",
+              "options": [
+                "100",
+                "48",
+                "14",
+                "10"
+              ],
+              "answer": 3,
+              "why": "6² + 8² = 100, and √100 = **10**."
+            },
+            {
+              "q": "Find the distance from (−3, −1) to (2, 11).",
+              "options": [
+                "169",
+                "13",
+                "17",
+                "12"
+              ],
+              "answer": 1,
+              "why": "Across 5, up 12. 25 + 144 = 169, √169 = **13**."
+            },
+            {
+              "q": "Points A(1, 1), B(5, 1) and C(3, 5) make a triangle. AC² = 20 and BC² = 20. What kind of triangle is it?",
+              "options": [
+                "Equilateral",
+                "Right-angled",
+                "Isosceles",
+                "None of these"
+              ],
+              "answer": 2,
+              "why": "Two sides are equal (both squared lengths are 20), so it is **isosceles**. AB is 4, so it is not equilateral."
+            },
+            {
+              "q": "Four points have every side² = 10 and both diagonals² = 20. What shape is it?",
+              "options": [
+                "A trapezium",
+                "A square",
+                "A rectangle that is not a square",
+                "A rhombus that is not a square"
+              ],
+              "answer": 1,
+              "why": "Four equal sides **and** equal diagonals: it is a **square**."
             }
           ],
           "children": []

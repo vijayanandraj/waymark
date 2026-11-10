@@ -1,8 +1,12 @@
 {
   "title": "Class 9 Maths, Chapter 10: Combining Data, Step by Step",
   "subtitle": "For students who find maths hard. One idea holds the chapter together: an average has to remember how many, so when groups combine, bigger groups count for more. Averages of groups, mixtures, weighted marks and charts of shares. Small steps, every calculation shown, practice with answers. Follows NCERT Ganita Manjari, Grade 9 Part II, Chapter 10 (How Quantities Combine: Understanding Data).",
-  "updated": "2026-11-04",
+  "updated": "2026-11-10",
   "changelog": [
+    {
+      "date": "2026-11-10",
+      "text": "Added a quick check (click an answer to check it) at the end of each milestone, and a new Wrap up milestone with a one-page summary and a 10-question self-test."
+    },
     {
       "date": "2026-11-04",
       "text": "Added an 'About this roadmap' step: who it is for, how it differs from the textbook, and licence."
@@ -36,7 +40,7 @@
           "id": "how-to-use",
           "label": "How to use this roadmap",
           "type": "core",
-          "desc": "- Go in order. Each step is small. On the map the steps go left and right, so press **Checklist view** at the top to see them as a list, in order.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Write the totals down.** Almost every question here gets easier once you turn averages back into totals.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: an average has to remember how many.** When you combine groups, give each one its fair weight: big groups count for more. Every question in this chapter is a version of that.",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Write the totals down.** Almost every question here gets easier once you turn averages back into totals.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: an average has to remember how many.** When you combine groups, give each one its fair weight: big groups count for more. Every question in this chapter is a version of that.",
           "links": [
             {
               "label": "All chapters in Term 2: start page",
@@ -61,7 +65,7 @@
           "id": "about",
           "label": "About this roadmap",
           "type": "optional",
-          "desc": "**What it is.** A step-by-step path through Chapter 10 of the NCERT textbook *Ganita Manjari*, Grade 9 Part II: *How Quantities Combine: Understanding Data*.\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** An average has to remember how many.\n\n**How it is different from the textbook.** Every combining question is turned back into totals (total = average × how many), so averages of groups, mixtures and weighted marks all become one method. The three chart types are drawn from the same data, so students see which question each one answers easily.\n\n**What is inside.**\n- 7 milestones and 26 small steps. The 18 solid steps are the core path. The dashed ones are optional.\n- 24 practice questions with hidden answers, and 5 pictures.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: Śrīdharācārya's gold mixing, and challenge questions that work backwards from averages.\n- For teachers and parents: a 6-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
+          "desc": "**What it is.** A step-by-step path through Chapter 10 of the NCERT textbook *Ganita Manjari*, Grade 9 Part II: *How Quantities Combine: Understanding Data*.\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** An average has to remember how many.\n\n**How it is different from the textbook.** Every combining question is turned back into totals (total = average × how many), so averages of groups, mixtures and weighted marks all become one method. The three chart types are drawn from the same data, so students see which question each one answers easily.\n\n**What is inside.**\n- 8 milestones and 32 small steps. The 24 solid steps are the core path. The dashed ones are optional.\n- 24 practice questions with hidden answers, and 5 pictures.\n- 22 click-to-check questions that say right or wrong, and why: a quick check after each of the 4 main milestones, and a 10-question self-test.\n- A *Wrap up* milestone with a **one-page summary** of the whole chapter.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: Śrīdharācārya's gold mixing, and challenge questions that work backwards from averages.\n- For teachers and parents: a 6-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
           "links": [
             {
               "label": "The licence: CC BY-SA 4.0",
@@ -204,6 +208,49 @@
             }
           ],
           "children": []
+        },
+        {
+          "id": "qc-average-of-averages",
+          "label": "Quick check: combining averages",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "20 students average 60 and 30 students average 80. What is the average of all 50?",
+              "options": [
+                "70",
+                "140",
+                "72",
+                "68"
+              ],
+              "answer": 2,
+              "why": "Totals first: 60 × 20 + 80 × 30 = 1200 + 2400 = 3600. 3600 ÷ 50 = **72**. Not 70: the bigger group pulls harder."
+            },
+            {
+              "q": "When is the simple average of two averages correct?",
+              "options": [
+                "When the groups are the same size",
+                "When both averages are whole numbers",
+                "Never",
+                "Always"
+              ],
+              "answer": 0,
+              "why": "Only when **every group is the same size**. See *When the simple way does work*."
+            },
+            {
+              "q": "What is the rule for combining averages a (n people) and b (m people)?",
+              "options": [
+                "a × b ÷ (n + m)",
+                "(a + b) ÷ (n + m)",
+                "(a + b) ÷ 2",
+                "(a × n + b × m) ÷ (n + m)"
+              ],
+              "answer": 3,
+              "why": "Turn each average back into a **total**, add, then divide by **everyone**: (a × n + b × m) ÷ (n + m)."
+            }
+          ],
+          "children": []
         }
       ]
     },
@@ -268,6 +315,49 @@
           "desc": "Around 750 CE, **Śrīdharācārya** set problems on melting gold together. Purity was measured in **varṇa**: 16 varṇa was pure gold.\n\n**Example:** 4 units at 12 varṇa melted with 6 units at 14 varṇa: (4 × 12 + 6 × 14) ÷ 10 = 132 ÷ 10 = **13.2 varṇa**.\n\nA 1200-year-old weighted average.",
           "links": [],
           "children": []
+        },
+        {
+          "id": "qc-mixtures",
+          "label": "Quick check: mixtures",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "1 L of 10% juice is mixed with 3 L of 20% juice. What is the strength of the mix?",
+              "options": [
+                "17.5%",
+                "30%",
+                "12.5%",
+                "15%"
+              ],
+              "answer": 0,
+              "why": "(10 × 1 + 20 × 3) ÷ 4 = 70 ÷ 4 = **17.5%**. Closer to 20%, because there is more of it."
+            },
+            {
+              "q": "2 L of 20% sugar syrup has 2 L of plain water added. What is the new strength?",
+              "options": [
+                "5%",
+                "40%",
+                "10%",
+                "20%"
+              ],
+              "answer": 2,
+              "why": "Plain water is 0%. (20 × 2 + 0 × 2) ÷ 4 = **10%**."
+            },
+            {
+              "q": "A mixture of 12% and 18% solutions must be:",
+              "options": [
+                "Below 12%",
+                "Above 18%",
+                "Exactly 15%",
+                "Somewhere between 12% and 18%"
+              ],
+              "answer": 3,
+              "why": "A mixture is **always between** the two strengths."
+            }
+          ],
+          "children": []
         }
       ]
     },
@@ -320,6 +410,49 @@
             {
               "q": "Your turn: with equal weights, what would the rating be?",
               "a": "(4 + 3 + 5) ÷ 3 = **4**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-custom-weights",
+          "label": "Quick check: weights",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Marks 60, 80 and 70 count in the ratio 2 : 3 : 5. What is the final mark?",
+              "options": [
+                "210",
+                "72",
+                "70",
+                "71"
+              ],
+              "answer": 3,
+              "why": "(60 × 2 + 80 × 3 + 70 × 5) ÷ 10 = (120 + 240 + 350) ÷ 10 = **71**."
+            },
+            {
+              "q": "You score 36/40 and 45/60. What is the average percentage?",
+              "options": [
+                "82.5%",
+                "75%",
+                "81/100",
+                "90%"
+              ],
+              "answer": 0,
+              "why": "**Percentages first**: 90% and 75%. Equal weight: (90 + 75) ÷ 2 = **82.5%**."
+            },
+            {
+              "q": "A café is rated food 4, service 3, ambience 5, weights 5 : 3 : 2. Overall?",
+              "options": [
+                "4",
+                "12",
+                "4.2",
+                "3.9"
+              ],
+              "answer": 3,
+              "why": "(4 × 5 + 3 × 3 + 5 × 2) ÷ 10 = (20 + 9 + 10) ÷ 10 = **3.9**."
             }
           ],
           "children": []
@@ -412,6 +545,185 @@
             {
               "q": "Your turn: two shops each sell 40% tea. Do they sell the same amount of tea?",
               "a": "**Not necessarily.** Only if their total sales are the same."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-charts",
+          "label": "Quick check: charts",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which chart best shows how a total is made of parts?",
+              "options": [
+                "A line graph",
+                "Stacked columns",
+                "Cluster columns",
+                "A pie with no labels"
+              ],
+              "answer": 1,
+              "why": "**Stacked columns**: the height of the whole column is the total, and the pieces are the parts."
+            },
+            {
+              "q": "A 100% stacked bar shows 24% of 500 people chose tea. How many is that?",
+              "options": [
+                "24",
+                "476",
+                "120",
+                "240"
+              ],
+              "answer": 2,
+              "why": "24% of 500 = 0.24 × 500 = **120**."
+            },
+            {
+              "q": "Town A: 30% of 200 walk. Town B: 20% of 800 walk. Which has more walkers?",
+              "options": [
+                "Town A, the bigger share",
+                "Town B: 160 against 60",
+                "They are the same",
+                "We cannot tell"
+              ],
+              "answer": 1,
+              "why": "**Shares are not amounts.** A: 60 people. B: 160 people. The smaller share is the bigger number."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: summary and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Do this before a class test, and again before the exam.",
+      "links": [],
+      "children": [
+        {
+          "id": "summary",
+          "label": "One-page summary",
+          "type": "core",
+          "desc": "**The one idea:** an average has to remember how many.\n\n**Combining averages**\n- Turn each average back into a **total = average × how many**.\n- **Combined average = (a × n + b × m) ÷ (n + m).** This is a weighted average.\n- The simple average of the averages works **only if the groups are the same size**.\n\n**Mixtures**\n- **Strength of mix = (strength × amount + strength × amount) ÷ total amount.**\n- Plain water counts as **0%**.\n- The mix is **always between** the two strengths, nearer the bigger amount.\n\n**Weights**\n- Weighted mark = (mark × weight + ...) ÷ (sum of the weights).\n- Marks out of different totals: **change to percentages first**.\n\n**Charts**\n- **Cluster columns:** compare amounts side by side.\n- **Stacked columns:** parts and the total.\n- **100% stacked bars:** compare shares.\n- **Shares are not amounts.** 30% of 200 is fewer than 20% of 800.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A class of 10 averages 12 minutes to school, and another class of 10 averages 18. Average for all 20?",
+              "options": [
+                "15 minutes",
+                "16 minutes",
+                "30 minutes",
+                "14 minutes"
+              ],
+              "answer": 0,
+              "why": "The groups are the same size, so the simple way works: (12 + 18) ÷ 2 = **15**."
+            },
+            {
+              "q": "Why is (60 + 80) ÷ 2 = 70 wrong for 20 students at 60 and 30 at 80?",
+              "options": [
+                "60 and 80 are too far apart",
+                "It is right",
+                "It forgets that the groups are different sizes",
+                "You should multiply, not add"
+              ],
+              "answer": 2,
+              "why": "An average has to **remember how many**. The right answer is 72."
+            },
+            {
+              "q": "Equal amounts of 10% and 30% juice are mixed. What is the strength?",
+              "options": [
+                "20%",
+                "15%",
+                "40%",
+                "25%"
+              ],
+              "answer": 0,
+              "why": "Equal amounts: simple average, **20%**."
+            },
+            {
+              "q": "1 L of 10% and 3 L of 20%: the mix is nearer to which strength?",
+              "options": [
+                "Neither",
+                "10%",
+                "Exactly halfway",
+                "20%"
+              ],
+              "answer": 3,
+              "why": "There is more of the 20%, so the mix (17.5%) is nearer **20%**."
+            },
+            {
+              "q": "In a mixture question, what strength do you use for plain water?",
+              "options": [
+                "50%",
+                "0%",
+                "100%",
+                "It is ignored"
+              ],
+              "answer": 1,
+              "why": "Water has no juice or sugar: **0%**."
+            },
+            {
+              "q": "Tests count 2 : 3 : 5. Which test matters most?",
+              "options": [
+                "They all count the same",
+                "The third",
+                "The second",
+                "The first"
+              ],
+              "answer": 1,
+              "why": "The biggest weight, **5**, is the third test."
+            },
+            {
+              "q": "Weights 5 : 3 : 2 add up to:",
+              "options": [
+                "5",
+                "30",
+                "10",
+                "8"
+              ],
+              "answer": 2,
+              "why": "5 + 3 + 2 = **10**. Divide by this at the end."
+            },
+            {
+              "q": "Which chart compares shares of different-sized groups?",
+              "options": [
+                "A table of totals",
+                "100% stacked bars",
+                "Cluster columns",
+                "Stacked columns"
+              ],
+              "answer": 1,
+              "why": "**100% stacked bars** make every bar the same length, so you compare shares."
+            },
+            {
+              "q": "20% of 800 people cycle. How many?",
+              "options": [
+                "80",
+                "160",
+                "200",
+                "1600"
+              ],
+              "answer": 1,
+              "why": "0.2 × 800 = **160**."
+            },
+            {
+              "q": "Two shops: 40% of 50 customers paid by card, and 25% of 400. Which had more card payments?",
+              "options": [
+                "The second: 100 against 20",
+                "The same",
+                "We cannot tell",
+                "The first"
+              ],
+              "answer": 0,
+              "why": "40% of 50 = 20, 25% of 400 = 100. **Shares are not amounts.**"
             }
           ],
           "children": []

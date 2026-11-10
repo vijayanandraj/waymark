@@ -1,8 +1,12 @@
 {
   "title": "Class 9 Maths, Chapter 14: Surface Area and Volume, Step by Step",
   "subtitle": "For students who find maths hard. One question holds the chapter together: wrapping or filling? Surface area is the paper to wrap a solid, volume is the water to fill it. Nets, pouring and estimating, from boxes to spheres. Small steps, every calculation shown, practice with answers. Follows NCERT Ganita Manjari, Grade 9 Part II, Chapter 14 (Math of Space: Surface Area and Volume).",
-  "updated": "2026-11-04",
+  "updated": "2026-11-10",
   "changelog": [
+    {
+      "date": "2026-11-10",
+      "text": "Added a quick check (click an answer to check it) at the end of each milestone, and a new Wrap up milestone with a one-page summary and a 10-question self-test."
+    },
     {
       "date": "2026-11-04",
       "text": "Added an 'About this roadmap' step: who it is for, how it differs from the textbook, and licence."
@@ -36,7 +40,7 @@
           "id": "how-to-use",
           "label": "How to use this roadmap",
           "type": "core",
-          "desc": "- Go in order. Each step is small. On the map the steps go left and right, so press **Checklist view** at the top to see them as a list, in order.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Write the unit every time**: cm for lengths, cm² for surface, cm³ for volume. It tells you which formula you need.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: wrapping or filling?** Surface area is the paper needed to wrap a solid, in cm². Volume is the water needed to fill it, in cm³. Before every question, ask which one.",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Write the unit every time**: cm for lengths, cm² for surface, cm³ for volume. It tells you which formula you need.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: wrapping or filling?** Surface area is the paper needed to wrap a solid, in cm². Volume is the water needed to fill it, in cm³. Before every question, ask which one.",
           "links": [
             {
               "label": "All chapters in Term 2: start page",
@@ -57,7 +61,7 @@
           "id": "about",
           "label": "About this roadmap",
           "type": "optional",
-          "desc": "**What it is.** A step-by-step path through Chapter 14 of the NCERT textbook *Ganita Manjari*, Grade 9 Part II: *Math of Space: Surface Area and Volume*.\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** Wrapping or filling?\n\n**How it is different from the textbook.** One question, wrapping or filling?, sorts every formula. Nets, unrolled labels and pouring cones into a cylinder give each formula a picture, and estimating questions show that assumptions matter.\n\n**What is inside.**\n- 8 milestones and 27 small steps. The 19 solid steps are the core path. The dashed ones are optional.\n- 24 practice questions with hidden answers, and 5 pictures.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the classroom estimate, and challenge questions on joined solids, melting and recasting, and scaling.\n- For teachers and parents: a 7-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
+          "desc": "**What it is.** A step-by-step path through Chapter 14 of the NCERT textbook *Ganita Manjari*, Grade 9 Part II: *Math of Space: Surface Area and Volume*.\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** Wrapping or filling?\n\n**How it is different from the textbook.** One question, wrapping or filling?, sorts every formula. Nets, unrolled labels and pouring cones into a cylinder give each formula a picture, and estimating questions show that assumptions matter.\n\n**What is inside.**\n- 9 milestones and 34 small steps. The 26 solid steps are the core path. The dashed ones are optional.\n- 24 practice questions with hidden answers, and 5 pictures.\n- 24 click-to-check questions that say right or wrong, and why: a quick check after each of the 5 main milestones, and a 10-question self-test.\n- A *Wrap up* milestone with a **one-page summary** of the whole chapter.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the classroom estimate, and challenge questions on joined solids, melting and recasting, and scaling.\n- For teachers and parents: a 7-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
           "links": [
             {
               "label": "The licence: CC BY-SA 4.0",
@@ -203,6 +207,49 @@
             }
           ],
           "children": []
+        },
+        {
+          "id": "qc-cuboids",
+          "label": "Quick check: cuboids",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Painting the outside of a cupboard: surface area or volume?",
+              "options": [
+                "Surface area",
+                "Both",
+                "Volume",
+                "Neither"
+              ],
+              "answer": 0,
+              "why": "Paint covers the outside: **wrapping**, so surface area."
+            },
+            {
+              "q": "Find the volume of a box 8 cm by 5 cm by 3 cm.",
+              "options": [
+                "240 cm³",
+                "158 cm³",
+                "120 cm³",
+                "16 cm³"
+              ],
+              "answer": 2,
+              "why": "l × b × h = 8 × 5 × 3 = **120 cm³**."
+            },
+            {
+              "q": "A tank is 50 cm by 40 cm by 30 cm. How many litres does it hold?",
+              "options": [
+                "6 litres",
+                "60 litres",
+                "60 000 litres",
+                "600 litres"
+              ],
+              "answer": 1,
+              "why": "50 × 40 × 30 = 60 000 cm³. 1 litre = 1000 cm³, so **60 litres**."
+            }
+          ],
+          "children": []
         }
       ]
     },
@@ -261,6 +308,49 @@
             {
               "q": "Your turn: how much metal for a closed tin with the same size?",
               "a": "**748 cm²**: both ends, 2 × 154, plus 440."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-cylinders",
+          "label": "Quick check: cylinders",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A cylinder has r = 7 cm and h = 10 cm. Find its curved surface area.",
+              "options": [
+                "440 cm²",
+                "748 cm²",
+                "220 cm²",
+                "1540 cm²"
+              ],
+              "answer": 0,
+              "why": "2πrh = 2 × 22/7 × 7 × 10 = **440 cm²**."
+            },
+            {
+              "q": "The same cylinder (r = 7, h = 10): find its volume.",
+              "options": [
+                "1540 cm³",
+                "440 cm³",
+                "154 cm³",
+                "3080 cm³"
+              ],
+              "answer": 0,
+              "why": "πr²h = 22/7 × 49 × 10 = **1540 cm³**."
+            },
+            {
+              "q": "A tin open at the top: how many circles do you include in its surface area?",
+              "options": [
+                "Three",
+                "Two",
+                "None",
+                "One"
+              ],
+              "answer": 3,
+              "why": "**Open** at the top means only the **bottom** circle."
             }
           ],
           "children": []
@@ -331,6 +421,49 @@
             }
           ],
           "children": []
+        },
+        {
+          "id": "qc-cones",
+          "label": "Quick check: cones",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A cone has r = 7 and h = 24. What is its slant height l?",
+              "options": [
+                "31",
+                "625",
+                "17",
+                "25"
+              ],
+              "answer": 3,
+              "why": "l² = 7² + 24² = 49 + 576 = 625, so l = **25**."
+            },
+            {
+              "q": "With r = 7 and l = 25, what is the cone's curved surface area?",
+              "options": [
+                "704 cm²",
+                "1232 cm²",
+                "550 cm²",
+                "175 cm²"
+              ],
+              "answer": 2,
+              "why": "πrl = 22/7 × 7 × 25 = **550 cm²**."
+            },
+            {
+              "q": "A cone and a cylinder have the same base and height. How many cones of water fill the cylinder?",
+              "options": [
+                "4",
+                "2",
+                "3",
+                "½"
+              ],
+              "answer": 2,
+              "why": "A cone holds **a third** of the cylinder, so **3** cones fill it."
+            }
+          ],
+          "children": []
         }
       ]
     },
@@ -397,6 +530,49 @@
             }
           ],
           "children": []
+        },
+        {
+          "id": "qc-pyramids-spheres",
+          "label": "Quick check: pyramids and spheres",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A pyramid has a square base 6 cm by 6 cm and height 4 cm. Find its volume.",
+              "options": [
+                "144 cm³",
+                "24 cm³",
+                "72 cm³",
+                "48 cm³"
+              ],
+              "answer": 3,
+              "why": "⅓ × base area × height = ⅓ × 36 × 4 = **48 cm³**."
+            },
+            {
+              "q": "Find the surface area of a sphere of radius 7 cm.",
+              "options": [
+                "308 cm²",
+                "1437 cm²",
+                "616 cm²",
+                "154 cm²"
+              ],
+              "answer": 2,
+              "why": "4πr² = 4 × 22/7 × 49 = **616 cm²**."
+            },
+            {
+              "q": "What is the total surface area of a solid hemisphere?",
+              "options": [
+                "3πr²",
+                "⅔πr³",
+                "2πr²",
+                "4πr²"
+              ],
+              "answer": 0,
+              "why": "Curved part **2πr²** plus the flat circle **πr²** = **3πr²**."
+            }
+          ],
+          "children": []
         }
       ]
     },
@@ -426,6 +602,174 @@
           "type": "optional",
           "desc": "A classroom is 9 m by 7 m by 3 m. A football has radius 11 cm, so it fits in a 22 cm cube.\n- Across: 900 ÷ 22 ≈ 40. Along: 700 ÷ 22 ≈ 31. Up: 300 ÷ 22 ≈ 13.\n- In neat rows: 40 × 31 × 13 ≈ **16 000** footballs.\n\nPacking them cleverly fits a few more, but the answer is clearly in the **tens of thousands**, not millions.",
           "links": [],
+          "children": []
+        },
+        {
+          "id": "qc-estimating",
+          "label": "Quick check: estimating",
+          "type": "core",
+          "desc": "Two questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "When you make an estimate, what should you always do?",
+              "options": [
+                "Give an exact answer",
+                "Round to 1",
+                "Use a calculator only",
+                "Say your assumptions"
+              ],
+              "answer": 3,
+              "why": "Different assumptions give different answers. **Say your assumptions** so others can check them."
+            },
+            {
+              "q": "Marbles fill only part of a bottle, because of the gaps between them. So the true number is:",
+              "options": [
+                "Exactly volume ÷ one marble",
+                "More than volume ÷ one marble",
+                "Zero",
+                "Fewer than volume ÷ one marble"
+              ],
+              "answer": 3,
+              "why": "Round things leave **gaps**, so fewer fit than the simple division says."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: summary and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Do this before a class test, and again before the exam.",
+      "links": [],
+      "children": [
+        {
+          "id": "summary",
+          "label": "One-page summary",
+          "type": "core",
+          "desc": "**The one idea:** wrapping or filling? Surface area wraps (cm²). Volume fills (cm³).\n\n**Cuboid and cube**\n- Cuboid: **SA = 2(lb + bh + hl)**, **V = l × b × h**.\n- Cube of side a: **SA = 6a²**, **V = a³**.\n- **1 litre = 1000 cm³.**\n\n**Cylinder**\n- Curved surface: **2πrh**. Total: **2πr(h + r)**. Volume: **πr²h**.\n- Open at the top: only **one** circle.\n\n**Cone**\n- Slant height: **l² = r² + h²**.\n- Curved surface: **πrl**. Total: **πr(l + r)**. Volume: **⅓πr²h** (a third of a cylinder).\n\n**Pyramid:** volume = **⅓ × base area × height**.\n\n**Sphere and hemisphere**\n- Sphere: **SA = 4πr²**, **V = ⁴⁄₃πr³**.\n- Hemisphere: curved **2πr²**, total **3πr²**, **V = ⅔πr³**.\n\n**Watch out**\n- Given the diameter? **Halve it.**\n- Use the **slant height** for a cone's surface, the **straight height** for its volume.\n- Estimates: **say your assumptions**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Find the surface area of a cube of side 4 cm.",
+              "options": [
+                "48 cm²",
+                "64 cm²",
+                "96 cm²",
+                "16 cm²"
+              ],
+              "answer": 2,
+              "why": "6a² = 6 × 16 = **96 cm²**."
+            },
+            {
+              "q": "Find the volume of a cube of side 5 cm.",
+              "options": [
+                "125 cm³",
+                "25 cm³",
+                "150 cm³",
+                "75 cm³"
+              ],
+              "answer": 0,
+              "why": "a³ = **125 cm³**."
+            },
+            {
+              "q": "Find the surface area of a box 10 cm by 6 cm by 4 cm.",
+              "options": [
+                "200 cm²",
+                "124 cm²",
+                "240 cm²",
+                "248 cm²"
+              ],
+              "answer": 3,
+              "why": "2(60 + 24 + 40) = 2 × 124 = **248 cm²**."
+            },
+            {
+              "q": "A cylinder has r = 7 cm, h = 10 cm. Find its total surface area.",
+              "options": [
+                "1540 cm²",
+                "440 cm²",
+                "748 cm²",
+                "594 cm²"
+              ],
+              "answer": 2,
+              "why": "2πr(h + r) = 2 × 22/7 × 7 × 17 = **748 cm²**."
+            },
+            {
+              "q": "A cone has r = 7 cm and h = 24 cm. Find its volume.",
+              "options": [
+                "3696 cm³",
+                "1232 cm³",
+                "550 cm³",
+                "616 cm³"
+              ],
+              "answer": 1,
+              "why": "⅓ × 22/7 × 49 × 24 = **1232 cm³**."
+            },
+            {
+              "q": "A cone has r = 6 and h = 8. What is its slant height?",
+              "options": [
+                "10",
+                "48",
+                "100",
+                "14"
+              ],
+              "answer": 0,
+              "why": "√(36 + 64) = √100 = **10**."
+            },
+            {
+              "q": "Find the volume of a sphere of radius 21 cm.",
+              "options": [
+                "38 808 cm³",
+                "19 404 cm³",
+                "1386 cm³",
+                "5544 cm³"
+              ],
+              "answer": 0,
+              "why": "⁴⁄₃ × 22/7 × 21³ = **38 808 cm³**."
+            },
+            {
+              "q": "A hemisphere has radius 21 cm. Find its curved surface area.",
+              "options": [
+                "4158 cm²",
+                "5544 cm²",
+                "1386 cm²",
+                "2772 cm²"
+              ],
+              "answer": 3,
+              "why": "2πr² = 2 × 22/7 × 441 = **2772 cm²**."
+            },
+            {
+              "q": "Doubling the side of a cube multiplies its volume by:",
+              "options": [
+                "8",
+                "2",
+                "6",
+                "4"
+              ],
+              "answer": 0,
+              "why": "(2a)³ = 8a³: **8 times**."
+            },
+            {
+              "q": "Which needs the slant height?",
+              "options": [
+                "Volume of a sphere",
+                "Volume of a cone",
+                "Curved surface of a cone",
+                "Volume of a cylinder"
+              ],
+              "answer": 2,
+              "why": "The **curved surface** of a cone is πr**l**. Its volume uses the straight height."
+            }
+          ],
           "children": []
         }
       ]

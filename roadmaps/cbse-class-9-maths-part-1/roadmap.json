@@ -1,8 +1,12 @@
 {
   "title": "Class 9 Maths, All Chapters: Term 1 (Part I)",
   "subtitle": "Start here for Term 1. One roadmap for each chapter of NCERT Ganita Manjari, Grade 9 Part I, written for students who find maths hard. This page shows the one idea in each chapter, what each needs first, and the thread that runs through them all.",
-  "updated": "2026-11-04",
+  "updated": "2026-11-10",
   "changelog": [
+    {
+      "date": "2026-11-10",
+      "text": "Points to the new quick checks, one-page summaries and self-tests in every chapter."
+    },
     {
       "date": "2026-11-04",
       "text": "Added an 'About this roadmap' step: who it is for, how it differs from the textbook, and licence."
@@ -32,7 +36,7 @@
           "id": "how-series",
           "label": "How to use these roadmaps",
           "type": "core",
-          "desc": "- **One roadmap per chapter.** Open a chapter below, then follow its own steps.\n- **Every chapter starts with *Check yourself*.** Two minutes, a few questions. It tells you which small skills to fix before the chapter itself.\n- **Solid boxes are the core path.** Dashed boxes are optional: stories, extra puzzles and the *When you're ready* challenge questions.\n- **Every chapter ends with a section for teachers and parents**, with a lesson plan, common mistakes and a 5-minute exit ticket.\n- **Progress is saved per chapter** on this device. Mark steps **Done** inside each chapter's roadmap.",
+          "desc": "- **One roadmap per chapter.** Open a chapter below, then follow its own steps.\n- **Every chapter starts with *Check yourself*.** Two minutes, a few questions. It tells you which small skills to fix before the chapter itself.\n- **Solid boxes are the core path.** Dashed boxes are optional: stories, extra puzzles and the *When you're ready* challenge questions.\n- **Every milestone ends with a *Quick check*,** and every chapter has a *Wrap up*: a one-page summary and a 10-question self-test. Click an answer to see if you are right, and why.\n- **Every chapter ends with a section for teachers and parents**, with a lesson plan, common mistakes and a 5-minute exit ticket.\n- **Progress is saved per chapter** on this device. Mark steps **Done** inside each chapter's roadmap.",
           "links": [],
           "children": []
         },
@@ -40,7 +44,7 @@
           "id": "about",
           "label": "About this roadmap",
           "type": "optional",
-          "desc": "**What it is.** The starting page for Term 1: 8 roadmaps, one for each chapter of the NCERT textbook *Ganita Manjari*, Grade 9 Part I (Chapters 1 to 8).\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**What this page does.** It shows the one idea in each chapter, what each chapter needs first, and the thread that runs through them. It does not teach the chapters itself: open a chapter to start.\n\n**How the chapter roadmaps work.** Each one starts by fixing the basic skills it needs, shows every calculation, gives practice with hidden answers, keeps harder material in an optional *When you're ready* milestone, and ends with a section for teachers and parents. The 8 lesson plans add up to 66 periods.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
+          "desc": "**What it is.** The starting page for Term 1: 8 roadmaps, one for each chapter of the NCERT textbook *Ganita Manjari*, Grade 9 Part I (Chapters 1 to 8).\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**What this page does.** It shows the one idea in each chapter, what each chapter needs first, and the thread that runs through them. It does not teach the chapters itself: open a chapter to start.\n\n**How the chapter roadmaps work.** Each one starts by fixing the basic skills it needs, shows every calculation, gives practice with hidden answers and click-to-check quick checks, has a one-page summary and a self-test near the end, keeps harder material in an optional *When you're ready* milestone, and ends with a section for teachers and parents. The 8 lesson plans add up to 66 periods.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
           "links": [
             {
               "label": "The licence: CC BY-SA 4.0",
@@ -84,7 +88,7 @@
           "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-coordinates"
         }
       ],
-      "desc": "**The one idea:** Two numbers pin down any spot: go across first, then up.\n\n**Needs first:** Negative numbers and squaring. The roadmap's *Start here* covers both.\n\nTextbook chapter: *Orienting Yourself: The Use of Coordinates*. The roadmap has 31 steps, 20 of them on the core path.",
+      "desc": "**The one idea:** Two numbers pin down any spot: go across first, then up.\n\n**Needs first:** Negative numbers and squaring. The roadmap's *Start here* covers both.\n\nTextbook chapter: *Orienting Yourself: The Use of Coordinates*. The roadmap has 38 steps, 27 of them on the core path.",
       "children": [
         {
           "id": "ch1-idea",
@@ -122,7 +126,7 @@
           "id": "ch1-inside",
           "label": "Ch 1: what's inside",
           "type": "core",
-          "desc": "The milestones, in order:\n- Why we need two numbers\n- Plotting and reading points\n- Lengths on the grid\n- Distance between any two points\n- Using distances: triangles and squares\n\nThen an optional *When you're ready* milestone with challenge questions.",
+          "desc": "The milestones, in order:\n- Why we need two numbers\n- Plotting and reading points\n- Lengths on the grid\n- Distance between any two points\n- Using distances: triangles and squares\n- Wrap up: summary and self-test\n\nThen an optional *When you're ready* milestone with challenge questions.",
           "links": [
             {
               "label": "Open the Chapter 1 roadmap",
@@ -159,7 +163,7 @@
           "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-linear-polynomials"
         }
       ],
-      "desc": "**The one idea:** A start, plus the same jump every time.\n\n**Needs first:** Chapter 1, for plotting points.\n\nTextbook chapter: *Introduction to Linear Polynomials*. The roadmap has 36 steps, 25 of them on the core path.",
+      "desc": "**The one idea:** A start, plus the same jump every time.\n\n**Needs first:** Chapter 1, for plotting points.\n\nTextbook chapter: *Introduction to Linear Polynomials*. The roadmap has 44 steps, 33 of them on the core path.",
       "children": [
         {
           "id": "ch2-idea",
@@ -197,7 +201,7 @@
           "id": "ch2-inside",
           "label": "Ch 2: what's inside",
           "type": "core",
-          "desc": "The milestones, in order:\n- The words of algebra\n- Putting a number in\n- Patterns that grow by the same jump\n- Word problems as equations\n- Growth and decay: a start plus a jump\n- y = ax + b and its graph\n\nThen an optional *When you're ready* milestone with challenge questions.",
+          "desc": "The milestones, in order:\n- The words of algebra\n- Putting a number in\n- Patterns that grow by the same jump\n- Word problems as equations\n- Growth and decay: a start plus a jump\n- y = ax + b and its graph\n- Wrap up: summary and self-test\n\nThen an optional *When you're ready* milestone with challenge questions.",
           "links": [
             {
               "label": "Open the Chapter 2 roadmap",
@@ -234,7 +238,7 @@
           "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-numbers"
         }
       ],
-      "desc": "**The one idea:** A family of numbers that keeps growing, because each kind could not do a job the next one can.\n\n**Needs first:** Fractions. The roadmap fixes them first.\n\nTextbook chapter: *The World of Numbers*. The roadmap has 44 steps, 30 of them on the core path.",
+      "desc": "**The one idea:** A family of numbers that keeps growing, because each kind could not do a job the next one can.\n\n**Needs first:** Fractions. The roadmap fixes them first.\n\nTextbook chapter: *The World of Numbers*. The roadmap has 53 steps, 39 of them on the core path.",
       "children": [
         {
           "id": "ch3-idea",
@@ -272,7 +276,7 @@
           "id": "ch3-inside",
           "label": "Ch 3: what's inside",
           "type": "core",
-          "desc": "The milestones, in order:\n- The family of numbers\n- Integers: what you have and what you owe\n- Fractions and rational numbers\n- Rational numbers on the number line\n- Numbers that are not fractions\n- Decimals: stop, repeat, or neither\n- Real numbers: the whole family\n\nThen an optional *When you're ready* milestone with challenge questions.",
+          "desc": "The milestones, in order:\n- The family of numbers\n- Integers: what you have and what you owe\n- Fractions and rational numbers\n- Rational numbers on the number line\n- Numbers that are not fractions\n- Decimals: stop, repeat, or neither\n- Real numbers: the whole family\n- Wrap up: summary and self-test\n\nThen an optional *When you're ready* milestone with challenge questions.",
           "links": [
             {
               "label": "Open the Chapter 3 roadmap",
@@ -309,7 +313,7 @@
           "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-identities"
         }
       ],
-      "desc": "**The one idea:** An identity is a picture of an area: a square or rectangle cut into pieces.\n\n**Needs first:** Chapter 2's words of algebra (terms and coefficients). Like terms and brackets are fixed inside the chapter.\n\nTextbook chapter: *Exploring Algebraic Identities*. The roadmap has 45 steps, 33 of them on the core path.",
+      "desc": "**The one idea:** An identity is a picture of an area: a square or rectangle cut into pieces.\n\n**Needs first:** Chapter 2's words of algebra (terms and coefficients). Like terms and brackets are fixed inside the chapter.\n\nTextbook chapter: *Exploring Algebraic Identities*. The roadmap has 55 steps, 43 of them on the core path.",
       "children": [
         {
           "id": "ch4-idea",
@@ -347,7 +351,7 @@
           "id": "ch4-inside",
           "label": "Ch 4: what's inside",
           "type": "core",
-          "desc": "The milestones, in order:\n- What is an identity?\n- Squaring a sum: (a + b)²\n- Squaring a difference: (a − b)²\n- Difference of two squares\n- Factorising: running the rules backwards\n- Factorising x² + bx + c\n- Three terms and cubes\n- Using factorising\n\nThen an optional *When you're ready* milestone with challenge questions.",
+          "desc": "The milestones, in order:\n- What is an identity?\n- Squaring a sum: (a + b)²\n- Squaring a difference: (a − b)²\n- Difference of two squares\n- Factorising: running the rules backwards\n- Factorising x² + bx + c\n- Three terms and cubes\n- Using factorising\n- Wrap up: summary and self-test\n\nThen an optional *When you're ready* milestone with challenge questions.",
           "links": [
             {
               "label": "Open the Chapter 4 roadmap",
@@ -384,7 +388,7 @@
           "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-circles"
         }
       ],
-      "desc": "**The one idea:** Every radius is the same length, which gives an isosceles triangle and a hidden right triangle.\n\n**Needs first:** Triangle angles and Pythagoras. Chapter 1's distance formula helps.\n\nTextbook chapter: *I'm Up and Down, and Round and Round*. The roadmap has 35 steps, 23 of them on the core path.",
+      "desc": "**The one idea:** Every radius is the same length, which gives an isosceles triangle and a hidden right triangle.\n\n**Needs first:** Triangle angles and Pythagoras. Chapter 1's distance formula helps.\n\nTextbook chapter: *I'm Up and Down, and Round and Round*. The roadmap has 42 steps, 30 of them on the core path.",
       "children": [
         {
           "id": "ch5-idea",
@@ -422,7 +426,7 @@
           "id": "ch5-inside",
           "label": "Ch 5: what's inside",
           "type": "core",
-          "desc": "The milestones, in order:\n- The words for a circle\n- How many circles fit through some points?\n- Chords and their distance from the centre\n- Angles made by an arc\n- Cyclic quadrilaterals\n\nThen an optional *When you're ready* milestone with challenge questions.",
+          "desc": "The milestones, in order:\n- The words for a circle\n- How many circles fit through some points?\n- Chords and their distance from the centre\n- Angles made by an arc\n- Cyclic quadrilaterals\n- Wrap up: summary and self-test\n\nThen an optional *When you're ready* milestone with challenge questions.",
           "links": [
             {
               "label": "Open the Chapter 5 roadmap",
@@ -459,7 +463,7 @@
           "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-perimeter-area"
         }
       ],
-      "desc": "**The one idea:** Fence or floor? Every area formula is a cut-and-rearrange picture.\n\n**Needs first:** Chapter 3 (π is irrational) and Chapter 5 (arcs and sectors). Chapter 4's area pictures help.\n\nTextbook chapter: *Measuring Space: Perimeter and Area*. The roadmap has 33 steps, 23 of them on the core path.",
+      "desc": "**The one idea:** Fence or floor? Every area formula is a cut-and-rearrange picture.\n\n**Needs first:** Chapter 3 (π is irrational) and Chapter 5 (arcs and sectors). Chapter 4's area pictures help.\n\nTextbook chapter: *Measuring Space: Perimeter and Area*. The roadmap has 41 steps, 31 of them on the core path.",
       "children": [
         {
           "id": "ch6-idea",
@@ -497,7 +501,7 @@
           "id": "ch6-inside",
           "label": "Ch 6: what's inside",
           "type": "core",
-          "desc": "The milestones, in order:\n- Perimeter and area: fence or floor?\n- The perimeter of a circle\n- Arcs and pieces of a circle\n- Areas of straight-sided shapes\n- Heron's formula: area from three sides\n- The area of a circle\n\nThen an optional *When you're ready* milestone with challenge questions.",
+          "desc": "The milestones, in order:\n- Perimeter and area: fence or floor?\n- The perimeter of a circle\n- Arcs and pieces of a circle\n- Areas of straight-sided shapes\n- Heron's formula: area from three sides\n- The area of a circle\n- Wrap up: summary and self-test\n\nThen an optional *When you're ready* milestone with challenge questions.",
           "links": [
             {
               "label": "Open the Chapter 6 roadmap",
@@ -534,7 +538,7 @@
           "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-probability"
         }
       ],
-      "desc": "**The one idea:** Probability is the ways you want divided by all the ways.\n\n**Needs first:** Fractions only. This chapter can be done early.\n\nTextbook chapter: *The Mathematics of Maybe: Introduction to Probability*. The roadmap has 29 steps, 20 of them on the core path.",
+      "desc": "**The one idea:** Probability is the ways you want divided by all the ways.\n\n**Needs first:** Fractions only. This chapter can be done early.\n\nTextbook chapter: *The Mathematics of Maybe: Introduction to Probability*. The roadmap has 36 steps, 27 of them on the core path.",
       "children": [
         {
           "id": "ch7-idea",
@@ -572,7 +576,7 @@
           "id": "ch7-inside",
           "label": "Ch 7: what's inside",
           "type": "core",
-          "desc": "The milestones, in order:\n- How likely is it?\n- Probability by counting\n- Probability from experiments and data\n- Sample spaces and events\n- Tree diagrams\n\nThen an optional *When you're ready* milestone with challenge questions.",
+          "desc": "The milestones, in order:\n- How likely is it?\n- Probability by counting\n- Probability from experiments and data\n- Sample spaces and events\n- Tree diagrams\n- Wrap up: summary and self-test\n\nThen an optional *When you're ready* milestone with challenge questions.",
           "links": [
             {
               "label": "Open the Chapter 7 roadmap",
@@ -609,7 +613,7 @@
           "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-sequences"
         }
       ],
-      "desc": "**The one idea:** Do the same thing every time: add the same number for an AP, multiply by the same number for a GP.\n\n**Needs first:** Chapter 2: an AP is a start plus the same jump.\n\nTextbook chapter: *Predicting What Comes Next: Exploring Sequences and Progressions*. The roadmap has 33 steps, 22 of them on the core path.",
+      "desc": "**The one idea:** Do the same thing every time: add the same number for an AP, multiply by the same number for a GP.\n\n**Needs first:** Chapter 2: an AP is a start plus the same jump.\n\nTextbook chapter: *Predicting What Comes Next: Exploring Sequences and Progressions*. The roadmap has 39 steps, 28 of them on the core path.",
       "children": [
         {
           "id": "ch8-idea",
@@ -647,7 +651,7 @@
           "id": "ch8-inside",
           "label": "Ch 8: what's inside",
           "type": "core",
-          "desc": "The milestones, in order:\n- What is a sequence?\n- Arithmetic progressions: add the same number\n- Adding up a sequence\n- Geometric progressions: multiply by the same number\n\nThen an optional *When you're ready* milestone with challenge questions.",
+          "desc": "The milestones, in order:\n- What is a sequence?\n- Arithmetic progressions: add the same number\n- Adding up a sequence\n- Geometric progressions: multiply by the same number\n- Wrap up: summary and self-test\n\nThen an optional *When you're ready* milestone with challenge questions.",
           "links": [
             {
               "label": "Open the Chapter 8 roadmap",

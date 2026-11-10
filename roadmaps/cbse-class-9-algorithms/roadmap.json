@@ -1,8 +1,12 @@
 {
   "title": "Class 9 Maths, Chapter 11: Algorithms, Step by Step",
   "subtitle": "For students who find maths hard. One idea holds the chapter together: an algorithm is a recipe so exact that nobody has to think while following it, and a smarter recipe does less work. Column addition, the gcd from lists, and Euclid's algorithm, all traced by hand. Small steps, practice with answers. Follows NCERT Ganita Manjari, Grade 9 Part II, Chapter 11 (The World of Algorithms).",
-  "updated": "2026-11-04",
+  "updated": "2026-11-10",
   "changelog": [
+    {
+      "date": "2026-11-10",
+      "text": "Added a quick check (click an answer to check it) at the end of each milestone, and a new Wrap up milestone with a one-page summary and a 10-question self-test."
+    },
     {
       "date": "2026-11-04",
       "text": "Added an 'About this roadmap' step: who it is for, how it differs from the textbook, and licence."
@@ -36,7 +40,7 @@
           "id": "how-to-use",
           "label": "How to use this roadmap",
           "type": "core",
-          "desc": "- Go in order. Each step is small. On the map the steps go left and right, so press **Checklist view** at the top to see them as a list, in order.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Follow every algorithm by hand, with a pencil**, step by step. Don't skip steps you think are obvious.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: an algorithm is a recipe so exact that nobody has to think while following it.** Then we look for a smarter recipe that does less work.",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Follow every algorithm by hand, with a pencil**, step by step. Don't skip steps you think are obvious.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: an algorithm is a recipe so exact that nobody has to think while following it.** Then we look for a smarter recipe that does less work.",
           "links": [
             {
               "label": "All chapters in Term 2: start page",
@@ -61,7 +65,7 @@
           "id": "about",
           "label": "About this roadmap",
           "type": "optional",
-          "desc": "**What it is.** A step-by-step path through Chapter 11 of the NCERT textbook *Ganita Manjari*, Grade 9 Part II: *The World of Algorithms*.\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** An algorithm is a recipe so exact that nobody has to think while following it.\n\n**How it is different from the textbook.** Every algorithm is traced by hand with small numbers, and Euclid's algorithm is shown as squares cut from a rectangle, so 'why it works' is visible without algebra.\n\n**What is inside.**\n- 6 milestones and 24 small steps. The 14 solid steps are the core path. The dashed ones are optional.\n- 18 practice questions with hidden answers, and 4 pictures.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the history of the word, and challenge questions on testing for primes, the lcm and counting steps.\n- For teachers and parents: a 5-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
+          "desc": "**What it is.** A step-by-step path through Chapter 11 of the NCERT textbook *Ganita Manjari*, Grade 9 Part II: *The World of Algorithms*.\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** An algorithm is a recipe so exact that nobody has to think while following it.\n\n**How it is different from the textbook.** Every algorithm is traced by hand with small numbers, and Euclid's algorithm is shown as squares cut from a rectangle, so 'why it works' is visible without algebra.\n\n**What is inside.**\n- 7 milestones and 29 small steps. The 19 solid steps are the core path. The dashed ones are optional.\n- 18 practice questions with hidden answers, and 4 pictures.\n- 19 click-to-check questions that say right or wrong, and why: a quick check after each of the 3 main milestones, and a 10-question self-test.\n- A *Wrap up* milestone with a **one-page summary** of the whole chapter.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the history of the word, and challenge questions on testing for primes, the lcm and counting steps.\n- For teachers and parents: a 5-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
           "links": [
             {
               "label": "The licence: CC BY-SA 4.0",
@@ -190,6 +194,49 @@
             }
           ],
           "children": []
+        },
+        {
+          "id": "qc-what-algorithm",
+          "label": "Quick check: algorithms",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "What makes a list of steps an algorithm?",
+              "options": [
+                "Every step is exact, so nobody has to guess",
+                "It is written in a computer language",
+                "It is about numbers",
+                "It has more than ten steps"
+              ],
+              "answer": 0,
+              "why": "An algorithm is a **recipe so exact** that anyone, or a machine, gets the same answer by following it."
+            },
+            {
+              "q": "Why test an algorithm on awkward cases, like 999 + 1?",
+              "options": [
+                "It is not needed",
+                "A recipe must work for every case, including carries at the very end",
+                "To make it slower",
+                "Because big numbers are more fun"
+              ],
+              "answer": 1,
+              "why": "An algorithm must work for **every** input. 999 + 1 needs a carry at the very end. See *Test the steps on awkward cases*."
+            },
+            {
+              "q": "The three kinds of step in an algorithm are:",
+              "options": [
+                "Input, guess, output",
+                "Add, subtract, stop",
+                "Do something, decide, repeat",
+                "Start, middle, end"
+              ],
+              "answer": 2,
+              "why": "**Do something, decide, repeat.** Everything else is built from these."
+            }
+          ],
+          "children": []
         }
       ]
     },
@@ -259,6 +306,49 @@
           "desc": "Scanning up to the smaller number means **more digits, much more work**. A 3-digit number needs up to 999 checks; a 6-digit number up to 999 999.\n\nColumn addition is different: a 6-digit sum takes just 6 column steps. Can we find a gcd algorithm that is fast like addition? Euclid found one.",
           "links": [],
           "children": []
+        },
+        {
+          "id": "qc-gcd-lists",
+          "label": "Quick check: gcd with lists",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "What is gcd(12, 18)?",
+              "options": [
+                "6",
+                "2",
+                "36",
+                "3"
+              ],
+              "answer": 0,
+              "why": "Divisors of 12: 1, 2, 3, 4, 6, 12. Of 18: 1, 2, 3, 6, 9, 18. The greatest common one is **6**."
+            },
+            {
+              "q": "Using the list method, where is the gcd in the list of common divisors?",
+              "options": [
+                "First",
+                "In the middle",
+                "It is not in the list",
+                "Last, because the list is in increasing order"
+              ],
+              "answer": 3,
+              "why": "The list is in **increasing order**, so the greatest common divisor is the **last** one."
+            },
+            {
+              "q": "Why is the list method slow for big numbers?",
+              "options": [
+                "It only works for even numbers",
+                "It checks every number up to the smaller one: more digits, much more work",
+                "It needs a calculator",
+                "It gives wrong answers"
+              ],
+              "answer": 1,
+              "why": "It checks every possible divisor. **More digits, much more work.** See *Why this is still slow*."
+            }
+          ],
+          "children": []
         }
       ]
     },
@@ -326,6 +416,185 @@
           "type": "optional",
           "desc": "Around 820 CE, the Persian scholar **al-Khwārizmī** in Baghdad wrote a book explaining the **Indian** number system and its methods for adding, subtracting, multiplying and dividing. In Latin his name became *Algoritmi*, and the methods came to be called **algorisms**, and later **algorithms**.\n\nSo the word first meant 'an Indian method of arithmetic'.",
           "links": [],
+          "children": []
+        },
+        {
+          "id": "qc-euclid",
+          "label": "Quick check: Euclid's algorithm",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "gcd(m, n) = gcd(n, m − n). Use it: gcd(48, 18) = gcd(18, ?)",
+              "options": [
+                "66",
+                "30",
+                "18",
+                "6"
+              ],
+              "answer": 1,
+              "why": "48 − 18 = **30**. Keep subtracting the smaller from the bigger."
+            },
+            {
+              "q": "Find gcd(252, 105) with remainders.",
+              "options": [
+                "105",
+                "21",
+                "7",
+                "42"
+              ],
+              "answer": 1,
+              "why": "252 ÷ 105 leaves 42. 105 ÷ 42 leaves 21. 42 ÷ 21 leaves 0. The gcd is **21**."
+            },
+            {
+              "q": "Where does the word 'algorithm' come from?",
+              "options": [
+                "An English king",
+                "A computer company",
+                "A Greek god",
+                "The name of al-Khwārizmī, who wrote about Indian numbers"
+              ],
+              "answer": 3,
+              "why": "From **al-Khwārizmī**, whose book on the Indian way of calculating was translated into Latin."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: summary and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Do this before a class test, and again before the exam.",
+      "links": [],
+      "children": [
+        {
+          "id": "summary",
+          "label": "One-page summary",
+          "type": "core",
+          "desc": "**The one idea:** an algorithm is a recipe so exact that nobody has to think while following it.\n\n**What an algorithm is**\n- Steps of three kinds: **do something, decide, repeat**.\n- It must work for **every** case. Test awkward ones: different lengths, a carry at the end, nothing to carry.\n\n**gcd by lists**\n- List the divisors of each number in **increasing order**, keep the common ones, take the **last**.\n- Slow: more digits means much more work.\n\n**Euclid's algorithm**\n- **gcd(m, n) = gcd(n, m − n).** Subtract the smaller from the bigger until one number is 0. The other is the gcd.\n- Fast version: **gcd(m, n) = gcd(n, remainder of m ÷ n)**. Stop when the remainder is 0.\n- Why it works: m and n have **exactly the same common divisors** as n and m − n.\n\n**Example:** gcd(252, 105): 252 ÷ 105 leaves 42, 105 ÷ 42 leaves 21, 42 ÷ 21 leaves 0. **gcd = 21.**\n\n**The word:** from **al-Khwārizmī**, who wrote about the Indian way of calculating.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which is an algorithm?",
+              "options": [
+                "'Cook until it looks done'",
+                "'Add the units column, write the units digit, carry the tens'",
+                "'Guess a number'",
+                "'Do your best'"
+              ],
+              "answer": 1,
+              "why": "Every step is **exact**, with no guessing."
+            },
+            {
+              "q": "gcd(84, 120) = ?",
+              "options": [
+                "4",
+                "6",
+                "24",
+                "12"
+              ],
+              "answer": 3,
+              "why": "Both divide by 12, and nothing bigger works: **12**."
+            },
+            {
+              "q": "gcd(35, 64) = ?",
+              "options": [
+                "35",
+                "7",
+                "1",
+                "5"
+              ],
+              "answer": 2,
+              "why": "35 = 5 × 7 and 64 = 2⁶. No common prime, so **1**."
+            },
+            {
+              "q": "What is gcd(m, 0)?",
+              "options": [
+                "1",
+                "m",
+                "0",
+                "It has no answer"
+              ],
+              "answer": 1,
+              "why": "Every number divides 0, so the greatest common divisor is **m** itself. That is why Euclid's algorithm stops at 0."
+            },
+            {
+              "q": "gcd(1000, 999) = ?",
+              "options": [
+                "1",
+                "9",
+                "3",
+                "999"
+              ],
+              "answer": 0,
+              "why": "1000 − 999 = 1, and gcd(999, 1) = **1**."
+            },
+            {
+              "q": "In the remainder version, what do you do after 252 ÷ 105 leaves 42?",
+              "options": [
+                "Find 252 ÷ 42",
+                "Add 42 to 105",
+                "Stop: the gcd is 42",
+                "Find 105 ÷ 42"
+              ],
+              "answer": 3,
+              "why": "Replace (252, 105) by **(105, 42)** and divide again."
+            },
+            {
+              "q": "Why does the subtraction version give the same gcd?",
+              "options": [
+                "Any number dividing m and n also divides m − n, and the other way round",
+                "It does not always",
+                "Because subtraction is easy",
+                "Because the numbers get smaller"
+              ],
+              "answer": 0,
+              "why": "m, n and n, m − n have **exactly the same common divisors**, so the greatest one is the same."
+            },
+            {
+              "q": "389 + 57 by column addition = ?",
+              "options": [
+                "346",
+                "456",
+                "446",
+                "436"
+              ],
+              "answer": 2,
+              "why": "9 + 7 = 16, write 6 carry 1. 8 + 5 + 1 = 14, write 4 carry 1. 3 + 1 = 4. **446**."
+            },
+            {
+              "q": "Which is faster for big numbers?",
+              "options": [
+                "Euclid's algorithm with remainders",
+                "They are the same",
+                "Listing all divisors",
+                "Guessing"
+              ],
+              "answer": 0,
+              "why": "Euclid's algorithm needs only a few divisions, even for huge numbers."
+            },
+            {
+              "q": "gcd(60, 84) = ?",
+              "options": [
+                "6",
+                "4",
+                "12",
+                "24"
+              ],
+              "answer": 2,
+              "why": "84 ÷ 60 leaves 24. 60 ÷ 24 leaves 12. 24 ÷ 12 leaves 0. **12**."
+            }
+          ],
           "children": []
         }
       ]

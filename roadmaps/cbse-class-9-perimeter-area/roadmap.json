@@ -1,8 +1,12 @@
 {
   "title": "Class 9 Maths, Chapter 6: Perimeter and Area, Step by Step",
   "subtitle": "For students who find maths hard. One question holds the chapter together: fence or floor? Every area formula is shown as a cut-and-rearrange picture, so it can be rebuilt, not just remembered. Small steps, every calculation shown, practice with answers. Follows NCERT Ganita Manjari, Grade 9 Part I, Chapter 6 (Measuring Space: Perimeter and Area).",
-  "updated": "2026-11-04",
+  "updated": "2026-11-10",
   "changelog": [
+    {
+      "date": "2026-11-10",
+      "text": "Added a quick check (click an answer to check it) at the end of each milestone, and a new Wrap up milestone with a one-page summary and a 10-question self-test."
+    },
     {
       "date": "2026-11-04",
       "text": "Linked into the Class 9 Maths series: links to the start page for this part and to the chapters before and after this one."
@@ -40,7 +44,7 @@
           "id": "how-to-use",
           "label": "How to use this roadmap",
           "type": "core",
-          "desc": "- Go in order. Each step is small. On the map the steps go left and right, so press **Checklist view** at the top to see them as a list, in order.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Draw the shape and write the measurements on it** before you calculate.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: perimeter is the fence, area is the floor.** Perimeter measures the boundary, in cm or m. Area counts the squares inside, in cm² or m². Before every question, ask: fence or floor?",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Draw the shape and write the measurements on it** before you calculate.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: perimeter is the fence, area is the floor.** Perimeter measures the boundary, in cm or m. Area counts the squares inside, in cm² or m². Before every question, ask: fence or floor?",
           "links": [
             {
               "label": "All chapters in Term 1: start page",
@@ -65,7 +69,7 @@
           "id": "about",
           "label": "About this roadmap",
           "type": "optional",
-          "desc": "**What it is.** A step-by-step path through Chapter 6 of the NCERT textbook *Ganita Manjari*, Grade 9 Part I: *Measuring Space: Perimeter and Area*.\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** Perimeter is the fence, area is the floor.\n\n**How it is different from the textbook.** Every question starts with one question, fence or floor?, so perimeter and area never get mixed up. Every area formula is shown as a cut-and-rearrange picture, and arithmetic with 22/7 is made easy by cancelling the 7 first.\n\n**What is inside.**\n- 9 milestones and 33 small steps. The 23 solid steps are the core path. The dashed ones are optional.\n- 38 practice questions with hidden answers, and 8 pictures.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the history of π, the semicircle puzzle, Baudhāyana's construction and the starred questions.\n- For teachers and parents: an 8-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
+          "desc": "**What it is.** A step-by-step path through Chapter 6 of the NCERT textbook *Ganita Manjari*, Grade 9 Part I: *Measuring Space: Perimeter and Area*.\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** Perimeter is the fence, area is the floor.\n\n**How it is different from the textbook.** Every question starts with one question, fence or floor?, so perimeter and area never get mixed up. Every area formula is shown as a cut-and-rearrange picture, and arithmetic with 22/7 is made easy by cancelling the 7 first.\n\n**What is inside.**\n- 10 milestones and 41 small steps. The 31 solid steps are the core path. The dashed ones are optional.\n- 38 practice questions with hidden answers, and 8 pictures.\n- 27 click-to-check questions that say right or wrong, and why: a quick check after each of the 6 main milestones, and a 10-question self-test.\n- A *Wrap up* milestone with a **one-page summary** of the whole chapter.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the history of π, the semicircle puzzle, Baudhāyana's construction and the starred questions.\n- For teachers and parents: an 8-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
           "links": [
             {
               "label": "The licence: CC BY-SA 4.0",
@@ -197,6 +201,38 @@
             }
           ],
           "children": []
+        },
+        {
+          "id": "qc-fence-floor",
+          "label": "Quick check: fence or floor",
+          "type": "core",
+          "desc": "Two questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "You want to put tiles on a floor. Do you need the perimeter or the area?",
+              "options": [
+                "Both",
+                "Perimeter",
+                "Area",
+                "Neither"
+              ],
+              "answer": 2,
+              "why": "Tiles cover the **inside**: that is **area**, in m². A fence goes **around**: that is perimeter."
+            },
+            {
+              "q": "A 9 m by 4 m garden and a 6 m by 6 m garden. Which is true?",
+              "options": [
+                "Same area, different perimeters",
+                "Same perimeter, same area",
+                "Different area and perimeter",
+                "Same perimeter, different areas"
+              ],
+              "answer": 0,
+              "why": "Both areas are 36 m². Perimeters: 2(9 + 4) = 26 m and 2(6 + 6) = 24 m. **Same area, different perimeters.**"
+            }
+          ],
+          "children": []
         }
       ]
     },
@@ -268,6 +304,49 @@
           "type": "optional",
           "desc": "- **Archimedes** (Greece) trapped π between two polygons with 96 sides: between 3 10/71 and 3 1/7.\n- **Āryabhaṭa** (India, 499 CE) gave π ≈ 3.1416.\n- **Zu Chongzhi** (China) gave 355/113, correct to 6 decimal places.\n- **Mādhava** (Kerala) found a never-ending sum that gives π exactly.",
           "links": [],
+          "children": []
+        },
+        {
+          "id": "qc-circle-perimeter",
+          "label": "Quick check: circumference",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Find the circumference of a circle of radius 7 cm (π = 22/7).",
+              "options": [
+                "44 cm",
+                "49 cm",
+                "154 cm",
+                "22 cm"
+              ],
+              "answer": 0,
+              "why": "C = 2πr = 2 × 22/7 × 7 = **44 cm**."
+            },
+            {
+              "q": "A circle has circumference 132 cm. What is its radius?",
+              "options": [
+                "21 cm",
+                "7 cm",
+                "66 cm",
+                "42 cm"
+              ],
+              "answer": 0,
+              "why": "2 × 22/7 × r = 132, so 44r/7 = 132 and r = **21 cm**."
+            },
+            {
+              "q": "What does a wheel travel in one full turn?",
+              "options": [
+                "Its radius",
+                "Its diameter",
+                "Its circumference",
+                "Its area"
+              ],
+              "answer": 2,
+              "why": "In one turn, the edge rolls out flat once: **one circumference**. See *Wheels and how far they go*."
+            }
+          ],
           "children": []
         }
       ]
@@ -341,6 +420,49 @@
           "type": "optional",
           "desc": "Draw a big semicircle on a line from P to Q. Now split PQ into three parts and draw three small semicircles instead.\n\nWhich path from P to Q is longer? **They are equal.** Each semicircle is π × radius. The small radii add up to the big radius, so the lengths add up too.\n\nTry it with string if you don't believe it.",
           "links": [],
+          "children": []
+        },
+        {
+          "id": "qc-arcs",
+          "label": "Quick check: arcs and sectors",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A sector of a circle of radius 21 cm has angle 60°. How long is its arc?",
+              "options": [
+                "66 cm",
+                "132 cm",
+                "22 cm",
+                "11 cm"
+              ],
+              "answer": 2,
+              "why": "60° is 1/6 of the circle. 1/6 × 2 × 22/7 × 21 = 1/6 × 132 = **22 cm**."
+            },
+            {
+              "q": "A quarter circle has radius 14 cm. What is its perimeter?",
+              "options": [
+                "50 cm",
+                "22 cm",
+                "36 cm",
+                "88 cm"
+              ],
+              "answer": 0,
+              "why": "Arc = 1/4 × 88 = 22 cm. Add **two radii**: 22 + 14 + 14 = **50 cm**."
+            },
+            {
+              "q": "The most common mistake with a sector's perimeter is:",
+              "options": [
+                "Forgetting the two radii",
+                "Using the diameter",
+                "Using 360 instead of 180",
+                "Squaring the radius"
+              ],
+              "answer": 0,
+              "why": "A sector's perimeter is the **arc plus two radii**. See *Perimeter of a sector*."
+            }
+          ],
           "children": []
         }
       ]
@@ -452,6 +574,49 @@
             }
           ],
           "children": []
+        },
+        {
+          "id": "qc-straight-areas",
+          "label": "Quick check: straight-sided areas",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A parallelogram has base 8 cm and height 5 cm. Its slanted side is 6 cm. What is its area?",
+              "options": [
+                "30 cm²",
+                "48 cm²",
+                "40 cm²",
+                "24 cm²"
+              ],
+              "answer": 2,
+              "why": "Area = base × **straight-up height** = 8 × 5 = **40 cm²**. The slanted side is not the height."
+            },
+            {
+              "q": "A trapezium has parallel sides 6 cm and 10 cm, 4 cm apart. Find its area.",
+              "options": [
+                "32 cm²",
+                "40 cm²",
+                "64 cm²",
+                "240 cm²"
+              ],
+              "answer": 0,
+              "why": "½ × (6 + 10) × 4 = ½ × 16 × 4 = **32 cm²**."
+            },
+            {
+              "q": "A rhombus has diagonals 12 cm and 9 cm. Find its area.",
+              "options": [
+                "42 cm²",
+                "108 cm²",
+                "21 cm²",
+                "54 cm²"
+              ],
+              "answer": 3,
+              "why": "½ × d₁ × d₂ = ½ × 12 × 9 = **54 cm²**."
+            }
+          ],
+          "children": []
         }
       ]
     },
@@ -508,6 +673,49 @@
             {
               "q": "Your turn: sides 20, 21, 29. Find the area.",
               "a": "s = 35. 35 × 15 × 14 × 6 = 44100. √44100 = **210**. (It is a right triangle: 20² + 21² = 29², and ½ × 20 × 21 = 210.)"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-heron",
+          "label": "Quick check: Heron's formula",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A triangle has sides 5, 12 and 13. What is s?",
+              "options": [
+                "13",
+                "10",
+                "30",
+                "15"
+              ],
+              "answer": 3,
+              "why": "s = (5 + 12 + 13) ÷ 2 = 30 ÷ 2 = **15**."
+            },
+            {
+              "q": "Using s = 15, find the area of the 5, 12, 13 triangle.",
+              "options": [
+                "900",
+                "60",
+                "30",
+                "15"
+              ],
+              "answer": 2,
+              "why": "√(15 × 10 × 3 × 2) = √900 = **30**. Check: it is right-angled, so ½ × 5 × 12 = 30 too."
+            },
+            {
+              "q": "When do you need Heron's formula?",
+              "options": [
+                "For circles",
+                "When you know the base and height",
+                "When you know only the three sides",
+                "For right angles only"
+              ],
+              "answer": 2,
+              "why": "Heron gives the area from **three sides**, when the height is not known."
             }
           ],
           "children": []
@@ -606,6 +814,185 @@
             {
               "src": "images/ring.png",
               "caption": "Ring: big circle minus small circle"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-circle-area",
+          "label": "Quick check: area of a circle",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Find the area of a circle of radius 7 cm.",
+              "options": [
+                "22 cm²",
+                "44 cm²",
+                "49 cm²",
+                "154 cm²"
+              ],
+              "answer": 3,
+              "why": "πr² = 22/7 × 49 = **154 cm²**."
+            },
+            {
+              "q": "A circle has diameter 42 cm. Find its area.",
+              "options": [
+                "132 cm²",
+                "264 cm²",
+                "5544 cm²",
+                "1386 cm²"
+              ],
+              "answer": 3,
+              "why": "Watch out: the **radius is 21**, not 42. 22/7 × 21 × 21 = **1386 cm²**."
+            },
+            {
+              "q": "A ring has outer radius 14 cm and inner radius 7 cm. Find its area.",
+              "options": [
+                "462 cm²",
+                "22 cm²",
+                "154 cm²",
+                "616 cm²"
+              ],
+              "answer": 0,
+              "why": "Big minus small: 616 − 154 = **462 cm²**. See *Rings and leftover pieces*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: summary and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Do this before a class test, and again before the exam.",
+      "links": [],
+      "children": [
+        {
+          "id": "summary",
+          "label": "One-page summary",
+          "type": "core",
+          "desc": "**The one idea:** perimeter is the fence, area is the floor.\n\n**Perimeter (units: cm, m)**\n- Rectangle: **2(l + b)**.\n- Circle: **C = 2πr = πd**. Take π = 22/7 or 3.14.\n- Arc: **(θ ÷ 360) × 2πr**. Sector perimeter = **arc + 2 radii**.\n- One turn of a wheel = one circumference.\n\n**Area (units: cm², m²)**\n- Rectangle: **l × b**. Parallelogram: **base × height** (the straight-up height).\n- Triangle: **½ × base × height**.\n- Trapezium: **½ × (a + b) × h**, a and b the parallel sides.\n- Rhombus or kite: **½ × d₁ × d₂**.\n- Circle: **πr²**. Sector: **(θ ÷ 360) × πr²**.\n- Ring or leftover piece: **big area minus the parts not shaded**.\n\n**Heron's formula** (three sides, no height)\n- **s = (a + b + c) ÷ 2**, then **Area = √(s(s − a)(s − b)(s − c))**.\n\n**Watch out**\n- Given the diameter? **Halve it** before using πr².\n- Same area does **not** mean same perimeter.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A rectangle is 12 m by 3 m. A square has the same area. What is the square's side?",
+              "options": [
+                "4 m",
+                "7.5 m",
+                "6 m",
+                "9 m"
+              ],
+              "answer": 2,
+              "why": "Area = 36 m², and 6 × 6 = 36, so the side is **6 m**."
+            },
+            {
+              "q": "A wheel of radius 35 cm turns 100 times. How far does it go?",
+              "options": [
+                "2200 m",
+                "220 m",
+                "22 m",
+                "110 m"
+              ],
+              "answer": 1,
+              "why": "One turn = 2 × 22/7 × 35 = 220 cm. 100 turns = 22 000 cm = **220 m**."
+            },
+            {
+              "q": "A sector has radius 14 cm and angle 90°. Find its area.",
+              "options": [
+                "154 cm²",
+                "44 cm²",
+                "616 cm²",
+                "77 cm²"
+              ],
+              "answer": 0,
+              "why": "1/4 × 22/7 × 196 = 1/4 × 616 = **154 cm²**."
+            },
+            {
+              "q": "A triangle has base 10 cm and height 6 cm. Find its area.",
+              "options": [
+                "60 cm²",
+                "16 cm²",
+                "36 cm²",
+                "30 cm²"
+              ],
+              "answer": 3,
+              "why": "½ × 10 × 6 = **30 cm²**."
+            },
+            {
+              "q": "A triangle has sides 13, 14 and 15. Find its area with Heron's formula.",
+              "options": [
+                "21",
+                "84",
+                "42",
+                "91"
+              ],
+              "answer": 1,
+              "why": "s = 21. √(21 × 8 × 7 × 6) = √7056 = **84**."
+            },
+            {
+              "q": "What is the area of a semicircle of radius 7 cm?",
+              "options": [
+                "77 cm²",
+                "44 cm²",
+                "154 cm²",
+                "22 cm²"
+              ],
+              "answer": 0,
+              "why": "Half of 154: **77 cm²**."
+            },
+            {
+              "q": "Which unit could be an area?",
+              "options": [
+                "cm³",
+                "cm²",
+                "m",
+                "cm"
+              ],
+              "answer": 1,
+              "why": "Area counts squares: **cm²**. cm is a length, cm³ a volume."
+            },
+            {
+              "q": "A parallelogram has area 36 cm² and base 9 cm. Find its height.",
+              "options": [
+                "27 cm",
+                "3 cm",
+                "4 cm",
+                "45 cm"
+              ],
+              "answer": 2,
+              "why": "36 = 9 × h, so h = **4 cm**."
+            },
+            {
+              "q": "Two shapes have the same perimeter. Must they have the same area?",
+              "options": [
+                "Yes, always",
+                "Yes, if both are rectangles",
+                "Only for circles",
+                "No: a 5 × 1 and a 3 × 3 rectangle both have perimeter 12 but areas 5 and 9"
+              ],
+              "answer": 3,
+              "why": "The perimeter does **not** decide the area. 5 × 1 and 3 × 3 rectangles both have perimeter 12."
+            },
+            {
+              "q": "A circular park has radius 21 m. How long is the fence around it?",
+              "options": [
+                "441 m",
+                "66 m",
+                "1386 m",
+                "132 m"
+              ],
+              "answer": 3,
+              "why": "Fence means **perimeter**: 2 × 22/7 × 21 = **132 m**."
             }
           ],
           "children": []

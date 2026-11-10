@@ -1,8 +1,12 @@
 {
   "title": "Class 9 Maths, Chapter 5: Circles, Step by Step",
   "subtitle": "For students who find maths hard. One idea holds the chapter together: every radius is the same length, which gives an isosceles triangle and a hidden right triangle. Learn to use each fact first; the proofs come later. Small steps, a picture for every fact, practice with answers. Follows NCERT Ganita Manjari, Grade 9 Part I, Chapter 5 (I'm Up and Down, and Round and Round).",
-  "updated": "2026-11-04",
+  "updated": "2026-11-10",
   "changelog": [
+    {
+      "date": "2026-11-10",
+      "text": "Added a quick check (click an answer to check it) at the end of each milestone, and a new Wrap up milestone with a one-page summary and a 10-question self-test."
+    },
     {
       "date": "2026-11-04",
       "text": "Linked into the Class 9 Maths series: links to the start page for this part and to the chapters before and after this one."
@@ -40,7 +44,7 @@
           "id": "how-to-use",
           "label": "How to use this roadmap",
           "type": "core",
-          "desc": "- Go in order. Each step is small. On the map the steps go left and right, so press **Checklist view** at the top to see them as a list, in order.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Draw a picture for every question.** In geometry the picture does half the work.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: every radius is the same length.** Draw two radii and you get an isosceles triangle. Draw a radius to a chord and you get a right triangle. Nearly every circle fact comes from that.",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Draw a picture for every question.** In geometry the picture does half the work.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: every radius is the same length.** Draw two radii and you get an isosceles triangle. Draw a radius to a chord and you get a right triangle. Nearly every circle fact comes from that.",
           "links": [
             {
               "label": "All chapters in Term 1: start page",
@@ -65,7 +69,7 @@
           "id": "about",
           "label": "About this roadmap",
           "type": "optional",
-          "desc": "**What it is.** A step-by-step path through Chapter 5 of the NCERT textbook *Ganita Manjari*, Grade 9 Part I: *I'm Up and Down, and Round and Round*.\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** Every radius is the same length.\n\n**How it is different from the textbook.** The textbook proves twelve theorems. This roadmap teaches students to use each fact first, with a picture and worked numbers, and keeps the proofs for later. Two triangles do almost all the work: the isosceles triangle made by two radii, and the right triangle hidden under every chord.\n\n**What is inside.**\n- 8 milestones and 35 small steps. The 23 solid steps are the core path. The dashed ones are optional.\n- 37 practice questions with hidden answers, and 10 pictures.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the proofs (the 'why' milestone) and the starred questions.\n- For teachers and parents: an 8-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
+          "desc": "**What it is.** A step-by-step path through Chapter 5 of the NCERT textbook *Ganita Manjari*, Grade 9 Part I: *I'm Up and Down, and Round and Round*.\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** Every radius is the same length.\n\n**How it is different from the textbook.** The textbook proves twelve theorems. This roadmap teaches students to use each fact first, with a picture and worked numbers, and keeps the proofs for later. Two triangles do almost all the work: the isosceles triangle made by two radii, and the right triangle hidden under every chord.\n\n**What is inside.**\n- 9 milestones and 42 small steps. The 30 solid steps are the core path. The dashed ones are optional.\n- 37 practice questions with hidden answers, and 10 pictures.\n- 25 click-to-check questions that say right or wrong, and why: a quick check after each of the 5 main milestones, and a 10-question self-test.\n- A *Wrap up* milestone with a **one-page summary** of the whole chapter.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the proofs (the 'why' milestone) and the starred questions.\n- For teachers and parents: an 8-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
           "links": [
             {
               "label": "The licence: CC BY-SA 4.0",
@@ -248,6 +252,49 @@
             }
           ],
           "children": []
+        },
+        {
+          "id": "qc-circle-words",
+          "label": "Quick check: circle words",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "What is the longest chord in a circle?",
+              "options": [
+                "An arc",
+                "Any chord near the edge",
+                "The diameter",
+                "A radius"
+              ],
+              "answer": 2,
+              "why": "A chord through the centre is the **diameter**, and no chord is longer. See *What a circle is*."
+            },
+            {
+              "q": "O is the centre, and A and B are on the circle. Angle AOB = 50°. Find angle OAB.",
+              "options": [
+                "130°",
+                "50°",
+                "65°",
+                "25°"
+              ],
+              "answer": 2,
+              "why": "OA = OB (both radii), so triangle OAB is **isosceles**. The two base angles are (180 − 50) ÷ 2 = **65°**."
+            },
+            {
+              "q": "What is the part of the circle's edge between two points called?",
+              "options": [
+                "A chord",
+                "A segment",
+                "A sector",
+                "An arc"
+              ],
+              "answer": 3,
+              "why": "A piece of the circle's edge is an **arc**. A chord is the straight line joining the two points."
+            }
+          ],
+          "children": []
         }
       ]
     },
@@ -332,6 +379,49 @@
           "type": "optional",
           "desc": "You have a round plate and want its centre.\n- Draw round it on paper. Draw any two chords that are not parallel.\n- Draw the perpendicular bisector of each chord.\n- They cross at the **centre**.\n\nIt works because the perpendicular bisector of any chord passes through the centre. You will see why in the next milestone.",
           "links": [],
+          "children": []
+        },
+        {
+          "id": "qc-how-many-circles",
+          "label": "Quick check: circles through points",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "How many circles pass through two given points?",
+              "options": [
+                "None",
+                "Infinitely many",
+                "Two",
+                "One"
+              ],
+              "answer": 1,
+              "why": "Any point on the **perpendicular bisector** can be a centre, so there are **infinitely many**."
+            },
+            {
+              "q": "How many circles pass through three points that are not in a straight line?",
+              "options": [
+                "Exactly one",
+                "None",
+                "Two",
+                "Infinitely many"
+              ],
+              "answer": 0,
+              "why": "Three points not in a line fix **exactly one circle**: the circumcircle. See *Through three points*."
+            },
+            {
+              "q": "Where is the circumcentre of a right-angled triangle?",
+              "options": [
+                "At the right angle",
+                "Inside the triangle",
+                "At the midpoint of the longest side",
+                "Outside the triangle"
+              ],
+              "answer": 2,
+              "why": "The longest side is a **diameter**, so the centre is at its **midpoint**. See *Where does the centre land?*"
+            }
+          ],
           "children": []
         }
       ]
@@ -424,6 +514,49 @@
           "desc": "Draw both right triangles, one for each chord, with the same radius.\n\n**Worked example:** radius 5 cm. Parallel chords of 8 cm and 6 cm. How far apart are they?\n- 8 cm chord: half 4, so d = 3 (because 4² + 3² = 5²).\n- 6 cm chord: half 3, so d = 4.\n- **Same side** of the centre: 4 − 3 = **1 cm** apart.\n- **Opposite sides** of the centre: 4 + 3 = **7 cm** apart.\n\nAlways draw the picture to see which case you have.",
           "links": [],
           "children": []
+        },
+        {
+          "id": "qc-chords",
+          "label": "Quick check: chords",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A circle has radius 5 cm. A chord is 3 cm from the centre. How long is the chord?",
+              "options": [
+                "4 cm",
+                "8 cm",
+                "6 cm",
+                "10 cm"
+              ],
+              "answer": 1,
+              "why": "half² + 3² = 5², so half = 4. The chord is **2 × 4 = 8 cm**. Don't forget to double. See *The hidden right triangle*."
+            },
+            {
+              "q": "A chord of 24 cm is in a circle of radius 13 cm. How far is it from the centre?",
+              "options": [
+                "11 cm",
+                "1 cm",
+                "5 cm",
+                "12 cm"
+              ],
+              "answer": 2,
+              "why": "Half the chord is 12. 12² + d² = 13², so d² = 169 − 144 = 25 and d = **5 cm**."
+            },
+            {
+              "q": "Two chords are 3 cm and 4 cm from the centre. Which one is longer?",
+              "options": [
+                "The one 4 cm away",
+                "We cannot tell",
+                "The one 3 cm away",
+                "They are equal"
+              ],
+              "answer": 2,
+              "why": "**Longer chords are closer to the centre.** So the chord 3 cm away is longer."
+            }
+          ],
+          "children": []
         }
       ]
     },
@@ -515,6 +648,49 @@
             }
           ],
           "children": []
+        },
+        {
+          "id": "qc-arcs-angles",
+          "label": "Quick check: angles from an arc",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "An arc makes 70° at the centre. What angle does it make at a point on the rest of the circle?",
+              "options": [
+                "110°",
+                "35°",
+                "70°",
+                "140°"
+              ],
+              "answer": 1,
+              "why": "The angle at the centre is **twice** the angle at the circle. So 70 ÷ 2 = **35°**."
+            },
+            {
+              "q": "Two angles at the circle stand on the same arc. One is 40°. The other is:",
+              "options": [
+                "40°",
+                "20°",
+                "140°",
+                "80°"
+              ],
+              "answer": 0,
+              "why": "**Angles from the same arc are equal**: 40°."
+            },
+            {
+              "q": "AB is a diameter and C is on the circle. Angle CAB = 35°. Find angle CBA.",
+              "options": [
+                "145°",
+                "55°",
+                "90°",
+                "35°"
+              ],
+              "answer": 1,
+              "why": "The angle on a diameter, ACB, is **90°**. So CBA = 180 − 90 − 35 = **55°**."
+            }
+          ],
+          "children": []
         }
       ]
     },
@@ -591,6 +767,185 @@
             {
               "q": "Your turn: angle A = 75° in cyclic ABCD. Side DC is extended past C. What is the outside angle at C?",
               "a": "It equals the opposite inside angle, A: **75°**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-cyclic",
+          "label": "Quick check: cyclic quadrilaterals",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "In a cyclic quadrilateral, one angle is 75°. What is the opposite angle?",
+              "options": [
+                "285°",
+                "15°",
+                "75°",
+                "105°"
+              ],
+              "answer": 3,
+              "why": "**Opposite angles add to 180°**: 180 − 75 = **105°**."
+            },
+            {
+              "q": "Opposite angles of a cyclic quadrilateral are (2x + 10)° and (3x + 20)°. Find x.",
+              "options": [
+                "26",
+                "30",
+                "40",
+                "34"
+              ],
+              "answer": 1,
+              "why": "They add to 180: 5x + 30 = 180, so 5x = 150 and x = **30**. Check: 70 + 110 = 180."
+            },
+            {
+              "q": "A quadrilateral has opposite angles 85° and 95°. Can its corners lie on a circle?",
+              "options": [
+                "Only if it is a square",
+                "We need all four angles",
+                "No, the angles are different",
+                "Yes: 85 + 95 = 180"
+              ],
+              "answer": 3,
+              "why": "If a pair of opposite angles adds to 180°, the quadrilateral **is cyclic**. See *Is this quadrilateral cyclic?*"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: summary and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Do this before a class test, and again before the exam.",
+      "links": [],
+      "children": [
+        {
+          "id": "summary",
+          "label": "One-page summary",
+          "type": "core",
+          "desc": "**The one idea:** every radius is the same length.\n\n**Words**\n- **Radius:** centre to edge. **Diameter:** a chord through the centre, the longest chord, = 2 × radius.\n- **Chord:** a straight line joining two points on the circle. **Arc:** a piece of the edge.\n\n**Big tool:** two radii make an **isosceles triangle**. Draw them in.\n\n**Points and circles**\n- Through 2 points: **infinitely many** circles. Through 3 points not in a line: **exactly one**.\n- Circumcentre: inside an acute triangle, at the **midpoint of the longest side** of a right triangle, outside an obtuse one.\n\n**Chords**\n- **Equal chords** make equal angles at the centre, and are the same distance from it.\n- The line from the centre at right angles to a chord **cuts it in half**.\n- **half² + d² = r²**. Remember to double the half at the end.\n- Longer chords are **closer** to the centre.\n\n**Angles**\n- Angle at the centre = **twice** the angle at the circle (same arc).\n- Angles on the **same arc are equal**.\n- The angle on a **diameter is 90°**.\n\n**Cyclic quadrilaterals**\n- **Opposite angles add to 180°.** If they do, the shape is cyclic.\n- The outside angle equals the **inside opposite angle**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A circle has radius 7 cm. How long is its diameter?",
+              "options": [
+                "14 cm",
+                "49 cm",
+                "3.5 cm",
+                "7 cm"
+              ],
+              "answer": 0,
+              "why": "Diameter = 2 × radius = **14 cm**."
+            },
+            {
+              "q": "A chord is 16 cm long in a circle of radius 10 cm. How far is it from the centre?",
+              "options": [
+                "6 cm",
+                "8 cm",
+                "2 cm",
+                "4 cm"
+              ],
+              "answer": 0,
+              "why": "Half = 8. 8² + d² = 10², d² = 36, d = **6 cm**."
+            },
+            {
+              "q": "A chord is 10 cm long and 12 cm from the centre. What is the radius?",
+              "options": [
+                "7 cm",
+                "60 cm",
+                "13 cm",
+                "17 cm"
+              ],
+              "answer": 2,
+              "why": "Half the chord is 5. 5² + 12² = 25 + 144 = 169, so r = **13 cm**."
+            },
+            {
+              "q": "An angle at the circle is 65°. What angle does the same arc make at the centre?",
+              "options": [
+                "115°",
+                "130°",
+                "65°",
+                "32.5°"
+              ],
+              "answer": 1,
+              "why": "Double it: **130°**."
+            },
+            {
+              "q": "In a cyclic quadrilateral, one angle is 112°. Find the opposite angle.",
+              "options": [
+                "78°",
+                "248°",
+                "68°",
+                "112°"
+              ],
+              "answer": 2,
+              "why": "180 − 112 = **68°**."
+            },
+            {
+              "q": "Two chords are equal. What can you say about their distances from the centre?",
+              "options": [
+                "They are equal",
+                "Nothing",
+                "The longer one is closer",
+                "They add to the radius"
+              ],
+              "answer": 0,
+              "why": "**Equal chords are the same distance** from the centre."
+            },
+            {
+              "q": "O is the centre. OA and OB are radii, and angle OAB = 20°. Find angle AOB.",
+              "options": [
+                "140°",
+                "160°",
+                "40°",
+                "20°"
+              ],
+              "answer": 0,
+              "why": "Isosceles: OBA = 20° too. AOB = 180 − 20 − 20 = **140°**."
+            },
+            {
+              "q": "Chords of 6 cm and 8 cm are parallel, on the same side of the centre, in a circle of radius 5 cm. How far apart are they?",
+              "options": [
+                "7 cm",
+                "1 cm",
+                "2 cm",
+                "14 cm"
+              ],
+              "answer": 1,
+              "why": "Distances from the centre: √(25 − 9) = 4 and √(25 − 16) = 3. Same side: 4 − 3 = **1 cm**. (Opposite sides would be 7 cm.)"
+            },
+            {
+              "q": "Which triangle has its circumcentre outside it?",
+              "options": [
+                "An acute triangle",
+                "An equilateral triangle",
+                "An obtuse triangle",
+                "A right-angled triangle"
+              ],
+              "answer": 2,
+              "why": "The circumcentre is **outside an obtuse** triangle."
+            },
+            {
+              "q": "Is every parallelogram cyclic?",
+              "options": [
+                "No: its opposite angles are equal, so they add to 180° only if each is 90°",
+                "Yes",
+                "Yes, if it is drawn neatly",
+                "Only if its sides are equal"
+              ],
+              "answer": 0,
+              "why": "A parallelogram's opposite angles are **equal**. They add to 180° only when each is 90°, so only **rectangles** are cyclic."
             }
           ],
           "children": []

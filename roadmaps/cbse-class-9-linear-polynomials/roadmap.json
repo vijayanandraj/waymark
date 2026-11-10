@@ -1,8 +1,12 @@
 {
   "title": "Class 9 Maths, Chapter 2: Linear Polynomials, Step by Step",
   "subtitle": "For students who find maths hard. The whole chapter is one idea, a start plus the same jump every time, taught in small steps with every calculation shown and plenty of practice. Follows NCERT Ganita Manjari, Grade 9 Part I, Chapter 2 (Introduction to Linear Polynomials).",
-  "updated": "2026-11-04",
+  "updated": "2026-11-10",
   "changelog": [
+    {
+      "date": "2026-11-10",
+      "text": "Added a quick check (click an answer to check it) at the end of each milestone, and a new Wrap up milestone with a one-page summary and a 10-question self-test."
+    },
     {
       "date": "2026-11-04",
       "text": "Linked into the Class 9 Maths series: links to the start page for this part and to the chapters before and after this one."
@@ -40,7 +44,7 @@
           "id": "how-to-use",
           "label": "How to use this roadmap",
           "type": "core",
-          "desc": "- Go in order. Each step is small. On the map the steps go left and right, so press **Checklist view** at the top to see them as a list, in order.\n- Click a box to open it. Read the idea, follow the worked example, then do **Your turn**.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: a start, plus the same jump every time.** Watch for it. Once you see it, the chapter becomes much smaller than it looks.",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea, follow the worked example, then do **Your turn**.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: a start, plus the same jump every time.** Watch for it. Once you see it, the chapter becomes much smaller than it looks.",
           "links": [
             {
               "label": "All chapters in Term 1: start page",
@@ -65,7 +69,7 @@
           "id": "about",
           "label": "About this roadmap",
           "type": "optional",
-          "desc": "**What it is.** A step-by-step path through Chapter 2 of the NCERT textbook *Ganita Manjari*, Grade 9 Part I: *Introduction to Linear Polynomials*.\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** A start, plus the same jump every time.\n\n**How it is different from the textbook.** Everything is tied to one picture: a start, plus the same jump every time. Tables, machines and graphs all show that one idea, so a linear polynomial stops being a string of letters and becomes a pattern the student can see.\n\n**What is inside.**\n- 9 milestones and 36 small steps. The 25 solid steps are the core path. The dashed ones are optional.\n- 60 practice questions with hidden answers, and 7 pictures.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: a jump that starts later, and challenge questions on fractions, number puzzles, temperature conversion and lines through two points.\n- For teachers and parents: a 9-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
+          "desc": "**What it is.** A step-by-step path through Chapter 2 of the NCERT textbook *Ganita Manjari*, Grade 9 Part I: *Introduction to Linear Polynomials*.\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** A start, plus the same jump every time.\n\n**How it is different from the textbook.** Everything is tied to one picture: a start, plus the same jump every time. Tables, machines and graphs all show that one idea, so a linear polynomial stops being a string of letters and becomes a pattern the student can see.\n\n**What is inside.**\n- 10 milestones and 44 small steps. The 33 solid steps are the core path. The dashed ones are optional.\n- 60 practice questions with hidden answers, and 7 pictures.\n- 27 click-to-check questions that say right or wrong, and why: a quick check after each of the 6 main milestones, and a 10-question self-test.\n- A *Wrap up* milestone with a **one-page summary** of the whole chapter.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: a jump that starts later, and challenge questions on fractions, number puzzles, temperature conversion and lines through two points.\n- For teachers and parents: a 9-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
           "links": [
             {
               "label": "The licence: CC BY-SA 4.0",
@@ -265,6 +269,38 @@
             }
           ],
           "children": []
+        },
+        {
+          "id": "qc-algebra-words",
+          "label": "Quick check: algebra words",
+          "type": "core",
+          "desc": "Two questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "In 7x − 4, what is the coefficient of x?",
+              "options": [
+                "4",
+                "x",
+                "−4",
+                "7"
+              ],
+              "answer": 3,
+              "why": "The **coefficient** is the number in front of the letter: **7**. −4 is the constant. See *Terms, coefficients and constants*."
+            },
+            {
+              "q": "What is the degree of 5x³ − 2x + 9?",
+              "options": [
+                "2",
+                "3",
+                "9",
+                "1"
+              ],
+              "answer": 1,
+              "why": "The degree is the **biggest power** of x. Here that is x³, so the degree is **3** (cubic)."
+            }
+          ],
+          "children": []
         }
       ]
     },
@@ -335,6 +371,49 @@
             {
               "q": "Answers: Level 3",
               "a": "- 4² − 3 × 4 + 2 = 16 − 12 + 2 = **6**\n- 2 × (−2)² + 1 = 2 × 4 + 1 = **9**"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-putting-numbers-in",
+          "label": "Quick check: putting a number in",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Find 3x + 1 when x = 4.",
+              "options": [
+                "34",
+                "13",
+                "12",
+                "8"
+              ],
+              "answer": 1,
+              "why": "3 × 4 = 12, then 12 + 1 = **13**."
+            },
+            {
+              "q": "Find 3x + 1 when x = −2.",
+              "options": [
+                "5",
+                "−5",
+                "7",
+                "−7"
+              ],
+              "answer": 1,
+              "why": "3 × (−2) = −6, then −6 + 1 = **−5**. Keep the brackets round the negative."
+            },
+            {
+              "q": "Find x² + 2x when x = −3.",
+              "options": [
+                "3",
+                "15",
+                "−15",
+                "−3"
+              ],
+              "answer": 0,
+              "why": "**Power first:** (−3)² = 9. Then 2 × (−3) = −6. So 9 − 6 = **3**. See *Machines with x²*."
             }
           ],
           "children": []
@@ -421,6 +500,49 @@
             }
           ],
           "children": []
+        },
+        {
+          "id": "qc-patterns",
+          "label": "Quick check: patterns",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which pattern is linear (the same jump every time)?",
+              "options": [
+                "1, 4, 9, 16",
+                "2, 4, 8, 16",
+                "1, 2, 4, 7",
+                "3, 8, 13, 18"
+              ],
+              "answer": 3,
+              "why": "3, 8, 13, 18 goes up by **5 every time**. The others have jumps that change. See *The same jump every time*."
+            },
+            {
+              "q": "What is the rule for 3, 8, 13, 18 ...?",
+              "options": [
+                "3n + 5",
+                "5n − 2",
+                "5n + 3",
+                "n + 5"
+              ],
+              "answer": 1,
+              "why": "The jump is 5, so start with 5n. Step 1 gives 5, but we want 3: take 2 away. Rule: **5n − 2**. Check: 5 × 4 − 2 = 18."
+            },
+            {
+              "q": "Chairs round tables follow 2n + 2. How many tables for 30 chairs?",
+              "options": [
+                "14",
+                "16",
+                "62",
+                "15"
+              ],
+              "answer": 0,
+              "why": "Work backwards: 2n + 2 = 30, so 2n = 28 and n = **14**. See *Using the rule both ways*."
+            }
+          ],
+          "children": []
         }
       ]
     },
@@ -498,6 +620,49 @@
             }
           ],
           "children": []
+        },
+        {
+          "id": "qc-word-problems",
+          "label": "Quick check: word problems",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Two numbers differ by 6 and add up to 40. What are they?",
+              "options": [
+                "17 and 23",
+                "14 and 26",
+                "20 and 20",
+                "16 and 24"
+              ],
+              "answer": 0,
+              "why": "Let the smaller be x. Then x + (x + 6) = 40, so 2x = 34 and x = **17**. The numbers are **17 and 23**. Check: 23 − 17 = 6."
+            },
+            {
+              "q": "A rectangle is 4 cm longer than it is wide. Its perimeter is 36 cm. How wide is it?",
+              "options": [
+                "11 cm",
+                "9 cm",
+                "8 cm",
+                "7 cm"
+              ],
+              "answer": 3,
+              "why": "Width x, length x + 4. 2(x + x + 4) = 36, so 2x + 4 = 18, 2x = 14, x = **7 cm**."
+            },
+            {
+              "q": "What is the last step of every word problem?",
+              "options": [
+                "Check the answer in the story",
+                "Draw a picture",
+                "Write the equation",
+                "Underline the numbers"
+              ],
+              "answer": 0,
+              "why": "Always **check in the story**. A number can satisfy your equation but still be wrong if the equation was wrong. See *Four steps for any word problem*."
+            }
+          ],
+          "children": []
         }
       ]
     },
@@ -555,6 +720,49 @@
             {
               "q": "Your turn: with this rule, how much do 3 hours cost?",
               "a": "30 + 20 × (3 − 1) = 30 + 40 = **₹70**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-growth-decay",
+          "label": "Quick check: growth and decay",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A plant is 25 cm tall and grows 3 cm a week. How tall after 6 weeks?",
+              "options": [
+                "31 cm",
+                "150 cm",
+                "28 cm",
+                "43 cm"
+              ],
+              "answer": 3,
+              "why": "height = start + jump × weeks = 25 + 3 × 6 = 25 + 18 = **43 cm**."
+            },
+            {
+              "q": "A tank holds 80 litres and loses 5 litres a day. Which rule fits?",
+              "options": [
+                "litres = 80d − 5",
+                "litres = 80 + 5d",
+                "litres = 5 − 80d",
+                "litres = 80 − 5d"
+              ],
+              "answer": 3,
+              "why": "Start 80, jump **−5** each day: **80 − 5d**. Going down is linear decay."
+            },
+            {
+              "q": "Using litres = 80 − 5d, how much is left after 9 days?",
+              "options": [
+                "35 litres",
+                "45 litres",
+                "71 litres",
+                "40 litres"
+              ],
+              "answer": 0,
+              "why": "80 − 5 × 9 = 80 − 45 = **35 litres**."
             }
           ],
           "children": []
@@ -687,6 +895,185 @@
             {
               "src": "images/parallel.png",
               "caption": "Same jump, different starts: three parallel lines"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-straight-lines",
+          "label": "Quick check: y = ax + b",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "In y = 4x − 3, what is the slope (the jump)?",
+              "options": [
+                "x",
+                "1",
+                "−3",
+                "4"
+              ],
+              "answer": 3,
+              "why": "In y = ax + b, **a** is the slope. Here a = **4**."
+            },
+            {
+              "q": "A line goes through (1, 5) and (3, 11). What is its rule?",
+              "options": [
+                "y = 6x − 1",
+                "y = 2x + 3",
+                "y = 3x + 2",
+                "y = 3x + 5"
+              ],
+              "answer": 2,
+              "why": "Jump = (11 − 5) ÷ (3 − 1) = 3. Start = 5 − 3 × 1 = 2. So **y = 3x + 2**. Check: 3 × 3 + 2 = 11."
+            },
+            {
+              "q": "Which two lines are parallel?",
+              "options": [
+                "y = x and y = −x",
+                "y = 2x + 1 and y = x + 2",
+                "y = 2x + 1 and y = 2x − 5",
+                "y = 2x + 1 and y = −2x + 1"
+              ],
+              "answer": 2,
+              "why": "Parallel lines have the **same jump** (same a). Both have a = 2. See *Where it crosses, and parallel lines*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: summary and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Do this before a class test, and again before the exam.",
+      "links": [],
+      "children": [
+        {
+          "id": "summary",
+          "label": "One-page summary",
+          "type": "core",
+          "desc": "**The one idea:** a start, plus the same jump every time.\n\n**Words**\n- In 7x − 4: **term** 7x, **coefficient** 7, **constant** −4. The sign belongs to the term.\n- **Degree** = biggest power of x. Degree 1 is **linear**, 2 quadratic, 3 cubic, 0 constant.\n\n**Putting a number in**\n- Replace x, keep **brackets** round negatives, do **powers first**.\n\n**Linear patterns**\n- Same jump every time. Rule = **jump × n**, then fix with + or −.\n- Use the rule forwards (find the term) or backwards (solve for n).\n\n**Word problems in four steps**\n- Name the unknown x. Write the equation. Solve. **Check in the story.**\n\n**Growth and decay**\n- **amount = start + jump × time**. A negative jump means decay.\n\n**Straight lines: y = ax + b**\n- **a** = slope (jump), **b** = where it crosses the y-axis.\n- From two points: **jump = change in y ÷ change in x**, then **start = y − jump × x**.\n- Bigger a, steeper. Negative a, downhill. **Same a means parallel.**",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "What is the degree of 8 − 3x?",
+              "options": [
+                "8",
+                "3",
+                "1",
+                "0"
+              ],
+              "answer": 2,
+              "why": "The biggest power of x is x¹, so the degree is **1**: linear."
+            },
+            {
+              "q": "Find 2x² − x + 3 when x = −1.",
+              "options": [
+                "6",
+                "0",
+                "4",
+                "2"
+              ],
+              "answer": 0,
+              "why": "2 × (−1)² = 2. Then −(−1) = +1. So 2 + 1 + 3 = **6**."
+            },
+            {
+              "q": "What is the 10th term of 3, 8, 13, 18 ...?",
+              "options": [
+                "50",
+                "53",
+                "45",
+                "48"
+              ],
+              "answer": 3,
+              "why": "The rule is 5n − 2. 5 × 10 − 2 = **48**."
+            },
+            {
+              "q": "Which is the rule for 7, 10, 13, 16 ...?",
+              "options": [
+                "7n + 3",
+                "3n + 7",
+                "3n + 4",
+                "n + 3"
+              ],
+              "answer": 2,
+              "why": "Jump 3, so 3n. Step 1 gives 3, we want 7: add 4. **3n + 4**."
+            },
+            {
+              "q": "A taxi charges ₹50 to start plus ₹12 per km. Which rule gives the fare for x km?",
+              "options": [
+                "y = 50 − 12x",
+                "y = 62x",
+                "y = 12x + 50",
+                "y = 50x + 12"
+              ],
+              "answer": 2,
+              "why": "Start ₹50, jump ₹12 per km: **y = 12x + 50**."
+            },
+            {
+              "q": "Using y = 12x + 50, what is the fare for 5 km?",
+              "options": [
+                "₹122",
+                "₹110",
+                "₹62",
+                "₹300"
+              ],
+              "answer": 1,
+              "why": "12 × 5 + 50 = 60 + 50 = **₹110**."
+            },
+            {
+              "q": "A phone plan costs ₹260 in month 1 and ₹200 in month 4. It falls by the same amount each month. By how much?",
+              "options": [
+                "₹20",
+                "₹60",
+                "₹30",
+                "₹15"
+              ],
+              "answer": 0,
+              "why": "Jump = (200 − 260) ÷ (4 − 1) = −60 ÷ 3 = −20. It falls by **₹20** a month."
+            },
+            {
+              "q": "Which line goes downhill from left to right?",
+              "options": [
+                "y = x",
+                "y = 4",
+                "y = −2x + 5",
+                "y = 3x + 1"
+              ],
+              "answer": 2,
+              "why": "A **negative slope** means downhill: y = −2x + 5."
+            },
+            {
+              "q": "Where does y = 2x − 7 cross the y-axis?",
+              "options": [
+                "(0, −7)",
+                "(0, 2)",
+                "(2, −7)",
+                "(−7, 0)"
+              ],
+              "answer": 0,
+              "why": "It crosses where x = 0, at y = b = −7: **(0, −7)**."
+            },
+            {
+              "q": "Is 1, 4, 9, 16 a linear pattern?",
+              "options": [
+                "Yes, it goes up each time",
+                "Only after the first term",
+                "No, the jumps are 3, 5, 7",
+                "Yes, the rule is 3n − 2"
+              ],
+              "answer": 2,
+              "why": "The jumps change (3, 5, 7), so it is **not linear**. These are square numbers."
             }
           ],
           "children": []

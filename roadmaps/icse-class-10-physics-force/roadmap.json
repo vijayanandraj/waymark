@@ -1,8 +1,12 @@
 {
   "title": "ICSE Class 10 Physics, Chapter 1: Force, Step by Step",
   "subtitle": "For students who find physics hard. Moments, couples, balance, centre of gravity and circular motion in small steps, with every numerical shown line by line and an exam toolkit of definitions, units and reasons. Follows the ICSE Class 10 syllabus, Chapter 1 (Force), in the order of Selina Concise Physics.",
-  "updated": "2026-11-05",
+  "updated": "2026-11-10",
   "changelog": [
+    {
+      "date": "2026-11-10",
+      "text": "How to use now points to the step numbers on the map and the Next button."
+    },
     {
       "date": "2026-11-05",
       "text": "First version: the whole chapter in small steps, with original worked examples, an exam toolkit and a section for teachers and parents."
@@ -24,7 +28,7 @@
           "id": "how-to-use",
           "label": "How to use this roadmap",
           "type": "core",
-          "desc": "- Go in order. Each step is small. On the map the steps go left and right, so press **Checklist view** at the top to see them as a list, in order.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Every answer needs a unit**: N m, kgf m or gf cm. In the exam, a number without its unit loses marks. The *Exam toolkit* milestone collects the definitions, units and reasons to learn.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: turning = force × distance from the pivot.** A small force far away turns as much as a big force close in. Balance means the turning one way equals the turning the other way. Even circular motion fits: a force is needed just to keep changing direction.",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Every answer needs a unit**: N m, kgf m or gf cm. In the exam, a number without its unit loses marks. The *Exam toolkit* milestone collects the definitions, units and reasons to learn.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: turning = force × distance from the pivot.** A small force far away turns as much as a big force close in. Balance means the turning one way equals the turning the other way. Even circular motion fits: a force is needed just to keep changing direction.",
           "links": [
             {
               "label": "Math is Fun: force",

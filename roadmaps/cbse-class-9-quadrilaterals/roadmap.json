@@ -1,8 +1,12 @@
 {
   "title": "Class 9 Maths, Chapter 12: Quadrilaterals, Step by Step",
   "subtitle": "For students who find maths hard. One move holds the chapter together: cut a quadrilateral into triangles, and the triangle facts you know do the work. Parallelograms and their tests, the midpoint theorem, medians, and tiling with any quadrilateral. Marked diagrams, small steps, practice with answers. Follows NCERT Ganita Manjari, Grade 9 Part II, Chapter 12 (Quadrilaterals).",
-  "updated": "2026-11-04",
+  "updated": "2026-11-10",
   "changelog": [
+    {
+      "date": "2026-11-10",
+      "text": "Added a quick check (click an answer to check it) at the end of each milestone, and a new Wrap up milestone with a one-page summary and a 10-question self-test."
+    },
     {
       "date": "2026-11-04",
       "text": "Added an 'About this roadmap' step: who it is for, how it differs from the textbook, and licence."
@@ -36,7 +40,7 @@
           "id": "how-to-use",
           "label": "How to use this roadmap",
           "type": "core",
-          "desc": "- Go in order. Each step is small. On the map the steps go left and right, so press **Checklist view** at the top to see them as a list, in order.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Draw every shape and mark it**: equal sides with ticks, parallel sides with arrows, angles with their sizes.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: cut a quadrilateral into triangles.** One diagonal makes two triangles, and the triangle facts you already know do all the work.",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Draw every shape and mark it**: equal sides with ticks, parallel sides with arrows, angles with their sizes.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: cut a quadrilateral into triangles.** One diagonal makes two triangles, and the triangle facts you already know do all the work.",
           "links": [
             {
               "label": "All chapters in Term 2: start page",
@@ -61,7 +65,7 @@
           "id": "about",
           "label": "About this roadmap",
           "type": "optional",
-          "desc": "**What it is.** A step-by-step path through Chapter 12 of the NCERT textbook *Ganita Manjari*, Grade 9 Part II: *Quadrilaterals*.\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** Cut a quadrilateral into triangles.\n\n**How it is different from the textbook.** Every fact is shown on a marked diagram and comes from one move: cut the shape into triangles. Using the facts comes first; the longer proofs are optional.\n\n**What is inside.**\n- 8 milestones and 26 small steps. The 16 solid steps are the core path. The dashed ones are optional.\n- 21 practice questions with hidden answers, and 7 pictures.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the converse of the midpoint theorem, Varignon's parallelogram, the balancing point, and the challenge questions.\n- For teachers and parents: a 6-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
+          "desc": "**What it is.** A step-by-step path through Chapter 12 of the NCERT textbook *Ganita Manjari*, Grade 9 Part II: *Quadrilaterals*.\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** Cut a quadrilateral into triangles.\n\n**How it is different from the textbook.** Every fact is shown on a marked diagram and comes from one move: cut the shape into triangles. Using the facts comes first; the longer proofs are optional.\n\n**What is inside.**\n- 9 milestones and 33 small steps. The 23 solid steps are the core path. The dashed ones are optional.\n- 21 practice questions with hidden answers, and 7 pictures.\n- 23 click-to-check questions that say right or wrong, and why: a quick check after each of the 5 main milestones, and a 10-question self-test.\n- A *Wrap up* milestone with a **one-page summary** of the whole chapter.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the converse of the midpoint theorem, Varignon's parallelogram, the balancing point, and the challenge questions.\n- For teachers and parents: a 6-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
           "links": [
             {
               "label": "The licence: CC BY-SA 4.0",
@@ -187,6 +191,49 @@
             }
           ],
           "children": []
+        },
+        {
+          "id": "qc-what-quad",
+          "label": "Quick check: quadrilaterals",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Three angles of a quadrilateral are 80°, 95° and 110°. Find the fourth.",
+              "options": [
+                "105°",
+                "85°",
+                "75°",
+                "255°"
+              ],
+              "answer": 2,
+              "why": "The angles add to **360°** (two triangles). 360 − (80 + 95 + 110) = 360 − 285 = **75°**."
+            },
+            {
+              "q": "Why do a quadrilateral's angles add to 360°?",
+              "options": [
+                "A diagonal cuts it into two triangles: 2 × 180°",
+                "It is a rule with no reason",
+                "Because it has four sides",
+                "Because squares have 90° angles"
+              ],
+              "answer": 0,
+              "why": "Cut it into **two triangles**. Each has 180°, so 360° in all."
+            },
+            {
+              "q": "Which quadrilateral has exactly one pair of parallel sides?",
+              "options": [
+                "Kite",
+                "Parallelogram",
+                "Rhombus",
+                "Trapezium"
+              ],
+              "answer": 3,
+              "why": "A **trapezium** has one pair of parallel sides. See *The quadrilateral family*."
+            }
+          ],
+          "children": []
         }
       ]
     },
@@ -270,6 +317,49 @@
             }
           ],
           "children": []
+        },
+        {
+          "id": "qc-parallelograms",
+          "label": "Quick check: parallelograms",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "In a parallelogram, one angle is 65°. Find the angle next to it.",
+              "options": [
+                "115°",
+                "295°",
+                "65°",
+                "25°"
+              ],
+              "answer": 0,
+              "why": "**Neighbouring angles add to 180°**: 180 − 65 = **115°**."
+            },
+            {
+              "q": "Which is NOT true of every parallelogram?",
+              "options": [
+                "The diagonals are equal",
+                "The diagonals cut each other in half",
+                "Opposite sides are equal",
+                "Opposite angles are equal"
+              ],
+              "answer": 0,
+              "why": "Equal diagonals happen only in a **rectangle** (and square). The other three are true of every parallelogram."
+            },
+            {
+              "q": "A quadrilateral has one pair of sides that are equal and parallel. What is it?",
+              "options": [
+                "A trapezium",
+                "A parallelogram",
+                "Nothing special",
+                "A kite"
+              ],
+              "answer": 1,
+              "why": "**One pair equal and parallel** is enough to prove it is a parallelogram. See *Tests: is it a parallelogram?*"
+            }
+          ],
+          "children": []
         }
       ]
     },
@@ -334,6 +424,49 @@
             }
           ],
           "children": []
+        },
+        {
+          "id": "qc-midpoints",
+          "label": "Quick check: the midpoint theorem",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "In triangle ABC, P and Q are midpoints of AB and AC. BC = 9 cm. How long is PQ?",
+              "options": [
+                "18 cm",
+                "9 cm",
+                "4.5 cm",
+                "3 cm"
+              ],
+              "answer": 2,
+              "why": "The **midpoint theorem**: PQ is parallel to BC and **half** as long: 9 ÷ 2 = **4.5 cm**."
+            },
+            {
+              "q": "You join the midpoints of the sides of ANY quadrilateral. What shape do you always get?",
+              "options": [
+                "A parallelogram",
+                "A kite",
+                "A square",
+                "A rectangle"
+              ],
+              "answer": 0,
+              "why": "Always a **parallelogram**, because each side is parallel to a diagonal. See *Midpoints of any quadrilateral*."
+            },
+            {
+              "q": "A line through the midpoint of one side, parallel to a second side, will:",
+              "options": [
+                "Miss the third side",
+                "Be twice the second side",
+                "Meet at a right angle",
+                "Cut the third side in half"
+              ],
+              "answer": 3,
+              "why": "This is the **converse**: it passes through the **midpoint** of the third side."
+            }
+          ],
+          "children": []
         }
       ]
     },
@@ -379,6 +512,38 @@
           "desc": "Cut a triangle from stiff card and mark the centroid. It **balances** on a pencil tip at that point. That is why the centroid is also called the triangle's centre of mass.",
           "links": [],
           "children": []
+        },
+        {
+          "id": "qc-medians",
+          "label": "Quick check: medians",
+          "type": "core",
+          "desc": "Two questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "What is a median of a triangle?",
+              "options": [
+                "A line cutting an angle in half",
+                "The longest side",
+                "A line at right angles to a side",
+                "A line from a corner to the midpoint of the opposite side"
+              ],
+              "answer": 3,
+              "why": "A **median** joins a corner to the **midpoint of the opposite side**."
+            },
+            {
+              "q": "A median is 12 cm long. How far is the centroid from the corner?",
+              "options": [
+                "6 cm",
+                "12 cm",
+                "8 cm",
+                "4 cm"
+              ],
+              "answer": 2,
+              "why": "The centroid cuts each median **2 : 1**, two-thirds from the corner: 2/3 × 12 = **8 cm**."
+            }
+          ],
+          "children": []
         }
       ]
     },
@@ -409,6 +574,174 @@
             {
               "src": "images/tiling.png",
               "caption": "Copies of one lopsided quadrilateral cover the floor"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-tiling",
+          "label": "Quick check: tiling",
+          "type": "core",
+          "desc": "Two questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Why can copies of any quadrilateral cover a floor with no gaps?",
+              "options": [
+                "Only squares can do it",
+                "Because the sides are equal",
+                "At each meeting point its four different angles fit together to make 360°",
+                "Because all quadrilaterals are rectangles"
+              ],
+              "answer": 2,
+              "why": "Turn copies half way round so that **all four different angles** meet at a point. They add to **360°**."
+            },
+            {
+              "q": "Can any triangle tile a floor too?",
+              "options": [
+                "Only equilateral triangles",
+                "No",
+                "Yes: two copies make a parallelogram, and parallelograms tile",
+                "Only right triangles"
+              ],
+              "answer": 2,
+              "why": "Two copies of a triangle make a **parallelogram**, and parallelograms tile the floor."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: summary and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Do this before a class test, and again before the exam.",
+      "links": [],
+      "children": [
+        {
+          "id": "summary",
+          "label": "One-page summary",
+          "type": "core",
+          "desc": "**The one idea:** cut a quadrilateral into triangles.\n\n**Basics**\n- A quadrilateral has 4 sides, 4 corners, 2 diagonals. **Angles add to 360°** (two triangles).\n- **Convex:** both diagonals inside. Non-convex: one corner points in.\n\n**The family**\n- **Trapezium:** one pair of parallel sides.\n- **Parallelogram:** two pairs of parallel sides.\n- **Rectangle:** parallelogram with right angles, so **equal diagonals**.\n- **Rhombus:** parallelogram with equal sides, so **diagonals at right angles**.\n- **Square:** both: equal **and** perpendicular diagonals.\n- **Kite:** two pairs of equal neighbouring sides.\n\n**Parallelograms**\n- Opposite sides equal. Opposite angles equal. **Diagonals cut each other in half.**\n- **Neighbouring angles add to 180°.**\n- It is a parallelogram if any property holds, or if **one pair of sides is equal and parallel**.\n\n**Midpoint theorem**\n- Join the midpoints of two sides: the line is **parallel to the third side and half as long**.\n- Midpoints of any quadrilateral make a **parallelogram**.\n\n**Medians:** they meet at the **centroid**, which cuts each median **2 : 1** from the corner.\n\n**Tiling:** any quadrilateral tiles, because its four angles make 360° at a point.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Three angles of a quadrilateral are 90°, 90° and 100°. Find the fourth.",
+              "options": [
+                "100°",
+                "80°",
+                "90°",
+                "180°"
+              ],
+              "answer": 1,
+              "why": "360 − 280 = **80°**."
+            },
+            {
+              "q": "Neighbouring angles of a parallelogram are 3y° and 6y°. Find the smaller angle.",
+              "options": [
+                "120°",
+                "60°",
+                "20°",
+                "30°"
+              ],
+              "answer": 1,
+              "why": "3y + 6y = 180, so y = 20. The smaller angle is 3 × 20 = **60°**."
+            },
+            {
+              "q": "A parallelogram has equal diagonals. What is it?",
+              "options": [
+                "A kite",
+                "A rectangle",
+                "A trapezium",
+                "A rhombus"
+              ],
+              "answer": 1,
+              "why": "**Equal diagonals** make a parallelogram a **rectangle**."
+            },
+            {
+              "q": "A parallelogram's diagonals cross at right angles. What is it?",
+              "options": [
+                "A trapezium",
+                "Nothing special",
+                "A rectangle",
+                "A rhombus"
+              ],
+              "answer": 3,
+              "why": "**Perpendicular diagonals** make it a **rhombus**."
+            },
+            {
+              "q": "PQ joins the midpoints of two sides of a triangle and is 3.5 cm. How long is the third side?",
+              "options": [
+                "7 cm",
+                "1.75 cm",
+                "10.5 cm",
+                "3.5 cm"
+              ],
+              "answer": 0,
+              "why": "The third side is **twice** PQ: **7 cm**."
+            },
+            {
+              "q": "Diagonals of a parallelogram are 10 cm and 16 cm. How far is it from the crossing point to the end of the longer one?",
+              "options": [
+                "10 cm",
+                "5 cm",
+                "16 cm",
+                "8 cm"
+              ],
+              "answer": 3,
+              "why": "The diagonals **cut each other in half**: 16 ÷ 2 = **8 cm**."
+            },
+            {
+              "q": "Which is always a parallelogram?",
+              "options": [
+                "Any four-sided shape",
+                "A kite",
+                "The shape made by joining the midpoints of any quadrilateral",
+                "A trapezium"
+              ],
+              "answer": 2,
+              "why": "Joining the midpoints of **any** quadrilateral gives a **parallelogram**."
+            },
+            {
+              "q": "A median is 9 cm. How far is the centroid from the midpoint end?",
+              "options": [
+                "6 cm",
+                "9 cm",
+                "3 cm",
+                "4.5 cm"
+              ],
+              "answer": 2,
+              "why": "2 : 1 means one-third from the side: 9 ÷ 3 = **3 cm**."
+            },
+            {
+              "q": "Is every square a rhombus?",
+              "options": [
+                "Yes: all four sides are equal",
+                "Only if its diagonals are equal",
+                "Only if tilted",
+                "No"
+              ],
+              "answer": 0,
+              "why": "A rhombus has four equal sides. A square does too, so **every square is a rhombus**."
+            },
+            {
+              "q": "Is every rhombus a square?",
+              "options": [
+                "Yes, if its sides are whole numbers",
+                "No: its angles need not be 90°",
+                "Only in a circle",
+                "Yes"
+              ],
+              "answer": 1,
+              "why": "A rhombus can be **slanted**. It is a square only if its angles are right angles."
             }
           ],
           "children": []

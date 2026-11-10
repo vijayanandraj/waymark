@@ -1,8 +1,12 @@
 {
   "title": "Class 9 Maths, All Chapters: Term 2 (Part II)",
   "subtitle": "Start here for Term 2. One roadmap for each chapter of NCERT Ganita Manjari, Grade 9 Part II (Chapters 9 to 14), written for students who find maths hard. This page shows the one idea in each chapter, what each needs first, and the thread that runs through them all.",
-  "updated": "2026-11-04",
+  "updated": "2026-11-10",
   "changelog": [
+    {
+      "date": "2026-11-10",
+      "text": "Points to the new quick checks, one-page summaries and self-tests in every chapter."
+    },
     {
       "date": "2026-11-04",
       "text": "Added an 'About this roadmap' step: who it is for, how it differs from the textbook, and licence."
@@ -32,7 +36,7 @@
           "id": "how-series",
           "label": "How to use these roadmaps",
           "type": "core",
-          "desc": "- **One roadmap per chapter.** Open a chapter below, then follow its own steps.\n- **Every chapter starts with *Check yourself*.** Two minutes, a few questions. It tells you which small skills to fix before the chapter itself.\n- **Solid boxes are the core path.** Dashed boxes are optional: stories, extra puzzles and the *When you're ready* challenge questions.\n- **Every chapter ends with a section for teachers and parents**, with a lesson plan, common mistakes and a 5-minute exit ticket.\n- **Progress is saved per chapter** on this device. Mark steps **Done** inside each chapter's roadmap.",
+          "desc": "- **One roadmap per chapter.** Open a chapter below, then follow its own steps.\n- **Every chapter starts with *Check yourself*.** Two minutes, a few questions. It tells you which small skills to fix before the chapter itself.\n- **Solid boxes are the core path.** Dashed boxes are optional: stories, extra puzzles and the *When you're ready* challenge questions.\n- **Every milestone ends with a *Quick check*,** and every chapter has a *Wrap up*: a one-page summary and a 10-question self-test. Click an answer to see if you are right, and why.\n- **Every chapter ends with a section for teachers and parents**, with a lesson plan, common mistakes and a 5-minute exit ticket.\n- **Progress is saved per chapter** on this device. Mark steps **Done** inside each chapter's roadmap.",
           "links": [],
           "children": []
         },
@@ -40,7 +44,7 @@
           "id": "about",
           "label": "About this roadmap",
           "type": "optional",
-          "desc": "**What it is.** The starting page for Term 2: 6 roadmaps, one for each chapter of the NCERT textbook *Ganita Manjari*, Grade 9 Part II (Chapters 9 to 14).\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**What this page does.** It shows the one idea in each chapter, what each chapter needs first, and the thread that runs through them. It does not teach the chapters itself: open a chapter to start.\n\n**How the chapter roadmaps work.** Each one starts by fixing the basic skills it needs, shows every calculation, gives practice with hidden answers, keeps harder material in an optional *When you're ready* milestone, and ends with a section for teachers and parents. The 6 lesson plans add up to 35 periods.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
+          "desc": "**What it is.** The starting page for Term 2: 6 roadmaps, one for each chapter of the NCERT textbook *Ganita Manjari*, Grade 9 Part II (Chapters 9 to 14).\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**What this page does.** It shows the one idea in each chapter, what each chapter needs first, and the thread that runs through them. It does not teach the chapters itself: open a chapter to start.\n\n**How the chapter roadmaps work.** Each one starts by fixing the basic skills it needs, shows every calculation, gives practice with hidden answers and click-to-check quick checks, has a one-page summary and a self-test near the end, keeps harder material in an optional *When you're ready* milestone, and ends with a section for teachers and parents. The 6 lesson plans add up to 35 periods.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
           "links": [
             {
               "label": "The licence: CC BY-SA 4.0",
@@ -84,7 +88,7 @@
           "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-propositions"
         }
       ],
-      "desc": "**The one idea:** An 'if ... then' statement only works one way: turn it round and check again. One counterexample is enough to show a statement is false.\n\n**Needs first:** Multiples, factors and square numbers. The roadmap's *Start here* covers them.\n\nTextbook chapter: *Propositions and their Converses*. The roadmap has 27 steps, 18 of them on the core path.",
+      "desc": "**The one idea:** An 'if ... then' statement only works one way: turn it round and check again. One counterexample is enough to show a statement is false.\n\n**Needs first:** Multiples, factors and square numbers. The roadmap's *Start here* covers them.\n\nTextbook chapter: *Propositions and their Converses*. The roadmap has 34 steps, 25 of them on the core path.",
       "children": [
         {
           "id": "ch9-idea",
@@ -122,7 +126,7 @@
           "id": "ch9-inside",
           "label": "Ch 9: what's inside",
           "type": "core",
-          "desc": "The milestones, in order:\n- Statements that are true or false\n- Turning a statement round\n- Counterexamples: one is enough\n- Showing a statement is true\n- Converses in geometry\n\nThen an optional *When you're ready* milestone with challenge questions.",
+          "desc": "The milestones, in order:\n- Statements that are true or false\n- Turning a statement round\n- Counterexamples: one is enough\n- Showing a statement is true\n- Converses in geometry\n- Wrap up: summary and self-test\n\nThen an optional *When you're ready* milestone with challenge questions.",
           "links": [
             {
               "label": "Open the Chapter 9 roadmap",
@@ -159,7 +163,7 @@
           "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-data"
         }
       ],
-      "desc": "**The one idea:** An average has to remember how many: when groups combine, bigger groups count for more.\n\n**Needs first:** Averages, percentages and ratios.\n\nTextbook chapter: *How Quantities Combine: Understanding Data*. The roadmap has 26 steps, 18 of them on the core path.",
+      "desc": "**The one idea:** An average has to remember how many: when groups combine, bigger groups count for more.\n\n**Needs first:** Averages, percentages and ratios.\n\nTextbook chapter: *How Quantities Combine: Understanding Data*. The roadmap has 32 steps, 24 of them on the core path.",
       "children": [
         {
           "id": "ch10-idea",
@@ -197,7 +201,7 @@
           "id": "ch10-inside",
           "label": "Ch 10: what's inside",
           "type": "core",
-          "desc": "The milestones, in order:\n- Combining averages\n- Mixing things\n- Giving some things more weight\n- Charts that combine\n\nThen an optional *When you're ready* milestone with challenge questions.",
+          "desc": "The milestones, in order:\n- Combining averages\n- Mixing things\n- Giving some things more weight\n- Charts that combine\n- Wrap up: summary and self-test\n\nThen an optional *When you're ready* milestone with challenge questions.",
           "links": [
             {
               "label": "Open the Chapter 10 roadmap",
@@ -234,7 +238,7 @@
           "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-algorithms"
         }
       ],
-      "desc": "**The one idea:** An algorithm is a recipe so exact that nobody has to think while following it, and a smarter recipe does less work.\n\n**Needs first:** Divisors and remainders.\n\nTextbook chapter: *The World of Algorithms*. The roadmap has 24 steps, 14 of them on the core path.",
+      "desc": "**The one idea:** An algorithm is a recipe so exact that nobody has to think while following it, and a smarter recipe does less work.\n\n**Needs first:** Divisors and remainders.\n\nTextbook chapter: *The World of Algorithms*. The roadmap has 29 steps, 19 of them on the core path.",
       "children": [
         {
           "id": "ch11-idea",
@@ -272,7 +276,7 @@
           "id": "ch11-inside",
           "label": "Ch 11: what's inside",
           "type": "core",
-          "desc": "The milestones, in order:\n- What an algorithm is\n- Finding the gcd with lists\n- Euclid's algorithm\n\nThen an optional *When you're ready* milestone with challenge questions.",
+          "desc": "The milestones, in order:\n- What an algorithm is\n- Finding the gcd with lists\n- Euclid's algorithm\n- Wrap up: summary and self-test\n\nThen an optional *When you're ready* milestone with challenge questions.",
           "links": [
             {
               "label": "Open the Chapter 11 roadmap",
@@ -309,7 +313,7 @@
           "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-quadrilaterals"
         }
       ],
-      "desc": "**The one idea:** Cut a quadrilateral into triangles, and the triangle facts you know do the work.\n\n**Needs first:** Chapter 9 (converses) and Chapter 5 (triangle angles and congruence).\n\nTextbook chapter: *Quadrilaterals*. The roadmap has 26 steps, 16 of them on the core path.",
+      "desc": "**The one idea:** Cut a quadrilateral into triangles, and the triangle facts you know do the work.\n\n**Needs first:** Chapter 9 (converses) and Chapter 5 (triangle angles and congruence).\n\nTextbook chapter: *Quadrilaterals*. The roadmap has 33 steps, 23 of them on the core path.",
       "children": [
         {
           "id": "ch12-idea",
@@ -347,7 +351,7 @@
           "id": "ch12-inside",
           "label": "Ch 12: what's inside",
           "type": "core",
-          "desc": "The milestones, in order:\n- What a quadrilateral is\n- Parallelograms\n- The midpoint theorem\n- Medians and the centroid\n- Tiling with any quadrilateral\n\nThen an optional *When you're ready* milestone with challenge questions.",
+          "desc": "The milestones, in order:\n- What a quadrilateral is\n- Parallelograms\n- The midpoint theorem\n- Medians and the centroid\n- Tiling with any quadrilateral\n- Wrap up: summary and self-test\n\nThen an optional *When you're ready* milestone with challenge questions.",
           "links": [
             {
               "label": "Open the Chapter 12 roadmap",
@@ -384,7 +388,7 @@
           "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-linear-equations"
         }
       ],
-      "desc": "**The one idea:** Every solution is a point, one equation is a line, and two equations meet where their lines cross.\n\n**Needs first:** Chapter 1 (plotting points) and Chapter 2 (start plus jump).\n\nTextbook chapter: *Two Variables, One Line*. The roadmap has 27 steps, 20 of them on the core path.",
+      "desc": "**The one idea:** Every solution is a point, one equation is a line, and two equations meet where their lines cross.\n\n**Needs first:** Chapter 1 (plotting points) and Chapter 2 (start plus jump).\n\nTextbook chapter: *Two Variables, One Line*. The roadmap has 34 steps, 27 of them on the core path.",
       "children": [
         {
           "id": "ch13-idea",
@@ -422,7 +426,7 @@
           "id": "ch13-inside",
           "label": "Ch 13: what's inside",
           "type": "core",
-          "desc": "The milestones, in order:\n- Equations with two letters\n- Drawing the line\n- Slope: how steep the line is\n- Two equations together\n- One answer, none, or infinitely many\n\nThen an optional *When you're ready* milestone with challenge questions.",
+          "desc": "The milestones, in order:\n- Equations with two letters\n- Drawing the line\n- Slope: how steep the line is\n- Two equations together\n- One answer, none, or infinitely many\n- Wrap up: summary and self-test\n\nThen an optional *When you're ready* milestone with challenge questions.",
           "links": [
             {
               "label": "Open the Chapter 13 roadmap",
@@ -459,7 +463,7 @@
           "url": "https://vijayanandraj.github.io/waymark/r/cbse-class-9-surface-volume"
         }
       ],
-      "desc": "**The one idea:** Wrapping or filling? Surface area is the paper to wrap a solid, volume is the water to fill it.\n\n**Needs first:** Chapter 6 (circle formulas) and Pythagoras.\n\nTextbook chapter: *Math of Space: Surface Area and Volume*. The roadmap has 27 steps, 19 of them on the core path.",
+      "desc": "**The one idea:** Wrapping or filling? Surface area is the paper to wrap a solid, volume is the water to fill it.\n\n**Needs first:** Chapter 6 (circle formulas) and Pythagoras.\n\nTextbook chapter: *Math of Space: Surface Area and Volume*. The roadmap has 34 steps, 26 of them on the core path.",
       "children": [
         {
           "id": "ch14-idea",
@@ -497,7 +501,7 @@
           "id": "ch14-inside",
           "label": "Ch 14: what's inside",
           "type": "core",
-          "desc": "The milestones, in order:\n- Cuboids and cubes\n- Cylinders\n- Cones\n- Pyramids, spheres and hemispheres\n- Estimating real things\n\nThen an optional *When you're ready* milestone with challenge questions.",
+          "desc": "The milestones, in order:\n- Cuboids and cubes\n- Cylinders\n- Cones\n- Pyramids, spheres and hemispheres\n- Estimating real things\n- Wrap up: summary and self-test\n\nThen an optional *When you're ready* milestone with challenge questions.",
           "links": [
             {
               "label": "Open the Chapter 14 roadmap",

@@ -1,8 +1,12 @@
 {
   "title": "Class 9 Maths, Chapter 7: Probability, Step by Step",
   "subtitle": "For students who find maths hard. One idea holds the chapter together: probability is the ways you want divided by all the ways. Careful listing, trees and real experiments with coins and dice. Small steps, every count shown, practice with answers. Follows NCERT Ganita Manjari, Grade 9 Part I, Chapter 7 (The Mathematics of Maybe: Introduction to Probability).",
-  "updated": "2026-11-04",
+  "updated": "2026-11-10",
   "changelog": [
+    {
+      "date": "2026-11-10",
+      "text": "Added a quick check (click an answer to check it) at the end of each milestone, and a new Wrap up milestone with a one-page summary and a 10-question self-test."
+    },
     {
       "date": "2026-11-04",
       "text": "Linked into the Class 9 Maths series: links to the start page for this part and to the chapters before and after this one."
@@ -40,7 +44,7 @@
           "id": "how-to-use",
           "label": "How to use this roadmap",
           "type": "core",
-          "desc": "- Go in order. Each step is small. On the map the steps go left and right, so press **Checklist view** at the top to see them as a list, in order.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Do the experiments.** A coin and a die teach this chapter better than any page.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: probability = the ways you want ÷ all the ways.** Most of the chapter is about counting those two numbers carefully.",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Do the experiments.** A coin and a die teach this chapter better than any page.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: probability = the ways you want ÷ all the ways.** Most of the chapter is about counting those two numbers carefully.",
           "links": [
             {
               "label": "All chapters in Term 1: start page",
@@ -65,7 +69,7 @@
           "id": "about",
           "label": "About this roadmap",
           "type": "optional",
-          "desc": "**What it is.** A step-by-step path through Chapter 7 of the NCERT textbook *Ganita Manjari*, Grade 9 Part I: *The Mathematics of Maybe: Introduction to Probability*.\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** Probability = the ways you want ÷ all the ways.\n\n**How it is different from the textbook.** The weight goes on careful listing and tree diagrams, and on real experiments with coins and dice. This is the gentlest chapter in the book and a good place for an early success.\n\n**What is inside.**\n- 8 milestones and 29 small steps. The 20 solid steps are the core path. The dashed ones are optional.\n- 28 practice questions with hidden answers, and 6 pictures.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the Snakes and Ladders story, and challenge questions on two dice, picking without putting back, and probability from area.\n- For teachers and parents: a 6-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
+          "desc": "**What it is.** A step-by-step path through Chapter 7 of the NCERT textbook *Ganita Manjari*, Grade 9 Part I: *The Mathematics of Maybe: Introduction to Probability*.\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** Probability = the ways you want ÷ all the ways.\n\n**How it is different from the textbook.** The weight goes on careful listing and tree diagrams, and on real experiments with coins and dice. This is the gentlest chapter in the book and a good place for an early success.\n\n**What is inside.**\n- 9 milestones and 36 small steps. The 27 solid steps are the core path. The dashed ones are optional.\n- 28 practice questions with hidden answers, and 6 pictures.\n- 23 click-to-check questions that say right or wrong, and why: a quick check after each of the 5 main milestones, and a 10-question self-test.\n- A *Wrap up* milestone with a **one-page summary** of the whole chapter.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the Snakes and Ladders story, and challenge questions on two dice, picking without putting back, and probability from area.\n- For teachers and parents: a 6-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
           "links": [
             {
               "label": "The licence: CC BY-SA 4.0",
@@ -174,6 +178,38 @@
             }
           ],
           "children": []
+        },
+        {
+          "id": "qc-the-scale",
+          "label": "Quick check: the scale",
+          "type": "core",
+          "desc": "Two questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "The probability that the sun rises in the east tomorrow is:",
+              "options": [
+                "0",
+                "1",
+                "More than 1",
+                "½"
+              ],
+              "answer": 1,
+              "why": "It is certain, so its probability is **1**."
+            },
+            {
+              "q": "Which number can NOT be a probability?",
+              "options": [
+                "1.2",
+                "0.7",
+                "3/4",
+                "0"
+              ],
+              "answer": 0,
+              "why": "Probabilities go from **0 to 1**. 1.2 is too big. See *The scale from 0 to 1*."
+            }
+          ],
+          "children": []
         }
       ]
     },
@@ -264,6 +300,49 @@
             {
               "q": "Your turn: your team plays a match: win, lose or draw. Is P(win) = 1/3?",
               "a": "**Not necessarily.** The three results are not equally likely: it depends on how good the teams are."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-counting-ways",
+          "label": "Quick check: counting ways",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A die is thrown. What is P(an even number)?",
+              "options": [
+                "1/2",
+                "2/3",
+                "1/6",
+                "1/3"
+              ],
+              "answer": 0,
+              "why": "Even: 2, 4, 6. That is 3 ways out of 6, so **3/6 = 1/2**."
+            },
+            {
+              "q": "A bag has 4 red, 5 blue and 3 green balls. What is P(red)?",
+              "options": [
+                "4/8",
+                "4/5",
+                "1/4",
+                "1/3"
+              ],
+              "answer": 3,
+              "why": "Ways you want: 4. All the ways: 4 + 5 + 3 = 12. So **4/12 = 1/3**."
+            },
+            {
+              "q": "P(rain tomorrow) = 0.3. What is P(no rain)?",
+              "options": [
+                "0.7",
+                "1.3",
+                "0",
+                "0.3"
+              ],
+              "answer": 0,
+              "why": "**P(not A) = 1 − P(A)** = 1 − 0.3 = **0.7**."
             }
           ],
           "children": []
@@ -359,6 +438,49 @@
           "desc": "Snakes and Ladders grew out of an old Indian game called **Jñān Chaupar**, used to teach right and wrong. Each ladder was a virtue and each snake a vice.\n\nEvery roll of the die is random, so the game is a good place to watch probability at work.",
           "links": [],
           "children": []
+        },
+        {
+          "id": "qc-experiments",
+          "label": "Quick check: experiments",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A drawing pin is dropped 50 times. It lands point up 9 times. What is the experimental probability of point up?",
+              "options": [
+                "9/41",
+                "1/9",
+                "0.18",
+                "0.9"
+              ],
+              "answer": 2,
+              "why": "Times it happened ÷ total tries = 9/50 = **0.18**."
+            },
+            {
+              "q": "In a survey, 12 of 40 students walk to school. About how many of 900 students walk?",
+              "options": [
+                "300",
+                "120",
+                "360",
+                "270"
+              ],
+              "answer": 3,
+              "why": "12/40 = 3/10. 3/10 × 900 = **270**. See *Using a survey to estimate*."
+            },
+            {
+              "q": "A coin has landed heads 5 times in a row. What is P(heads) next time?",
+              "options": [
+                "0",
+                "More than ½, heads is lucky",
+                "Less than ½, tails is due",
+                "½"
+              ],
+              "answer": 3,
+              "why": "**The coin has no memory.** It is still ½. Thinking tails is 'due' is the gambler's fallacy."
+            }
+          ],
+          "children": []
         }
       ]
     },
@@ -397,6 +519,38 @@
             {
               "q": "Your turn: in the breakfast list above, write the event 'choosing dosa' and find its probability (if every choice is equally likely).",
               "a": "Event = {dosa-chutney, dosa-sambar}. P = **2/6 = 1/3**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-sample-spaces",
+          "label": "Quick check: sample spaces",
+          "type": "core",
+          "desc": "Two questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A coin is tossed and a die is thrown. How many results are in the sample space?",
+              "options": [
+                "6",
+                "36",
+                "8",
+                "12"
+              ],
+              "answer": 3,
+              "why": "2 results × 6 results = **12**, from H1 to T6."
+            },
+            {
+              "q": "Two dice are thrown. What is P(total 7)?",
+              "options": [
+                "1/7",
+                "1/12",
+                "1/6",
+                "7/36"
+              ],
+              "answer": 2,
+              "why": "36 results. Totals of 7: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1). So 6/36 = **1/6**."
             }
           ],
           "children": []
@@ -464,6 +618,185 @@
             {
               "q": "Your turn: 2 shirts (red, white) and 3 bottoms (jeans, shorts, trousers), chosen at random. Find P(white shirt and shorts).",
               "a": "6 outfits, 1 of them: **1/6**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-trees",
+          "label": "Quick check: tree diagrams",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Two coins are tossed. What is P(exactly one head)?",
+              "options": [
+                "3/4",
+                "1/3",
+                "1/4",
+                "1/2"
+              ],
+              "answer": 3,
+              "why": "HH, HT, TH, TT. One head: HT and TH. **2/4 = 1/2**."
+            },
+            {
+              "q": "Three coins are tossed. How many results are there?",
+              "options": [
+                "3",
+                "6",
+                "9",
+                "8"
+              ],
+              "answer": 3,
+              "why": "Each toss doubles the branches: 2 × 2 × 2 = **8**."
+            },
+            {
+              "q": "Three coins are tossed. What is P(at least one head)?",
+              "options": [
+                "3/8",
+                "1/2",
+                "7/8",
+                "1/8"
+              ],
+              "answer": 2,
+              "why": "Only TTT has no head. So 1 − 1/8 = **7/8**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: summary and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Do this before a class test, and again before the exam.",
+      "links": [],
+      "children": [
+        {
+          "id": "summary",
+          "label": "One-page summary",
+          "type": "core",
+          "desc": "**The one idea:** probability = the ways you want ÷ all the ways.\n\n**The scale**\n- Probabilities go from **0** (impossible) to **1** (certain). ½ is an even chance.\n\n**Counting (theoretical) probability**\n- **P(event) = ways you want ÷ total ways**, when every result is **equally likely**.\n- **P(not A) = 1 − P(A).**\n- Die: each face 1/6. Coin: each side 1/2.\n\n**Experimental probability**\n- **times it happened ÷ total tries** (relative frequency).\n- More tries bring it **closer** to the counted answer.\n- A coin has **no memory**: past results do not change the next one.\n- A survey estimate: fraction in the sample × the whole group.\n\n**Sample spaces and trees**\n- **Sample space S:** the list of every result. Coin and die: 12. Two dice: 36.\n- **Event:** the results you want. P = size of event ÷ size of S.\n- **Tree:** one level per step. Two coins: 4 paths. Three coins: 8 paths.\n- 'At least one': use **1 − P(none)**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A die is thrown. What is P(a number greater than 4)?",
+              "options": [
+                "1/6",
+                "1/2",
+                "1/3",
+                "2/3"
+              ],
+              "answer": 2,
+              "why": "5 and 6: 2 ways out of 6, so **1/3**."
+            },
+            {
+              "q": "A die is thrown. What is P(7)?",
+              "options": [
+                "0",
+                "1/7",
+                "1/6",
+                "1"
+              ],
+              "answer": 0,
+              "why": "A die has no 7. It is impossible: **0**."
+            },
+            {
+              "q": "A letter is picked from MATHS. What is P(a vowel)?",
+              "options": [
+                "0",
+                "1/4",
+                "2/5",
+                "1/5"
+              ],
+              "answer": 3,
+              "why": "Only A is a vowel: **1/5**."
+            },
+            {
+              "q": "P(win) = 3/8. What is P(not win)?",
+              "options": [
+                "8/3",
+                "5/8",
+                "1/8",
+                "3/8"
+              ],
+              "answer": 1,
+              "why": "1 − 3/8 = **5/8**."
+            },
+            {
+              "q": "A spinner has 3 equal parts: red, blue, red. Is P(red) = 1/2 because it is red or not red?",
+              "options": [
+                "Yes, any two results are equally likely",
+                "Yes",
+                "No: P(red) = 2/3",
+                "No: P(red) = 1/3"
+              ],
+              "answer": 2,
+              "why": "Red and not-red are **not equally likely**. Count the equal parts: 2 of 3 are red, so **2/3**."
+            },
+            {
+              "q": "Two coins are tossed. What is P(at least one head)?",
+              "options": [
+                "2/3",
+                "1/4",
+                "3/4",
+                "1/2"
+              ],
+              "answer": 2,
+              "why": "Only TT has no head: 1 − 1/4 = **3/4**."
+            },
+            {
+              "q": "Three coins are tossed. What is P(exactly two heads)?",
+              "options": [
+                "3/8",
+                "1/8",
+                "2/3",
+                "1/4"
+              ],
+              "answer": 0,
+              "why": "HHT, HTH, THH: **3/8**."
+            },
+            {
+              "q": "A shirt (3 colours) and trousers (2 colours) are picked. How many outfits are there?",
+              "options": [
+                "9",
+                "6",
+                "8",
+                "5"
+              ],
+              "answer": 1,
+              "why": "3 × 2 = **6** paths on the tree."
+            },
+            {
+              "q": "Which needs an experiment, not counting?",
+              "options": [
+                "P(6 on a fair die)",
+                "P(a drawing pin lands point up)",
+                "P(heads on a fair coin)",
+                "P(red from 2 red and 2 blue)"
+              ],
+              "answer": 1,
+              "why": "A drawing pin is **not symmetric**, so its results are not equally likely. We have to **try it** many times."
+            },
+            {
+              "q": "A die shows 6 on 30 of 120 throws. What is the experimental P(6)?",
+              "options": [
+                "1/6",
+                "1/4",
+                "1/30",
+                "1/120"
+              ],
+              "answer": 1,
+              "why": "30 ÷ 120 = **1/4**. With many more throws it should come closer to 1/6."
             }
           ],
           "children": []

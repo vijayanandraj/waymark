@@ -1,8 +1,12 @@
 {
   "title": "Class 9 Maths, Chapter 3: The World of Numbers, Step by Step",
   "subtitle": "For students who find maths hard. One picture holds the chapter together, a family of numbers that keeps growing, and fractions are fixed first because everything else depends on them. Small steps, every calculation shown, practice with answers. Follows NCERT Ganita Manjari, Grade 9 Part I, Chapter 3 (The World of Numbers).",
-  "updated": "2026-11-04",
+  "updated": "2026-11-10",
   "changelog": [
+    {
+      "date": "2026-11-10",
+      "text": "Added a quick check (click an answer to check it) at the end of each milestone, and a new Wrap up milestone with a one-page summary and a 10-question self-test."
+    },
     {
       "date": "2026-11-04",
       "text": "Linked into the Class 9 Maths series: links to the start page for this part and to the chapters before and after this one."
@@ -40,7 +44,7 @@
           "id": "how-to-use",
           "label": "How to use this roadmap",
           "type": "core",
-          "desc": "- Go in order. Each step is small. On the map the steps go left and right, so press **Checklist view** at the top to see them as a list, in order.\n- Click a box to open it. Read the idea, follow the worked example, then do **Your turn**.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: a family of numbers that keeps growing.** Each new kind of number was invented because the old kinds could not do a job. Watch for the job each one does.",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea, follow the worked example, then do **Your turn**.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: a family of numbers that keeps growing.** Each new kind of number was invented because the old kinds could not do a job. Watch for the job each one does.",
           "links": [
             {
               "label": "All chapters in Term 1: start page",
@@ -65,7 +69,7 @@
           "id": "about",
           "label": "About this roadmap",
           "type": "optional",
-          "desc": "**What it is.** A step-by-step path through Chapter 3 of the NCERT textbook *Ganita Manjari*, Grade 9 Part I: *The World of Numbers*.\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** A family of numbers that keeps growing.\n\n**How it is different from the textbook.** Fractions are fixed first, because nearly every difficulty in this chapter is really a fraction difficulty. Integers are taught as money you have and money you owe, and decimals are sorted into three kinds: they stop, they repeat, or neither.\n\n**What is inside.**\n- 10 milestones and 44 small steps. The 30 solid steps are the core path. The dashed ones are optional.\n- 53 practice questions with hidden answers, and 7 pictures.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the history of counting, the proof that √2 is irrational, and the cyclic decimals.\n- For teachers and parents: a 10-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
+          "desc": "**What it is.** A step-by-step path through Chapter 3 of the NCERT textbook *Ganita Manjari*, Grade 9 Part I: *The World of Numbers*.\n\n**Who it is for.** Class 9 students who find maths hard, or who have fallen behind and want to catch up. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** A family of numbers that keeps growing.\n\n**How it is different from the textbook.** Fractions are fixed first, because nearly every difficulty in this chapter is really a fraction difficulty. Integers are taught as money you have and money you owe, and decimals are sorted into three kinds: they stop, they repeat, or neither.\n\n**What is inside.**\n- 11 milestones and 53 small steps. The 39 solid steps are the core path. The dashed ones are optional.\n- 53 practice questions with hidden answers, and 7 pictures.\n- 30 click-to-check questions that say right or wrong, and why: a quick check after each of the 7 main milestones, and a 10-question self-test.\n- A *Wrap up* milestone with a **one-page summary** of the whole chapter.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the history of counting, the proof that √2 is irrational, and the cyclic decimals.\n- For teachers and parents: a 10-period lesson plan with activities, the mistakes to watch for, and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from the textbook itself. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the NCERT textbook but is not made or endorsed by NCERT or CBSE. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, including in your school, as long as you credit it and share your version the same way.",
           "links": [
             {
               "label": "The licence: CC BY-SA 4.0",
@@ -256,6 +260,49 @@
             }
           ],
           "children": []
+        },
+        {
+          "id": "qc-number-family",
+          "label": "Quick check: the number family",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which kind of number is −7?",
+              "options": [
+                "Irrational",
+                "Natural number",
+                "Integer",
+                "None of these"
+              ],
+              "answer": 2,
+              "why": "Natural numbers are 1, 2, 3 ... Adding 0 and the negatives gives the **integers**, so −7 is an integer (and also rational and real)."
+            },
+            {
+              "q": "Are natural numbers closed under subtraction?",
+              "options": [
+                "Yes, always",
+                "No: 3 − 5 is not a natural number",
+                "Yes, if you add 0",
+                "Only for even numbers"
+              ],
+              "answer": 1,
+              "why": "3 − 5 = −2, which is **not** a natural number. So natural numbers are **not closed** under subtraction. See *Does the answer stay in the family?*"
+            },
+            {
+              "q": "What is 8 ÷ 0?",
+              "options": [
+                "0",
+                "8",
+                "It has no answer: you cannot divide by zero",
+                "Infinity"
+              ],
+              "answer": 2,
+              "why": "**You cannot divide by zero.** No number times 0 gives 8. See *Zero: the number for nothing*."
+            }
+          ],
+          "children": []
         }
       ]
     },
@@ -353,6 +400,49 @@
             {
               "q": "Answer: Level 3",
               "a": "−600 + 1000 − 250 = **150**. He has a fortune of ₹150."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-integers",
+          "label": "Quick check: integers",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "−7 + 3 = ?",
+              "options": [
+                "4",
+                "−10",
+                "−4",
+                "10"
+              ],
+              "answer": 2,
+              "why": "You owe 7 and have 3: you still owe **4**. So −4."
+            },
+            {
+              "q": "−4 − (−9) = ?",
+              "options": [
+                "13",
+                "5",
+                "−5",
+                "−13"
+              ],
+              "answer": 1,
+              "why": "Taking away a debt is like adding: −4 + 9 = **5**. See *Taking away a debt*."
+            },
+            {
+              "q": "(−6) × (−4) = ?",
+              "options": [
+                "24",
+                "−24",
+                "−10",
+                "10"
+              ],
+              "answer": 0,
+              "why": "**Same signs give a positive**: 6 × 4 = 24."
             }
           ],
           "children": []
@@ -480,6 +570,49 @@
             }
           ],
           "children": []
+        },
+        {
+          "id": "qc-fractions",
+          "label": "Quick check: fractions",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "2/3 + 1/4 = ?",
+              "options": [
+                "3/12",
+                "2/12",
+                "11/12",
+                "3/7"
+              ],
+              "answer": 2,
+              "why": "Same-size pieces first: 8/12 + 3/12 = **11/12**. Never add the bottoms. See *Adding and subtracting fractions*."
+            },
+            {
+              "q": "Are 3/5 and 9/15 equal?",
+              "options": [
+                "No: 9/15 is bigger",
+                "Yes: 3 × 15 = 5 × 9 = 45",
+                "No: the numbers are different",
+                "Only if you round them"
+              ],
+              "answer": 1,
+              "why": "Cross-multiply: 3 × 15 = 45 and 5 × 9 = 45. Equal products mean **equal fractions**."
+            },
+            {
+              "q": "3/4 ÷ 9/8 = ?",
+              "options": [
+                "2/3",
+                "12/72",
+                "27/32",
+                "3/2"
+              ],
+              "answer": 0,
+              "why": "Keep, change, flip: 3/4 × 8/9 = 24/36 = **2/3**."
+            }
+          ],
+          "children": []
         }
       ]
     },
@@ -556,6 +689,49 @@
             {
               "src": "images/density.png",
               "caption": "Halfway, then halfway again: there is always room for another number"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-on-the-line",
+          "label": "Quick check: the number line",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "What is |−5|?",
+              "options": [
+                "1/5",
+                "0",
+                "5",
+                "−5"
+              ],
+              "answer": 2,
+              "why": "Absolute value is the **distance from 0**, which is never negative: **5**."
+            },
+            {
+              "q": "How far apart are −5 and 3 on the number line?",
+              "options": [
+                "8",
+                "2",
+                "15",
+                "−8"
+              ],
+              "answer": 0,
+              "why": "3 − (−5) = **8**. A distance is never negative."
+            },
+            {
+              "q": "Which number lies between 1/3 and 1/2?",
+              "options": [
+                "5/12",
+                "1/6",
+                "2/3",
+                "1/4"
+              ],
+              "answer": 0,
+              "why": "Add and halve: (1/3 + 1/2) ÷ 2 = (5/6) ÷ 2 = **5/12**. See *Finding numbers in between*."
             }
           ],
           "children": []
@@ -636,6 +812,49 @@
             {
               "label": "Math is Fun: pi",
               "url": "https://www.mathsisfun.com/numbers/pi.html"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-irrational",
+          "label": "Quick check: irrational numbers",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which number is irrational?",
+              "options": [
+                "0.25",
+                "√2",
+                "√49",
+                "22/7"
+              ],
+              "answer": 1,
+              "why": "√2 never stops and never repeats, and **cannot be written as a fraction**. √49 = 7 and 22/7 is a fraction."
+            },
+            {
+              "q": "A square has sides of 1. How long is its diagonal?",
+              "options": [
+                "√2",
+                "2",
+                "1",
+                "1.5"
+              ],
+              "answer": 0,
+              "why": "1² + 1² = 2, so the diagonal is **√2**. See *√2: the diagonal of a square*."
+            },
+            {
+              "q": "Is π equal to 22/7?",
+              "options": [
+                "Yes, exactly",
+                "No: 22/7 is only an approximation; π is irrational",
+                "π is a fraction, but not 22/7",
+                "Yes, to two decimal places only"
+              ],
+              "answer": 1,
+              "why": "π is **irrational**. 22/7 is a handy fraction close to it, not equal to it."
             }
           ],
           "children": []
@@ -743,6 +962,49 @@
           "desc": "1/7 = 0.142857 142857 ... The block **142857** repeats. Multiply it by 1 to 6:\n\n- 142857 × 2 = 285714\n- 142857 × 3 = 428571\n- 142857 × 4 = 571428\n- 142857 × 5 = 714285\n- 142857 × 6 = 857142\n\nThe same six digits every time, just starting from a different place in the circle. It is called a **cyclic number**.",
           "links": [],
           "children": []
+        },
+        {
+          "id": "qc-decimals",
+          "label": "Quick check: decimals",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which fraction has a decimal that stops?",
+              "options": [
+                "5/12",
+                "1/3",
+                "7/40",
+                "2/7"
+              ],
+              "answer": 2,
+              "why": "Simplify, then look at the bottom: 40 = 2 × 2 × 2 × 5, only **2s and 5s**, so 7/40 = 0.175 **stops**."
+            },
+            {
+              "q": "Write 0.444... as a fraction.",
+              "options": [
+                "4/10",
+                "4/9",
+                "1/4",
+                "44/100"
+              ],
+              "answer": 1,
+              "why": "x = 0.444...; 10x = 4.444...; subtract: 9x = 4, so x = **4/9**. See *Repeating decimals to fractions*."
+            },
+            {
+              "q": "Write 0.4545... (45 repeating) as a fraction.",
+              "options": [
+                "45/100",
+                "4/9",
+                "9/20",
+                "5/11"
+              ],
+              "answer": 3,
+              "why": "Two digits repeat, so use 100x: 99x = 45, x = 45/99 = **5/11**."
+            }
+          ],
+          "children": []
         }
       ]
     },
@@ -782,6 +1044,174 @@
           "type": "optional",
           "desc": "What is √−1? It would be a number which, multiplied by itself, gives −1. But any real number times itself is positive or zero. So √−1 is **not** on the number line.\n\nMathematicians invented new numbers for this, called **imaginary numbers**. You will meet them in later classes.",
           "links": [],
+          "children": []
+        },
+        {
+          "id": "qc-real-numbers",
+          "label": "Quick check: real numbers",
+          "type": "core",
+          "desc": "Two questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which box does 0.1010010001... (never repeating) go in?",
+              "options": [
+                "Natural",
+                "Irrational",
+                "Integer",
+                "Rational"
+              ],
+              "answer": 1,
+              "why": "It **never stops and never repeats**, so it is **irrational** (and real)."
+            },
+            {
+              "q": "Which statement is true?",
+              "options": [
+                "Every real number is rational",
+                "Every integer is a natural number",
+                "Every integer is a rational number",
+                "Every rational number is an integer"
+              ],
+              "answer": 2,
+              "why": "Any integer n can be written n/1, so **every integer is rational**. The others are false: −3 is not natural, 1/2 is not an integer, √2 is not rational."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: summary and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Do this before a class test, and again before the exam.",
+      "links": [],
+      "children": [
+        {
+          "id": "summary",
+          "label": "One-page summary",
+          "type": "core",
+          "desc": "**The one idea:** a family of numbers that keeps growing.\n\n**The family**\n- **Natural** 1, 2, 3 ... then **integers** (add 0 and negatives) then **rational** p/q (q not 0) then **real** (add the irrationals).\n- **Irrational:** cannot be written as a fraction. √2, √3, π.\n- **You cannot divide by zero.**\n\n**Integers**\n- Have + owe: subtract, keep the sign of the bigger. **Taking away a negative = adding.**\n- × and ÷: **same signs positive, different signs negative.**\n\n**Fractions**\n- Equal? **Cross-multiply**: a/b = c/d when a × d = b × c.\n- + and −: **same-size pieces first**, then add the tops.\n- ×: top × top, bottom × bottom. ÷: **keep, change, flip.**\n\n**Number line**\n- **|x|** = distance from 0. Distance between a and b = bigger − smaller.\n- A number between two others: **add and halve**.\n\n**Decimals**\n- Stops or repeats: **rational**. Never stops, never repeats: **irrational**.\n- Will p/q stop? Simplify, then the bottom must have **only 2s and 5s**.\n- Repeating to fraction: 1 digit repeats, use **10x**; 2 digits, use **100x**; subtract and divide.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which is a rational number that is not an integer?",
+              "options": [
+                "3/4",
+                "√5",
+                "0",
+                "−3"
+              ],
+              "answer": 0,
+              "why": "3/4 is a fraction and not a whole number. −3 and 0 are integers; √5 is irrational."
+            },
+            {
+              "q": "−18 ÷ 3 = ?",
+              "options": [
+                "−15",
+                "−6",
+                "6",
+                "−54"
+              ],
+              "answer": 1,
+              "why": "**Different signs give a negative**: −6."
+            },
+            {
+              "q": "5/6 − 1/4 = ?",
+              "options": [
+                "4/2",
+                "4/24",
+                "7/12",
+                "1/2"
+              ],
+              "answer": 2,
+              "why": "10/12 − 3/12 = **7/12**."
+            },
+            {
+              "q": "3/5 × 10/9 = ?",
+              "options": [
+                "6/9",
+                "30/14",
+                "2/3",
+                "13/14"
+              ],
+              "answer": 2,
+              "why": "Top × top, bottom × bottom: 30/45 = **2/3**."
+            },
+            {
+              "q": "Which of these is irrational?",
+              "options": [
+                "√16",
+                "0.333...",
+                "1.25",
+                "√50"
+              ],
+              "answer": 3,
+              "why": "50 is not a perfect square, so **√50** is irrational. √16 = 4."
+            },
+            {
+              "q": "Will 21/35 have a stopping decimal?",
+              "options": [
+                "No, 35 has a 7",
+                "No, 21 is odd",
+                "Only if rounded",
+                "Yes: it simplifies to 3/5"
+              ],
+              "answer": 3,
+              "why": "**Simplify first**: 21/35 = 3/5, and 5 is fine, so it stops (0.6)."
+            },
+            {
+              "q": "Write 0.1666... (only the 6 repeats) as a fraction.",
+              "options": [
+                "1/60",
+                "16/99",
+                "16/90",
+                "1/6"
+              ],
+              "answer": 3,
+              "why": "100x = 16.666... and 10x = 1.666... Subtract: 90x = 15, so x = 15/90 = **1/6**. See *When only some digits repeat*."
+            },
+            {
+              "q": "Is 0.999... equal to 1?",
+              "options": [
+                "Yes, they are the same number",
+                "No, it is a little more",
+                "It depends on how many 9s",
+                "No, it is a little less than 1"
+              ],
+              "answer": 0,
+              "why": "With the x trick: 10x − x = 9, so 9x = 9 and x = **1**. They are the same number."
+            },
+            {
+              "q": "How many rational numbers lie between 1 and 2?",
+              "options": [
+                "None",
+                "Exactly 9",
+                "Exactly one: 1.5",
+                "Infinitely many"
+              ],
+              "answer": 3,
+              "why": "You can always add and halve again, so there are **infinitely many**. The rationals are dense."
+            },
+            {
+              "q": "Which of these lies outside the real numbers?",
+              "options": [
+                "The square root of −1",
+                "π",
+                "−4/7",
+                "√2"
+              ],
+              "answer": 0,
+              "why": "No real number squared gives −1. That needs **imaginary numbers**, which come later."
+            }
+          ],
           "children": []
         }
       ]

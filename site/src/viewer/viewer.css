@@ -96,3 +96,42 @@
 .rm-d-nav .rm-d-next{text-align:right;background:#16232e;color:#f7f6f2;margin-left:auto}
 .rm-d-nav .rm-d-next small{color:#c9d1d7}
 .rm-d-nav button:hover{box-shadow:0 2px 8px rgba(22,35,46,.2)}
+
+/* Milestone colours: eight hues in fixed order (validated categorical palette).
+   Every box keeps its text label, so colour groups but never carries meaning alone. */
+.rm-c0{--mc:#2a78d6}.rm-c1{--mc:#eb6834}.rm-c2{--mc:#1baf7a}.rm-c3{--mc:#eda100}
+.rm-c4{--mc:#e87ba4}.rm-c5{--mc:#008300}.rm-c6{--mc:#6250d6}.rm-c7{--mc:#e34948}
+.rm-ec0{stroke:#2a78d6}.rm-ec1{stroke:#eb6834}.rm-ec2{stroke:#1baf7a}.rm-ec3{stroke:#eda100}
+.rm-ec4{stroke:#e87ba4}.rm-ec5{stroke:#008300}.rm-ec6{stroke:#6250d6}.rm-ec7{stroke:#e34948}
+.rm-topic{box-shadow:inset 0 -5px 0 var(--mc);padding-bottom:9px}
+.rm-child.rm-t-core,.rm-child.rm-t-alt{border-left:5px solid var(--mc)}
+.rm-child.rm-t-optional{border-left:5px solid color-mix(in srgb,var(--mc) 40%,#fff)}
+.rm-num{background:#fff;border:2.5px solid var(--mc);line-height:15px}
+.rm-t-optional .rm-num{border-style:dashed;line-height:15px}
+.rm-l-topic .num{background:var(--mc);color:#fff;border-radius:10px;min-width:22px;height:22px;display:inline-flex;align-items:center;justify-content:center;font-weight:700;text-shadow:0 0 2px rgba(0,0,0,.45)}
+.rm-drawer{border-top:6px solid var(--mc)}
+
+/* Click-to-check questions. Right and wrong always come with a mark and a word, not colour alone. */
+.rm-quiz h3{display:flex;justify-content:space-between;align-items:baseline;gap:8px}
+.rm-qz-score{font:12px ui-monospace,Menlo,Consolas,monospace;text-transform:none;letter-spacing:0;color:#41525f}
+.rm-qz{border:1px solid #e6e3da;border-radius:8px;padding:10px 12px;margin:0 0 10px;background:#fbfaf7}
+.rm-qz-q{display:flex;gap:8px;font-size:13.5px;font-weight:600;line-height:1.5;color:#16232e}
+.rm-qz-q p{margin:0}
+.rm-qz-n{flex:none;width:20px;height:20px;border-radius:10px;background:var(--mc,#16232e);color:#fff;font:700 11px/20px ui-monospace,Menlo,Consolas,monospace;text-align:center;margin-top:1px;text-shadow:0 0 2px rgba(0,0,0,.45)}
+.rm-qz-opts{display:flex;flex-direction:column;gap:6px;margin-top:8px}
+.rm-qz-o{display:flex;gap:8px;align-items:flex-start;text-align:left;font-family:inherit;font-size:13.5px;line-height:1.45;padding:7px 10px;border:1.5px solid #d7d4cb;border-radius:6px;background:#fff;color:#16232e;cursor:pointer}
+.rm-qz-o p{margin:0}
+.rm-qz-o b{flex:none;width:18px;font-family:ui-monospace,Menlo,Consolas,monospace;color:#41525f}
+.rm-qz-o:hover:not(:disabled){border-color:#16232e}
+.rm-qz-o:disabled{cursor:default}
+.rm-qz-o.ok{border-color:#2f9e62;background:#e9f6ee}
+.rm-qz-o.ok b{color:#1e7a49}
+.rm-qz-o.no{border-color:#c9433c;background:#fbeceb}
+.rm-qz-o.no b{color:#b0322c}
+.rm-qz-o.off{opacity:.6}
+.rm-qz-why{margin-top:8px;font-size:13px;line-height:1.55;color:#2a3843;padding:8px 10px;border-radius:6px}
+.rm-qz-why.ok{background:#e9f6ee}.rm-qz-why.no{background:#fbeceb}
+.rm-qz-why p{display:inline;margin:0}
+.rm-qz-again{font-family:inherit;font-size:12px;margin-left:6px;padding:2px 10px;border:1px solid #16232e;border-radius:12px;background:#fff;color:#16232e;cursor:pointer}
+.rm-qz-end{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;font-size:13.5px;padding:10px 12px;border-radius:8px;background:#16232e;color:#f7f6f2}
+.rm-qz-end .rm-qz-again{background:transparent;color:#f7f6f2;border-color:#f7f6f2}

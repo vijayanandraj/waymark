@@ -15,8 +15,12 @@ export interface LNode {
   ref: RNode
   /** 1-based reading order of a milestone's direct step (depth 1 only). */
   num?: number
+  /** Colour slot of the milestone this node belongs to (0-7). */
+  ci: number
 }
-export interface LEdge { d: string; dashed: boolean }
+export interface LEdge { d: string; dashed: boolean; ci: number }
+/** Eight milestone colours, used in order and then repeated. */
+export const MILESTONE_COLOURS = 8
 export interface Layout {
   nodes: LNode[]
   edges: LEdge[]
@@ -104,6 +108,7 @@ export function layout(data: RoadmapDoc, expandedFn?: (n: RNode) => boolean): La
     return { k, d, kh, kids, kidsTotal, toggle, h: Math.max(kh, kidsTotal) }
   }
 
+  let ci = 0
   const placeBlock = (b: Block, sy: number, isLeft: boolean, parentEdgeX: number, parentCy: number) => {
     const cy2 = sy + b.h / 2
     const w = colW(b.d)
@@ -111,16 +116,17 @@ export function layout(data: RoadmapDoc, expandedFn?: (n: RNode) => boolean): La
     nodes.push({
       id: b.k.id, kind: 'child', type: b.k.type || 'core', x, y: cy2 - b.kh / 2, w, h: b.kh,
       cx: x + w / 2, cy: cy2, side: isLeft ? 'left' : 'right', toggle: b.toggle,
-      label: b.k.label || 'Untitled', ref: b.k, num: b.d === 1 ? numOf.get(b.k) : undefined,
+      label: b.k.label || 'Untitled', ref: b.k, num: b.d === 1 ? numOf.get(b.k) : undefined, ci,
     })
-    edges.push({ d: bez(parentEdgeX, parentCy, isLeft ? x + w : x, cy2), dashed: b.k.type === 'optional' })
+    edges.push({ d: bez(parentEdgeX, parentCy, isLeft ? x + w : x, cy2), dashed: b.k.type === 'optional', ci })
     let gy = cy2 - b.kidsTotal / 2
     const outerX = isLeft ? x : x + w
     for (const kb of b.kids) { placeBlock(kb, gy, isLeft, outerX, cy2); gy += kb.h + gapY }
   }
 
-  for (const t of topics) {
-    const th = measure(t.label || 'Untitled', topicW, true)
+  topics.forEach((t, ti) => {
+    ci = ti % MILESTONE_COLOURS
+    const th = measure(t.label || 'Untitled', topicW, true) + 6 // room for the colour band
     const left: RNode[] = [], right: RNode[] = []
     ;(t.children || []).forEach((k, i) => {
       numOf.set(k, i + 1)
@@ -132,7 +138,7 @@ export function layout(data: RoadmapDoc, expandedFn?: (n: RNode) => boolean): La
     const Lt = total(L), Rt = total(R)
     const blockH = Math.max(th, Lt, Rt)
     const cy = y + blockH / 2
-    nodes.push({ id: t.id, kind: 'topic', type: 'topic', x: spineX - topicW / 2, y: cy - th / 2, w: topicW, h: th, cx: spineX, cy, toggle: null, label: t.label || 'Untitled', ref: t })
+    nodes.push({ id: t.id, kind: 'topic', type: 'topic', x: spineX - topicW / 2, y: cy - th / 2, w: topicW, h: th, cx: spineX, cy, toggle: null, label: t.label || 'Untitled', ref: t, ci })
     const placeSide = (bs: Block[], tot: number, isLeft: boolean) => {
       let sy = y + (blockH - tot) / 2
       for (const b of bs) { placeBlock(b, sy, isLeft, isLeft ? spineX - topicW / 2 : spineX + topicW / 2, cy); sy += b.h + gapY }
@@ -140,7 +146,7 @@ export function layout(data: RoadmapDoc, expandedFn?: (n: RNode) => boolean): La
     placeSide(L, Lt, true)
     placeSide(R, Rt, false)
     y += blockH + blockGap
-  }
+  })
 
   const topicNodes = nodes.filter(n => n.kind === 'topic')
   const spine = topicNodes.length > 1 ? { x: spineX, y1: topicNodes[0].cy, y2: topicNodes[topicNodes.length - 1].cy } : null

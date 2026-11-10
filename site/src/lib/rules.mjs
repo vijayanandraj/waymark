@@ -33,7 +33,7 @@ const TAG_RE = /^[a-z0-9][a-z0-9 .+#-]{0,29}$/
 const HTTP_RE = /^https?:\/\/[^\s]+$/i
 const IMAGE_SRC_RE = /^images\/([a-z0-9][a-z0-9._-]{0,99}\.(png|jpe?g|webp|gif))$/
 
-const NODE_KEYS = new Set(['id', 'label', 'type', 'side', 'desc', 'links', 'faq', 'images', 'children'])
+const NODE_KEYS = new Set(['id', 'label', 'type', 'side', 'desc', 'links', 'faq', 'images', 'quiz', 'children'])
 const DOC_KEYS = new Set(['title', 'subtitle', 'updated', 'changelog', 'topics'])
 export const META_KEYS = new Set(['audience', 'stages', 'subject', 'follows', 'level', 'lang', 'tags', 'authors', 'license'])
 
@@ -165,6 +165,18 @@ export function checkDoc(doc, where, imageFiles, report) {
       if (!isArr(n.faq)) error('"faq" must be a list')
       else for (const f of n.faq)
         if (!isObj(f) || !isStr(f.q) || !f.q.trim() || !isStr(f.a) || !f.a.trim()) error('each common issue needs a question and an answer')
+    }
+    if (n.quiz !== undefined) {
+      if (!isArr(n.quiz)) error('"quiz" must be a list')
+      else n.quiz.forEach((x, i) => {
+        const w = `quiz question ${i + 1}`
+        if (!isObj(x) || !isStr(x.q) || !x.q.trim()) return error(`${w} needs a question ("q")`)
+        if (!isArr(x.options) || x.options.length < 2 || x.options.length > 5 || !x.options.every(o => isStr(o) && o.trim()))
+          return error(`${w} needs 2 to 5 non-empty options`)
+        if (new Set(x.options.map(o => o.trim())).size !== x.options.length) error(`${w} has two options that are the same`)
+        if (!Number.isInteger(x.answer) || x.answer < 0 || x.answer >= x.options.length) error(`${w}: "answer" must be the number of the right option, counting from 0`)
+        if (!isStr(x.why) || !x.why.trim()) error(`${w} needs a short reason ("why") shown after answering`)
+      })
     }
     if (n.images !== undefined) {
       if (!isArr(n.images)) error('"images" must be a list')

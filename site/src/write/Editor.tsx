@@ -395,6 +395,27 @@ function Inspector({ f, update, urls, onAddImages, busy, problems }: {
       ))}
       <button className="addbtn" onClick={() => set(x => { x.faq = x.faq || []; x.faq.push({ q: '', a: '' }) })}>+ issue</button>
 
+      <label className="f">Test yourself <i>click-to-check questions; tick the right option</i></label>
+      {(n.quiz || []).map((qz, i) => (
+        <div className="faqbox" key={i}>
+          <div className="faqtop">
+            <input type="text" placeholder="The question" value={qz.q} onChange={e => set(x => { x.quiz![i].q = e.target.value })} />
+            <button className="mini" title="Remove question" onClick={() => set(x => { x.quiz!.splice(i, 1); if (!x.quiz!.length) delete x.quiz })}>&times;</button>
+          </div>
+          {qz.options.map((o, j) => (
+            <div className="linkrow" key={j}>
+              <input type="radio" name={`${id}-qz-${i}`} title="This is the right answer" checked={qz.answer === j} onChange={() => set(x => { x.quiz![i].answer = j })} />
+              <input type="text" placeholder={`Option ${'ABCDE'[j]}`} value={o} onChange={e => set(x => { x.quiz![i].options[j] = e.target.value })} />
+              <button className="mini" title="Remove option" disabled={qz.options.length <= 2}
+                onClick={() => set(x => { const q = x.quiz![i]; q.options.splice(j, 1); if (q.answer >= j && q.answer > 0) q.answer-- })}>&times;</button>
+            </div>
+          ))}
+          {qz.options.length < 5 && <button className="addbtn" onClick={() => set(x => { x.quiz![i].options.push('') })}>+ option</button>}
+          <input type="text" placeholder="Why: one short reason, shown after answering" value={qz.why} onChange={e => set(x => { x.quiz![i].why = e.target.value })} />
+        </div>
+      ))}
+      <button className="addbtn" onClick={() => set(x => { x.quiz = x.quiz || []; x.quiz.push({ q: '', options: ['', ''], answer: 0, why: '' }) })}>+ question</button>
+
       <label className="f">Screenshots</label>
       {(n.images || []).map((im, i) => (
         <div className="imgrow" key={im.src + i}>

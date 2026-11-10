@@ -8,6 +8,8 @@ export type Status = '' | 'prog' | 'done'
 export interface Link { label: string; url: string }
 export interface FAQ { q: string; a: string }
 export interface Image { src: string; caption?: string }
+/** A click-to-check question: options are tried in the reader, `answer` is the index of the right one. */
+export interface QuizItem { q: string; options: string[]; answer: number; why: string }
 
 export interface RNode {
   id: string
@@ -18,6 +20,7 @@ export interface RNode {
   links: Link[]
   faq?: FAQ[]
   images?: Image[]
+  quiz?: QuizItem[]
   children: RNode[]
 }
 
