@@ -1,0 +1,1435 @@
+{
+  "title": "ICSE Class 10 Physics, Chapter 4: Refraction of Light at Plane Surfaces, Step by Step",
+  "subtitle": "For students who find physics hard. Refraction and Snell's law, refractive index, the glass block, the prism, real and apparent depth, the critical angle and total internal reflection in small steps, with every numerical shown line by line, ray diagrams, quick checks, an exam toolkit and a last-minute revision sheet. Follows the ICSE Class 10 syllabus, Chapter 4 (Refraction of Light at Plane Surfaces), in the order of Selina Concise Physics.",
+  "updated": "2026-11-23",
+  "changelog": [
+    {
+      "date": "2026-11-23",
+      "text": "First version: the whole chapter in small steps, with original worked examples, quick checks, a last-minute revision sheet, a self-test and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** be sure of the normal, a few sine values, dividing by fractions, and the law of reflection. Every step in this chapter uses them.",
+      "links": [
+        {
+          "label": "PhET simulation: Bending Light (free)",
+          "url": "https://phet.colorado.edu/en/simulations/bending-light"
+        }
+      ],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Draw a rough ray diagram for every question**, even a numerical. Draw the normal as a dashed line first. Most lost marks in this chapter come from angles measured from the wrong line.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: light bends because it changes speed.** Slower, it bends **towards** the normal. Faster, it bends **away**. The refractive index μ tells you how many times slower. Everything else in the chapter, the prism, the shallow pond and the shining diamond, follows from this.",
+          "links": [
+            {
+              "label": "PhET simulation: Bending Light (free)",
+              "url": "https://phet.colorado.edu/en/simulations/bending-light"
+            },
+            {
+              "label": "Last-minute revision sheet for this chapter",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-refraction-plane-surfaces#revision-sheet"
+            },
+            {
+              "label": "Previous chapter: 3. Machines",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-machines"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 4, *Refraction of Light at Plane Surfaces*, of the ICSE Class 10 Physics syllabus. It follows the order of *Selina Concise Physics* for Class 10.\n\n**Who it is for.** Class 10 students who find physics hard, and want to understand this chapter and score decent marks in it. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** Light bends because it changes speed. Slower, it bends towards the normal; faster, away. The refractive index μ tells you how many times slower.\n\n**How it is different from the textbook.** The textbook covers many cases one after another. Here one bending rule (slower: towards the normal, faster: away) explains every case, angles from the normal and dividing by 4/3 get their own steps first, and the eight ray diagrams that carry marks are collected in one place to practise.\n\n**What is inside.**\n- 12 milestones and 59 small steps. The 49 solid steps are the core path. The dashed ones are optional.\n- 57 practice questions with hidden answers, and 9 pictures.\n- 31 click-to-check questions that say right or wrong, and why: a quick check after each of the 7 main milestones, and a 10-question self-test.\n- A **last-minute revision sheet**: every formula, unit and key point on one page.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the challenge questions and the erecting prism, and a section for teachers and parents with a 12-period lesson plan, the mistakes to watch for and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from their textbook. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the ICSE syllabus but is not made or endorsed by CISCE or by any publisher. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. A ray makes an angle of 70° with a glass surface. What is the angle of incidence?",
+              "a": "Measure from the normal: 90 − 70 = **20°**. Wrong? Do *Angles are measured from the normal*."
+            },
+            {
+              "q": "2. What is sin 30°?",
+              "a": "**0.5**. Wrong? Do *Five sine values*."
+            },
+            {
+              "q": "3. Find 9 ÷ 1.5 and 6 ÷ 4/3.",
+              "a": "9 ÷ 1.5 = **6**. 6 ÷ 4/3 = 6 × 3/4 = **4.5**. Wrong? Do *Dividing by 1.5 and by 4/3*."
+            },
+            {
+              "q": "4. A ray hits a mirror at 40° to the normal. What is the angle of reflection?",
+              "a": "**40°**: the angle of reflection equals the angle of incidence. Wrong? Do *Reflection again (Class 9)*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "normal-angles",
+          "label": "Angles are measured from the normal",
+          "type": "core",
+          "desc": "The **normal** is a line at **90° to the surface**, at the point where the ray hits it. Draw it dashed.\n\n- **Angle of incidence (i):** between the incoming ray and the **normal**.\n- **Angle of refraction (r):** between the bent ray and the **normal**.\n\n**Never measure from the surface.** That is the most common mistake in this chapter.\n\n**Worked example:** a ray makes 60° with the surface.\n\ni = 90° − 60° = **30°**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a ray makes 25° with the surface of water. What is the angle of incidence?",
+              "a": "90 − 25 = **65°**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/normal-angles.png",
+              "caption": "i is measured from the dashed normal, not from the surface"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "sine-values",
+          "label": "Five sine values",
+          "type": "core",
+          "desc": "Snell's law uses **sin** of an angle. You need only these:\n\n- sin 0° = **0**\n- sin 30° = **0.5**\n- sin 45° ≈ **0.71**\n- sin 60° ≈ **0.87**\n- sin 90° = **1**\n\nUp to 90°, **a bigger angle has a bigger sine**. Exam questions give any other values you need.\n\n**Worked example:** if sin r = 0.5, then **r = 30°**. You read the list backwards.",
+          "links": [
+            {
+              "label": "Math is Fun: sine, cosine and tangent",
+              "url": "https://www.mathsisfun.com/sine-cosine-tangent.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: sin x = 0.87. What is x?",
+              "a": "**60°**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "divide-fractions",
+          "label": "Dividing by 1.5 and by 4/3",
+          "type": "core",
+          "desc": "This chapter keeps dividing by **μ**, usually 1.5 (glass) or 4/3 (water).\n\n- **Dividing by 4/3 means multiplying by 3/4.**\n- Dividing by 1.5 is the same as dividing by 3/2: **multiply by 2/3**.\n- With powers of ten, divide the front numbers and keep the power: 3 × 10⁸ ÷ 1.5 = **2 × 10⁸**.\n\n**Worked example:** 8 ÷ 4/3\n\n= 8 × 3/4\n\n= **6**",
+          "links": [
+            {
+              "label": "Math is Fun: dividing fractions",
+              "url": "https://www.mathsisfun.com/fractions_division.html"
+            },
+            {
+              "label": "Math is Fun: scientific notation",
+              "url": "https://www.mathsisfun.com/numbers/scientific-notation.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: find 16 ÷ 4/3.",
+              "a": "16 × 3/4 = **12**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "reflection-recap",
+          "label": "Reflection again (Class 9)",
+          "type": "core",
+          "desc": "When light bounces off a surface:\n\n- **Angle of reflection = angle of incidence**, both measured from the normal.\n- The incident ray, the reflected ray and the normal lie **in one plane**.\n- The light stays **in the same medium**.\n\n**Worked example:** a ray hits a mirror at 35° to the normal. It leaves at 35° on the other side. The angle between the two rays is 35 + 35 = **70°**.\n\nYou will need this again for **total internal reflection** at the end of the chapter.",
+          "links": [
+            {
+              "label": "Physics Classroom: the law of reflection",
+              "url": "https://www.physicsclassroom.com/class/refln/Lesson-1/The-Law-of-Reflection"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a ray hits a mirror along the normal (i = 0°). Where does it go?",
+              "a": "Straight **back along itself**: r = 0°."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "refraction",
+      "label": "Refraction: light bends when it changes speed",
+      "desc": "**Goal:** say what refraction is, and which way light bends. Exercise 4(A) starts here.",
+      "links": [],
+      "children": [
+        {
+          "id": "what-refraction",
+          "label": "What refraction is",
+          "type": "core",
+          "desc": "**Refraction is the change in direction of light when it passes from one transparent medium into another.**\n\nAt the boundary, light splits in two:\n\n- **a little is reflected** back into the first medium;\n- **most is refracted** into the second medium, in a new direction.\n\nSo the refracted light is a little **weaker** than the light that came in.\n\n**Worked example:** shine a torch slantwise into a bucket of water. You see a faint glare on the surface: that is the reflected part. Most of the beam goes into the water and changes direction.",
+          "links": [
+            {
+              "label": "Wikipedia: refraction",
+              "url": "https://en.wikipedia.org/wiki/Refraction"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: light passes from air into glass. Name the two things that happen at the surface.",
+              "a": "**Partial reflection** (a little bounces back) and **refraction** (most goes in and bends)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "denser-rarer",
+          "label": "Optically denser and rarer",
+          "type": "core",
+          "desc": "Light is **fastest in vacuum**, and almost as fast in air. It is slower in other media:\n\n- air: **3 × 10⁸ m/s** (this is **c**)\n- water: **2.25 × 10⁸ m/s**\n- glass: **2 × 10⁸ m/s**\n\nA medium where light is **slower** is **optically denser**. Where it is faster, it is **optically rarer**.\n\n**Optical density is not the same as ordinary density.** Kerosene floats on water, so it is less dense. But light is slower in kerosene, so it is optically **denser**.\n\n**Worked example:** going from water into glass, light slows from 2.25 to 2 × 10⁸ m/s. So glass is optically **denser than water**.",
+          "links": [
+            {
+              "label": "Physics Classroom: optical density and light speed",
+              "url": "https://www.physicsclassroom.com/class/refrn/Lesson-1/Optical-Density-and-Light-Speed"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: put air, water and glass in order, from optically rarest to densest.",
+              "a": "**Air, water, glass.** Light is fastest in air and slowest in glass."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "towards-away",
+          "label": "Towards or away from the normal",
+          "type": "core",
+          "desc": "Light bends **because it changes speed**.\n\n- **Rarer to denser** (air into glass): it **slows down** and bends **towards the normal**. So r < i.\n- **Denser to rarer** (glass into air): it **speeds up** and bends **away from the normal**. So r > i.\n\nThink of a toy car rolling slantwise from a smooth floor onto a carpet. One front wheel reaches the carpet first and slows first, so the car turns.\n\nThe **deviation** δ is how much the ray turns.\n\n**Worked example:** a ray goes from air into glass at i = 40°. It is refracted at r = 25°.\n\nδ = i − r = 40 − 25 = **15°**, towards the normal.",
+          "links": [
+            {
+              "label": "Physics Classroom: the direction of bending",
+              "url": "https://www.physicsclassroom.com/class/refrn/Lesson-1/The-Direction-of-Bending"
+            },
+            {
+              "label": "PhET simulation: Bending Light (free)",
+              "url": "https://phet.colorado.edu/en/simulations/bending-light"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a ray goes from glass into air, meeting the surface at 25°. It comes out at 40°. Which way did it bend, and by how much?",
+              "a": "**Away from the normal**, because it sped up. δ = 40 − 25 = **15°**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/bend-rule.png",
+              "caption": "Slower: towards the normal. Faster: away from it"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "no-bend",
+          "label": "When light does not bend",
+          "type": "core",
+          "desc": "A ray passes into a new medium **without bending** in two cases:\n\n- It falls **along the normal** (i = 0°). Then r = 0°. **Its speed still changes**, only its direction does not.\n- Both media have the **same refractive index**, so light has the same speed in both.\n\nIn the second case, a glass object **becomes invisible**: no bending, no reflection, nothing to see.\n\n**Worked example:** a Pyrex glass rod dipped in glycerine almost vanishes. Both have nearly the same refractive index, so light does not bend at the rod's surface.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: give a reason. A ray falling normally on a glass slab does not bend, but it still slows down.",
+              "a": "The **speed** depends on the medium, so it changes. The ray bends only when it meets the surface **at a slant**; here i = 0°."
+            },
+            {
+              "q": "Your turn: a glass piece hangs in a liquid. At one temperature it cannot be seen. Why?",
+              "a": "At that temperature the liquid's refractive index **equals** the glass's. Light goes straight through without bending or reflecting."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-refraction",
+          "label": "Quick check: refraction",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A ray of light goes slantwise from air into glass. What does it do?",
+              "options": [
+                "It bends towards the normal",
+                "It goes straight on",
+                "It bends away from the normal",
+                "It is all reflected back"
+              ],
+              "answer": 0,
+              "why": "Light **slows down** in glass, so it bends **towards the normal**. See *Towards or away from the normal*."
+            },
+            {
+              "q": "Light travels at 3 × 10⁸ m/s in air, 2.25 × 10⁸ m/s in water and 2 × 10⁸ m/s in glass. Which is optically densest?",
+              "options": [
+                "Water",
+                "All three are the same",
+                "Glass",
+                "Air"
+              ],
+              "answer": 2,
+              "why": "Light is **slowest in glass**, so glass is optically densest. See *Optically denser and rarer*."
+            },
+            {
+              "q": "A ray falls on a glass slab along the normal (i = 0°). What is the angle of refraction?",
+              "options": [
+                "0°",
+                "90°",
+                "45°",
+                "It depends on the glass"
+              ],
+              "answer": 0,
+              "why": "Along the normal the ray **does not bend**: r = 0°. Its speed still changes. See *When light does not bend*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "refractive-index",
+      "label": "Snell's law and refractive index",
+      "desc": "**Goal:** use μ = sin i ÷ sin r and μ = c ÷ V, and say what refraction does to speed, wavelength and frequency. Exercise 4(A) numericals use this.",
+      "links": [],
+      "children": [
+        {
+          "id": "snell-laws",
+          "label": "Snell's two laws",
+          "type": "core",
+          "desc": "Refraction follows two laws, found by Willebrord Snell.\n\n- **Law 1:** the incident ray, the refracted ray and the normal all lie **in the same plane**.\n- **Law 2:** for a given pair of media, **sin i ÷ sin r is constant**.\n\nThat constant is the **refractive index μ** of the second medium with respect to the first.\n\n**μ = sin i ÷ sin r**\n\n**Worked example:** a ray goes from air into a dense glass at i = 60°. It is refracted at r = 30°.\n\nμ = sin 60° ÷ sin 30°\n\nμ = 0.87 ÷ 0.5 ≈ **1.74**",
+          "links": [
+            {
+              "label": "Physics Classroom: Snell's law",
+              "url": "https://www.physicsclassroom.com/class/refrn/Lesson-2/Snell-s-Law"
+            },
+            {
+              "label": "Wikipedia: Snell's law",
+              "url": "https://en.wikipedia.org/wiki/Snell%27s_law"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a ray goes from air into water. sin i = 0.60 and sin r = 0.45. Find μ.",
+              "a": "μ = 0.60 ÷ 0.45 ≈ **1.33**. That is water's value, 4/3."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mu-speed",
+          "label": "μ = c ÷ V",
+          "type": "core",
+          "desc": "**The refractive index of a medium = speed of light in vacuum (or air) ÷ speed of light in the medium.**\n\n**μ = c ÷ V**, with c = 3 × 10⁸ m/s.\n\n- μ has **no unit**: it is speed ÷ speed.\n- μ is **always more than 1**, because light is slower in any medium than in vacuum.\n- Values to learn: **water 4/3 (1.33), glass 1.5, diamond 2.42**.\n\n**Worked example:** light travels at 2.4 × 10⁸ m/s in a liquid.\n\nμ = 3 × 10⁸ ÷ 2.4 × 10⁸\n\nμ = **1.25**\n\n**What it means:** 'μ of diamond is 2.42' means light is **2.42 times faster in air** than in diamond.",
+          "links": [
+            {
+              "label": "Wikipedia: refractive index",
+              "url": "https://en.wikipedia.org/wiki/Refractive_index"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a plastic has μ = 1.6. Find the speed of light in it.",
+              "a": "V = c ÷ μ = 3 × 10⁸ ÷ 1.6 = **1.875 × 10⁸ m/s**."
+            },
+            {
+              "q": "Your turn: a student gets μ = 0.8 for a glass. How do you know it is wrong?",
+              "a": "μ is **never less than 1**. The student probably divided the wrong way round (V ÷ c or sin r ÷ sin i)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mu-relative",
+          "label": "One medium with respect to another",
+          "type": "core",
+          "desc": "Sometimes light goes between two media, neither of them air. Then:\n\n**μ of medium 2 with respect to medium 1 = μ₂ ÷ μ₁ = V₁ ÷ V₂**\n\nTurned round (the **principle of reversibility**: light can retrace its path):\n\n**₂μ₁ = 1 ÷ ₁μ₂**\n\n**Worked example:** a liquid has μ = 1.25 and a glass has μ = 1.5.\n\nGlass with respect to the liquid = 1.5 ÷ 1.25 = **1.2**\n\nLiquid with respect to the glass = 1 ÷ 1.2 ≈ **0.83**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: water has μ = 4/3 and diamond μ = 2.4. Find the refractive index of diamond with respect to water.",
+              "a": "2.4 ÷ 4/3 = 2.4 × 3/4 = **1.8**."
+            },
+            {
+              "q": "Your turn: a gem has μ = 2.5. What is the refractive index of air with respect to the gem?",
+              "a": "1 ÷ 2.5 = **0.4**. It is less than 1 because light goes from the gem into a **rarer** medium."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "speed-wave",
+          "label": "Speed, wavelength and frequency",
+          "type": "core",
+          "desc": "Light obeys **V = f λ**: speed = frequency × wavelength.\n\n- **Frequency f is fixed by the source.** It **never changes** on refraction.\n- So when the speed falls, the **wavelength falls** too: **λ in a medium = λ in air ÷ μ**.\n- Wavelengths of light are tiny: **1 Å (ångström) = 10⁻¹⁰ m**.\n\n**Worked example:** yellow light of wavelength 6000 Å goes from air into water (μ = 4/3).\n\nf = c ÷ λ = 3 × 10⁸ ÷ (6000 × 10⁻¹⁰) = **5 × 10¹⁴ Hz**, in air and in water\n\nV = 3 × 10⁸ ÷ 4/3 = **2.25 × 10⁸ m/s**\n\nλ = 6000 ÷ 4/3 = **4500 Å**\n\nCheck: 5 × 10¹⁴ × 4500 × 10⁻¹⁰ = 2.25 × 10⁸ m/s.\n\n**What changes on refraction:** speed, wavelength, direction (unless i = 0°) and intensity (some light is reflected). **Frequency does not.**",
+          "links": [
+            {
+              "label": "Wikipedia: ångström",
+              "url": "https://en.wikipedia.org/wiki/Angstrom"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: light of wavelength 4800 Å in air enters glass (μ = 1.5). What are its wavelength and frequency in glass?",
+              "a": "λ = 4800 ÷ 1.5 = **3200 Å**. The frequency is **the same** as in air."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mu-factors",
+          "label": "What changes the refractive index",
+          "type": "core",
+          "desc": "μ of a medium depends on three things:\n\n- **The medium itself:** the slower light is in it, the bigger its μ.\n- **Temperature:** when the medium is **heated, μ falls** a little.\n- **The colour of light:** μ is **largest for violet** and **smallest for red**. In glass, red light is fastest and violet slowest.\n\nSo 'μ of glass is 1.5' is really for one colour, usually yellow.\n\n**Worked example:** white light enters glass. Each colour has its own μ, so each bends by its own amount. **Violet bends most, red least.** This is why a prism splits white light into colours.",
+          "links": [
+            {
+              "label": "Wikipedia: dispersion",
+              "url": "https://en.wikipedia.org/wiki/Dispersion_(optics)"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a glass block is warmed. What happens to its refractive index?",
+              "a": "It **decreases** slightly."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-refractive-index",
+          "label": "Quick check: refractive index",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Light travels at 1.5 × 10⁸ m/s in a crystal. Find its refractive index. (c = 3 × 10⁸ m/s)",
+              "options": [
+                "1.5",
+                "4.5",
+                "0.5",
+                "2"
+              ],
+              "answer": 3,
+              "why": "μ = c ÷ V = 3 ÷ 1.5 = **2**. Upside down gives 0.5, which can't be right: **μ is never less than 1**. See *μ = c ÷ V*."
+            },
+            {
+              "q": "Light goes from air into glass. What happens to its frequency?",
+              "options": [
+                "It rises",
+                "It falls",
+                "It stays the same",
+                "It becomes zero"
+              ],
+              "answer": 2,
+              "why": "**Frequency is fixed by the source.** It never changes on refraction. Speed and wavelength fall. See *Speed, wavelength and frequency*."
+            },
+            {
+              "q": "μ of glass is 1.5 and μ of diamond is 2.4. Find the refractive index of diamond with respect to glass.",
+              "options": [
+                "0.9",
+                "1.6",
+                "3.6",
+                "0.625"
+              ],
+              "answer": 1,
+              "why": "Divide: μ of diamond ÷ μ of glass = 2.4 ÷ 1.5 = **1.6**. Multiplying gives 3.6, the usual slip. See *One medium with respect to another*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "glass-block",
+      "label": "The glass block",
+      "desc": "**Goal:** verify Snell's law with pins, and trace a ray through a parallel-sided block. Exercise 4(A) diagrams use this.",
+      "links": [],
+      "children": [
+        {
+          "id": "block-experiment",
+          "label": "Finding μ with a glass block and pins",
+          "type": "core",
+          "desc": "A practical you may do in the lab.\n\n- Put the glass block on paper and trace its outline. Remove it.\n- Draw a normal on one long side. Draw a line for the incident ray at an angle i, say 40°.\n- Put the block back. Stick **two pins** on the incident line.\n- Look through the opposite side. Stick **two more pins** so all four look in **one straight line**.\n- Remove the block. Join the last two pins to the block's edge, then join across the block. That is the **refracted ray**. Measure r.\n- Repeat for other values of i.\n\n**Worked example:** a student's readings.\n\n- i = 40°, r = 25.4°: 0.64 ÷ 0.43 = 1.49\n- i = 50°, r = 30.7°: 0.77 ÷ 0.51 = 1.51\n- i = 70°, r = 38.8°: 0.94 ÷ 0.63 = 1.49\n\n**sin i ÷ sin r ≈ 1.5 every time.** That verifies the second law, and gives μ of the glass. All the rays are on the flat paper, which verifies the first law.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why must the eye look at the feet of the pins, keeping low near the paper?",
+              "a": "The pins may lean. Their **feet** are on the paper, where the rays are traced, so lining up the feet gives the true path."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "block-path",
+          "label": "Through a glass block",
+          "type": "core",
+          "desc": "A ray meets a glass block slantwise:\n\n- At the **first face** (air to glass), it slows and bends **towards** the normal.\n- At the **second face** (glass to air), it speeds up and bends **away** from the normal.\n\nThe two faces are parallel, so the ray comes out at the **same angle** it went in: **angle of emergence e = angle of incidence i**. The **emergent ray is parallel to the incident ray.**\n\n**Worked example:** a ray meets the block at i = 50°. Inside, r ≈ 31°. It comes out at **e = 50°**, parallel to the ray that went in.\n\nA ray falling **along the normal** goes straight through: i = r = 0° at both faces.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a ray meets a glass slab at 35° to the normal. At what angle does it leave the other side?",
+              "a": "**35°**. The faces are parallel, so e = i."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/glass-block.png",
+              "caption": "e = i: the emergent ray is parallel to the incident ray, shifted sideways by x"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "lateral-shift",
+          "label": "Lateral displacement",
+          "type": "core",
+          "desc": "The emergent ray is parallel to the incident ray, but **not on the same line**. It is shifted sideways.\n\n**Lateral displacement is the perpendicular distance between the incident ray (produced forward) and the emergent ray.**\n\nIt is **bigger** when:\n\n- the block is **thicker**;\n- the **angle of incidence** is bigger;\n- the **refractive index** is bigger. So it is bigger for **violet** light than for red.\n\n**Worked example:** the same ray at the same angle goes through a 2 cm block and a 4 cm block of the same glass. The **4 cm block** shifts it more.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: red and violet rays enter a glass block at the same angle. Which is displaced more? Why?",
+              "a": "**Violet.** Glass has a **bigger μ** for violet, so violet bends more."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "multiple-images",
+          "label": "Many images in a thick mirror",
+          "type": "core",
+          "desc": "Hold a candle in front of a **thick** mirror (silvered at the back) and look at a slant. You see **several images**.\n\n- At the front glass surface, only about **4%** of the light is reflected. This gives a **faint first image**.\n- About **96%** goes into the glass and is **strongly reflected by the silvered back**. This gives the **second image, the brightest**.\n- Some of that light reflects again and again inside the glass, giving **fainter and fainter** images.\n\n**Worked example:** you count four candle flames in a thick mirror. The **second** from the front is the brightest. The third and fourth are faint.\n\nA thick glass plate does the same, more faintly.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: give a reason. In a thick mirror, the second image is the brightest.",
+              "a": "It is formed by light reflected from the **silvered back surface**, which reflects most of the light. The first image comes from the **front glass surface**, which reflects only about 4%."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-glass-block",
+          "label": "Quick check: the glass block",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A ray passes slantwise through a parallel-sided glass block. The emergent ray is:",
+              "options": [
+                "bent towards one end of the block",
+                "at right angles to the incident ray",
+                "on the same line as the incident ray",
+                "parallel to the incident ray, but shifted sideways"
+              ],
+              "answer": 3,
+              "why": "The two faces are parallel, so **e = i**. The emergent ray is **parallel**, with a **lateral displacement**. See *Through a glass block*."
+            },
+            {
+              "q": "Which change makes the lateral displacement smaller?",
+              "options": [
+                "A bigger angle of incidence",
+                "A thinner block",
+                "Violet light instead of red",
+                "A thicker block"
+              ],
+              "answer": 1,
+              "why": "The shift grows with **thickness**, angle of incidence and μ. A **thinner** block gives less. See *Lateral displacement*."
+            },
+            {
+              "q": "A candle is held in front of a thick plane mirror and seen at a slant. Which image is the brightest?",
+              "options": [
+                "The first",
+                "The last",
+                "They are all equally bright",
+                "The second"
+              ],
+              "answer": 3,
+              "why": "Only about 4% is reflected at the front glass surface. The **second** image comes from the strong reflection at the **silvered back**. See *Many images in a thick mirror*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "prism",
+      "label": "The prism: light bends twice, towards the base",
+      "desc": "**Goal:** trace a ray through a prism, use δ = i₁ + i₂ − A, and know minimum deviation. Exercise 4(B) covers this.",
+      "links": [],
+      "children": [
+        {
+          "id": "prism-parts",
+          "label": "Parts of a prism",
+          "type": "core",
+          "desc": "**A prism is a transparent medium bounded by five plane surfaces, with a triangular cross-section.**\n\n- Two ends are **triangles**. Three sides are **rectangles**.\n- In diagrams we draw only the triangle: the **principal section**.\n- The two faces the light passes through are the **refracting faces**.\n- The angle between them is the **angle of the prism, A**.\n- The line where they meet is the **refracting edge**. The face opposite it is the **base**.\n\n**Worked example:** an equilateral glass prism has every angle 60°, so **A = 60°**.",
+          "links": [
+            {
+              "label": "Wikipedia: prism",
+              "url": "https://en.wikipedia.org/wiki/Prism_(optics)"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: how many faces does a triangular prism have, and what shapes are they?",
+              "a": "**Five**: 2 triangles and 3 rectangles."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "prism-path",
+          "label": "Through a prism",
+          "type": "core",
+          "desc": "A ray enters one face of a prism and leaves by the other:\n\n- At the **first face** (air to glass), it bends **towards the normal**.\n- At the **second face** (glass to air), it bends **away from the normal**.\n\nBoth bends turn the ray **towards the base**. The faces are not parallel, so the emergent ray is **not parallel** to the incident ray. It is **deviated**.\n\n**Compare a glass block:** parallel faces, so the ray comes out **parallel**, only shifted. A prism **turns** it.\n\n**Worked example:** two identical prisms placed side by side, one upside down, make a block. A ray through both comes out **parallel** to the ray that went in.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: you look at a pencil through a prism with its top corner pointing up. Where does the pencil seem to be?",
+              "a": "**Raised**, towards the top corner. The rays reaching you were bent towards the base, so you trace them back to a point higher up."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/prism-ray.png",
+              "caption": "Bent towards the base at both faces: deviated by 38°"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "deviation",
+          "label": "Angle of deviation: δ = i₁ + i₂ − A",
+          "type": "core",
+          "desc": "**The angle of deviation δ is the angle between the incident ray produced forward and the emergent ray produced backward.**\n\nFor a prism with angle A:\n\n**δ = i₁ + i₂ − A**\n\nwhere i₁ is the angle of incidence and i₂ the angle of emergence. Inside, the two angles of refraction add up to A: **r₁ + r₂ = A**.\n\n**Worked example:** a 60° glass prism, i₁ = 40°. The ray comes out at i₂ = 58°.\n\nδ = 40 + 58 − 60\n\nδ = **38°**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: for a 60° prism, i₁ = 55° and i₂ = 45°. Find the angle of deviation.",
+              "a": "δ = 55 + 45 − 60 = **40°**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "min-deviation",
+          "label": "Minimum deviation",
+          "type": "core",
+          "desc": "Turn a prism slowly while the light stays fixed. As i grows, **δ first falls, reaches a minimum, then rises** again.\n\nAt the **minimum deviation δ_min**:\n\n- **i₁ = i₂** (the ray goes in and out at the same angle);\n- in an equilateral prism, the ray inside is **parallel to the base**;\n- **δ_min = 2i − A**, so **i = (A + δ_min) ÷ 2**.\n\nFor one prism and one colour there is **only one** δ_min: the curve has one lowest point.\n\n**Worked example:** a 60° prism gives a minimum deviation of 40°.\n\ni = (60 + 40) ÷ 2\n\ni = **50°**, and i₂ = 50° too.",
+          "links": [
+            {
+              "label": "Wikipedia: minimum deviation",
+              "url": "https://en.wikipedia.org/wiki/Minimum_deviation"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a 60° prism is at minimum deviation when i = 52°. Find δ_min.",
+              "a": "δ_min = 2 × 52 − 60 = **44°**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/i-delta-curve.png",
+              "caption": "δ falls, reaches a minimum when i₁ = i₂, then rises"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "deviation-factors",
+          "label": "What changes the deviation",
+          "type": "core",
+          "desc": "The deviation by a prism depends on four things:\n\n- the **angle of incidence** (see the curve);\n- the **material**: a bigger μ gives more deviation. **Flint glass** deviates more than **crown glass**;\n- the **angle of the prism A**: a bigger A gives more deviation;\n- the **colour**: **violet is deviated most, red least**.\n\nIt does **not** depend on the **size** of the prism.\n\n**Worked example:** white light goes into a prism. Violet has the biggest μ, so it turns most. Red turns least. The colours spread out: you will meet this again in the chapter on the spectrum.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: two prisms have the same angle. One is crown glass, the other flint glass. Which deviates light more?",
+              "a": "**Flint glass**: it has the bigger refractive index."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-prism",
+          "label": "Quick check: the prism",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A ray passes through a glass prism. At each of the two faces it bends:",
+              "options": [
+                "towards the base at one face and away from it at the other",
+                "towards the base",
+                "towards the top corner",
+                "not at all"
+              ],
+              "answer": 1,
+              "why": "At **both** faces the ray bends **towards the base**. See *Through a prism*."
+            },
+            {
+              "q": "For a 60° prism, i₁ = 45° and i₂ = 50°. Find the angle of deviation.",
+              "options": [
+                "155°",
+                "35°",
+                "95°",
+                "5°"
+              ],
+              "answer": 1,
+              "why": "δ = i₁ + i₂ − A = 45 + 50 − 60 = **35°**. Forgetting to take away A gives 95°. See *Angle of deviation*."
+            },
+            {
+              "q": "A 60° prism gives a minimum deviation of 42°. What is the angle of incidence?",
+              "options": [
+                "21°",
+                "51°",
+                "42°",
+                "102°"
+              ],
+              "answer": 1,
+              "why": "i = (A + δ_min) ÷ 2 = (60 + 42) ÷ 2 = **51°**. Forgetting to halve gives 102°. See *Minimum deviation*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "depth",
+      "label": "Real and apparent depth",
+      "desc": "**Goal:** explain why water looks shallow, and use μ = real depth ÷ apparent depth. Exercise 4(C) covers this.",
+      "links": [],
+      "children": [
+        {
+          "id": "looks-shallow",
+          "label": "Why water looks shallow",
+          "type": "core",
+          "desc": "A coin lies at the bottom of a bucket of water. Light from it travels up and leaves the water:\n\n- It goes **water to air**: denser to rarer. So it **bends away from the normal**.\n- Your eye cannot see the bend. It traces the rays **straight back**.\n- They seem to come from a point **I above the coin**. That is the **image**.\n\nSo **an object under water looks raised**, and water looks **shallower** than it is.\n\n**Worked example:** a coin 8 cm under water seems to be only **6 cm** down.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why is it dangerous to judge the depth of a swimming pool by looking?",
+              "a": "It looks **shallower** than it really is, because of refraction. It may be deep enough to drown in."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/apparent-depth.png",
+              "caption": "Rays bend away from the normal as they leave; the eye sees the coin raised"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "depth-formula",
+          "label": "μ = real depth ÷ apparent depth",
+          "type": "core",
+          "desc": "Seen from **straight above**:\n\n**μ = real depth ÷ apparent depth**\n\nSo **apparent depth = real depth ÷ μ**, and **real depth = μ × apparent depth**.\n\n**Worked example:** a pool of water (μ = 4/3) is 2 m deep.\n\napparent depth = 2 ÷ 4/3 = 2 × 3/4\n\napparent depth = **1.5 m**\n\nA glass slab (μ = 1.5) 6 cm thick: a mark under it seems 6 ÷ 1.5 = **4 cm** down.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a tank of water (μ = 4/3) looks 90 cm deep from above. How deep is it really?",
+              "a": "Real depth = μ × apparent = 4/3 × 90 = **120 cm = 1.2 m**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "shift",
+          "label": "How much is it raised?",
+          "type": "core",
+          "desc": "The **shift** is how far the object seems to rise:\n\n**Shift = real depth − apparent depth = real depth × (1 − 1/μ)**\n\nThe shift is bigger when:\n\n- **μ is bigger**;\n- the medium is **thicker**;\n- the light is **violet** rather than red (violet has the bigger μ).\n\n**Worked example:** a coin lies under 9 cm of water (μ = 4/3).\n\napparent depth = 9 × 3/4 = 6.75 cm\n\nshift = 9 − 6.75 = **2.25 cm**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a stamp lies under a glass slab (μ = 1.5) 3 cm thick. By how much does it look raised?",
+              "a": "Apparent depth = 3 ÷ 1.5 = 2 cm. Shift = 3 − 2 = **1 cm**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "bent-stick",
+          "label": "The stick that looks bent, and other tricks",
+          "type": "core",
+          "desc": "Put a straight stick slantwise into water. Every point of the part under water **looks raised**. So that part looks **shorter and lifted**, and the stick seems **bent at the surface**.\n\nMore effects of refraction:\n\n- A person standing in a pool seems to have **short legs**.\n- Print under a glass slab looks **raised**.\n- **Stars twinkle**: the air's refractive index keeps changing with temperature, so starlight keeps bending a little differently.\n- The Sun is seen **a little before it rises** and a little after it sets: the air bends its light over the horizon.\n\n**The other way round:** an object in a **rarer** medium, seen from a denser one, looks **farther away**. A fish sees a bird above the water **higher** than it is.\n\n**Worked example:** a coin sits in an empty cup, just hidden by the rim. Pour in water and the coin **comes into view**: it is raised by refraction.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a fish looks up at a plant 1.5 m tall at the edge of the pond. Does the plant look shorter or taller to the fish?",
+              "a": "**Taller.** The plant is in the rarer medium (air) and the fish sees it from the denser one, so it looks farther away."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-depth",
+          "label": "Quick check: real and apparent depth",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A pond is 4 m deep. Water has μ = 4/3. Seen from straight above, how deep does it look?",
+              "options": [
+                "4 m",
+                "1 m",
+                "3 m",
+                "5.3 m"
+              ],
+              "answer": 2,
+              "why": "Apparent depth = real ÷ μ = 4 ÷ 4/3 = 4 × 3/4 = **3 m**. It looks **shallower**. See *μ = real depth ÷ apparent depth*."
+            },
+            {
+              "q": "A glass slab (μ = 1.5) is 4.5 cm thick. By how much does a mark under it look raised?",
+              "options": [
+                "3 cm",
+                "4.5 cm",
+                "6.75 cm",
+                "1.5 cm"
+              ],
+              "answer": 3,
+              "why": "Apparent depth = 4.5 ÷ 1.5 = 3 cm. **Shift = 4.5 − 3 = 1.5 cm.** 3 cm is the apparent depth, not the shift. See *How much is it raised?*"
+            },
+            {
+              "q": "The word VIBGYOR is printed in its own colours under a glass slab. Which letter looks raised the most?",
+              "options": [
+                "G (green)",
+                "All are raised equally",
+                "V (violet)",
+                "R (red)"
+              ],
+              "answer": 2,
+              "why": "μ is **largest for violet**, so violet is raised most and red least. See *How much is it raised?*"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "critical-angle",
+      "label": "Critical angle and total internal reflection",
+      "desc": "**Goal:** know the critical angle, use sin C = 1 ÷ μ, and state the conditions for total internal reflection. Exercise 4(D) starts here.",
+      "links": [],
+      "children": [
+        {
+          "id": "three-cases",
+          "label": "Glass to air at bigger and bigger angles",
+          "type": "core",
+          "desc": "Send a ray from **glass into air** (denser to rarer). It bends away from the normal, so **r is bigger than i**. Now make i bigger:\n\n- **i less than C:** the ray comes out, bent away. A weak ray is reflected inside.\n- **i = C:** r reaches **90°**. The ray just grazes along the surface.\n- **i more than C:** **no ray comes out at all**. All the light is reflected back into the glass.\n\nC is the **critical angle**. For glass and air it is about **42°**.\n\n**Worked example:** a ray in glass meets the surface at 30°. That is less than 42°, so it **comes out**, at about 49°.",
+          "links": [
+            {
+              "label": "Physics Classroom: the critical angle",
+              "url": "https://www.physicsclassroom.com/class/refrn/Lesson-3/The-Critical-Angle"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a ray in glass meets the surface at exactly the critical angle. What is the angle of refraction?",
+              "a": "**90°**. The refracted ray runs along the surface."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/tir-cases.png",
+              "caption": "Below C the ray gets out; at C it grazes; above C it is all reflected"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "critical-angle-mu",
+          "label": "Critical angle and μ",
+          "type": "core",
+          "desc": "**The critical angle is the angle of incidence in the denser medium for which the angle of refraction in the rarer medium is 90°.**\n\nIt is linked to μ of the denser medium:\n\n**sin C = 1 ÷ μ**, or **μ = 1 ÷ sin C**\n\n- Glass: sin C = 1 ÷ 1.5 ≈ 0.67, so **C ≈ 42°**.\n- Water: sin C = 1 ÷ 4/3 = 0.75, so **C ≈ 49°**.\n- Diamond: μ = 2.42, so **C ≈ 24°**.\n\n**A bigger μ means a smaller critical angle.** C is smaller for **violet** than for red, and **grows** a little when the medium is heated.\n\n**Worked example:** a plastic has μ = 1.25.\n\nsin C = 1 ÷ 1.25 = 0.8\n\nC ≈ **53°**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a material has a critical angle of 30°. Find its refractive index.",
+              "a": "μ = 1 ÷ sin 30° = 1 ÷ 0.5 = **2**."
+            },
+            {
+              "q": "Your turn: what does 'the critical angle of diamond is 24°' mean?",
+              "a": "A ray inside diamond meeting the surface at **24°** comes out **along the surface** (r = 90°). At any bigger angle it is **totally reflected**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "tir",
+          "label": "Total internal reflection",
+          "type": "core",
+          "desc": "**When light in a denser medium meets the surface of a rarer medium at an angle of incidence greater than the critical angle, it is totally reflected back into the denser medium. This is total internal reflection.**\n\nTwo conditions, **both** needed:\n\n- light goes from a **denser to a rarer** medium;\n- the angle of incidence is **greater than the critical angle**.\n\nIt reflects **100%** of the light. No mirror does that: a mirror always absorbs some.\n\n**Worked example:** light inside water meets the surface at 60°. For water C ≈ 49°, and 60° is more. So the light is **totally reflected**, as if the surface were a perfect mirror.",
+          "links": [
+            {
+              "label": "Physics Classroom: total internal reflection",
+              "url": "https://www.physicsclassroom.com/class/refrn/Lesson-3/Total-Internal-Reflection"
+            },
+            {
+              "label": "Wikipedia: total internal reflection",
+              "url": "https://en.wikipedia.org/wiki/Total_internal_reflection"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: light in glass meets the surface at 30°. Is it totally reflected? (C = 42°)",
+              "a": "**No.** 30° is **less than** C, so most of it comes out into the air."
+            },
+            {
+              "q": "Your turn: can total internal reflection happen when light goes from air into water?",
+              "a": "**No.** Light must go from **denser to rarer**. Air to water is rarer to denser."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "tir-everyday",
+          "label": "Total internal reflection around you",
+          "type": "core",
+          "desc": "- **Mirage:** on a hot day the air near the road is hot and rarer. Light from the sky bends more and more, then is totally reflected. The road looks **wet**.\n- An **empty test tube** in water shines like silver at some angles: light is totally reflected at the glass-air surface inside.\n- A **crack** in a glass vessel shines like a mirror, for the same reason.\n- **Diamond sparkles:** its critical angle is only **24°**. Light entering it is totally reflected many times before it gets out.\n- **Optical fibres** carry light, and internet data, over long distances. The light is totally reflected again and again along the thin glass fibre.\n\n**Worked example:** a doctor's endoscope sends light down a bundle of optical fibres into the body, and brings a picture back the same way.",
+          "links": [
+            {
+              "label": "Wikipedia: optical fibre",
+              "url": "https://en.wikipedia.org/wiki/Optical_fiber"
+            },
+            {
+              "label": "Wikipedia: mirage",
+              "url": "https://en.wikipedia.org/wiki/Mirage"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: give a reason. A diamond sparkles more than a glass copy of the same shape.",
+              "a": "Diamond's critical angle (**24°**) is much smaller than glass's (42°). So much more light is **totally reflected** inside before it comes out."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-critical-angle",
+          "label": "Quick check: critical angle",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Total internal reflection can happen when light goes from:",
+              "options": [
+                "air into diamond",
+                "glass into air",
+                "air into water",
+                "air into glass"
+              ],
+              "answer": 1,
+              "why": "Light must go from **denser to rarer**, and i must be more than C. See *Total internal reflection*."
+            },
+            {
+              "q": "A gem has μ = 2.5. What is sin C for it?",
+              "options": [
+                "0.4",
+                "1.5",
+                "0.25",
+                "2.5"
+              ],
+              "answer": 0,
+              "why": "**sin C = 1 ÷ μ** = 1 ÷ 2.5 = **0.4**. See *Critical angle and μ*."
+            },
+            {
+              "q": "For glass and air, C = 42°. A ray inside the glass meets the surface at 50°. What happens?",
+              "options": [
+                "It is totally reflected back into the glass",
+                "It grazes along the surface",
+                "It comes out along the normal",
+                "It bends away from the normal and comes out"
+              ],
+              "answer": 0,
+              "why": "It goes glass to air and 50° is **more than C**: **total internal reflection**. See *Glass to air at bigger and bigger angles*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "tir-prisms",
+      "label": "Prisms that reflect: total internal reflection",
+      "desc": "**Goal:** draw how 45°, 60° and 30° prisms turn light by total internal reflection, and say why they beat mirrors. Exercise 4(D) diagrams use this.",
+      "links": [],
+      "children": [
+        {
+          "id": "total-reflecting",
+          "label": "The total reflecting prism",
+          "type": "core",
+          "desc": "A **45°, 90°, 45° glass prism** is called a **total reflecting prism**.\n\nSend light **normally** into one short face:\n\n- It goes straight in (i = 0°).\n- It meets the long face at **45°**. For glass, C = 42°, and 45° is more. So it is **totally reflected**.\n- It meets the other short face normally and goes straight out.\n\nThe light is turned through **90°**. Periscopes use two of these.\n\n**Worked example:** the turn by one reflection is 180° − 2i. Here i = 45°, so the turn is 180 − 90 = **90°**.",
+          "links": [
+            {
+              "label": "Wikipedia: periscope",
+              "url": "https://en.wikipedia.org/wiki/Periscope"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why would this prism not work if the glass had a critical angle of 50°?",
+              "a": "The light meets the long face at **45°**, which would be **less than C**. Most of it would **pass out** instead of being reflected."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/prism-90.png",
+              "caption": "Light enters a short face normally and is turned through 90°"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "turn-180",
+          "label": "Turning light back: 180°",
+          "type": "core",
+          "desc": "Send light **normally into the long face** (hypotenuse) of the same prism:\n\n- It goes straight in and meets one short face at **45°**: total internal reflection.\n- It crosses and meets the other short face at **45°**: total internal reflection again.\n- It comes back out through the long face.\n\nTwo turns of 90°: the light is turned through **180°**. The rays also swap sides, so the image is **inverted**.\n\n**Worked example:** binoculars use pairs of these prisms. They fold a long light path into a short tube and turn the upside-down image the right way up.",
+          "links": [
+            {
+              "label": "Wikipedia: Porro prism (binoculars)",
+              "url": "https://en.wikipedia.org/wiki/Porro_prism"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: name a device that uses a prism to turn light through 180°.",
+              "a": "**Binoculars** (also some cameras)."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/prism-180.png",
+              "caption": "Two total internal reflections turn the light back through 180°"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "erecting",
+          "label": "The erecting prism",
+          "type": "optional",
+          "desc": "Send light into a short face **parallel to the long face** of a 45°, 90°, 45° prism:\n\n- It **refracts** in, bending towards the base.\n- It is **totally reflected** at the long face.\n- It **refracts** out of the other short face, again parallel to the long face.\n\nThe light keeps its **direction**, but the image is turned **upside down**. An inverted image becomes **erect**.\n\n**Worked example:** some projectors use an erecting prism so that the picture on the screen is the right way up.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "other-prisms",
+          "label": "The 60° and 30° prisms",
+          "type": "core",
+          "desc": "Other prisms can turn light by total internal reflection too.\n\n- **Equilateral prism (60°, 60°, 60°):** light enters one face normally. It meets the next face at **60°**, more than 42°, and is totally reflected. It leaves the third face normally. It is turned through **60°**.\n- **30°, 60°, 90° prism:** light enters normally through the face opposite the 30° corner. It meets the long face at **60°** and is totally reflected. It then meets the third face at **30°**, less than 42°, so it **refracts out**, bending away. The turn is **less than 60°**.\n- Light entering the 30°, 60°, 90° prism normally through its **longer short side** (next to the 30° corner) meets the long face at only **30°**: no total internal reflection, it simply refracts out.\n\n**Worked example:** in the equilateral prism, one reflection at i = 60° turns the light through 180 − 2 × 60 = **60°**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: in an equilateral prism, light enters one face normally. What is the angle of incidence at the next face, and what happens there? (C = 42°)",
+              "a": "**60°**. That is more than 42°, so the light is **totally reflected**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "prism-vs-mirror",
+          "label": "Prism or plane mirror?",
+          "type": "core",
+          "desc": "Periscopes, binoculars and cameras use total reflecting prisms instead of plane mirrors.\n\n- **Total internal reflection** happens only for light going denser to rarer, at i > C. A **mirror** reflects at any angle.\n- A prism reflects **all the light**. A mirror **absorbs some**.\n- So the prism gives a **brighter image**.\n- A prism's brightness **never fades**. A mirror's **silvering** gets old and dull.\n- A thick mirror also gives **several images**. The prism gives one.\n\n**Worked example:** an old periscope with mirrors gives a dim picture. Replace the mirrors with prisms and the picture is brighter, and stays that way.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: state one advantage of a total reflecting prism over a plane mirror.",
+              "a": "It reflects **100%** of the light, so the image is **brighter**. (Or: its brightness does not fade, because there is no silvering.)"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-tir-prisms",
+          "label": "Quick check: prisms that reflect",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Light falls normally on one short face of a 45°, 90°, 45° glass prism. Through what angle is it turned?",
+              "options": [
+                "45°",
+                "180°",
+                "60°",
+                "90°"
+              ],
+              "answer": 3,
+              "why": "It meets the long face at **45°**, more than 42°. Total internal reflection turns it through **90°**. See *The total reflecting prism*."
+            },
+            {
+              "q": "Light falls normally on the long face (hypotenuse) of a 45°, 90°, 45° prism. What happens?",
+              "options": [
+                "It is reflected once and turned through 45°",
+                "It goes straight through",
+                "It is turned through 90°",
+                "It is reflected twice and turned through 180°"
+              ],
+              "answer": 3,
+              "why": "It meets each short face at 45°: **two** total internal reflections, **180°** in all. See *Turning light back: 180°*."
+            },
+            {
+              "q": "Why do periscopes and binoculars use prisms instead of plane mirrors?",
+              "options": [
+                "Prisms change the colour of light",
+                "Total internal reflection sends back all the light, so the image is brighter",
+                "Plane mirrors give no image",
+                "Prisms make the image bigger"
+              ],
+              "answer": 1,
+              "why": "Total internal reflection is **100%**, and there is no silvering to fade. See *Prism or plane mirror?*"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "exam-toolkit",
+      "label": "Exam toolkit: words, reasons and ray diagrams",
+      "desc": "**Goal:** collect the marks that come from learning and drawing. Definitions, 'give reasons' answers and neat ray diagrams are easy marks if you practise them.",
+      "links": [],
+      "children": [
+        {
+          "id": "definitions",
+          "label": "Definitions to learn word for word",
+          "type": "core",
+          "desc": "- **Refraction:** the change in direction of light when it passes from one transparent medium to another.\n- **Snell's laws:** (1) the incident ray, the refracted ray and the normal lie in the same plane; (2) sin i ÷ sin r is constant for a given pair of media.\n- **Refractive index (absolute):** the ratio of the speed of light in vacuum to the speed of light in the medium.\n- **Lateral displacement:** the perpendicular distance between the incident ray produced and the emergent ray.\n- **Prism:** a transparent medium bounded by five plane surfaces with a triangular cross-section.\n- **Angle of deviation:** the angle between the incident ray produced forward and the emergent ray produced backward.\n- **Critical angle:** the angle of incidence in the denser medium for which the angle of refraction in the rarer medium is 90°.\n- **Total internal reflection:** when light in a denser medium meets a rarer medium at an angle of incidence greater than the critical angle, it is totally reflected back into the denser medium.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: cover the list. Define the critical angle, then write how it is linked to μ.",
+              "a": "The angle of incidence in the **denser** medium for which the angle of refraction in the **rarer** medium is **90°**. **sin C = 1 ÷ μ**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "numerical-method",
+          "label": "Numericals: four lines every time",
+          "type": "core",
+          "desc": "Examiners give marks for each line. Write all four:\n\n1. **Given:** the numbers, with units.\n2. **Formula:** in words or symbols.\n3. **Substitute:** put the numbers in.\n4. **Answer:** with its **unit** (μ has none).\n\n**Worked example:** a coin in a liquid (μ = 1.5) looks 6 cm deep from above. How deep is it really?\n\nGiven: μ = 1.5, apparent depth = 6 cm\n\nFormula: real depth = μ × apparent depth\n\nSubstitute: 1.5 × 6\n\nAnswer: **9 cm**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is the quickest check that a refractive index answer is sensible?",
+              "a": "It must be **more than 1**. If you get less than 1, you divided the wrong way round."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "give-reasons",
+          "label": "Give reasons: model answers",
+          "type": "core",
+          "desc": "Many questions ask *give a reason*. Try these before opening the answers.",
+          "links": [],
+          "faq": [
+            {
+              "q": "A pond looks shallower than it really is.",
+              "a": "Light from the bottom bends **away from the normal** as it passes from water to air. The eye traces the rays back to an image **above** the real bottom."
+            },
+            {
+              "q": "A stick partly in water looks bent at the surface.",
+              "a": "Each point of the part under water appears **raised** by refraction, so that part looks lifted and the stick seems bent where it enters the water."
+            },
+            {
+              "q": "A ray of light does not bend when it falls normally on a glass slab.",
+              "a": "At **i = 0°**, sin i = 0, so sin r = 0 and **r = 0°**. Only the speed changes, not the direction."
+            },
+            {
+              "q": "A total reflecting prism is preferred to a plane mirror in a periscope.",
+              "a": "Total internal reflection reflects **100%** of the light, so the image is **brighter**, and it does not fade as a mirror's silvering does."
+            },
+            {
+              "q": "Total internal reflection cannot happen when light goes from air into glass.",
+              "a": "It needs light going from a **denser to a rarer** medium. Air to glass is **rarer to denser**: the ray always gets in, bending towards the normal."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ray-diagrams",
+          "label": "Ray diagrams to practise",
+          "type": "core",
+          "desc": "This chapter carries many marks for **ray diagrams**. Use a ruler and a sharp pencil. Draw normals **dashed**, put an **arrow on every ray**, and label i, r, e and δ.\n\n- Refraction air to glass, and glass to air, with the normal.\n- A ray through a glass block, with the **lateral displacement** marked.\n- A ray through a prism, with the **angle of deviation** marked.\n- A prism at **minimum deviation**: the ray inside parallel to the base.\n- **Real and apparent depth**: a coin under water and its raised image.\n- Glass to air at i < C, i = C and i > C.\n- A 45°, 90°, 45° prism turning light through **90°** and **180°**.\n- An equilateral prism with total internal reflection inside.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: last-minute revision and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Read the sheet the night before the exam and again on the morning.",
+      "links": [],
+      "children": [
+        {
+          "id": "revision-sheet",
+          "label": "Last-minute revision sheet",
+          "type": "core",
+          "desc": "**The one idea:** light bends because it changes speed. Slower: it bends **towards** the normal. Faster: it bends **away**. μ tells you how many times slower.\n\n**Formulas**\n- **μ = sin i ÷ sin r** (Snell's law; i in the first medium, r in the second)\n- **μ = c ÷ V** (c = speed in vacuum or air, V = speed in the medium)\n- **μ of 2 with respect to 1 = μ₂ ÷ μ₁ = V₁ ÷ V₂**. Turned round: **₂μ₁ = 1 ÷ ₁μ₂**.\n- **V = f λ**. In a medium: **λ = λ in air ÷ μ**. f does not change.\n- Prism: **δ = i₁ + i₂ − A**, and r₁ + r₂ = A\n- Minimum deviation: **i₁ = i₂ = i**, so **δ_min = 2i − A**, and **i = (A + δ_min) ÷ 2**\n- **μ = real depth ÷ apparent depth** (seen from straight above)\n- **Shift = real depth − apparent depth = real depth × (1 − 1/μ)**\n- **sin C = 1 ÷ μ** (C = critical angle)\n\n**Units**\n- μ has **no unit**: it is a ratio.\n- Speed in m/s: **c = 3 × 10⁸ m/s**. Water 2.25 × 10⁸, glass 2 × 10⁸.\n- Wavelength: **1 Å = 10⁻¹⁰ m**. Frequency in hertz (Hz).\n- Angles in degrees, **always measured from the normal**.\n\n**Key points**\n- μ: **water 4/3 (1.33), glass 1.5, diamond 2.42**. μ is **never less than 1**.\n- Critical angle: **glass 42°, water 49°, diamond 24°**.\n- Refraction changes **speed, wavelength, direction** and lowers intensity. **Frequency stays the same.**\n- No bending if **i = 0°**, or if both media have the **same μ** (then the glass is invisible).\n- μ is **larger for violet**, smaller for red, and falls as temperature rises.\n- Glass block: **e = i**, emergent ray **parallel** to the incident ray. Lateral displacement grows with thickness, i and μ.\n- Thick mirror: many images, the **second is brightest**.\n- Prism: bends **towards the base** at both faces. δ depends on **i, μ (material), A and colour**, not on size.\n- Minimum deviation: the ray inside an equilateral prism is **parallel to the base**.\n- Objects under water look **raised**; a fish sees things above water **higher**.\n- TIR needs: light going **denser to rarer**, and **i > C**. It reflects **100%**.\n- 45°, 90°, 45° prism: **90°** (periscope), **180°** (binoculars). Equilateral prism: **60°**.\n\n**Traps:** measure angles from the **normal**, not the surface. **μ = c ÷ V**, not V ÷ c. Dividing by 4/3 means **multiplying by 3/4**. Shift is real − apparent, not the apparent depth. Frequency **never** changes.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A ray enters a liquid from air. sin i = 0.8 and sin r = 0.5. Find the refractive index of the liquid.",
+              "options": [
+                "1.3",
+                "0.4",
+                "1.6",
+                "0.625"
+              ],
+              "answer": 2,
+              "why": "μ = sin i ÷ sin r = 0.8 ÷ 0.5 = **1.6**. Upside down gives 0.625, less than 1, so it can't be right."
+            },
+            {
+              "q": "Light travels at 2.5 × 10⁸ m/s in a liquid. Find its refractive index. (c = 3 × 10⁸ m/s)",
+              "options": [
+                "0.83",
+                "1.2",
+                "7.5",
+                "5.5"
+              ],
+              "answer": 1,
+              "why": "μ = c ÷ V = 3 ÷ 2.5 = **1.2**."
+            },
+            {
+              "q": "Light of wavelength 6400 Å in air enters water (μ = 4/3). What is its wavelength in water?",
+              "options": [
+                "3200 Å",
+                "4800 Å",
+                "8533 Å",
+                "6400 Å"
+              ],
+              "answer": 1,
+              "why": "λ = 6400 ÷ 4/3 = 6400 × 3/4 = **4800 Å**. The wavelength gets **shorter** in a denser medium."
+            },
+            {
+              "q": "The refractive index of glass with respect to air is 1.6. What is the refractive index of air with respect to glass?",
+              "options": [
+                "1.6",
+                "0.6",
+                "0.625",
+                "2.6"
+              ],
+              "answer": 2,
+              "why": "Turned round, it is **1 ÷ 1.6 = 0.625**."
+            },
+            {
+              "q": "Which one does NOT change the angle of deviation produced by a prism?",
+              "options": [
+                "The angle of incidence",
+                "The colour of the light",
+                "The size of the prism",
+                "The angle of the prism"
+              ],
+              "answer": 2,
+              "why": "δ depends on **i, μ, A and colour**. A bigger prism of the same shape and glass gives the **same** δ."
+            },
+            {
+              "q": "A ray goes through an equilateral prism at minimum deviation. Inside the prism, the ray is:",
+              "options": [
+                "at right angles to the base",
+                "totally reflected",
+                "parallel to the base",
+                "along the normal to the first face"
+              ],
+              "answer": 2,
+              "why": "At minimum deviation **i₁ = i₂**, and the ray inside is **parallel to the base**."
+            },
+            {
+              "q": "A coin lies under 15 cm of water (μ = 4/3). Seen from straight above, how deep does it look?",
+              "options": [
+                "11.25 cm",
+                "3.75 cm",
+                "20 cm",
+                "15 cm"
+              ],
+              "answer": 0,
+              "why": "15 ÷ 4/3 = 15 × 3/4 = **11.25 cm**. 3.75 cm is the shift, not the apparent depth."
+            },
+            {
+              "q": "A fish looks up at a kingfisher sitting above the water. The bird seems:",
+              "options": [
+                "upside down",
+                "higher than it really is",
+                "lower than it really is",
+                "exactly where it is"
+              ],
+              "answer": 1,
+              "why": "An object in a rarer medium seen from a denser one looks **farther away**: higher."
+            },
+            {
+              "q": "The critical angle of a glass is 42° for yellow light. For violet light it is:",
+              "options": [
+                "exactly 42°",
+                "90°",
+                "a little less than 42°",
+                "a little more than 42°"
+              ],
+              "answer": 2,
+              "why": "μ is **bigger for violet**, so sin C = 1 ÷ μ is smaller: **C is less**."
+            },
+            {
+              "q": "Which of these is NOT caused by total internal reflection?",
+              "options": [
+                "A pencil looks bent in a glass of water",
+                "Light travels along an optical fibre",
+                "A road looks wet on a hot day (mirage)",
+                "A diamond sparkles"
+              ],
+              "answer": 0,
+              "why": "The bent pencil is ordinary **refraction**. The other three are total internal reflection."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These are like the harder questions at the end of the chapter. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "lateral-numbers",
+          "label": "Lateral displacement by numbers",
+          "type": "optional",
+          "desc": "A glass block 6 cm thick has μ = √3 ≈ 1.73. A ray meets it at i = 60°. Find the lateral displacement.\n\nsin r = sin 60° ÷ √3 = 0.87 ÷ 1.73 = 0.5, so r = 30°\n\nLateral displacement = t × sin(i − r) ÷ cos r\n\n= 6 × sin 30° ÷ cos 30°\n\n= 6 × 0.5 ÷ 0.87 ≈ **3.46 cm**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is the lateral displacement when i = 0°?",
+              "a": "**Zero**: sin(0 − 0) = 0. The ray goes straight through, on the same line."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "two-layers",
+          "label": "A slab under water",
+          "type": "optional",
+          "desc": "A mark lies under a glass slab 3 cm thick (μ = 1.5). On top of the slab is 4 cm of water (μ = 4/3). Seen from straight above, how deep does the mark look?\n\nEach layer adds its own apparent depth:\n\nglass: 3 ÷ 1.5 = 2 cm\n\nwater: 4 ÷ 4/3 = 3 cm\n\napparent depth = 2 + 3 = **5 cm**. The real depth is 7 cm, so the shift is **2 cm**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "prism-in-water",
+          "label": "Why a total reflecting prism fails under water",
+          "type": "optional",
+          "desc": "Put a 45°, 90°, 45° glass prism (μ = 1.5) under water (μ = 4/3). Now the light goes from glass into **water**, not air.\n\nsin C = μ of water ÷ μ of glass = (4/3) ÷ 1.5 = 8/9 ≈ 0.89\n\nC ≈ **63°**\n\nInside the prism the light meets the long face at 45°, which is now **less than C**. So it is **not** totally reflected: most of it passes out into the water.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: does the critical angle get bigger or smaller when the outside medium is denser?",
+              "a": "**Bigger.** The two media are closer in μ, so light needs a bigger angle before it cannot get out."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mu-from-prism",
+          "label": "μ from minimum deviation",
+          "type": "optional",
+          "desc": "At minimum deviation the ray inside is symmetric, so **r₁ = r₂ = A ÷ 2**. Then **μ = sin i ÷ sin(A/2)**.\n\nA 60° prism gives δ_min = 30°. Find μ.\n\ni = (60 + 30) ÷ 2 = 45°\n\nr = 60 ÷ 2 = 30°\n\nμ = sin 45° ÷ sin 30° = 0.71 ÷ 0.5 ≈ **1.41**",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThis chapter is mostly about **ray diagrams and reasons**, with short numericals. A struggling student scores well by drawing normals correctly, learning the bending rule, and practising the six standard diagrams.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- Start with the **one idea**: light bends because it changes speed. Ask 'is it slowing down or speeding up?' before every diagram.\n- Insist on the **normal**: dashed, at 90° to the surface, drawn first. Check every angle is measured from it.\n- Let them **play with PhET Bending Light** for 15 minutes: change the angle, change the medium, find the critical angle.\n- Do the **coin in a cup** and the **pencil in a glass of water** at home or in class. Then ask them to draw what happened.\n- Make a **values card**: c, the speeds in water and glass, μ for water, glass and diamond, and C for each. Test it for two minutes each lesson.\n- Practise **dividing by 4/3** until it is automatic: multiply by 3/4.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 12-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** refraction, denser and rarer, towards or away from the normal. Activity: pencil in a glass of water; coin in a cup.\n- **Period 2:** Snell's laws, μ = sin i ÷ sin r. Activity: PhET Bending Light, measure i and r and find μ.\n- **Period 3:** μ = c ÷ V, values of μ, one medium with respect to another. Exercise 4(A) numericals.\n- **Period 4:** V = f λ; what changes on refraction; what changes μ. Exercise 4(A) short questions.\n- **Period 5:** the glass block and pins experiment. Activity: each group finds μ from three readings.\n- **Period 6:** through a block, lateral displacement, multiple images. Activity: look at a candle in a thick mirror. Exercise 4(A) diagrams.\n- **Period 7:** the prism, its parts, the path of a ray, δ = i₁ + i₂ − A.\n- **Period 8:** minimum deviation and what changes δ. Activity: rotate a prism with a ray box and watch δ fall and rise. Exercise 4(B).\n- **Period 9:** real and apparent depth, the shift, the bent stick, daily-life effects. Activity: measure the apparent depth of a mark under a glass block. Exercise 4(C).\n- **Period 10:** critical angle, sin C = 1 ÷ μ, total internal reflection and its conditions. Activity: a laser pointer through a semicircular glass block (never into the eyes).\n- **Period 11:** total reflecting prisms (90°, 180°), the 60° and 30° prisms, prism or mirror. Activity: a test tube in water, and a home-made periscope. Exercise 4(D).\n- **Period 12:** exam toolkit: definitions test, ray diagram practice, give-reasons practice, self-test and exit ticket.",
+          "links": [
+            {
+              "label": "PhET simulation: Bending Light (free)",
+              "url": "https://phet.colorado.edu/en/simulations/bending-light"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Measuring angles from the **surface** instead of the normal.\n- Writing **μ = V ÷ c** or sin r ÷ sin i, and getting μ less than 1.\n- Saying the **frequency** changes on refraction.\n- Bending the ray the **wrong way** at the second face of a block or prism.\n- Drawing the emergent ray from a glass block **not parallel** to the incident ray.\n- Giving the **apparent depth** when the question asks for the **shift**.\n- Thinking total internal reflection can happen going from **air into glass**.\n- Forgetting the **arrows** on rays, or forgetting to draw the normal at all.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. State Snell's second law.",
+              "a": "For a given pair of media, **sin i ÷ sin r is constant**. The constant is the refractive index."
+            },
+            {
+              "q": "2. A gem has μ = 2.5. Find the speed of light in it. (c = 3 × 10⁸ m/s)",
+              "a": "V = c ÷ μ = 3 × 10⁸ ÷ 2.5 = **1.2 × 10⁸ m/s**."
+            },
+            {
+              "q": "3. A tank of water (μ = 4/3) is 2.4 m deep. How deep does it look from above?",
+              "a": "2.4 × 3/4 = **1.8 m**."
+            },
+            {
+              "q": "4. State the two conditions for total internal reflection.",
+              "a": "Light must go from a **denser to a rarer** medium, and the angle of incidence must be **greater than the critical angle**."
+            },
+            {
+              "q": "5. Through what angle does a 45°, 90°, 45° prism turn light that enters its long face normally? Name a device that uses this.",
+              "a": "**180°**. **Binoculars**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

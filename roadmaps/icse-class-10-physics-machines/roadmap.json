@@ -5,6 +5,10 @@
   "changelog": [
     {
       "date": "2026-11-23",
+      "text": "Added a link to the next chapter, Chapter 4: Refraction of Light at Plane Surfaces."
+    },
+    {
+      "date": "2026-11-23",
       "text": "First version: the whole chapter in small steps, with original worked examples, quick checks, a last-minute revision sheet, a self-test and a section for teachers and parents."
     }
   ],
@@ -37,6 +41,10 @@
             {
               "label": "Previous chapter: 2. Work, Energy and Power",
               "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-work-energy-power"
+            },
+            {
+              "label": "Next chapter: 4. Refraction of Light at Plane Surfaces",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-refraction-plane-surfaces"
             }
           ],
           "children": []

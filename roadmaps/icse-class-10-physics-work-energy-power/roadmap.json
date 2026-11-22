@@ -1,8 +1,12 @@
 {
   "title": "ICSE Class 10 Physics, Chapter 2: Work, Energy and Power, Step by Step",
   "subtitle": "For students who find physics hard. Work, power, potential and kinetic energy, energy changes and conservation of energy in small steps, with every numerical shown line by line, quick checks, an exam toolkit and a last-minute revision sheet. Follows the ICSE Class 10 syllabus, Chapter 2 (Work, Energy and Power), in the order of Selina Concise Physics.",
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "changelog": [
+    {
+      "date": "2026-11-23",
+      "text": "Added a link to the next chapter, Chapter 3: Machines."
+    },
     {
       "date": "2026-11-22",
       "text": "First version: the whole chapter in small steps, with original worked examples, quick checks, a last-minute revision sheet, a self-test and a section for teachers and parents."
@@ -37,6 +41,10 @@
             {
               "label": "Previous chapter: 1. Force",
               "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-force"
+            },
+            {
+              "label": "Next chapter: 3. Machines",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-machines"
             }
           ],
           "children": []
