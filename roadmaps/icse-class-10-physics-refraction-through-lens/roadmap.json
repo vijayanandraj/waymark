@@ -1,0 +1,1274 @@
+{
+  "title": "ICSE Class 10 Physics, Chapter 5: Refraction Through a Lens, Step by Step",
+  "subtitle": "For students who find physics hard. Convex and concave lenses, the three rays, the images for every object position, the sign convention, the lens formula, magnification, power and the magnifying glass in small steps, with every numerical shown line by line, ray diagrams, quick checks, an exam toolkit and a last-minute revision sheet. Follows the ICSE Class 10 syllabus, Chapter 5 (Refraction Through a Lens), in the order of Selina Concise Physics.",
+  "updated": "2026-11-23",
+  "changelog": [
+    {
+      "date": "2026-11-23",
+      "text": "First version: the whole chapter in small steps, with original worked examples, quick checks, a last-minute revision sheet, a self-test and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** be sure of the prism rule from Chapter 4, plus and minus signs, fractions like 1/10 − 1/30, and changing cm into m. The lens formula uses all of them.",
+      "links": [
+        {
+          "label": "PhET simulation: Geometric Optics (free)",
+          "url": "https://phet.colorado.edu/en/simulations/geometric-optics"
+        }
+      ],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Put the sign on every distance before you use the lens formula.** u is always negative. Most lost marks in this chapter come from a missing minus sign.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: a lens is a stack of prisms.** Every part bends light towards its thicker part. A convex lens is thick in the middle, so it brings rays **together**. A concave lens is thin in the middle, so it **spreads** them. Three rays you always know find every image.",
+          "links": [
+            {
+              "label": "PhET simulation: Geometric Optics (free)",
+              "url": "https://phet.colorado.edu/en/simulations/geometric-optics"
+            },
+            {
+              "label": "Last-minute revision sheet for this chapter",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-refraction-through-lens#revision-sheet"
+            },
+            {
+              "label": "Previous chapter: 4. Refraction of Light at Plane Surfaces",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-refraction-plane-surfaces"
+            },
+            {
+              "label": "Next chapter: 6. Spectrum",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-spectrum"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 5, *Refraction Through a Lens*, of the ICSE Class 10 Physics syllabus. It follows the order of *Selina Concise Physics* for Class 10.\n\n**Who it is for.** Class 10 students who find physics hard, and want to understand this chapter and score decent marks in it. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** A lens is a stack of prisms, so it bends light towards its thicker part. Convex lenses bring rays together, concave lenses spread them, and three rays you always know find every image.\n\n**How it is different from the textbook.** The textbook treats the six convex lens cases one by one. Here they are one story (the image moves away and grows as the object comes in), every ray diagram is built from the same three rays, and the sign convention gets its own steps, with fraction and sign practice first.\n\n**What is inside.**\n- 12 milestones and 53 small steps. The 45 solid steps are the core path. The dashed ones are optional.\n- 48 practice questions with hidden answers, and 7 pictures.\n- 29 click-to-check questions that say right or wrong, and why: a quick check after each of the 7 main milestones, and a 10-question self-test.\n- A **last-minute revision sheet**: every formula, unit and key point on one page.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the challenge questions, and a section for teachers and parents with a 12-period lesson plan, the mistakes to watch for and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from their textbook. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the ICSE syllabus but is not made or endorsed by CISCE or by any publisher. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. A ray passes through a prism. Which way does it bend?",
+              "a": "**Towards the base** of the prism. Wrong? Do *Light bends towards the base (Chapter 4)*."
+            },
+            {
+              "q": "2. Find −8 + 3, and 1 ÷ (−4).",
+              "a": "**−5** and **−0.25**. Wrong? Do *Plus and minus signs*."
+            },
+            {
+              "q": "3. Find 1/6 − 1/12. Then turn your answer upside down.",
+              "a": "2/12 − 1/12 = **1/12**. Upside down: **12**. Wrong? Do *Fractions like 1/10 − 1/30*."
+            },
+            {
+              "q": "4. Write 25 cm in metres, then find 1 ÷ 0.25.",
+              "a": "**0.25 m**, and 1 ÷ 0.25 = **4**. Wrong? Do *Centimetres into metres, and 1 ÷ f*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "prism-recap",
+          "label": "Light bends towards the base (Chapter 4)",
+          "type": "core",
+          "desc": "In Chapter 4, a ray through a prism bent **towards the base** at both faces.\n\nNow put two prisms base to base. A ray through the top prism bends **down**. A ray through the bottom prism bends **up**. They **cross**.\n\nPut them point to point instead. The top ray bends **up**, the bottom ray **down**. They **spread apart**.\n\n**Worked example:** two prisms base to base, with two parallel rays. The rays bend towards each other and meet. That is a **convex lens**, roughly.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: two prisms are placed point to point. Do parallel rays meet or spread out?",
+              "a": "They **spread out**: each bends towards its own base, away from the middle. That is a **concave lens**, roughly."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "signs",
+          "label": "Plus and minus signs",
+          "type": "core",
+          "desc": "The lens formula uses **negative numbers**.\n\n- −30 + 10 = **−20**\n- 1 ÷ (−5) = **−0.2**\n- Adding a negative is taking away: 1/10 + (−1/30) = **1/10 − 1/30**\n\n**Worked example:** −12 + 4 = **−8**. Start at −12 and move 4 up.",
+          "links": [
+            {
+              "label": "Math is Fun: positive and negative numbers",
+              "url": "https://www.mathsisfun.com/positive-negative-integers.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: find −15 − 5, and 1 ÷ (−10).",
+              "a": "**−20** and **−0.1**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "fractions",
+          "label": "Fractions like 1/10 − 1/30",
+          "type": "core",
+          "desc": "To add or take away fractions, make the bottoms the same.\n\n**Worked example:** 1/10 − 1/30\n\n= 3/30 − 1/30\n\n= 2/30 = **1/15**\n\nIn the lens formula this is 1/v, so **v = 15**. **Turn it upside down at the end.**",
+          "links": [
+            {
+              "label": "Math is Fun: adding fractions",
+              "url": "https://www.mathsisfun.com/fractions_addition.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: find 1/12 − 1/36, then turn it upside down.",
+              "a": "3/36 − 1/36 = 2/36 = **1/18**. Upside down: **18**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "cm-to-m",
+          "label": "Centimetres into metres, and 1 ÷ f",
+          "type": "core",
+          "desc": "Power needs the focal length **in metres**.\n\n- 40 cm = **0.4 m** (divide by 100)\n- 1 ÷ 0.4 = **2.5**\n\n**Worked example:** a lens with f = 25 cm. 25 cm = 0.25 m, and 1 ÷ 0.25 = **4**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: write 50 cm in metres, and find 1 ÷ 0.5.",
+              "a": "**0.5 m**, and 1 ÷ 0.5 = **2**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "lenses",
+      "label": "Lenses: convex and concave",
+      "desc": "**Goal:** tell the two kinds of lens apart, and learn the words for a lens. Exercise 5(A) covers this.",
+      "links": [],
+      "children": [
+        {
+          "id": "convex-concave",
+          "label": "Convex and concave lenses",
+          "type": "core",
+          "desc": "**A lens is a transparent medium bounded by two spherical surfaces, or by one spherical and one plane surface.**\n\n- **Convex (converging) lens:** **thick in the middle**, thin at the edges. Kinds: bi-convex, plano-convex, concavo-convex.\n- **Concave (diverging) lens:** **thin in the middle**, thick at the edges. Kinds: bi-concave, plano-concave, convexo-concave.\n\nDon't trust the name: **feel the middle**. Concavo-convex is thicker in the middle, so it is a **convex** lens.\n\n**Worked example:** a reading magnifier is thick in the middle: a **convex** lens. Spectacles for short sight are thin in the middle: **concave**.",
+          "links": [
+            {
+              "label": "Wikipedia: lens",
+              "url": "https://en.wikipedia.org/wiki/Lens"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: which converges light, a concavo-convex lens or a convexo-concave lens?",
+              "a": "The **concavo-convex** lens: it is **thicker in the middle**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "lens-prisms",
+          "label": "A lens is a set of prisms",
+          "type": "core",
+          "desc": "Think of a lens as a **slab of glass in the middle with a prism above and below**.\n\n- **Convex:** the prisms have their **bases towards the middle**. Rays bend towards the middle and **meet** at a point F.\n- **Concave:** the prisms have their **bases towards the edges**. Rays bend outwards and **spread**, as if coming from a point F.\n- The middle is like a slab: a ray along the axis goes **straight through**.\n\n**Worked example:** three parallel rays hit a convex lens: one above the axis, one on it, one below. The top one bends down, the bottom one bends up, the middle one goes straight. **All three meet at F.**",
+          "links": [
+            {
+              "label": "Physics Classroom: refraction rules for a lens",
+              "url": "https://www.physicsclassroom.com/class/refrn/Lesson-5/Refraction-by-Lenses"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why does a concave lens spread light out?",
+              "a": "Its 'prisms' have their **bases at the edges**, so each ray bends **outwards**, away from the middle."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/lens-action.png",
+              "caption": "Convex: rays meet at F. Concave: rays seem to come from F"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "lens-words",
+          "label": "Words for a lens",
+          "type": "core",
+          "desc": "- **Centre of curvature:** each surface is part of a sphere; the sphere's centre. A lens has **two**.\n- **Radius of curvature:** the radius of that sphere.\n- **Principal axis:** the line joining the two centres of curvature.\n- **Optical centre O:** the point on the principal axis at the middle of the lens. **A ray aimed at O goes straight through**, without bending (for a thin lens).\n- **Equi-convex** or **equi-concave:** both surfaces have the **same radius of curvature**.\n\n**Worked example:** a ray aims at the optical centre of a thin convex lens, slantwise. It comes out **in the same direction**, as if the lens were not there.",
+          "links": [
+            {
+              "label": "Physics Classroom: the anatomy of a lens",
+              "url": "https://www.physicsclassroom.com/class/refrn/Lesson-5/The-Anatomy-of-a-Lens"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what is the special name for the point where a ray passes through a thin lens without bending?",
+              "a": "The **optical centre**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "focus",
+          "label": "Focus and focal length",
+          "type": "core",
+          "desc": "A lens has **two foci**, one on each side.\n\n- **Second focus F₂:** rays **parallel to the axis** meet there after a convex lens, or seem to come from there after a concave lens.\n- **First focus F₁:** rays **from F₁** (convex), or heading **towards F₁** (concave), come out **parallel to the axis**.\n- **Focal length f:** the distance from O to the focus. With air on both sides, **OF₁ = OF₂**.\n- **Focal plane:** the plane through a focus, at right angles to the axis.\n\nA convex lens has a **real** focus: light really goes there. A concave lens has a **virtual** focus: light only seems to come from it.\n\n**Worked example:** sunlight through a convex lens makes a tiny bright spot 15 cm away. Sunlight is parallel, so that spot is the focus: **f ≈ 15 cm**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a ray comes out of a convex lens parallel to the axis. Which point did it pass through before the lens?",
+              "a": "The **first focus F₁**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "focal-facts",
+          "label": "What changes the focal length",
+          "type": "core",
+          "desc": "- A **more curved** (thicker) lens has a **shorter** focal length.\n- In **water**, a glass lens bends light less, so its focal length gets **longer**.\n- **Covering part of a lens** does **not** change f or the image's place and size. Less light gets through, so the image is **dimmer**.\n- A parallel beam that comes in **slantwise** meets at a point in the **focal plane**, not at F.\n\n**Worked example:** you stick paper over the top half of a convex lens making an image on a screen. You still see the **whole image**, in the same place, only **dimmer**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which has the shorter focal length, a thin convex lens or a fat one made of the same glass?",
+              "a": "The **fat** one: its surfaces are **more curved**, so it bends light more."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-lenses",
+          "label": "Quick check: lenses",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which lens is thicker in the middle than at its edges?",
+              "options": [
+                "A flat glass plate",
+                "A convex lens",
+                "A concave lens",
+                "A convexo-concave lens"
+              ],
+              "answer": 1,
+              "why": "A **convex** lens bulges in the middle and **converges** light. See *Convex and concave lenses*."
+            },
+            {
+              "q": "A beam parallel to the axis falls on a concave lens. After the lens, the rays:",
+              "options": [
+                "stay parallel",
+                "come straight back",
+                "spread out, as if coming from the focus",
+                "meet at the focus"
+              ],
+              "answer": 2,
+              "why": "A concave lens **diverges** light. The rays seem to come from its **focus**, so its focus is **virtual**. See *A lens is a set of prisms*."
+            },
+            {
+              "q": "The top half of a convex lens is covered with black paper. What happens to the image on the screen?",
+              "options": [
+                "There is no image",
+                "The image moves",
+                "Same place and size, but dimmer",
+                "Only the bottom half of the image is left"
+              ],
+              "answer": 2,
+              "why": "Every part of the lens forms the **whole** image. Less light gets through, so it is **dimmer**. See *What changes the focal length*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "three-rays",
+      "label": "Three rays that find every image",
+      "desc": "**Goal:** draw the three rays you always know, and use them to find an image. Exercise 5(B) starts here.",
+      "links": [],
+      "children": [
+        {
+          "id": "three-rays-step",
+          "label": "Three rays you always know",
+          "type": "core",
+          "desc": "From the top of the object, these three rays are easy to draw:\n\n- **Ray 1: parallel to the axis**, then **through F₂** (convex) or **as if from F₂** (concave).\n- **Ray 2: through the optical centre O**, straight on.\n- **Ray 3: through F₁** (convex) or **towards F₁** (concave), then **parallel** to the axis.\n\n**Any two** are enough. Where they meet, or seem to meet, is the **image** of the top of the object.\n\n**Worked example:** an object stands 25 cm from a convex lens with f = 10 cm. The three rays meet about 16.7 cm on the other side, below the axis: a **smaller, upside-down** image.",
+          "links": [
+            {
+              "label": "Physics Classroom: refraction rules for a lens",
+              "url": "https://www.physicsclassroom.com/class/refrn/Lesson-5/Refraction-by-Lenses"
+            },
+            {
+              "label": "PhET simulation: Geometric Optics (free)",
+              "url": "https://phet.colorado.edu/en/simulations/geometric-optics"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a ray heads towards F₁ of a concave lens. How does it come out?",
+              "a": "**Parallel to the principal axis.**"
+            }
+          ],
+          "images": [
+            {
+              "src": "images/three-rays.png",
+              "caption": "Any two of the three rays find the top of the image"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "real-virtual",
+          "label": "Real and virtual images",
+          "type": "core",
+          "desc": "- **Real image:** the rays **really meet**. It can be caught **on a screen**. It is **inverted**.\n- **Virtual image:** the rays only **seem to come** from it. It **cannot** be caught on a screen, but your eye can see it. It is **erect**.\n\nIn a ray diagram, draw a virtual image with **dotted** lines traced back.\n\n**Worked example:** the picture on a cinema screen is a **real** image. The big letters you see through a magnifying glass are a **virtual** image.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a candle's image appears on a white card held behind a lens. Real or virtual?",
+              "a": "**Real**: it is caught on a screen."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "draw-diagram",
+          "label": "Drawing a ray diagram, step by step",
+          "type": "core",
+          "desc": "- Draw the **principal axis**. Draw the lens as a **line** through O.\n- Mark **F₁ and F₂** at equal distances, one on each side. Mark 2F₁ and 2F₂ too.\n- Draw the object as an **arrow standing on the axis**, on the left.\n- From its tip, draw **ray 1** and **ray 2**, with arrows. Bend them at the lens line.\n- Where they meet: draw the **image arrow** down (or up) to the axis.\n- If they spread apart, extend them **backwards with dotted lines**: they meet at a **virtual** image.\n\n**Worked example:** checklist for full marks: ruler used, arrows on every ray, F₁ and F₂ labelled, image labelled, dotted lines for virtual rays.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: the two rays leave the lens spreading apart. What do you do?",
+              "a": "Extend them **backwards as dotted lines** until they meet. That point is the **virtual image**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-three-rays",
+          "label": "Quick check: the three rays",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A ray of light goes towards the optical centre of a thin lens. After the lens it:",
+              "options": [
+                "comes out parallel to the axis",
+                "goes straight on",
+                "passes through the focus",
+                "comes back"
+              ],
+              "answer": 1,
+              "why": "A ray through **O** passes **undeviated**. See *Three rays you always know*."
+            },
+            {
+              "q": "A ray parallel to the principal axis enters a convex lens. It comes out:",
+              "options": [
+                "through the second focus F₂",
+                "through the optical centre",
+                "back through F₁",
+                "parallel to the axis"
+              ],
+              "answer": 0,
+              "why": "Parallel in, **through F₂** out. See *Three rays you always know*."
+            },
+            {
+              "q": "Which image can be caught on a screen?",
+              "options": [
+                "A real image",
+                "Both",
+                "Neither",
+                "A virtual image"
+              ],
+              "answer": 0,
+              "why": "A **real** image is where rays **really meet**, so a screen there shows it. See *Real and virtual images*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "convex-images",
+      "label": "Images by a convex lens",
+      "desc": "**Goal:** know where the image is, and what it is like, for each place you put the object. Exercise 5(B) asks these again and again.",
+      "links": [],
+      "children": [
+        {
+          "id": "far-away",
+          "label": "Object very far away",
+          "type": "core",
+          "desc": "Rays from a very far object arrive **parallel**.\n\n- **Object at infinity:** the image is **at F₂**, a tiny point. **Real, inverted, very small.**\n- **Object far away, but not at infinity:** the image is **in the focal plane** near F₂, real, inverted and very small.\n\n**Uses:** a **burning glass** focuses sunlight at F₂. A **camera** photographing distant hills.\n\n**Worked example:** a convex lens with f = 15 cm makes a point of sunlight on paper **15 cm** behind it. The paper gets hot enough to char.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why is a convex lens called a burning glass?",
+              "a": "It brings the parallel rays of the Sun to a point at its **focus**. The light and heat there can **burn paper**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "beyond-2f",
+          "label": "Object beyond 2F₁: camera",
+          "type": "core",
+          "desc": "**Image:** between **F₂ and 2F₂**, on the other side. **Real, inverted, smaller.**\n\n**Use:** a camera photographing people a few metres away.\n\n**Worked example:** a convex lens with f = 10 cm, object 30 cm away. The image forms **15 cm** behind the lens, **half** the size, upside down.",
+          "links": [
+            {
+              "label": "Wikipedia: camera lens",
+              "url": "https://en.wikipedia.org/wiki/Camera_lens"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: as the object moves from very far away towards 2F₁, what happens to the image?",
+              "a": "It moves from F₂ **towards 2F₂** and grows, but stays **smaller** than the object."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/convex-beyond-2f.png",
+              "caption": "Object beyond 2F₁: a smaller, real, inverted image between F₂ and 2F₂"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "at-2f",
+          "label": "Object at 2F₁: same size",
+          "type": "core",
+          "desc": "**Image:** at **2F₂**, on the other side. **Real, inverted, the same size.**\n\n**Use:** to turn an image upright without changing its size, as in a terrestrial telescope.\n\n**Worked example:** a convex lens with f = 10 cm, object at 20 cm. The image is **20 cm** behind the lens, exactly as big as the object, upside down.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a convex lens makes an image the same size as the object. Where is the object?",
+              "a": "At **2F₁**, twice the focal length from the lens."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "f-to-2f",
+          "label": "Object between F₁ and 2F₁: projector",
+          "type": "core",
+          "desc": "**Image:** **beyond 2F₂**, on the other side. **Real, inverted, bigger.**\n\n**Use:** a **projector**. The film or slide is put in **upside down**, so the picture on the screen is the right way up.\n\n**Object exactly at F₁:** the rays come out **parallel**, so the image is **at infinity**, very big. A spotlight or a collimator uses this to make a parallel beam.\n\n**Worked example:** a convex lens with f = 10 cm, object at 15 cm. The image forms **30 cm** behind, **twice** as big, upside down.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: where must a small bulb be placed in front of a convex lens to get a parallel beam?",
+              "a": "**At the focus F₁.**"
+            }
+          ],
+          "images": [
+            {
+              "src": "images/convex-f-2f.png",
+              "caption": "Object between F₁ and 2F₁: a bigger, real, inverted image beyond 2F₂"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "inside-f",
+          "label": "Object inside F₁: magnifying glass",
+          "type": "core",
+          "desc": "Put the object **between O and F₁**. The rays leave the lens **spreading apart**. Traced back, they meet **behind the object**, on the same side.\n\n**Image:** on the **same side** as the object, further away. **Virtual, erect, magnified.**\n\n**Use:** a **magnifying glass** (reading lens).\n\n**Worked example:** a convex lens with f = 12 cm, a small stamp 9 cm away. The image is **36 cm** from the lens, on the stamp's side, upright and **4 times** as big.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: can this image be caught on a screen? Why?",
+              "a": "**No.** It is **virtual**: the rays only seem to come from it."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/convex-inside-f.png",
+              "caption": "Object inside F₁: a virtual, erect, magnified image on the same side"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "convex-pattern",
+          "label": "The pattern as the object comes closer",
+          "type": "core",
+          "desc": "Bring the object from far away towards a convex lens:\n\n- **Infinity:** image at **F₂**, a point.\n- **Beyond 2F₁:** between F₂ and 2F₂, **smaller**.\n- **At 2F₁:** at 2F₂, **same size**.\n- **Between F₁ and 2F₁:** beyond 2F₂, **bigger**.\n- **At F₁:** at **infinity**.\n- **Inside F₁:** same side, **virtual, erect, bigger**.\n\nThe first five images are **real and inverted**. As the object comes in, the image **moves away and grows**, until F₁. Inside F₁ it flips to virtual.\n\n**Worked example:** an object 50 cm from a lens with f = 20 cm is beyond 2F₁ (40 cm). So the image is **real, inverted and smaller**, between 20 cm and 40 cm behind.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: an object is 15 cm from a convex lens with f = 10 cm. Describe the image without calculating.",
+              "a": "15 cm is **between F₁ (10 cm) and 2F₁ (20 cm)**. So the image is **real, inverted, magnified**, beyond 2F₂."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-convex-images",
+          "label": "Quick check: convex lens images",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "An object is at 2F₁ of a convex lens. The image is:",
+              "options": [
+                "at F₂, real and very small",
+                "at 2F₂, real, inverted and the same size",
+                "at infinity",
+                "virtual, behind the object"
+              ],
+              "answer": 1,
+              "why": "Object at **2F₁**, image at **2F₂**, the **same size**. See *Object at 2F₁: same size*."
+            },
+            {
+              "q": "Where must the object be for a convex lens to give a virtual, erect, magnified image?",
+              "options": [
+                "At F₁",
+                "Beyond 2F₁",
+                "At 2F₁",
+                "Between O and F₁"
+              ],
+              "answer": 3,
+              "why": "Only **inside the focal length** does a convex lens give a virtual, erect image. See *Object inside F₁: magnifying glass*."
+            },
+            {
+              "q": "In a projector, the film is placed:",
+              "options": [
+                "beyond 2F₁, upright",
+                "at F₁",
+                "between F₁ and 2F₁, upside down",
+                "between O and F₁"
+              ],
+              "answer": 2,
+              "why": "Between F₁ and 2F₁ the image is **real, inverted and magnified**, far away on the screen. The film is put in **upside down** so the picture is upright. See *Object between F₁ and 2F₁: projector*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "concave-images",
+      "label": "Images by a concave lens",
+      "desc": "**Goal:** know the one kind of image a concave lens makes, and tell the two lenses apart. Exercise 5(B) covers this.",
+      "links": [],
+      "children": [
+        {
+          "id": "concave-always",
+          "label": "A concave lens: always virtual, erect, smaller",
+          "type": "core",
+          "desc": "A concave lens spreads light, so the rays **never meet**. Traced back, they meet **between F and O**, on the object's side.\n\n**Wherever the object is, the image is virtual, erect and smaller**, between the focus and the lens.\n\n- Object **at infinity:** image **at F**, very small.\n- Object **at F:** image **halfway** between F and O.\n- Object coming closer: the image moves **towards the lens** and grows, but stays **smaller** than the object.\n\n**Use:** spectacles for **short sight**.\n\n**Worked example:** a concave lens with f = 15 cm, object 30 cm away. The image is **10 cm** in front of the lens, upright, **one third** the size.",
+          "links": [
+            {
+              "label": "Physics Classroom: diverging lenses, object-image relations",
+              "url": "https://www.physicsclassroom.com/class/refrn/Lesson-5/Diverging-Lenses-Object-Image-Relations"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: can a concave lens form an image twice the size of the object? Why?",
+              "a": "**No.** It **spreads** the rays, so its image is **always smaller** than the object."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/concave-image.png",
+              "caption": "A concave lens: virtual, erect, smaller, between F and O"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "tell-apart",
+          "label": "Convex or concave? Tell them apart",
+          "type": "core",
+          "desc": "- **Convex lens:** real or virtual, inverted or erect, bigger or smaller: it **depends where the object is**.\n- **Concave lens:** **always** virtual, erect and smaller.\n\nThree quick tests for an unknown lens:\n\n- **Touch it:** thick in the middle is convex.\n- **Hold it over print:** letters look **bigger**, convex; **smaller**, concave.\n- **Look at a far object through it:** **upside down**, convex; **upright and small**, concave.\n\n**Worked example:** through an unknown lens, a far-off tree looks upside down. It must be **convex**: a concave lens never inverts.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a lens always forms its image between the object and the lens. Name it.",
+              "a": "A **concave** lens."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-concave-images",
+          "label": "Quick check: concave lens images",
+          "type": "core",
+          "desc": "Two questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "The image formed by a concave lens is always:",
+              "options": [
+                "the same size",
+                "real and inverted",
+                "virtual, erect and smaller",
+                "virtual and bigger"
+              ],
+              "answer": 2,
+              "why": "Wherever the object is, a concave lens gives a **virtual, erect, diminished** image. See *A concave lens: always virtual, erect, smaller*."
+            },
+            {
+              "q": "An object is at the focus of a concave lens. Where is the image?",
+              "options": [
+                "Halfway between F and O",
+                "At F",
+                "At 2F",
+                "At infinity"
+              ],
+              "answer": 0,
+              "why": "The image is **midway** between the focus and the lens. See *A concave lens: always virtual, erect, smaller*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "lens-formula",
+      "label": "Sign convention and the lens formula",
+      "desc": "**Goal:** use 1/v − 1/u = 1/f and m = v ÷ u with the right signs. Exercise 5(C) numericals use this.",
+      "links": [],
+      "children": [
+        {
+          "id": "sign-convention",
+          "label": "The sign convention",
+          "type": "core",
+          "desc": "Measure every distance **from the optical centre O**, along the axis:\n\n- Put the object on the **left**. Light travels left to right.\n- Distances **along the light** (to the right) are **+**. **Against** it (to the left) are **−**.\n- Heights **above** the axis are **+**; **below** are **−**.\n\nSo:\n\n- **u is always negative** (the object is on the left).\n- **f is + for a convex lens** and **− for a concave lens**.\n- **v is +** for a real image (behind the lens), **−** for a virtual image (in front).\n\n**Worked example:** an object 20 cm in front of a concave lens of focal length 10 cm: **u = −20 cm, f = −10 cm**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: an object is 25 cm in front of a convex lens of focal length 15 cm. Write u and f with signs.",
+              "a": "**u = −25 cm, f = +15 cm.**"
+            }
+          ],
+          "images": [
+            {
+              "src": "images/sign-convention.png",
+              "caption": "Along the light is +, against it is −. The object is always on the left"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "formula",
+          "label": "The lens formula",
+          "type": "core",
+          "desc": "**1/v − 1/u = 1/f**\n\nIt works for both lenses. To find v, rearrange: **1/v = 1/f + 1/u**.\n\n**Worked example:** a convex lens, f = +10 cm. Object at u = −30 cm.\n\n1/v = 1/10 + 1/(−30)\n\n1/v = 3/30 − 1/30 = 2/30 = 1/15\n\nv = **+15 cm**\n\nPlus: a **real** image, 15 cm **behind** the lens.",
+          "links": [
+            {
+              "label": "Physics Classroom: the mathematics of lenses",
+              "url": "https://www.physicsclassroom.com/class/refrn/Lesson-5/The-Mathematics-of-Lenses"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a convex lens has f = +15 cm. An object is at u = −60 cm. Find v.",
+              "a": "1/v = 1/15 − 1/60 = 4/60 − 1/60 = 3/60 = 1/20. **v = +20 cm**: real, behind the lens."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "formula-virtual",
+          "label": "Virtual images by the formula",
+          "type": "core",
+          "desc": "When v comes out **negative**, the image is **virtual**, on the **same side** as the object.\n\n**Worked example 1:** a convex lens, f = +12 cm, object at u = −9 cm (inside F).\n\n1/v = 1/12 − 1/9 = 3/36 − 4/36 = −1/36\n\nv = **−36 cm**: virtual, 36 cm in front of the lens.\n\n**Worked example 2:** a concave lens, f = −15 cm, object at u = −30 cm.\n\n1/v = −1/15 − 1/30 = −3/30 = −1/10\n\nv = **−10 cm**: virtual, 10 cm in front of the lens.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a concave lens has f = −30 cm. An object is at u = −60 cm. Find v.",
+              "a": "1/v = −1/30 − 1/60 = −3/60 = −1/20. **v = −20 cm**: virtual, in front of the lens."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "magnification",
+          "label": "Magnification: m = v ÷ u",
+          "type": "core",
+          "desc": "**Linear magnification m = height of image ÷ height of object = v ÷ u.**\n\n- **m negative:** real and **inverted**. **m positive:** virtual and **erect**.\n- **Size bigger than 1:** magnified. **Equal to 1:** same size. **Less than 1:** smaller.\n- A concave lens always gives m **positive and less than 1**.\n\n**Worked example:** f = +10 cm, u = −30 cm, so v = +15 cm.\n\nm = 15 ÷ (−30) = **−0.5**: real, inverted, half size.\n\nA 6 cm object gives an image 6 × (−0.5) = **−3 cm**: 3 cm tall, below the axis.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: f = +12 cm, u = −9 cm, v = −36 cm. Find m and describe the image.",
+              "a": "m = −36 ÷ (−9) = **+4**: **virtual, erect, 4 times** as big."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "find-f",
+          "label": "Finding f from u and v",
+          "type": "core",
+          "desc": "Sometimes the question gives u and v and asks for f. Use **1/f = 1/v − 1/u**.\n\n**Worked example:** an object 20 cm in front of a lens gives a sharp image on a screen 30 cm behind it.\n\nu = −20 cm, v = +30 cm (real: on a screen)\n\n1/f = 1/30 − 1/(−20) = 1/30 + 1/20 = 5/60 = 1/12\n\nf = **+12 cm**: a **convex** lens. m = 30 ÷ (−20) = **−1.5**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: an object 30 cm in front of a lens gives a virtual image 12 cm in front of it. Find f, and name the lens.",
+              "a": "u = −30, v = −12. 1/f = −1/12 + 1/30 = −5/60 + 2/60 = −3/60. **f = −20 cm**: a **concave** lens."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-lens-formula",
+          "label": "Quick check: the lens formula",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A convex lens has f = +20 cm. An object is at u = −60 cm. Find v.",
+              "options": [
+                "−30 cm",
+                "+15 cm",
+                "+40 cm",
+                "+30 cm"
+              ],
+              "answer": 3,
+              "why": "1/v = 1/f + 1/u = 1/20 − 1/60 = 2/60, so **v = +30 cm**. Forgetting the minus sign on u gives 15 cm. See *The lens formula*."
+            },
+            {
+              "q": "A lens gives m = −2. What does this tell you?",
+              "options": [
+                "The image is virtual, erect and twice as big",
+                "The image is virtual and inverted",
+                "The image is real, erect and half as big",
+                "The image is real, inverted and twice as big"
+              ],
+              "answer": 3,
+              "why": "**Minus means real and inverted**; 2 means **twice the size**. See *Magnification: m = v ÷ u*."
+            },
+            {
+              "q": "In the sign convention, the object distance u is:",
+              "options": [
+                "zero",
+                "always negative",
+                "always positive",
+                "positive for a convex lens only"
+              ],
+              "answer": 1,
+              "why": "The object is on the **left**, against the direction of light, so **u is always negative**. See *The sign convention*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "power",
+      "label": "Power of a lens",
+      "desc": "**Goal:** find the power of a lens in dioptres, with its sign. Exercise 5(C) has these.",
+      "links": [],
+      "children": [
+        {
+          "id": "power-step",
+          "label": "Power: P = 1 ÷ f",
+          "type": "core",
+          "desc": "A lens that bends light **more** has more **power**. A **shorter** focal length means more bending.\n\n**P = 1 ÷ f**, with **f in metres**. The unit is the **dioptre (D)**.\n\n- **1 D** is the power of a lens with f = 1 m.\n- **Convex:** power **+**. **Concave:** power **−**.\n- Opticians write spectacle prescriptions in dioptres.\n\n**Worked example:** a convex lens with f = 40 cm.\n\nf = 0.4 m\n\nP = 1 ÷ 0.4 = **+2.5 D**\n\nA concave lens with f = 50 cm: P = 1 ÷ (−0.5) = **−2 D**.",
+          "links": [
+            {
+              "label": "Wikipedia: dioptre",
+              "url": "https://en.wikipedia.org/wiki/Dioptre"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a lens has a power of −4 D. Find its focal length and name it.",
+              "a": "f = 1 ÷ (−4) = −0.25 m = **−25 cm**. Negative: **concave**."
+            },
+            {
+              "q": "Your turn: the focal length of a lens is doubled. What happens to its power?",
+              "a": "It is **halved**, because P = 1 ÷ f."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "power-add",
+          "label": "Lenses in contact: powers add",
+          "type": "core",
+          "desc": "Two thin lenses touching act like **one lens**. Their **powers add, with signs**:\n\n**P = P₁ + P₂**\n\n**Worked example:** a +5 D lens touches a −2 D lens.\n\nP = 5 + (−2) = **+3 D**\n\nf = 1 ÷ 3 m ≈ **33.3 cm**, convex.\n\nA +2 D lens with a −2 D lens gives **0 D**: together they act like a **flat glass plate**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: two convex lenses, each with f = 50 cm, are put together. Find the power and focal length of the pair.",
+              "a": "Each is +2 D. Together **+4 D**, so f = 1 ÷ 4 m = **25 cm**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-power",
+          "label": "Quick check: power",
+          "type": "core",
+          "desc": "Two questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A convex lens has a focal length of 50 cm. What is its power?",
+              "options": [
+                "+0.02 D",
+                "−2 D",
+                "+50 D",
+                "+2 D"
+              ],
+              "answer": 3,
+              "why": "Change to metres first: 50 cm = 0.5 m. P = 1 ÷ 0.5 = **+2 D**. See *Power: P = 1 ÷ f*."
+            },
+            {
+              "q": "A lens has a power of −8 D. What kind of lens is it, and what is its focal length?",
+              "options": [
+                "Convex, f = 12.5 cm",
+                "Concave, f = −12.5 cm",
+                "Convex, f = 8 cm",
+                "Concave, f = −8 m"
+              ],
+              "answer": 1,
+              "why": "Negative power means **concave**. f = 1 ÷ (−8) = −0.125 m = **−12.5 cm**. See *Power: P = 1 ÷ f*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "magnifier",
+      "label": "Magnifying glass and uses of lenses",
+      "desc": "**Goal:** explain the magnifying glass, name the uses of lenses, and find a focal length in the lab. Exercise 5(D) covers this.",
+      "links": [],
+      "children": [
+        {
+          "id": "magnifying-glass",
+          "label": "The magnifying glass",
+          "type": "core",
+          "desc": "A **magnifying glass** (simple microscope) is a **convex lens of short focal length** in a holder.\n\n- Hold it close to your eye, with the small object **inside its focal length**.\n- It forms a **virtual, erect, magnified** image, on the object's side.\n- Adjust it so the image is about **25 cm** from your eye, the closest distance a normal eye sees clearly (the **least distance of distinct vision**).\n- A **shorter focal length** gives **more magnification**.\n\n**Worked example:** a watch repairer uses a lens of f = 5 cm rather than 10 cm. The 5 cm lens magnifies the tiny screws **more**.",
+          "links": [
+            {
+              "label": "Wikipedia: magnifying glass",
+              "url": "https://en.wikipedia.org/wiki/Magnifying_glass"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: where is the object placed, compared with the focus of a magnifying glass? Where is the image?",
+              "a": "The object is **between the lens and its focus**. The image is on the **same side**, further away, about **25 cm** from the eye."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "lens-uses",
+          "label": "Lenses at work",
+          "type": "core",
+          "desc": "- **Camera, projector, telescope:** a **convex** lens makes a real, inverted image.\n- **Your eye:** the eye lens is **convex**. It makes a real, inverted image on the retina.\n- **Short sight (myopia):** far things look blurred. Corrected by a **concave** lens.\n- **Long sight (hypermetropia):** near things look blurred. Corrected by a **convex** lens.\n- **Bifocals:** concave on top for far, convex below for near.\n- **Collimator** (in a spectroscope): a convex lens with the source at its focus gives a **parallel beam**.\n- **Galilean telescope:** uses a **concave** lens to give an erect final image.\n\n**Worked example:** Meera cannot read the board from the back of the class, but reads her book easily. She is **short-sighted**: she needs **concave** lenses.",
+          "links": [
+            {
+              "label": "Wikipedia: near-sightedness",
+              "url": "https://en.wikipedia.org/wiki/Near-sightedness"
+            },
+            {
+              "label": "Wikipedia: far-sightedness",
+              "url": "https://en.wikipedia.org/wiki/Far-sightedness"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: Ravi's grandfather holds the newspaper far away to read it. Which lens does he need?",
+              "a": "He is **long-sighted**: a **convex** lens."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "find-f-lab",
+          "label": "Finding the focal length in the lab",
+          "type": "core",
+          "desc": "**Quick way (distant object):** hold a convex lens so that a **far-off** tree or window is focused sharply on a wall. Far objects send **parallel** rays, so the image is at the focus. **The distance from the lens to the wall ≈ f.**\n\n**Exact way (plane mirror and pin):**\n\n- Put the lens on a plane mirror. Hold a pin above it.\n- Move the pin up or down until its inverted image and the pin **move together** when you move your eye sideways (no **parallax**).\n- The pin is then **at the focus**. Rays from it leave the lens parallel, hit the mirror **normally** and come straight back.\n- **The distance from the pin to the lens = f.**\n\n**Worked example:** a distant window is focused sharply on the wall when the lens is **18 cm** from it. So **f ≈ 18 cm**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why must the object be far away in the quick method?",
+              "a": "Only rays from a **far** object arrive **parallel**, and parallel rays meet **at the focus**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-magnifier",
+          "label": "Quick check: magnifier and uses",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A magnifying glass gives an image that is:",
+              "options": [
+                "virtual, erect and magnified",
+                "virtual, erect and smaller",
+                "real, inverted and magnified",
+                "real, erect and the same size"
+              ],
+              "answer": 0,
+              "why": "The object is inside F, so the image is **virtual, erect and magnified**. See *The magnifying glass*."
+            },
+            {
+              "q": "Two convex lenses have focal lengths of 5 cm and 10 cm. Which makes the better magnifying glass?",
+              "options": [
+                "The 10 cm lens",
+                "The 5 cm lens",
+                "Neither: you need a concave lens",
+                "Both are the same"
+              ],
+              "answer": 1,
+              "why": "A **shorter focal length** gives **more magnification**. See *The magnifying glass*."
+            },
+            {
+              "q": "A short-sighted person cannot see far things clearly. Which lens do their spectacles have?",
+              "options": [
+                "Convex",
+                "A flat glass plate",
+                "Concave",
+                "A prism"
+              ],
+              "answer": 2,
+              "why": "Short sight (**myopia**) is corrected by a **concave** lens. Long sight uses a convex lens. See *Lenses at work*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "exam-toolkit",
+      "label": "Exam toolkit: words, reasons and ray diagrams",
+      "desc": "**Goal:** collect the marks that come from learning and drawing. This chapter has many ray diagrams and 'state the characteristics' questions.",
+      "links": [],
+      "children": [
+        {
+          "id": "definitions",
+          "label": "Definitions to learn word for word",
+          "type": "core",
+          "desc": "- **Lens:** a transparent refracting medium bounded by two spherical surfaces, or one spherical and one plane surface.\n- **Principal axis:** the line joining the centres of curvature of the two surfaces of the lens.\n- **Optical centre:** the point on the principal axis through which a ray passes undeviated.\n- **Second focus (convex):** the point where rays parallel to the principal axis meet after refraction.\n- **First focus (convex):** the point from which rays become parallel to the principal axis after refraction.\n- **Focal length:** the distance of the focus from the optical centre.\n- **Real image:** formed where refracted rays actually meet; it can be obtained on a screen.\n- **Virtual image:** formed where refracted rays appear to meet; it cannot be obtained on a screen.\n- **Linear magnification:** the ratio of the height of the image to the height of the object.\n- **Power of a lens:** the reciprocal of its focal length in metres. **1 dioptre:** the power of a lens of focal length 1 m.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: cover the list. Define the power of a lens, and say its sign for a concave lens.",
+              "a": "The **reciprocal of its focal length in metres**. For a concave lens it is **negative**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "numerical-method",
+          "label": "Numericals: four lines every time",
+          "type": "core",
+          "desc": "Examiners give marks for each line. Write all four:\n\n1. **Given:** u, v or f, **with signs**.\n2. **Formula:** 1/v − 1/u = 1/f, or m = v ÷ u, or P = 1 ÷ f.\n3. **Substitute:** put the signed numbers in.\n4. **Answer:** with its **unit and sign**, and say what the sign means.\n\n**Worked example:** a 4 cm object is 18 cm in front of a convex lens of focal length 6 cm. Find the image.\n\nGiven: u = −18 cm, f = +6 cm, O = 4 cm\n\nFormula: 1/v = 1/f + 1/u\n\nSubstitute: 1/v = 1/6 − 1/18 = 2/18\n\nAnswer: **v = +9 cm** (real, behind the lens). m = 9 ÷ (−18) = −0.5, so the image is **2 cm** tall, inverted.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is the quickest check on a concave lens answer?",
+              "a": "v must be **negative**, and smaller in size than u: the image is **virtual** and **between F and the lens**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "give-reasons",
+          "label": "Give reasons: model answers",
+          "type": "core",
+          "desc": "Many questions ask *give a reason*. Try these before opening the answers.",
+          "links": [],
+          "faq": [
+            {
+              "q": "A concave lens cannot form a real image.",
+              "a": "It **diverges** the rays. They never meet after the lens; they only **seem to come** from a point in front of it."
+            },
+            {
+              "q": "Covering half of a convex lens does not cut off half of the image.",
+              "a": "Rays from **every point** of the object pass through **every part** of the lens. The rest of the lens still forms the **whole** image, only **dimmer**."
+            },
+            {
+              "q": "The slide in a projector is put in upside down.",
+              "a": "The projector lens gives a **real, inverted** image. Inverting the slide makes the picture on the screen **upright**."
+            },
+            {
+              "q": "A convex lens can be used to burn paper in sunlight.",
+              "a": "It brings the **parallel** rays of the Sun to a point at its **focus**, where the heat is concentrated."
+            },
+            {
+              "q": "A convex lens of short focal length is used as a magnifying glass.",
+              "a": "With the object **inside F**, it gives a **virtual, erect, magnified** image. A **shorter f** gives **more magnification**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ray-diagrams",
+          "label": "Ray diagrams to practise",
+          "type": "core",
+          "desc": "Draw each with a ruler. Mark F₁, F₂, 2F₁ and 2F₂, put arrows on every ray, and use dotted lines for virtual rays.\n\n- A convex and a concave lens as **sets of prisms**, with parallel rays.\n- The **three rays** for a convex lens, and for a concave lens.\n- A convex lens with the object **beyond 2F₁**, **at 2F₁**, **between F₁ and 2F₁**, **at F₁** and **inside F₁**.\n- A convex lens with the object **at infinity** (the burning glass).\n- A concave lens with the object anywhere.\n- The **magnifying glass**, with the eye marked.\n- The **plane mirror and pin** method for f.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: last-minute revision and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Read the sheet the night before the exam and again on the morning.",
+      "links": [],
+      "children": [
+        {
+          "id": "revision-sheet",
+          "label": "Last-minute revision sheet",
+          "type": "core",
+          "desc": "**The one idea:** a lens is a stack of prisms, so it bends light towards its thicker part. Convex: thick middle, it brings rays **together**. Concave: thin middle, it **spreads** them. Three rays you always know find every image.\n\n**Formulas**\n- **1/v − 1/u = 1/f**. Work it as **1/v = 1/f + 1/u**.\n- **m = v ÷ u = I ÷ O** (I = height of image, O = height of object)\n- **P = 1 ÷ f**, with **f in metres**\n- Lenses in contact: **P = P₁ + P₂**\n\n**Units and signs**\n- Distances in cm (or m). Power in **dioptre (D)**: 1 D is the power of a lens with f = 1 m.\n- Measure **from O**. Along the light (right): **+**. Against it (left): **−**. Up **+**, down **−**.\n- **u is always −**. f is **+ for convex**, **− for concave**.\n- v **+**: real image, behind the lens. v **−**: virtual image, in front.\n- m **−**: real and inverted. m **+**: virtual and erect. Size **bigger than 1**: magnified.\n\n**Convex lens: where is the image?**\n- **Object at infinity:** image at F₂, point-sized (burning glass)\n- **Beyond 2F₁:** between F₂ and 2F₂, smaller (camera)\n- **At 2F₁:** at 2F₂, same size\n- **Between F₁ and 2F₁:** beyond 2F₂, bigger (projector)\n- **At F₁:** at infinity\n- **Inside F₁:** virtual, erect, bigger, same side (magnifying glass)\n- Every image above is **real and inverted**, except the last.\n\n**Key points**\n- Three rays: through **O**, straight on. **Parallel** to the axis, then through (or as if from) **F₂**. Through (or towards) **F₁**, then **parallel**.\n- Concave lens: **always virtual, erect, smaller**, between F and O. Object at F: image halfway.\n- Real image: rays **really meet**, on a screen, **inverted**. Virtual: rays **seem to meet**, not on a screen, **erect**.\n- Covering half a lens: **same image, dimmer**. A more curved lens has a **shorter f**. In water, f gets **longer**.\n- Short sight: **concave** lens. Long sight: **convex** lens.\n- Magnifying glass: object **inside F**; a **shorter f** magnifies more.\n\n**Traps:** put the **minus sign on u** every time. Turn **1/v upside down** at the end. Change **cm to m** before finding power. A concave lens **never** gives a real image.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which of these lenses converges light?",
+              "options": [
+                "Plano-concave",
+                "Bi-concave",
+                "Concavo-convex (thicker in the middle)",
+                "Convexo-concave (thinner in the middle)"
+              ],
+              "answer": 2,
+              "why": "A lens that is **thicker in the middle** converges, whatever its name. The concavo-convex lens is thicker in the middle."
+            },
+            {
+              "q": "A ray passes through the first focus F₁ of a convex lens and then hits the lens. How does it come out?",
+              "options": [
+                "Through the second focus",
+                "Parallel to the principal axis",
+                "Undeviated",
+                "Back through F₁"
+              ],
+              "answer": 1,
+              "why": "Through F₁ in, **parallel** out."
+            },
+            {
+              "q": "An object is placed far beyond 2F₁ of a convex lens. Where is the image?",
+              "options": [
+                "Beyond 2F₂",
+                "At 2F₂",
+                "Between F₂ and 2F₂",
+                "On the same side as the object"
+              ],
+              "answer": 2,
+              "why": "Beyond 2F₁ gives a **smaller**, real image **between F₂ and 2F₂**. This is how a camera works."
+            },
+            {
+              "q": "A convex lens has f = +10 cm. An object is at u = −15 cm. Find v.",
+              "options": [
+                "+25 cm",
+                "+30 cm",
+                "+6 cm",
+                "−30 cm"
+              ],
+              "answer": 1,
+              "why": "1/v = 1/10 − 1/15 = 1/30, so **v = +30 cm**. Adding the fractions instead gives 6 cm."
+            },
+            {
+              "q": "A concave lens has f = −10 cm. An object is at u = −40 cm. Find v.",
+              "options": [
+                "−13.3 cm",
+                "+8 cm",
+                "−8 cm",
+                "−50 cm"
+              ],
+              "answer": 2,
+              "why": "1/v = 1/f + 1/u = −1/10 − 1/40 = −5/40, so **v = −8 cm**: virtual, in front of the lens."
+            },
+            {
+              "q": "An object 30 cm in front of a lens gives a sharp image on a screen 60 cm behind it. Find the focal length.",
+              "options": [
+                "20 cm",
+                "30 cm",
+                "90 cm",
+                "60 cm"
+              ],
+              "answer": 0,
+              "why": "1/f = 1/v − 1/u = 1/60 + 1/30 = 3/60, so **f = 20 cm**. A real image means a **convex** lens."
+            },
+            {
+              "q": "A lens gives m = +0.5. Which lens could it be, and what is the image like?",
+              "options": [
+                "Convex: virtual, erect, twice the size",
+                "Concave: real, inverted, half the size",
+                "Concave: virtual, erect, half the size",
+                "Convex: real, inverted, half the size"
+              ],
+              "answer": 2,
+              "why": "**Plus means virtual and erect**, and 0.5 means **smaller**. Only a **concave** lens gives a smaller virtual image."
+            },
+            {
+              "q": "A convex lens of +4 D touches a concave lens of −1.5 D. What is the power of the pair?",
+              "options": [
+                "+5.5 D",
+                "+6 D",
+                "−2.5 D",
+                "+2.5 D"
+              ],
+              "answer": 3,
+              "why": "Powers **add with their signs**: 4 + (−1.5) = **+2.5 D**."
+            },
+            {
+              "q": "To burn paper with a convex lens and sunlight, where should the paper be?",
+              "options": [
+                "At 2F",
+                "Touching the lens",
+                "At the focus of the lens",
+                "Anywhere behind the lens"
+              ],
+              "answer": 2,
+              "why": "Sunlight comes from very far away, so it is brought to a point at the **focus**."
+            },
+            {
+              "q": "You hold a lens over a printed page and the letters look smaller. What lens is it?",
+              "options": [
+                "Concave",
+                "Either kind",
+                "A flat glass plate",
+                "Convex"
+              ],
+              "answer": 0,
+              "why": "A concave lens always gives a **smaller** image. A convex lens held close **magnifies**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These are like the harder questions at the end of the chapter. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "twice-real",
+          "label": "A real image twice the size",
+          "type": "optional",
+          "desc": "A convex lens has f = 10 cm. Where must the object be to get a **real** image **twice** as big?\n\nReal and twice as big: m = −2, so v = 2 × (distance of object). Let the object be x cm away: u = −x, v = +2x.\n\n1/(2x) + 1/x = 1/10\n\n3/(2x) = 1/10, so x = **15 cm**\n\nCheck: u = −15 gives v = +30. m = 30 ÷ (−15) = −2.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "three-virtual",
+          "label": "A virtual image three times as big",
+          "type": "optional",
+          "desc": "A convex lens has f = 15 cm. Where must the object be for a **virtual** image **3 times** as big?\n\nVirtual and erect: m = +3, so v = 3u.\n\n1/(3u) − 1/u = 1/15\n\n−2/(3u) = 1/15, so u = **−10 cm**\n\nCheck: u = −10 gives v = −30. m = −30 ÷ (−10) = +3.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "two-positions",
+          "label": "Two places for the lens",
+          "type": "optional",
+          "desc": "A candle and a screen are **90 cm** apart. A convex lens with f = 20 cm is moved between them. Where does it give a sharp image?\n\nLet the lens be x cm from the candle: u = −x, v = 90 − x.\n\n1/(90 − x) + 1/x = 1/20, which gives x × (90 − x) = 20 × 90 = 1800\n\nx = **30 cm** or x = **60 cm**\n\nAt 30 cm the image is **twice** as big. At 60 cm it is **half** as big. Both are real and inverted.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why are there two answers?",
+              "a": "Light paths can be **reversed**. Swapping u and v still satisfies the formula, so the object and image distances can **swap**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThis chapter is mostly **ray diagrams** and **one formula with signs**. A struggling student scores well by mastering the three rays, learning the six convex lens cases as a pattern, and writing the sign on every distance.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- Start with the **prism picture**: two prisms base to base make a convex lens. Then the three rays make sense instead of being rules to learn.\n- Give each student a cheap convex lens. Let them make an image of the window on a wall, and **move the lens** to see the image grow and shrink.\n- Teach the six cases as **one story**: as the object comes in, the image moves away and grows, until F; then it flips to virtual.\n- Insist on writing **u = −... cm** before any calculation. Mark the sign as part of the answer.\n- Use **PhET Geometric Optics**: drag the object and watch the image move.\n- For power, practise **cm to m** until it is automatic.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 12-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** convex and concave lenses, the set-of-prisms idea. Activity: feel the lenses, focus sunlight. Exercise 5(A).\n- **Period 2:** words for a lens: axis, optical centre, foci, focal length, focal plane. Exercise 5(A) diagrams.\n- **Period 3:** the three rays; real and virtual images; drawing a ray diagram step by step.\n- **Period 4:** convex lens: object at infinity, beyond 2F₁, at 2F₁. Activity: image of the window on a wall.\n- **Period 5:** convex lens: between F₁ and 2F₁, at F₁, inside F₁; the whole pattern. Exercise 5(B).\n- **Period 6:** concave lens images; telling the two lenses apart. Activity: look at print and at a far object through each lens.\n- **Period 7:** sign convention; the lens formula for real images.\n- **Period 8:** virtual images by the formula; magnification. Exercise 5(C) numericals.\n- **Period 9:** finding f from u and v; power; lenses in contact. Exercise 5(C).\n- **Period 10:** the magnifying glass; uses of lenses; spectacles. Activity: test which students' spectacles are convex or concave.\n- **Period 11:** finding f in the lab: distant object and plane mirror methods. Exercise 5(D).\n- **Period 12:** exam toolkit: ray diagram practice, give-reasons practice, self-test and exit ticket.",
+          "links": [
+            {
+              "label": "PhET simulation: Geometric Optics (free)",
+              "url": "https://phet.colorado.edu/en/simulations/geometric-optics"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Leaving out the **minus sign on u**.\n- Adding 1/f and 1/u as if both were positive.\n- Forgetting to **turn 1/v upside down** at the end.\n- Using f in **cm** for power.\n- Drawing the ray through F₁ wrongly: it goes **through F₁ first**, then parallel.\n- Saying a concave lens can give a **real** or **magnified** image.\n- Mixing up **concavo-convex** (converging) and **convexo-concave** (diverging).\n- No arrows on rays, or solid lines for virtual rays.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Name the three rays used in lens ray diagrams.",
+              "a": "**Parallel** to the axis, then through F₂. **Through O**, straight on. **Through F₁**, then parallel."
+            },
+            {
+              "q": "2. An object is at 2F₁ of a convex lens. Describe the image.",
+              "a": "At **2F₂**: **real, inverted, the same size**."
+            },
+            {
+              "q": "3. A convex lens has f = +20 cm and the object is at u = −30 cm. Find v and m.",
+              "a": "1/v = 1/20 − 1/30 = 1/60, so **v = +60 cm**. m = 60 ÷ (−30) = **−2**."
+            },
+            {
+              "q": "4. Find the power of a concave lens of focal length 25 cm.",
+              "a": "P = 1 ÷ (−0.25) = **−4 D**."
+            },
+            {
+              "q": "5. Why can't a concave lens form a real image?",
+              "a": "It **diverges** light: the rays never actually meet after the lens."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1041 @@
+{
+  "title": "ICSE Class 10 Physics, Chapter 6: Spectrum, Step by Step",
+  "subtitle": "For students who find physics hard. Colours and wavelengths, dispersion by a prism, the electromagnetic spectrum, infrared and ultraviolet, and the scattering of light in small steps, with every numerical shown line by line, quick checks, an exam toolkit and a last-minute revision sheet. Follows the ICSE Class 10 syllabus, Chapter 6 (Spectrum), in the order of Selina Concise Physics.",
+  "updated": "2026-11-23",
+  "changelog": [
+    {
+      "date": "2026-11-23",
+      "text": "First version: the whole chapter in small steps, with original worked examples, quick checks, a last-minute revision sheet, a self-test and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** be sure of c = f λ, tiny lengths in nm and Å, and the prism from Chapter 4. The whole chapter uses them.",
+      "links": [
+        {
+          "label": "Wikipedia: electromagnetic spectrum",
+          "url": "https://en.wikipedia.org/wiki/Electromagnetic_spectrum"
+        }
+      ],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Change every wavelength into metres before you use c = f λ.** 1 nm = 10⁻⁹ m. Most lost marks in the numericals come from this.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: colour is wavelength.** Light is a family of waves that differ only in wavelength, from gamma rays to radio. **Shorter** waves **bend more** in glass, which splits white light into a spectrum, and **scatter more** in air, which makes the sky blue.",
+          "links": [
+            {
+              "label": "Wikipedia: electromagnetic spectrum",
+              "url": "https://en.wikipedia.org/wiki/Electromagnetic_spectrum"
+            },
+            {
+              "label": "Last-minute revision sheet for this chapter",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-spectrum#revision-sheet"
+            },
+            {
+              "label": "Previous chapter: 5. Refraction Through a Lens",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-refraction-through-lens"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 6, *Spectrum*, of the ICSE Class 10 Physics syllabus. It follows the order of *Selina Concise Physics* for Class 10.\n\n**Who it is for.** Class 10 students who find physics hard, and want to understand this chapter and score decent marks in it. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** Colour is wavelength. Light is one family of waves from gamma rays to radio; shorter waves bend more in glass and scatter more in air.\n\n**How it is different from the textbook.** The textbook gives dispersion, the electromagnetic spectrum and scattering as three separate topics. Here one idea (shorter waves bend more and scatter more) links them, the infrared and ultraviolet facts are side by side so they are easy to compare, and every c = f λ numerical starts by changing units.\n\n**What is inside.**\n- 10 milestones and 42 small steps. The 33 solid steps are the core path. The dashed ones are optional.\n- 40 practice questions with hidden answers, and 4 pictures.\n- 25 click-to-check questions that say right or wrong, and why: a quick check after each of the 5 main milestones, and a 10-question self-test.\n- A **last-minute revision sheet**: every formula, unit and key point on one page.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the challenge questions, and a section for teachers and parents with a 7-period lesson plan, the mistakes to watch for and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from their textbook. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the ICSE syllabus but is not made or endorsed by CISCE or by any publisher. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Find 3 × 10⁸ ÷ (5 × 10⁻⁷).",
+              "a": "**6 × 10¹⁴**. Wrong? Do *c = f λ, again*."
+            },
+            {
+              "q": "2. Write 500 nm in metres.",
+              "a": "**5 × 10⁻⁷ m**. Wrong? Do *Tiny lengths: nm and Å*."
+            },
+            {
+              "q": "3. How many ångströms are there in 1 nm?",
+              "a": "**10 Å**. Wrong? Do *Tiny lengths: nm and Å*."
+            },
+            {
+              "q": "4. In glass, which has the bigger refractive index: red light or violet light?",
+              "a": "**Violet.** Wrong? Do *The prism again (Chapter 4)*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "c-f-lambda",
+          "label": "c = f λ, again",
+          "type": "core",
+          "desc": "Every wave obeys **speed = frequency × wavelength**. For light in vacuum or air, the speed is **c = 3 × 10⁸ m/s**.\n\n- **f = c ÷ λ** and **λ = c ÷ f**.\n- To divide powers of ten, **take away** the powers: 10⁸ ÷ 10⁻⁷ = 10⁸⁺⁷ = 10¹⁵.\n\n**Worked example:** λ = 6 × 10⁻⁷ m.\n\nf = 3 × 10⁸ ÷ (6 × 10⁻⁷)\n\nf = 0.5 × 10¹⁵ = **5 × 10¹⁴ Hz**",
+          "links": [
+            {
+              "label": "Math is Fun: scientific notation",
+              "url": "https://www.mathsisfun.com/numbers/scientific-notation.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: light has f = 6 × 10¹⁴ Hz. Find λ.",
+              "a": "λ = 3 × 10⁸ ÷ (6 × 10¹⁴) = 0.5 × 10⁻⁶ = **5 × 10⁻⁷ m**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "tiny-lengths",
+          "label": "Tiny lengths: nm and Å",
+          "type": "core",
+          "desc": "Light waves are tiny, so we use small units:\n\n- **1 nanometre (nm) = 10⁻⁹ m**\n- **1 ångström (Å) = 10⁻¹⁰ m**\n- So **1 nm = 10 Å**.\n\n**Worked example:** 600 nm\n\n= 600 × 10⁻⁹ m = **6 × 10⁻⁷ m**\n\n= 600 × 10 = **6000 Å**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: write 450 nm in metres and in ångströms.",
+              "a": "**4.5 × 10⁻⁷ m** and **4500 Å**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "prism-again",
+          "label": "The prism again (Chapter 4)",
+          "type": "core",
+          "desc": "In Chapter 4, a prism bent light **towards its base**. The **angle of deviation δ** depended on:\n\n- the angle of incidence;\n- the angle of the prism A;\n- the refractive index **μ** of the glass.\n\nAnd **μ depends on colour**: in glass it is **largest for violet**, smallest for red.\n\n**Worked example:** a red ray and a violet ray hit the same prism at the same angle. Violet has the bigger μ, so violet is **deviated more**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: in glass, which colour travels fastest?",
+              "a": "**Red.** It has the smallest μ, and μ = c ÷ V."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "colours",
+      "label": "Colours of light",
+      "desc": "**Goal:** know the seven colours in order, their wavelengths, and use c = f λ for light. Exercise 6(A) starts here.",
+      "links": [],
+      "children": [
+        {
+          "id": "colour-wavelength",
+          "label": "Colour is wavelength",
+          "type": "core",
+          "desc": "White light is a **mixture** of colours. Each colour is light of a different **wavelength**.\n\n- The seven prominent colours: **violet, indigo, blue, green, yellow, orange, red: VIBGYOR**.\n- Visible light runs from about **400 nm (violet)** to **800 nm (red)**: 4000 Å to 8000 Å.\n- **Violet:** shortest wavelength, **highest frequency**. **Red:** longest wavelength, **lowest frequency**.\n- In vacuum or air, **all colours travel at 3 × 10⁸ m/s**. In glass, red is fastest and violet slowest.\n\n**Colour is how our eyes feel wavelength.** Light of one wavelength always looks the same colour, whatever made it.\n\n**Worked example:** going from violet to red, the wavelength goes **up** from about 400 nm to 800 nm, and the frequency goes **down**.",
+          "links": [
+            {
+              "label": "Wikipedia: visible spectrum",
+              "url": "https://en.wikipedia.org/wiki/Visible_spectrum"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: write the seven colours in order of increasing frequency.",
+              "a": "**Red, orange, yellow, green, blue, indigo, violet**: VIBGYOR backwards."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "colour-numbers",
+          "label": "Wavelength and frequency of a colour",
+          "type": "core",
+          "desc": "Use **f = c ÷ λ**, with λ in metres.\n\n**Worked example:** orange light of wavelength 600 nm.\n\nλ = 600 nm = 6 × 10⁻⁷ m\n\nf = 3 × 10⁸ ÷ (6 × 10⁻⁷)\n\nf = **5 × 10¹⁴ Hz**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: light has a frequency of 6 × 10¹⁴ Hz. Find its wavelength in nm. Which colour is it near?",
+              "a": "λ = 3 × 10⁸ ÷ (6 × 10¹⁴) = 5 × 10⁻⁷ m = **500 nm**: **green**, roughly."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-colours",
+          "label": "Quick check: colours",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which colour of visible light has the shortest wavelength?",
+              "options": [
+                "Yellow",
+                "Red",
+                "Green",
+                "Violet"
+              ],
+              "answer": 3,
+              "why": "**Violet** is about 400 nm, the shortest. **Red**, about 800 nm, is the longest. See *Colour is wavelength*."
+            },
+            {
+              "q": "Blue light has a wavelength of 480 nm. Find its frequency. (c = 3 × 10⁸ m/s)",
+              "options": [
+                "1.6 × 10⁻¹⁵ Hz",
+                "6.25 × 10¹⁴ Hz",
+                "6.25 × 10⁵ Hz",
+                "1.44 × 10² Hz"
+              ],
+              "answer": 1,
+              "why": "f = c ÷ λ = 3 × 10⁸ ÷ (4.8 × 10⁻⁷) = **6.25 × 10¹⁴ Hz**. Change nm to metres first. See *Wavelength and frequency of a colour*."
+            },
+            {
+              "q": "Red and violet light travel through vacuum. Which is faster?",
+              "options": [
+                "Both have the same speed",
+                "It depends on the source",
+                "Red",
+                "Violet"
+              ],
+              "answer": 0,
+              "why": "In vacuum (or air) **every colour travels at 3 × 10⁸ m/s**. Only in glass or water do they differ. See *Colour is wavelength*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "dispersion",
+      "label": "Dispersion: a prism splits white light",
+      "desc": "**Goal:** explain how a prism makes a spectrum, and why a glass slab does not. Exercise 6(A) covers this.",
+      "links": [],
+      "children": [
+        {
+          "id": "deviation-colour",
+          "label": "Deviation depends on colour",
+          "type": "core",
+          "desc": "A prism deviates light by an amount that depends on **μ**. And μ depends on **colour**:\n\n- **Violet:** slowest in glass, **largest μ**, **deviated most**.\n- **Red:** fastest in glass, **smallest μ**, **deviated least**.\n\nSo **the shorter the wavelength, the bigger the deviation**.\n\n**Worked example:** a beam of blue and red light enters a prism together. Blue has the shorter wavelength, so it bends **more** and comes out nearer the base.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which colour of white light is deviated least by a prism?",
+              "a": "**Red**: it has the longest wavelength and the smallest μ."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "newton-prism",
+          "label": "Newton's prism experiment",
+          "type": "core",
+          "desc": "Isaac Newton let a thin beam of **sunlight** into a dark room through a small hole. He put a **glass prism** in its path, and a white screen beyond.\n\nOn the screen he saw a **band of colours**: **VIBGYOR**, with **violet nearest the base** of the prism and **red furthest** from it.\n\nHe concluded that **white light is a mixture of colours** (it is **polychromatic**).\n\n- **Dispersion:** the splitting of white light into its colours.\n- **Spectrum:** the band of colours you see.\n\n**Worked example:** a glass chandelier piece hanging in a sunny window throws small rainbows on the wall. Each is a **spectrum** made by dispersion.",
+          "links": [
+            {
+              "label": "Physics Classroom: dispersion of light by prisms",
+              "url": "https://www.physicsclassroom.com/class/refrn/Lesson-4/Dispersion-of-Light-by-Prisms"
+            },
+            {
+              "label": "Wikipedia: Newton's Opticks",
+              "url": "https://en.wikipedia.org/wiki/Opticks"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: in a spectrum from a prism, which colour is at the end opposite the base?",
+              "a": "**Red**: it is deviated least."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/dispersion.png",
+              "caption": "White light in; violet bent most, red least"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "why-dispersion",
+          "label": "Why white light splits",
+          "type": "core",
+          "desc": "- At the **first face**, each colour slows down by a different amount, so each bends by a **different angle**. **Dispersion happens here.**\n- Inside, the colours travel on **slightly different paths**.\n- At the **second face**, each colour bends again by a different amount, so they **spread further** apart.\n\n**The prism does not make the colours.** They were already in the white light. The prism only **separates** them.\n\nIn the real spectrum the colours **fade into each other**, with no sharp edges, and they are not all the same width.\n\n**Worked example:** at the first face, light enters at one angle for all colours, but violet is refracted to a smaller angle than red. That difference is the dispersion.",
+          "links": [
+            {
+              "label": "Wikipedia: dispersion",
+              "url": "https://en.wikipedia.org/wiki/Dispersion_(optics)"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: at which face of a prism is there both dispersion and deviation, and at which only deviation (and further spreading)?",
+              "a": "**First face:** dispersion and deviation. **Second face:** deviation, which **spreads** the colours further apart."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "slab-single",
+          "label": "A slab, and a single colour",
+          "type": "core",
+          "desc": "**A glass slab gives no spectrum.** Its faces are parallel. Each colour comes out **parallel to the light that went in**, and all the colours **overlap**. The light still looks white.\n\n**A single colour cannot be split.** Light of one colour (**monochromatic** light) going through a prism is **deviated**, but it does not spread into other colours.\n\n**Worked example:** a slit lets only the green part of a spectrum through a second prism. Only **green** comes out, bent a little more. This shows the colours of white light are **pure**: they cannot be split further.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a beam of yellow light goes through a prism at minimum deviation. If white light is sent in the same way, what changes?",
+              "a": "The white light **splits into a spectrum**. This shows white light is a **mixture** of colours."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-dispersion",
+          "label": "Quick check: dispersion",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "White light passes through a prism. Which colour is deviated the most?",
+              "options": [
+                "Red",
+                "All equally",
+                "Green",
+                "Violet"
+              ],
+              "answer": 3,
+              "why": "Glass has the **largest μ for violet**, so violet bends most. See *Deviation depends on colour*."
+            },
+            {
+              "q": "At which face of a prism does white light first split into colours?",
+              "options": [
+                "The first face, where it enters",
+                "Inside the glass, halfway",
+                "The second face only",
+                "It does not split"
+              ],
+              "answer": 0,
+              "why": "Dispersion starts at the **first** face. The second face spreads the colours **further**. See *Why white light splits*."
+            },
+            {
+              "q": "A narrow beam of green light passes through a prism. What comes out?",
+              "options": [
+                "A full spectrum",
+                "White light",
+                "Red and blue light",
+                "Green light, deviated"
+              ],
+              "answer": 3,
+              "why": "Green light is a **single colour**: it is deviated but **cannot split** further. See *A slab, and a single colour*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "em-spectrum",
+      "label": "The electromagnetic spectrum",
+      "desc": "**Goal:** name the seven kinds of electromagnetic wave in order, and say what they share. Exercise 6(B) covers this.",
+      "links": [],
+      "children": [
+        {
+          "id": "em-family",
+          "label": "Seven kinds of wave",
+          "type": "core",
+          "desc": "Visible light is only a **tiny part** of a much bigger family: the **electromagnetic spectrum**. In order of **increasing wavelength**:\n\n- **gamma rays**\n- **X-rays**\n- **ultraviolet (UV)**\n- **visible light**\n- **infrared (IR)**\n- **microwaves**\n- **radio waves**\n\nA way to remember: **G**randma's **X**-ray **U**nit **V**iews **I**nside **M**y **R**ibs.\n\nGoing down the list, the wavelength gets **longer** and the frequency **lower**. The parts **overlap**: there are no sharp edges.\n\n**Worked example:** infrared lies just **beyond red**, and ultraviolet just **beyond violet**. Our eyes see neither.",
+          "links": [
+            {
+              "label": "Physics Classroom: the electromagnetic and visible spectra",
+              "url": "https://www.physicsclassroom.com/class/light/Lesson-2/The-Electromagnetic-and-Visible-Spectra"
+            },
+            {
+              "label": "Wikipedia: electromagnetic spectrum",
+              "url": "https://en.wikipedia.org/wiki/Electromagnetic_spectrum"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: arrange in order of increasing wavelength: microwaves, X-rays, radio waves, infrared.",
+              "a": "**X-rays, infrared, microwaves, radio waves.**"
+            }
+          ],
+          "images": [
+            {
+              "src": "images/em-spectrum.png",
+              "caption": "From gamma rays to radio waves; visible light is a thin slice"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "em-common",
+          "label": "What all of them share",
+          "type": "core",
+          "desc": "All electromagnetic waves:\n\n- need **no medium**: they cross empty space;\n- travel at the **same speed**, **3 × 10⁸ m/s**, in vacuum (and nearly so in air);\n- can be **reflected and refracted**; on refraction their speed and wavelength change, but their **frequency does not**;\n- are **not deflected** by electric or magnetic fields;\n- are **transverse** waves.\n\n**Worked example:** sunlight, the Sun's infrared and its ultraviolet all cross **150 million km of empty space** to reach us, at the same speed.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: two waves, one gamma (0.001 nm) and one infrared (900 nm), travel through vacuum. Compare their speeds.",
+              "a": "**The same:** 3 × 10⁸ m/s. Ratio **1 : 1**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "em-uses",
+          "label": "Where each one comes from, and its use",
+          "type": "core",
+          "desc": "- **Gamma rays** (below 0.01 nm): from changes in the **nucleus** of radioactive atoms. The most energetic and **penetrating**. Used to **kill cancer cells** and to check welds.\n- **X-rays** (0.01 nm to 10 nm): made when fast electrons hit a heavy metal target. Pass through flesh but **not bone**. Used to see **fractures** and to study crystals.\n- **Ultraviolet** (10 nm to 400 nm) and **infrared** (800 nm to 1 mm): see the next milestone.\n- **Microwaves** (1 mm to 10 m): **microwave ovens**, **satellite** links, **radar**.\n- **Radio waves** (above 10 m): **radio and TV** broadcasts.\n\n**Worked example:** a doctor checks a cricketer's wrist for a broken bone. **X-rays** pass through the muscle but are stopped by bone, so the bone shows up.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which wave is produced by changes in the nucleus of an atom?",
+              "a": "**Gamma rays.**"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "em-numbers",
+          "label": "c = f λ for every wave",
+          "type": "core",
+          "desc": "Every electromagnetic wave obeys **c = f λ**, with c = 3 × 10⁸ m/s.\n\n**Worked example 1:** a microwave oven uses 12 cm waves.\n\nλ = 0.12 m\n\nf = 3 × 10⁸ ÷ 0.12 = **2.5 × 10⁹ Hz**\n\n**Worked example 2:** an X-ray of wavelength 1 nm = 10⁻⁹ m.\n\nf = 3 × 10⁸ ÷ 10⁻⁹ = **3 × 10¹⁷ Hz**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a wave has λ = 3 cm. Find its frequency, and name the wave.",
+              "a": "f = 3 × 10⁸ ÷ 0.03 = **10¹⁰ Hz**. 3 cm is between 1 mm and 10 m: **microwaves**."
+            },
+            {
+              "q": "Your turn: a radio station broadcasts at 1 MHz. Find the wavelength.",
+              "a": "λ = 3 × 10⁸ ÷ 10⁶ = **300 m**: radio waves."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-em-spectrum",
+          "label": "Quick check: the EM spectrum",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which list is in order of increasing wavelength?",
+              "options": [
+                "X-rays, gamma, visible, infrared",
+                "Visible, ultraviolet, X-rays, gamma",
+                "Gamma, X-rays, ultraviolet, visible",
+                "Radio, microwaves, infrared, visible"
+              ],
+              "answer": 2,
+              "why": "Gamma has the **shortest** wavelength, then X-rays, UV, visible, infrared, microwaves, radio. See *Seven kinds of wave*."
+            },
+            {
+              "q": "A microwave oven uses waves of wavelength 12 cm. What is their frequency? (c = 3 × 10⁸ m/s)",
+              "options": [
+                "2.5 × 10⁹ Hz",
+                "4 × 10⁻¹⁰ Hz",
+                "2.5 × 10⁷ Hz",
+                "3.6 × 10⁷ Hz"
+              ],
+              "answer": 0,
+              "why": "12 cm = 0.12 m. f = 3 × 10⁸ ÷ 0.12 = **2.5 × 10⁹ Hz**. Forgetting to change cm to m gives 2.5 × 10⁷. See *c = f λ for every wave*."
+            },
+            {
+              "q": "What do X-rays and radio waves have in common?",
+              "options": [
+                "The same speed in vacuum",
+                "The same frequency",
+                "Both need air to travel",
+                "The same wavelength"
+              ],
+              "answer": 0,
+              "why": "All electromagnetic waves travel at **3 × 10⁸ m/s** in vacuum, and need **no medium**. See *What all of them share*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "ir-uv",
+      "label": "Infrared and ultraviolet",
+      "desc": "**Goal:** know how infrared and ultraviolet are detected, their properties, uses and dangers. Exercise 6(B) asks many of these.",
+      "links": [],
+      "children": [
+        {
+          "id": "infrared",
+          "label": "Infrared: invisible heat",
+          "type": "core",
+          "desc": "**Infrared** lies just **beyond red**: about 800 nm to 1 mm. It was found by **William Herschel**.\n\n- **Detection:** move a **blackened thermometer** along a spectrum. It warms slowly from violet to red, then **fastest just beyond red**. A **thermopile** also detects it.\n- **Sources:** the Sun, fires, **red-hot** bodies, heaters.\n- **Properties:** strong **heating**; travels in straight lines at c; reflects and refracts; **absorbed by glass**, passes through **rock salt**; affects only specially treated film; **scattered little**, so it gets through mist and fog.\n- **Uses:** **TV remote controls**, photography at night and **in fog**, **darkroom lamps**, signals in war, treating sore muscles.\n- **Harm:** too much can cause **skin burns**.\n\n**Worked example:** your TV remote flashes an infrared beam. You cannot see it, but a phone camera often shows it as a faint light.",
+          "links": [
+            {
+              "label": "Wikipedia: infrared",
+              "url": "https://en.wikipedia.org/wiki/Infrared"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: give a reason. Photographic darkrooms use infrared lamps.",
+              "a": "Infrared gives some **visibility** but does **not affect** ordinary photographic film."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ultraviolet",
+          "label": "Ultraviolet: chemically active",
+          "type": "core",
+          "desc": "**Ultraviolet** lies just **beyond violet**: about 10 nm to 400 nm. It was found by **Johann Ritter**.\n\n- **Detection:** **silver chloride** stays white in the visible spectrum, but turns violet, then **dark**, just beyond violet. UV also affects photographic film and dyes.\n- **Sources:** the **Sun**, electric **arcs** and sparks, **mercury vapour** lamps.\n- **Properties:** **chemically active**; causes **fluorescence** (makes some materials glow); **absorbed by glass**, passes through **quartz**; scattered by dust.\n- **Uses:** **sterilising** (killing germs in water and on tools), checking whether **gems, eggs or ghee** are genuine, making **vitamin D** in the skin.\n- **Harm:** long exposure can cause **skin cancer**. The **ozone layer** high in the air absorbs most of the Sun's UV and protects us.\n\n**Worked example:** some water purifiers pass water past a **UV lamp** to kill germs. The lamp is made of **quartz**, because glass would block the UV.",
+          "links": [
+            {
+              "label": "Wikipedia: ultraviolet",
+              "url": "https://en.wikipedia.org/wiki/Ultraviolet"
+            },
+            {
+              "label": "Wikipedia: ozone layer",
+              "url": "https://en.wikipedia.org/wiki/Ozone_layer"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: give a reason. Ultraviolet bulbs have a quartz envelope, not glass.",
+              "a": "**Glass absorbs** ultraviolet; **quartz** lets it pass."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "uv-ir-compare",
+          "label": "UV, visible and infrared compared",
+          "type": "core",
+          "desc": "- **Seen?** UV: no. Visible: yes. IR: no.\n- **Heating:** UV: none. Visible: slight. IR: **strong**.\n- **Photographic film:** UV: **affected**. Visible: affected. IR: not (ordinary film).\n- **Fluorescence:** UV: **yes**. Visible and IR: no.\n- **Passes through glass?** UV: no. Visible: **yes**. IR: no.\n- **Prism to get its spectrum:** UV: **quartz**. Visible: glass. IR: **rock salt**.\n- **On the body:** UV: skin cancer. IR: burns in a high dose.\n\n**Worked example:** to study the Sun's infrared, a scientist must use a **rock-salt** prism: a glass prism would absorb it.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: name the material of prism needed for (a) the ultraviolet spectrum, (b) the infrared spectrum.",
+              "a": "(a) **quartz**, (b) **rock salt**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-ir-uv",
+          "label": "Quick check: infrared and UV",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A blackened thermometer is moved past the red end of a spectrum. Its reading rises fast. Which radiation is there?",
+              "options": [
+                "Ultraviolet",
+                "Green light",
+                "Infrared",
+                "X-rays"
+              ],
+              "answer": 2,
+              "why": "**Infrared** has a strong **heating** effect. See *Infrared: invisible heat*."
+            },
+            {
+              "q": "Which prism should be used to get the spectrum of ultraviolet radiation?",
+              "options": [
+                "Diamond",
+                "Rock salt",
+                "Quartz",
+                "Glass"
+              ],
+              "answer": 2,
+              "why": "Glass **absorbs** ultraviolet; **quartz** lets it through. See *Ultraviolet: chemically active*."
+            },
+            {
+              "q": "Why are photographs in fog taken with infrared?",
+              "options": [
+                "Infrared is scattered very little, so it passes through fog",
+                "Infrared is visible in fog",
+                "Infrared is absorbed by fog",
+                "Infrared travels faster in fog"
+              ],
+              "answer": 0,
+              "why": "Infrared has a **long wavelength**, so it is **scattered less** and gets through mist and fog. See *Infrared: invisible heat*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "scattering",
+      "label": "Scattering of light",
+      "desc": "**Goal:** explain scattering, and use it for the blue sky, the red sunset, white clouds and red signals. Exercise 6(C) covers this.",
+      "links": [],
+      "children": [
+        {
+          "id": "what-scattering",
+          "label": "What scattering is",
+          "type": "core",
+          "desc": "**Scattering** is when tiny particles in the air **absorb light and send it out again in all directions**.\n\nYou see a beam of sunlight in a dusty room because the dust **scatters** some of it sideways into your eyes.\n\nFor particles **smaller than the wavelength** (like air molecules), the scattering depends strongly on wavelength:\n\n**Scattering ∝ 1 ÷ λ⁴**\n\nSo **short wavelengths scatter far more**. Violet and blue scatter most; red least.\n\n**Worked example:** violet at 400 nm and red at 800 nm. The wavelength is halved, so violet is scattered 2⁴ = **16 times** as much.",
+          "links": [
+            {
+              "label": "Wikipedia: Rayleigh scattering",
+              "url": "https://en.wikipedia.org/wiki/Rayleigh_scattering"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: light of 400 nm and 600 nm passes through air. About how many times more is the 400 nm light scattered?",
+              "a": "(600 ÷ 400)⁴ = 1.5⁴ ≈ **5 times**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/scattering-bars.png",
+              "caption": "Halve the wavelength and the scattering goes up 16 times"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "blue-sky",
+          "label": "Why the sky is blue",
+          "type": "core",
+          "desc": "Sunlight passes through the air. The air molecules **scatter blue** light much more than red.\n\nThat scattered blue light comes to your eyes from **every part of the sky**, not just from the Sun. So **the sky looks blue**.\n\n**Worked example:** look at the sky away from the Sun on a clear day. All the light reaching you from there is **scattered** light, and scattered light is mostly blue.",
+          "links": [
+            {
+              "label": "Physics Classroom: blue skies and red sunsets",
+              "url": "https://www.physicsclassroom.com/class/light/Lesson-2/Blue-Skies-and-Red-Sunsets"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: which property of light makes the sky blue?",
+              "a": "**Scattering**, which is strongest for short wavelengths."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "red-sunset",
+          "label": "A red Sun at sunrise and sunset",
+          "type": "core",
+          "desc": "- **At noon** the Sun is overhead. Its light crosses only a **short path** of air, so little is scattered. The Sun looks **white**.\n- **At sunrise and sunset** the Sun is low. Its light crosses a **much longer path** of air. Most of the **blue is scattered away** on the way. What reaches you is mostly **red and orange**.\n\n**Worked example:** in the picture, the sunset path through the air is about **3.6 times** the noon path. Far more blue is lost.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: give a reason. The Sun looks white at noon.",
+              "a": "Its light crosses the **shortest** path through the air, so very little of any colour is scattered out."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/sunset-path.png",
+              "caption": "At sunset the light crosses much more air, and the blue is scattered away"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "black-sky",
+          "label": "A black sky in space, and white clouds",
+          "type": "core",
+          "desc": "- **No air, no scattering.** On the **Moon**, or high above the air, nothing scatters sunlight. The sky looks **black**, even in daytime, except where the Sun is.\n- From space, an astronaut sees the **Earth look blue**: the blue scattered by our air.\n- **Clouds are white.** Their water drops and dust are **bigger** than the wavelength of light. Big particles scatter **all colours equally**, and all colours together look white.\n\n**Worked example:** photos taken on the Moon show a **black** sky above a sunlit grey surface.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: give a reason. Clouds look white, not blue.",
+              "a": "Cloud drops are **larger than the wavelength**, so they scatter **all colours equally**. The mixture is white."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "red-signal",
+          "label": "Why danger signals are red",
+          "type": "core",
+          "desc": "**Red light is scattered least**, because it has the **longest wavelength** of visible light.\n\nSo red light travels **furthest** through air, mist and fog without fading. Danger signals, brake lights and traffic stop lights are **red** so they can be seen from far away.\n\nFor the same reason, **infrared** (even longer) is used for photography in fog.\n\n**Worked example:** a red tail light and a blue light of the same brightness, in fog. The red one is still visible from **further** away.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: give a reason. Danger signals are red.",
+              "a": "Red has the **longest wavelength**, so it is **scattered least** and can be seen from the **greatest distance**, even in fog."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-scattering",
+          "label": "Quick check: scattering",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Light of wavelength 400 nm and 800 nm passes through the air. How many times more is the 400 nm light scattered?",
+              "options": [
+                "16 times",
+                "4 times",
+                "8 times",
+                "2 times"
+              ],
+              "answer": 0,
+              "why": "Scattering goes as **1 ÷ λ⁴**. Half the wavelength: 2⁴ = **16 times**. See *What scattering is*."
+            },
+            {
+              "q": "Why does the Sun look red at sunrise?",
+              "options": [
+                "Red light is scattered most",
+                "Its light crosses a long path of air, which scatters the blue away",
+                "The air absorbs red light",
+                "The Sun is cooler in the morning"
+              ],
+              "answer": 1,
+              "why": "The light travels through **much more air**. Blue is **scattered out** on the way, so mostly **red** reaches you. See *A red Sun at sunrise and sunset*."
+            },
+            {
+              "q": "To an astronaut on the Moon, the sky looks:",
+              "options": [
+                "white",
+                "black",
+                "red",
+                "blue"
+              ],
+              "answer": 1,
+              "why": "The Moon has **no atmosphere**, so nothing scatters sunlight: the sky is **black**. See *A black sky in space, and white clouds*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "exam-toolkit",
+      "label": "Exam toolkit: words and reasons",
+      "desc": "**Goal:** collect the marks that come from learning. This chapter is full of 'name', 'state' and 'give reasons' questions.",
+      "links": [],
+      "children": [
+        {
+          "id": "definitions",
+          "label": "Definitions to learn word for word",
+          "type": "core",
+          "desc": "- **Dispersion:** the splitting of white light into its constituent colours.\n- **Spectrum:** the band of colours seen when white light passes through a prism.\n- **Electromagnetic spectrum:** the family of electromagnetic waves arranged in order of wavelength, from gamma rays to radio waves.\n- **Infrared radiation:** invisible radiation just beyond the red end of the visible spectrum, with a strong heating effect.\n- **Ultraviolet radiation:** invisible radiation just beyond the violet end of the visible spectrum, which is chemically active.\n- **Scattering:** the absorption and re-emission of light in all directions by particles in its path.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: cover the list. Define dispersion, and say where in a prism it happens.",
+              "a": "The **splitting of white light into its colours**. It happens at the **first face** of the prism."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "numerical-method",
+          "label": "Numericals: four lines every time",
+          "type": "core",
+          "desc": "This chapter's numericals all use **c = f λ**. Write all four lines:\n\n1. **Given:** the numbers, with λ **in metres** and f **in Hz**.\n2. **Formula:** c = f λ.\n3. **Substitute:** put the numbers in.\n4. **Answer:** with its **unit**. Name the wave if asked.\n\n**Worked example:** a radio station broadcasts at 1.5 MHz. Find the wavelength.\n\nGiven: f = 1.5 MHz = 1.5 × 10⁶ Hz, c = 3 × 10⁸ m/s\n\nFormula: λ = c ÷ f\n\nSubstitute: 3 × 10⁸ ÷ (1.5 × 10⁶)\n\nAnswer: **200 m** (radio waves)",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what must you change before using c = f λ with a wavelength in nm?",
+              "a": "Change nm into **metres**: multiply by **10⁻⁹**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "give-reasons",
+          "label": "Give reasons: model answers",
+          "type": "core",
+          "desc": "Many questions ask *give a reason*. Try these before opening the answers.",
+          "links": [],
+          "faq": [
+            {
+              "q": "White light splits into colours in a prism.",
+              "a": "Each colour travels at a **different speed** in glass, so has a **different μ** and is **deviated by a different angle**. Violet bends most, red least."
+            },
+            {
+              "q": "A rock-salt prism is used to get the infrared spectrum.",
+              "a": "Glass **absorbs** infrared; **rock salt** lets it through."
+            },
+            {
+              "q": "Infrared is used for photography in fog.",
+              "a": "Infrared has a **long wavelength**, so it is **scattered little** and passes through fog."
+            },
+            {
+              "q": "The sky is blue.",
+              "a": "Air molecules scatter **short wavelengths** most (scattering ∝ 1 ÷ λ⁴). Scattered **blue** light reaches us from all over the sky."
+            },
+            {
+              "q": "The sky would look black if the Earth had no atmosphere.",
+              "a": "With no air there is **no scattering**, so no light reaches us from directions away from the Sun."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "diagrams-practise",
+          "label": "Diagrams to practise",
+          "type": "optional",
+          "desc": "Draw these with a ruler, and label the colours.\n\n- White light through a prism, splitting into **VIBGYOR**, violet nearest the base.\n- White light through a **glass slab**, colours coming out parallel and overlapping.\n- The **electromagnetic spectrum** as a labelled band, in order of wavelength.\n- The Sun at **noon** and at **sunset**, showing the different paths through the air.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: last-minute revision and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Read the sheet the night before the exam and again on the morning.",
+      "links": [],
+      "children": [
+        {
+          "id": "revision-sheet",
+          "label": "Last-minute revision sheet",
+          "type": "core",
+          "desc": "**The one idea:** colour is wavelength. Light is a family of waves that differ only in wavelength. **Shorter** waves **bend more** in glass and **scatter more** in air.\n\n**Formulas**\n- **c = f λ** (c = 3 × 10⁸ m/s for every electromagnetic wave in vacuum or air)\n- **Scattering ∝ 1 ÷ λ⁴**: half the wavelength, 16 times the scattering.\n\n**Units**\n- **1 nm = 10⁻⁹ m = 10 Å**. 1 Å = 10⁻¹⁰ m.\n- Visible light: **400 nm (violet) to 800 nm (red)**. That is 4000 Å to 8000 Å.\n- Frequency in hertz (Hz). 1 MHz = 10⁶ Hz, 1 GHz = 10⁹ Hz.\n\n**Key points**\n- Order of colours: **VIBGYOR**. Violet: shortest λ, highest f. Red: longest λ, lowest f.\n- In glass: **violet slowest, biggest μ, deviated most**. Red: fastest, deviated least.\n- **Dispersion:** splitting of white light into its colours. **Spectrum:** the band of colours.\n- Dispersion happens at the **first face**; the second face spreads the colours further. A prism **does not make** colours.\n- Violet is nearest the **base** of the prism, red furthest.\n- A glass **slab** gives no spectrum: the colours come out parallel and overlap.\n- EM spectrum, **longer and longer**: **gamma, X-rays, UV, visible, infrared, microwaves, radio**.\n- All EM waves: **no medium needed**, same speed **3 × 10⁸ m/s**, reflect and refract, **frequency unchanged** on refraction, not deflected by electric or magnetic fields, **transverse**.\n- **Infrared:** beyond red. **Heating**; detected by a **blackened thermometer** or thermopile. Passes **rock salt**, not glass. Little scattering: **fog photography**, remotes, darkroom lamps, therapy. Too much **burns** skin.\n- **Ultraviolet:** beyond violet. **Chemically active**: darkens **silver chloride**, affects film, causes fluorescence. Passes **quartz**, not glass. **Sterilising**, testing gems and ghee, **vitamin D**. Too much: **skin cancer**; ozone protects us.\n- Gamma: from the nucleus, most penetrating, kills cancer cells. X-rays: bones and crystals. Microwaves: ovens, satellites, radar. Radio: radio and TV.\n- **Blue sky:** blue is scattered most. **Red sunrise and sunset:** long path, blue scattered away. **White noon Sun:** short path.\n- **Black sky** on the Moon or in space: no air. **White clouds:** big drops scatter all colours equally.\n- **Danger signals are red:** red is scattered least and goes furthest in fog.\n\n**Traps:** change **nm to m** (× 10⁻⁹) before c = f λ. Gamma is the **shortest**, radio the **longest**. In vacuum all colours have the **same** speed. UV needs **quartz**, IR needs **rock salt**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which colour of white light has the lowest frequency?",
+              "options": [
+                "Red",
+                "Green",
+                "Violet",
+                "Blue"
+              ],
+              "answer": 0,
+              "why": "Red has the **longest wavelength**, so the **lowest frequency**."
+            },
+            {
+              "q": "Light has a frequency of 4 × 10¹⁴ Hz. What is its wavelength, and what colour is it?",
+              "options": [
+                "1.2 × 10²³ m, radio",
+                "750 nm, red",
+                "133 nm, ultraviolet",
+                "750 nm, violet"
+              ],
+              "answer": 1,
+              "why": "λ = 3 × 10⁸ ÷ (4 × 10¹⁴) = 7.5 × 10⁻⁷ m = **750 nm**: near the **red** end."
+            },
+            {
+              "q": "In the spectrum from a prism, which colour is furthest from the base?",
+              "options": [
+                "Yellow",
+                "Violet",
+                "Green",
+                "Red"
+              ],
+              "answer": 3,
+              "why": "Red is deviated **least**, so it is furthest from the base. Violet is nearest the base."
+            },
+            {
+              "q": "White light passes through a parallel-sided glass slab. Why is no spectrum seen?",
+              "options": [
+                "Glass cannot split light",
+                "The colours come out parallel and overlap",
+                "The slab absorbs the colours",
+                "Only red light gets through"
+              ],
+              "answer": 1,
+              "why": "The faces are parallel, so each colour leaves **parallel** to the others. They stay **mixed**, so the light looks white."
+            },
+            {
+              "q": "Which electromagnetic waves have wavelengths just shorter than violet light?",
+              "options": [
+                "Infrared",
+                "Microwaves",
+                "Gamma rays",
+                "Ultraviolet"
+              ],
+              "answer": 3,
+              "why": "Just beyond the violet end is **ultraviolet**. Just beyond the red end is infrared."
+            },
+            {
+              "q": "A radio station broadcasts at 1.5 MHz. What is the wavelength? (c = 3 × 10⁸ m/s)",
+              "options": [
+                "0.005 m",
+                "200 m",
+                "4.5 × 10¹⁴ m",
+                "2 m"
+              ],
+              "answer": 1,
+              "why": "1.5 MHz = 1.5 × 10⁶ Hz. λ = 3 × 10⁸ ÷ (1.5 × 10⁶) = **200 m**."
+            },
+            {
+              "q": "Which radiation is used to kill cancer cells?",
+              "options": [
+                "Radio waves",
+                "Gamma rays",
+                "Microwaves",
+                "Infrared"
+              ],
+              "answer": 1,
+              "why": "**Gamma rays** are the most energetic and penetrating."
+            },
+            {
+              "q": "Why are ultraviolet lamps made with quartz instead of glass?",
+              "options": [
+                "Quartz makes more ultraviolet",
+                "Quartz is cheaper",
+                "Glass would melt",
+                "Glass absorbs ultraviolet; quartz lets it through"
+              ],
+              "answer": 3,
+              "why": "Ordinary **glass absorbs ultraviolet**. **Quartz** is transparent to it."
+            },
+            {
+              "q": "Why is the sky blue?",
+              "options": [
+                "Air scatters blue light much more than red",
+                "Air absorbs red light",
+                "The Sun gives out only blue light",
+                "The sea reflects blue light into the sky"
+              ],
+              "answer": 0,
+              "why": "Scattering ∝ 1 ÷ λ⁴: short **blue** wavelengths are scattered most, and reach us from **every direction**."
+            },
+            {
+              "q": "Why are clouds white?",
+              "options": [
+                "They reflect only red",
+                "They absorb all colours",
+                "Their drops are bigger than the wavelength, so they scatter all colours equally",
+                "They scatter only blue"
+              ],
+              "answer": 2,
+              "why": "The water drops and dust in clouds are **large**, so all colours are scattered **equally**, giving white."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These are like the harder questions at the end of the chapter. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "which-wave",
+          "label": "Which wave is it?",
+          "type": "optional",
+          "desc": "A wave has a frequency of 3 × 10¹⁸ Hz. Name it.\n\nλ = 3 × 10⁸ ÷ (3 × 10¹⁸) = 10⁻¹⁰ m\n\n= **0.1 nm**: between 0.01 nm and 10 nm, so it is an **X-ray**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a wave has λ = 0.001 nm. Name it.",
+              "a": "Below 0.01 nm: **gamma rays**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "blue-red-ratio",
+          "label": "Blue against red",
+          "type": "optional",
+          "desc": "Blue light of 450 nm and red light of 700 nm pass through clear air. How many times more is the blue light scattered?\n\n(700 ÷ 450)⁴ ≈ **5.9 times**\n\nThat is why the sky's colour is so strongly blue.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: violet is scattered even more than blue. Why is the sky not violet?",
+              "a": "Sunlight has **less violet** than blue to begin with, some violet is absorbed high in the air, and our eyes are **less sensitive** to violet."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "recombine",
+          "label": "Putting the colours back together",
+          "type": "optional",
+          "desc": "Put a second, identical prism **upside down** right after the first. The second prism bends each colour back by the **same amount** the first bent it.\n\nThe colours **recombine** into **white light**, coming out parallel to the original beam.\n\nNewton did this to prove the colours **come from** white light, rather than being made by the glass.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThis chapter is mostly **facts to learn and reasons to give**, with simple c = f λ numericals. A struggling student scores well by learning the order of the spectrum, the IR and UV facts, and five 'give reasons' answers.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- Start with a **real spectrum**: a prism, a glass of water in sunlight, or a CD. Let them see the colours before naming them.\n- Teach one sentence and keep returning to it: **shorter waves bend more and scatter more**.\n- Make a **spectrum card** together: the seven EM waves in order, one source and one use each.\n- For IR and UV, use things they know: the **TV remote**, sunburn, a **UV water purifier**, a phone camera seeing the remote's flash.\n- Drill **nm to m** before any c = f λ numerical.\n- Show a torch beam in a dusty or smoky room to make **scattering** visible.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 7-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** colours and wavelengths; VIBGYOR; c = f λ for light. Activity: a prism or a CD in sunlight. Exercise 6(A).\n- **Period 2:** deviation depends on colour; Newton's experiment; dispersion and spectrum; slab versus prism. Exercise 6(A).\n- **Period 3:** the electromagnetic spectrum in order; what all EM waves share. Activity: build a wall chart of the seven waves.\n- **Period 4:** sources and uses of gamma, X-rays, microwaves and radio waves; c = f λ numericals. Exercise 6(B).\n- **Period 5:** infrared and ultraviolet: detection, properties, uses, harm. Activity: view a TV remote through a phone camera. Exercise 6(B).\n- **Period 6:** scattering; blue sky, red sunset, white noon, black sky in space, white clouds, red signals. Activity: torch beam in a dusty room. Exercise 6(C).\n- **Period 7:** exam toolkit: definitions test, give-reasons practice, self-test and exit ticket.",
+          "links": [
+            {
+              "label": "Physics Classroom: dispersion of light by prisms",
+              "url": "https://www.physicsclassroom.com/class/refrn/Lesson-4/Dispersion-of-Light-by-Prisms"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Writing the spectrum order **backwards**: increasing wavelength starts with **gamma**; increasing frequency starts with **radio**.\n- Saying colours travel at **different speeds in vacuum**.\n- Forgetting to change **nm into metres** in c = f λ.\n- Mixing up **quartz** (for UV) and **rock salt** (for IR).\n- Saying the prism **makes** the colours.\n- Saying red is scattered **most** because it is 'strongest'.\n- Explaining the blue sky by **reflection** from the sea.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Write the seven colours of white light in order of increasing wavelength.",
+              "a": "**Violet, indigo, blue, green, yellow, orange, red.**"
+            },
+            {
+              "q": "2. Find the frequency of light of wavelength 500 nm. (c = 3 × 10⁸ m/s)",
+              "a": "f = 3 × 10⁸ ÷ (5 × 10⁻⁷) = **6 × 10¹⁴ Hz**."
+            },
+            {
+              "q": "3. Name the electromagnetic wave used (a) to cook food quickly, (b) to see broken bones.",
+              "a": "(a) **microwaves**, (b) **X-rays**."
+            },
+            {
+              "q": "4. State one use and one harmful effect of ultraviolet radiation.",
+              "a": "Use: **sterilising** (or vitamin D, testing gems). Harm: **skin cancer**."
+            },
+            {
+              "q": "5. Why does the Sun look red at sunset?",
+              "a": "Its light crosses a **long path** of air, and the **blue is scattered away**, leaving mostly red."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}
