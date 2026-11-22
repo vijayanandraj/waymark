@@ -1,0 +1,1188 @@
+{
+  "title": "ICSE Class 10 Physics, Chapter 8: Current Electricity, Step by Step",
+  "subtitle": "For students who find physics hard. Charge, current and potential difference, Ohm's law, what decides resistance, e.m.f. and internal resistance, resistors in series and parallel, and electrical energy, power and the kilowatt-hour in small steps, with every numerical shown line by line, quick checks, an exam toolkit and a last-minute revision sheet. Follows the ICSE Class 10 syllabus, Chapter 8 (Current Electricity), in the order of Selina Concise Physics.",
+  "updated": "2026-11-23",
+  "changelog": [
+    {
+      "date": "2026-11-23",
+      "text": "First version: the whole chapter in small steps, with original worked examples, quick checks, a last-minute revision sheet, a self-test and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** be sure of mA and minutes, rearranging V = I R, adding 1/R, and powers of ten for charge. Every numerical in this chapter uses them.",
+      "links": [
+        {
+          "label": "PhET simulation: Circuit Construction Kit: DC (free)",
+          "url": "https://phet.colorado.edu/en/simulations/circuit-construction-kit-dc"
+        }
+      ],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Change every value to A, V, Ω and seconds before you start.** Most lost marks come from mA, kΩ, minutes and hours left unchanged.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: voltage pushes, resistance resists, current flows: V = I R.** Series and parallel, the cell's own resistance, power and your electricity bill all follow from this and from one more fact: **energy = charge × voltage**.",
+          "links": [
+            {
+              "label": "PhET simulation: Circuit Construction Kit: DC (free)",
+              "url": "https://phet.colorado.edu/en/simulations/circuit-construction-kit-dc"
+            },
+            {
+              "label": "Last-minute revision sheet for this chapter",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-current-electricity#revision-sheet"
+            },
+            {
+              "label": "Previous chapter: 7. Sound",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-sound"
+            },
+            {
+              "label": "Next chapter: 9. Household Circuits",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-household-circuits"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 8, *Current Electricity*, of the ICSE Class 10 Physics syllabus. It follows the order of *Selina Concise Physics* for Class 10.\n\n**Who it is for.** Class 10 students who find physics hard, and want to understand this chapter and score decent marks in it. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** Voltage pushes, resistance resists and current flows: V = I R. Series and parallel, internal resistance, power and the electricity bill all follow from it and from energy = charge × voltage.\n\n**How it is different from the textbook.** The textbook gives many formulas side by side. Here they all come from two (V = I R and W = Q V), unit changes and 1/R get their own steps first, and every circuit is solved in the same order: total resistance, then current, then each p.d.\n\n**What is inside.**\n- 11 milestones and 48 small steps. The 39 solid steps are the core path. The dashed ones are optional.\n- 44 practice questions with hidden answers, and 5 pictures.\n- 28 click-to-check questions that say right or wrong, and why: a quick check after each of the 6 main milestones, and a 10-question self-test.\n- A **last-minute revision sheet**: every formula, unit and key point on one page.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the challenge questions, and a section for teachers and parents with a 12-period lesson plan, the mistakes to watch for and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from their textbook. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the ICSE syllabus but is not made or endorsed by CISCE or by any publisher. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Write 400 mA in amperes.",
+              "a": "**0.4 A**. Wrong? Do *Prefixes and units*."
+            },
+            {
+              "q": "2. V = 9 V and R = 3 Ω. Find I.",
+              "a": "I = V ÷ R = **3 A**. Wrong? Do *Rearranging V = I R*."
+            },
+            {
+              "q": "3. Find 1/2 + 1/2, then turn it upside down.",
+              "a": "1/2 + 1/2 = 1. Upside down: **1**. Wrong? Do *Adding 1/R*."
+            },
+            {
+              "q": "4. What is 10¹⁹ × 1.6 × 10⁻¹⁹?",
+              "a": "**1.6**. Wrong? Do *Powers of ten for charge*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "prefixes",
+          "label": "Prefixes and units",
+          "type": "core",
+          "desc": "- **m (milli)** = ÷ 1000: 250 mA = **0.25 A**.\n- **k (kilo)** = × 1000: 2 kΩ = **2000 Ω**, 1.5 kW = **1500 W**.\n- **Time in seconds** for joules: 3 min = **180 s**. Time in **hours** for kWh.\n\n**Worked example:** a current of 50 mA flows for 2 minutes. In SI units: I = **0.05 A**, t = **120 s**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: write 750 mA in A, and 5 minutes in seconds.",
+              "a": "**0.75 A** and **300 s**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "rearrange",
+          "label": "Rearranging V = I R",
+          "type": "core",
+          "desc": "One formula, three forms:\n\n- **V = I × R**\n- **I = V ÷ R**\n- **R = V ÷ I**\n\nCover the one you want in the triangle V over I × R.\n\n**Worked example:** a 4 Ω resistor has 12 V across it. I = 12 ÷ 4 = **3 A**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a lamp takes 0.5 A from a 6 V supply. Find its resistance.",
+              "a": "R = 6 ÷ 0.5 = **12 Ω**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "add-reciprocals",
+          "label": "Adding 1/R",
+          "type": "core",
+          "desc": "Parallel resistors need **1/R = 1/R₁ + 1/R₂**. Make the bottoms the same, add, then **turn upside down**.\n\n**Worked example:** 1/3 + 1/6\n\n= 2/6 + 1/6 = 3/6 = 1/2\n\nSo R = **2**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: find R if 1/R = 1/4 + 1/12.",
+              "a": "3/12 + 1/12 = 4/12 = 1/3. **R = 3**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "charge-tens",
+          "label": "Powers of ten for charge",
+          "type": "core",
+          "desc": "One electron carries **e = 1.6 × 10⁻¹⁹ C**. That is tiny, so charges are made of huge numbers of electrons.\n\nTo multiply, multiply the front numbers and **add the powers**.\n\n**Worked example:** 5 × 10¹⁸ electrons.\n\nQ = 5 × 10¹⁸ × 1.6 × 10⁻¹⁹ = 8 × 10⁻¹ = **0.8 C**",
+          "links": [
+            {
+              "label": "Math is Fun: scientific notation",
+              "url": "https://www.mathsisfun.com/numbers/scientific-notation.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: find the charge on 2.5 × 10¹⁹ electrons.",
+              "a": "2.5 × 1.6 = 4, and 10¹⁹ × 10⁻¹⁹ = 1. **Q = 4 C**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "charge-current",
+      "label": "Charge, current and potential difference",
+      "desc": "**Goal:** use Q = n e, I = Q ÷ t and V = W ÷ Q, and say what resistance is. Exercise 8(A) starts here.",
+      "links": [],
+      "children": [
+        {
+          "id": "charge",
+          "label": "Electric charge",
+          "type": "core",
+          "desc": "Charge comes in two kinds: **positive** and **negative**. A body is charged when it has **too few** electrons (positive) or **too many** (negative).\n\n- Charge is measured in **coulombs (C)**.\n- One electron has **e = 1.6 × 10⁻¹⁹ C**.\n- **Q = n e**, where n is the number of electrons.\n- So 1 C is the charge of **6.25 × 10¹⁸ electrons**.\n\n**Worked example:** a body gains 2 × 10¹⁹ extra electrons. Q = 2 × 10¹⁹ × 1.6 × 10⁻¹⁹ = **3.2 C**, negative.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: how many electrons make up 1 C?",
+              "a": "1 ÷ (1.6 × 10⁻¹⁹) = **6.25 × 10¹⁸**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "current",
+          "label": "Current: I = Q ÷ t",
+          "type": "core",
+          "desc": "**Current is the rate of flow of charge.**\n\n**I = Q ÷ t.** The unit is the **ampere (A)**: 1 A is 1 coulomb per second.\n\n- In a metal the charge is carried by **free electrons**.\n- **Conventional current** flows from **+ to −** outside the cell; electrons flow the other way.\n- Current is measured with an **ammeter**, joined **in series**.\n\n**Worked example:** 12 C pass through a lamp in 4 s. I = 12 ÷ 4 = **3 A**.",
+          "links": [
+            {
+              "label": "Physics Classroom: electric current",
+              "url": "https://www.physicsclassroom.com/class/circuits/Lesson-2/Electric-Current"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a current of 0.5 A flows. How many electrons pass each second?",
+              "a": "0.5 C each second. n = 0.5 ÷ (1.6 × 10⁻¹⁹) = **3.125 × 10¹⁸**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "pd",
+          "label": "Potential difference: V = W ÷ Q",
+          "type": "core",
+          "desc": "Charge only flows between two points at **different potentials**, just as water only flows downhill.\n\n**The potential difference between two points is the work done in moving a unit positive charge from one to the other.**\n\n**V = W ÷ Q.** The unit is the **volt (V)**: 1 V = 1 joule per coulomb.\n\np.d. is measured with a **voltmeter**, joined **in parallel** (across the part).\n\n**Worked example:** 30 J of work moves 5 C through a heater. V = 30 ÷ 5 = **6 V**.",
+          "links": [
+            {
+              "label": "Physics Classroom: electric potential difference",
+              "url": "https://www.physicsclassroom.com/class/circuits/Lesson-1/Electric-Potential-Difference"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: 2 C of charge passes through a 12 V lamp. How much energy does it give the lamp?",
+              "a": "W = Q V = 2 × 12 = **24 J**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "resistance",
+          "label": "Resistance",
+          "type": "core",
+          "desc": "**Resistance** is how much a conductor **opposes** the current.\n\nAs free electrons drift through a wire, they **collide with the vibrating ions** of the metal. These collisions hold them back.\n\n**R = V ÷ I.** The unit is the **ohm (Ω)**: 1 Ω lets 1 A flow when 1 V is across it.\n\n**Worked example:** 6 V across a coil drives 2 A through it. R = 6 ÷ 2 = **3 Ω**.",
+          "links": [
+            {
+              "label": "Physics Classroom: resistance",
+              "url": "https://www.physicsclassroom.com/class/circuits/Lesson-3/Resistance"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why does a wire have resistance?",
+              "a": "Its free electrons **collide** with the ions of the metal, which slows their drift."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-charge-current",
+          "label": "Quick check: charge, current, p.d.",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A charge of 4 C passes through a wire in 2 s. What is the current?",
+              "options": [
+                "8 A",
+                "6 A",
+                "2 A",
+                "0.5 A"
+              ],
+              "answer": 2,
+              "why": "I = Q ÷ t = 4 ÷ 2 = **2 A**. See *Current: I = Q ÷ t*."
+            },
+            {
+              "q": "18 J of work is done moving 3 C of charge between two points. What is the potential difference?",
+              "options": [
+                "54 V",
+                "6 V",
+                "15 V",
+                "0.17 V"
+              ],
+              "answer": 1,
+              "why": "V = W ÷ Q = 18 ÷ 3 = **6 V**. See *Potential difference: V = W ÷ Q*."
+            },
+            {
+              "q": "How is an ammeter connected in a circuit?",
+              "options": [
+                "In series",
+                "Either way",
+                "In parallel",
+                "Across the cell only"
+              ],
+              "answer": 0,
+              "why": "An ammeter measures the current **through** a part, so it goes **in series**. A voltmeter goes in parallel. See *Current: I = Q ÷ t*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "ohms-law",
+      "label": "Ohm's law",
+      "desc": "**Goal:** state Ohm's law, describe how to verify it, and tell ohmic from non-ohmic conductors. Exercise 8(A) covers this.",
+      "links": [],
+      "children": [
+        {
+          "id": "ohm-statement",
+          "label": "Ohm's law: V = I R",
+          "type": "core",
+          "desc": "**Ohm's law: the current through a conductor is directly proportional to the potential difference across it, provided its temperature and other physical conditions stay the same.**\n\nSo V ÷ I is a constant: the resistance. **V = I R.**\n\n**Worked example:** 6 V is applied across a 12 Ω resistor.\n\nI = V ÷ R = 6 ÷ 12\n\nI = **0.5 A**",
+          "links": [
+            {
+              "label": "Physics Classroom: Ohm's law",
+              "url": "https://www.physicsclassroom.com/class/circuits/Lesson-3/Ohm-s-Law"
+            },
+            {
+              "label": "PhET simulation: Ohm's Law (free)",
+              "url": "https://phet.colorado.edu/en/simulations/ohms-law"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a torch bulb takes 0.25 A from a 3 V cell. What is its resistance?",
+              "a": "R = 3 ÷ 0.25 = **12 Ω**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ohm-experiment",
+          "label": "Verifying Ohm's law",
+          "type": "core",
+          "desc": "Set up the circuit:\n\n- a battery, a key and a **rheostat** (to change the current);\n- an **ammeter in series** with the wire;\n- a **voltmeter in parallel** across the wire.\n\nChange the rheostat to get several pairs of V and I. Work out V ÷ I each time.\n\n**Worked example:** a student's readings.\n\n- V = 0.5 V, I = 0.1 A: V ÷ I = 5 Ω\n- V = 1.0 V, I = 0.2 A: V ÷ I = 5 Ω\n- V = 1.5 V, I = 0.3 A: V ÷ I = 5 Ω\n\nV ÷ I is **constant**, so the law holds. A **V-I graph** is a **straight line through the origin**, and its **slope** is R.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: on a V-I graph, line A is steeper than line B. Which conductor has more resistance?",
+              "a": "**A.** The slope ΔV ÷ ΔI is the resistance."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/ohm-circuit.png",
+              "caption": "Ammeter in series, voltmeter across the wire, rheostat to change the current"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ohmic",
+          "label": "Ohmic and non-ohmic conductors",
+          "type": "core",
+          "desc": "- **Ohmic** conductors obey Ohm's law: **metals**, nichrome, manganin, at a steady temperature. Their V-I graph is a **straight line** through the origin.\n- **Non-ohmic** conductors do not: a **bulb filament**, a **diode**, an **LED**, a **solar cell**. Their V-I graph is a **curve**.\n\nA filament gets **hotter** as the current rises, so its resistance **increases**.\n\n**Worked example:** a bulb takes 0.2 A at 2 V (R = **10 Ω**) but 0.4 A at 6 V (R = **15 Ω**). It is hotter at 6 V, so its resistance is higher.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: name two non-ohmic conductors.",
+              "a": "A **bulb filament** and a **junction diode** (or an LED, a solar cell)."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/vi-graphs.png",
+              "caption": "Ohmic: straight lines through the origin. Filament: a curve"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-ohms-law",
+          "label": "Quick check: Ohm's law",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A current of 1.5 A flows through a 6 Ω resistor. What is the p.d. across it?",
+              "options": [
+                "4 V",
+                "7.5 V",
+                "9 V",
+                "0.25 V"
+              ],
+              "answer": 2,
+              "why": "V = I R = 1.5 × 6 = **9 V**. See *Ohm's law: V = I R*."
+            },
+            {
+              "q": "For an ohmic conductor, the slope of the V-I graph (V up, I across) gives:",
+              "options": [
+                "the current",
+                "the charge",
+                "its resistance",
+                "the power"
+              ],
+              "answer": 2,
+              "why": "Slope = ΔV ÷ ΔI = **R**. A steeper line means more resistance. See *Verifying Ohm's law*."
+            },
+            {
+              "q": "Which of these does NOT obey Ohm's law?",
+              "options": [
+                "Copper wire at a steady temperature",
+                "A glowing bulb filament",
+                "Manganin wire",
+                "Nichrome wire at a steady temperature"
+              ],
+              "answer": 1,
+              "why": "A filament **heats up** as the current grows, so its resistance rises: its V-I graph is a **curve**. See *Ohmic and non-ohmic conductors*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "resistance-factors",
+      "label": "Resistance: length, thickness and material",
+      "desc": "**Goal:** know how length, thickness, material and temperature change resistance, use R = ρ l ÷ A, and choose materials. Exercise 8(A) covers this.",
+      "links": [],
+      "children": [
+        {
+          "id": "factors",
+          "label": "What decides resistance",
+          "type": "core",
+          "desc": "The resistance of a wire depends on:\n\n- its **material** (copper is low, nichrome high);\n- its **length**: **R ∝ l**. Double the length, double the resistance;\n- its **thickness**: **R ∝ 1 ÷ A**. A thicker wire gives electrons more room. Double the **radius**: area × 4, so R **÷ 4**;\n- its **temperature**: for metals, R **rises** when hotter. (For semiconductors like carbon, it falls.)\n\n**Worked example:** a 2 m nichrome wire has a resistance of 6 Ω. A 5 m piece of the same wire has 6 ÷ 2 × 5 = **15 Ω**.",
+          "links": [
+            {
+              "label": "PhET simulation: Resistance in a Wire (free)",
+              "url": "https://phet.colorado.edu/en/simulations/resistance-in-a-wire"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: two copper wires have the same length. A has twice the radius of B. Which has more resistance, and how many times?",
+              "a": "**B**, by **4 times**: it has a quarter of A's area."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "resistivity",
+          "label": "Specific resistance: R = ρ l ÷ A",
+          "type": "core",
+          "desc": "**R = ρ l ÷ A**, where ρ (rho) is the **specific resistance** (resistivity) of the material.\n\n- Unit of ρ: **ohm metre (Ω m)**.\n- ρ depends **only on the material and its temperature**, not on the wire's length or thickness.\n- Conductivity σ = 1 ÷ ρ.\n\n**Worked example:** a wire 2 m long with an area of 5 × 10⁻⁷ m² has a resistance of 4.4 Ω.\n\nρ = R A ÷ l = 4.4 × 5 × 10⁻⁷ ÷ 2\n\nρ = **1.1 × 10⁻⁶ Ω m** (this is nichrome)\n\n**Stretching and folding:** stretch a wire to **twice** its length and its area halves, so R becomes **4 times**. Fold it in **half** and R becomes a **quarter**.",
+          "links": [
+            {
+              "label": "Wikipedia: electrical resistivity",
+              "url": "https://en.wikipedia.org/wiki/Electrical_resistivity_and_conductivity"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a 5 Ω wire is folded in half to make a wire half as long and twice as thick. Find its new resistance.",
+              "a": "Half the length and twice the area: 5 × ½ × ½ = **1.25 Ω**."
+            },
+            {
+              "q": "Your turn: two copper wires, one long and thin, one short and thick. Which has the larger specific resistance?",
+              "a": "**Neither**: both are copper, so ρ is the **same**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "materials",
+          "label": "Choosing the material",
+          "type": "core",
+          "desc": "- **Connecting wires and power lines:** **copper** or **aluminium**: very low ρ, and made **thick**, so little energy is lost as heat. (Silver is better but too costly.)\n- **Standard resistors:** **manganin** or **constantan**: high ρ that hardly changes with temperature.\n- **Heating elements** (heater, iron, toaster): **nichrome**: high ρ, and it does not burn away when red hot.\n- **Bulb filament:** **tungsten**: a very high melting point.\n- **Fuse wire:** **lead-tin alloy**: a low melting point.\n\n**Superconductors** are materials with **zero resistance** at very low temperatures: mercury below about **4.2 K**, lead below about 7.2 K. A current in them flows without losing energy. They are not yet in daily use because they must be kept so cold.\n\n**Worked example:** a toaster's element must glow red hot for years without burning out: it is made of **nichrome**.",
+          "links": [
+            {
+              "label": "Wikipedia: superconductivity",
+              "url": "https://en.wikipedia.org/wiki/Superconductivity"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why is tungsten used for bulb filaments?",
+              "a": "It has a very **high melting point**, so it can glow white hot without melting."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-resistance-factors",
+          "label": "Quick check: resistance",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A wire's length is doubled, keeping the same thickness and material. Its resistance:",
+              "options": [
+                "becomes four times",
+                "doubles",
+                "stays the same",
+                "halves"
+              ],
+              "answer": 1,
+              "why": "R ∝ length, so it **doubles**. See *What decides resistance*."
+            },
+            {
+              "q": "A wire is replaced by one of the same length and material but twice the radius. Its resistance becomes:",
+              "options": [
+                "the same",
+                "half",
+                "a quarter",
+                "double"
+              ],
+              "answer": 2,
+              "why": "Twice the radius gives **4 times** the area, and R ∝ 1 ÷ area: **a quarter**. See *What decides resistance*."
+            },
+            {
+              "q": "What is the heating element of an electric iron made of?",
+              "options": [
+                "Lead-tin alloy",
+                "Tungsten",
+                "Copper",
+                "Nichrome"
+              ],
+              "answer": 3,
+              "why": "**Nichrome** has a high resistivity and does not burn away when red hot. See *Choosing the material*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "emf",
+      "label": "e.m.f., terminal voltage and internal resistance",
+      "desc": "**Goal:** tell e.m.f. from terminal voltage, and use ε = I (R + r). Exercise 8(B) starts here.",
+      "links": [],
+      "children": [
+        {
+          "id": "emf-step",
+          "label": "The e.m.f. of a cell",
+          "type": "core",
+          "desc": "A cell turns **chemical energy** into **electrical energy**.\n\n**The e.m.f. (ε) of a cell is the energy it gives to each coulomb of charge sent round the whole circuit, including through the cell itself.** Its unit is the **volt**.\n\n- Measure it with a high-resistance voltmeter across the cell when **no current** is drawn.\n- It depends on the **electrodes and the electrolyte**: the kind of cell.\n- It does **not** depend on the size of the cell, the shape of the plates or the amount of electrolyte.\n\n**Worked example:** a dry (Leclanché) cell has an e.m.f. of 1.5 V. A tiny AAA cell and a big D cell of this kind both give **1.5 V**; the big one just lasts longer.",
+          "links": [
+            {
+              "label": "Wikipedia: electromotive force",
+              "url": "https://en.wikipedia.org/wiki/Electromotive_force"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: name two things the e.m.f. of a cell depends on.",
+              "a": "The **material of the electrodes** and the **electrolyte**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "terminal-voltage",
+          "label": "Terminal voltage and lost volts",
+          "type": "core",
+          "desc": "When the cell drives a current, some energy is used up pushing the charge **through the cell itself**.\n\n- **Terminal voltage V:** the p.d. across the cell's terminals while current flows.\n- **Lost volts v:** the voltage used inside the cell.\n- **ε = V + v.** So **V is less than ε** while current flows.\n- A **bigger current** means **more** lost volts and a **smaller** terminal voltage.\n\n**Worked example:** a cell's e.m.f. is 1.5 V. With a bulb connected, the voltmeter across it reads 1.3 V. Lost volts = 1.5 − 1.3 = **0.2 V**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: car headlights dim when the starter motor runs. Why?",
+              "a": "The starter draws a **very large current**, so the battery's **lost volts** rise and its **terminal voltage falls**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "internal-resistance",
+          "label": "Internal resistance: ε = I (R + r)",
+          "type": "core",
+          "desc": "The lost volts come from the **internal resistance r** of the cell: the resistance of its electrolyte. Think of r as a small resistor **in series** inside the cell.\n\n- **v = I r**, and **V = I R**, so **ε = I (R + r)**.\n- r is **larger** when the plates are **further apart**, **smaller** when more of the plates is dipped in, **larger** for a stronger electrolyte, and **smaller** when the cell is warmer.\n\n**Worked example:** ε = 3 V, r = 0.5 Ω, outside resistor R = 5.5 Ω.\n\nI = 3 ÷ (5.5 + 0.5) = **0.5 A**\n\nV = I R = 0.5 × 5.5 = **2.75 V**",
+          "links": [
+            {
+              "label": "Wikipedia: internal resistance",
+              "url": "https://en.wikipedia.org/wiki/Internal_resistance"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a cell of e.m.f. 2 V gives 0.4 A, and its terminal voltage is then 1.8 V. Find its internal resistance.",
+              "a": "Lost volts = 2 − 1.8 = 0.2 V. r = 0.2 ÷ 0.4 = **0.5 Ω**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/internal-resistance.png",
+              "caption": "The cell's own resistance r is in series with the outside resistor R"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-emf",
+          "label": "Quick check: e.m.f. and internal resistance",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A cell has an e.m.f. of 1.5 V. While it drives a current, its terminal voltage is:",
+              "options": [
+                "less than 1.5 V",
+                "exactly 1.5 V",
+                "zero",
+                "more than 1.5 V"
+              ],
+              "answer": 0,
+              "why": "Some volts are **lost** pushing the current through the cell's own resistance: V = ε − I r. See *Terminal voltage and lost volts*."
+            },
+            {
+              "q": "A cell of e.m.f. 6 V and internal resistance 1 Ω is joined to a 5 Ω resistor. What current flows?",
+              "options": [
+                "1 A",
+                "1.2 A",
+                "0.83 A",
+                "6 A"
+              ],
+              "answer": 0,
+              "why": "I = ε ÷ (R + r) = 6 ÷ (5 + 1) = **1 A**. Leaving out r gives 1.2 A. See *Internal resistance: ε = I (R + r)*."
+            },
+            {
+              "q": "The e.m.f. of a cell does NOT depend on:",
+              "options": [
+                "the material of the electrodes",
+                "the size of the cell",
+                "the electrolyte",
+                "the kind of cell"
+              ],
+              "answer": 1,
+              "why": "e.m.f. depends on the **electrodes and the electrolyte**, not on the size. A big and a small dry cell both give 1.5 V. See *The e.m.f. of a cell*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "combination",
+      "label": "Resistors in series and parallel",
+      "desc": "**Goal:** find the total resistance, currents and p.d.s for series, parallel and mixed circuits. Exercise 8(B) numericals use this.",
+      "links": [],
+      "children": [
+        {
+          "id": "series",
+          "label": "Resistors in series",
+          "type": "core",
+          "desc": "Resistors joined **end to end**, so the **same current** flows through each.\n\n- **R = R₁ + R₂ + ...**: the total is **more** than the largest.\n- The p.d. is **shared**: V = V₁ + V₂, with the bigger resistor taking the bigger share.\n\nWhy: V = V₁ + V₂, so I R = I R₁ + I R₂, and R = R₁ + R₂.\n\n**Worked example:** 3 Ω and 6 Ω in series on 9 V.\n\nR = 3 + 6 = 9 Ω\n\nI = 9 ÷ 9 = **1 A** in both\n\np.d.s: 1 × 3 = **3 V** and 1 × 6 = **6 V** (3 + 6 = 9 V)",
+          "links": [
+            {
+              "label": "Physics Classroom: series circuits",
+              "url": "https://www.physicsclassroom.com/class/circuits/Lesson-4/Series-Circuits"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: 4 Ω and 8 Ω are in series on a 6 V supply. Find the current and each p.d.",
+              "a": "R = 12 Ω, I = **0.5 A**. p.d.s: **2 V** and **4 V**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/series-parallel.png",
+              "caption": "Series: same current, p.d. shared. Parallel: same p.d., current shared"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "parallel",
+          "label": "Resistors in parallel",
+          "type": "core",
+          "desc": "Resistors joined **side by side** across the same two points, so the **same p.d.** is across each.\n\n- **1/R = 1/R₁ + 1/R₂ + ...**: the total is **less** than the smallest.\n- The current is **shared**: I = I₁ + I₂, with the **smaller** resistor taking **more**.\n- **n equal** resistors R in parallel give **R ÷ n**.\n\nWhy: I = I₁ + I₂, so V/R = V/R₁ + V/R₂, and 1/R = 1/R₁ + 1/R₂.\n\n**Worked example:** 3 Ω and 6 Ω in parallel on 6 V.\n\n1/R = 1/3 + 1/6 = 1/2, so R = **2 Ω**\n\nCurrents: 6 ÷ 3 = **2 A** and 6 ÷ 6 = **1 A**. Total **3 A** (= 6 ÷ 2).",
+          "links": [
+            {
+              "label": "Physics Classroom: parallel circuits",
+              "url": "https://www.physicsclassroom.com/class/circuits/Lesson-4/Parallel-Circuits"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: find the total resistance of 4 Ω and 12 Ω in parallel.",
+              "a": "1/R = 1/4 + 1/12 = 4/12, so **R = 3 Ω**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "networks",
+          "label": "Mixed networks",
+          "type": "core",
+          "desc": "Solve a mixed circuit **in pieces**: first each **parallel group**, then add the **series** parts.\n\n**Worked example:** a 2 Ω resistor in series with 6 Ω and 3 Ω in parallel, on 12 V.\n\nParallel part: 1/R = 1/6 + 1/3 = 1/2, so 2 Ω\n\nTotal R = 2 + 2 = **4 Ω**, so I = 12 ÷ 4 = **3 A**\n\np.d. across the parallel part = 3 × 2 = 6 V\n\nCurrents: 6 ÷ 6 = **1 A** and 6 ÷ 3 = **2 A**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: three 6 Ω resistors: two in parallel, then the third in series with them. Find the total resistance.",
+              "a": "Parallel pair: 3 Ω. Total = 3 + 6 = **9 Ω**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "with-cell",
+          "label": "Putting it together: a cell with internal resistance",
+          "type": "core",
+          "desc": "Add the cell's **r** in series with everything outside.\n\n**Worked example:** a battery of e.m.f. 12 V and internal resistance 1 Ω. Outside: a 3 Ω resistor in series with two 4 Ω resistors in parallel.\n\nParallel pair: 4 ÷ 2 = 2 Ω. Outside R = 3 + 2 = 5 Ω\n\nI = 12 ÷ (5 + 1) = **2 A**\n\nTerminal voltage = 2 × 5 = **10 V**\n\np.d. across the pair = 2 × 2 = 4 V, so **1 A** in each 4 Ω resistor",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: in that circuit, how many volts are lost inside the battery?",
+              "a": "v = I r = 2 × 1 = **2 V** (12 − 10)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-combination",
+          "label": "Quick check: series and parallel",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Resistors of 2 Ω and 4 Ω are joined in series. What is the total resistance?",
+              "options": [
+                "1.33 Ω",
+                "6 Ω",
+                "2 Ω",
+                "8 Ω"
+              ],
+              "answer": 1,
+              "why": "In series they **add**: 2 + 4 = **6 Ω**. See *Resistors in series*."
+            },
+            {
+              "q": "Two 10 Ω resistors are joined in parallel. What is the total resistance?",
+              "options": [
+                "0.2 Ω",
+                "10 Ω",
+                "20 Ω",
+                "5 Ω"
+              ],
+              "answer": 3,
+              "why": "Two equal resistors in parallel give **half**: **5 Ω**. Forgetting to turn 1/R upside down gives 0.2. See *Resistors in parallel*."
+            },
+            {
+              "q": "In a parallel combination, what is the same for every resistor?",
+              "options": [
+                "The p.d. across it",
+                "The power in it",
+                "Nothing",
+                "The current through it"
+              ],
+              "answer": 0,
+              "why": "Each is joined straight across the same two points, so the **p.d. is the same**. See *Resistors in parallel*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "energy-power",
+      "label": "Electrical energy and power",
+      "desc": "**Goal:** find energy and power, read a power rating, and work out an electricity bill. Exercise 8(C) covers this.",
+      "links": [],
+      "children": [
+        {
+          "id": "elec-energy",
+          "label": "Electrical energy: W = V I t",
+          "type": "core",
+          "desc": "From V = W ÷ Q and Q = I t:\n\n**W = Q V = V I t**\n\nUsing V = I R, this is also **W = I² R t = V² t ÷ R**. Energy is in **joules**.\n\nIn a heater, motor, lamp or loudspeaker, this electrical energy becomes heat, motion, light or sound.\n\n**Worked example:** a 12 V motor takes 2 A for 5 minutes.\n\nt = 300 s\n\nW = 12 × 2 × 300 = **7200 J**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: 3 A flows through a 10 Ω coil for 1 minute. How much heat is produced?",
+              "a": "W = I² R t = 9 × 10 × 60 = **5400 J**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "elec-power",
+          "label": "Power: P = V I",
+          "type": "core",
+          "desc": "**Power** is the rate of using electrical energy.\n\n**P = W ÷ t = V I = I² R = V² ÷ R.** The unit is the **watt (W)**; 1 kW = 1000 W.\n\n**Worked example:** an appliance on 220 V takes 4 A. P = 220 × 4 = **880 W**.",
+          "links": [
+            {
+              "label": "Physics Classroom: power: putting charges to work",
+              "url": "https://www.physicsclassroom.com/class/circuits/Lesson-2/Power-Putting-Charges-to-Work"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: 12 V is applied across a 6 Ω resistor. What power does it use?",
+              "a": "P = V² ÷ R = 144 ÷ 6 = **24 W**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "rating",
+          "label": "Power rating: what '220 V, 100 W' means",
+          "type": "core",
+          "desc": "A rating like **'220 V, 40 W'** means: on a **220 V** supply, the appliance uses **40 W** (40 J every second).\n\nFrom the rating you can find:\n\n- the current: **I = P ÷ V**;\n- the resistance: **R = V² ÷ P**.\n\n**Worked example:** a '220 V, 40 W' bulb.\n\nI = 40 ÷ 220 ≈ **0.18 A**\n\nR = 220² ÷ 40 = 48 400 ÷ 40 = **1210 Ω**\n\nOn a 110 V supply it uses only 110² ÷ 1210 = **10 W**: half the voltage, a **quarter** of the power.\n\nTypical ratings: LED bulb 10 W, fan 60 W, TV 100 W, iron 1000 W, geyser 2000 W.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: an iron is rated '220 V, 1100 W'. Find the current it takes and its resistance.",
+              "a": "I = 1100 ÷ 220 = **5 A**. R = 220² ÷ 1100 = **44 Ω**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "kwh",
+          "label": "The kilowatt-hour and your bill",
+          "type": "core",
+          "desc": "The joule is too small for a household. The electricity board uses the **kilowatt-hour**:\n\n**1 kWh** = the energy used by a **1 kW** appliance in **1 hour** = 1000 × 3600 = **3.6 × 10⁶ J**. This is **1 unit** on your bill.\n\n**Energy (kWh) = power (kW) × time (h).**\n\n**Worked example:** a family's month (30 days):\n\n- geyser 2 kW × 1 h × 30 = 60 kWh\n- fan 0.06 kW × 10 h × 30 = 18 kWh\n- iron 1 kW × 0.5 h × 30 = 15 kWh\n- TV 0.1 kW × 4 h × 30 = 12 kWh\n- 4 LED bulbs 0.04 kW × 6 h × 30 = 7.2 kWh\n\nTotal **112.2 kWh**. At ₹7 a unit: **₹785.40**.",
+          "links": [
+            {
+              "label": "Wikipedia: kilowatt-hour",
+              "url": "https://en.wikipedia.org/wiki/Kilowatt-hour"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a 1.5 kW air conditioner runs 6 hours a day for 30 days. At ₹7 a unit, what does it cost?",
+              "a": "1.5 × 6 × 30 = 270 kWh. 270 × 7 = **₹1890**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/monthly-energy.png",
+              "caption": "The geyser uses more than the fan, TV and bulbs together"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "heating",
+          "label": "Heating effect: H = I² R t",
+          "type": "core",
+          "desc": "When current flows through a resistor, electrical energy turns into **heat**: **H = I² R t** (Joule's law).\n\nThe heat produced is proportional to:\n\n- the **square of the current**;\n- the **resistance**;\n- the **time**.\n\nUsed in heaters, irons, geysers, bulb filaments and **fuses**.\n\n**Worked example:** a '220 V, 100 W' bulb and a '220 V, 25 W' bulb are joined **in series** on 220 V.\n\nR: 484 Ω and 1936 Ω. I = 220 ÷ 2420 = 1/11 A in both\n\nPower: (1/11)² × 484 = **4 W** and (1/11)² × 1936 = **16 W**\n\nThe **25 W** bulb glows **brighter**: same current, bigger resistance, more I² R.",
+          "links": [
+            {
+              "label": "Wikipedia: Joule heating",
+              "url": "https://en.wikipedia.org/wiki/Joule_heating"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: the current in a heater coil is doubled. What happens to the heat produced each second?",
+              "a": "H ∝ I², so it becomes **4 times**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-energy-power",
+          "label": "Quick check: energy and power",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "The electricity meter in a house measures:",
+              "options": [
+                "power, in kW",
+                "current, in A",
+                "energy, in kWh",
+                "voltage, in V"
+              ],
+              "answer": 2,
+              "why": "kWh is a unit of **energy**. kW is power. See *The kilowatt-hour and your bill*."
+            },
+            {
+              "q": "A bulb is rated 220 V, 60 W. What current does it draw on 220 V?",
+              "options": [
+                "3.67 A",
+                "0.27 A",
+                "0.0045 A",
+                "13 200 A"
+              ],
+              "answer": 1,
+              "why": "I = P ÷ V = 60 ÷ 220 ≈ **0.27 A**. See *Power rating: what '220 V, 100 W' means*."
+            },
+            {
+              "q": "A 1.5 kW heater is used 2 hours a day for 30 days. At ₹7 a unit, what does it cost?",
+              "options": [
+                "₹6300",
+                "₹630",
+                "₹21",
+                "₹63"
+              ],
+              "answer": 1,
+              "why": "Energy = 1.5 × 2 × 30 = 90 kWh. Cost = 90 × 7 = **₹630**. See *The kilowatt-hour and your bill*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "exam-toolkit",
+      "label": "Exam toolkit: words and reasons",
+      "desc": "**Goal:** collect the marks that come from learning. Definitions, the four-line method and 'give reasons' answers are easy marks.",
+      "links": [],
+      "children": [
+        {
+          "id": "definitions",
+          "label": "Definitions to learn word for word",
+          "type": "core",
+          "desc": "- **Current:** the rate of flow of charge. **1 ampere:** 1 coulomb per second.\n- **Potential difference:** the work done in moving a unit positive charge from one point to the other. **1 volt:** 1 joule per coulomb.\n- **Resistance:** the obstruction a conductor offers to the flow of current. **1 ohm:** the resistance through which 1 A flows when 1 V is across it.\n- **Ohm's law:** the current through a conductor is directly proportional to the p.d. across it, if its temperature and other physical conditions stay the same.\n- **Specific resistance:** the resistance of a wire of the material of unit length and unit area of cross-section.\n- **e.m.f.:** the work done per unit charge in taking a positive charge round the complete circuit, including the cell.\n- **Internal resistance:** the resistance offered by the electrolyte inside a cell.\n- **Electrical power:** the rate of doing electrical work. **1 kWh:** the energy used by a 1 kW appliance in 1 hour.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: cover the list. State Ohm's law, with its condition.",
+              "a": "The current is **directly proportional** to the p.d., provided the **temperature and other physical conditions** stay the same."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "numerical-method",
+          "label": "Numericals: four lines every time",
+          "type": "core",
+          "desc": "Examiners give marks for each line. Write all four:\n\n1. **Given:** values in **A, V, Ω, s** (or kW and h for kWh).\n2. **Formula:** the one you will use.\n3. **Substitute:** put the numbers in.\n4. **Answer:** with its **unit**.\n\n**Worked example:** a battery of e.m.f. 24 V and internal resistance 2 Ω is joined to a 4 Ω resistor. Find the current.\n\nGiven: ε = 24 V, r = 2 Ω, R = 4 Ω\n\nFormula: I = ε ÷ (R + r)\n\nSubstitute: 24 ÷ (4 + 2)\n\nAnswer: **4 A**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which step do students most often skip in parallel problems?",
+              "a": "Turning **1/R upside down** at the end."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "give-reasons",
+          "label": "Give reasons: model answers",
+          "type": "core",
+          "desc": "Many questions ask *give a reason*. Try these before opening the answers.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Connecting wires are made of thick copper.",
+              "a": "Copper has a **very low specific resistance**, and a **thick** wire has a large area, so the resistance is **tiny** and little energy is wasted as heat."
+            },
+            {
+              "q": "The terminal voltage of a cell is less than its e.m.f. when it gives a current.",
+              "a": "Some voltage is **lost** driving the current through the cell's **internal resistance**: V = ε − I r."
+            },
+            {
+              "q": "Household appliances are joined in parallel, not in series.",
+              "a": "In parallel each gets the **full supply voltage** and can be **switched on and off on its own**."
+            },
+            {
+              "q": "The resistance of a bulb filament is more when it glows than when it is cold.",
+              "a": "Resistance of a metal **rises with temperature**, and a glowing filament is **very hot**."
+            },
+            {
+              "q": "A heating element is made of nichrome, not copper.",
+              "a": "Nichrome has a **high specific resistance**, so it heats up a lot, and it **does not oxidise** (burn away) when red hot."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "diagrams-practise",
+          "label": "Diagrams to practise",
+          "type": "optional",
+          "desc": "- The circuit to **verify Ohm's law**: ammeter in series, voltmeter in parallel, rheostat.\n- V-I graphs for an **ohmic** and a **non-ohmic** conductor.\n- Resistors in **series** and in **parallel**, with currents and p.d.s marked.\n- A cell drawn with its **internal resistance** in series.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: last-minute revision and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Read the sheet the night before the exam and again on the morning.",
+      "links": [],
+      "children": [
+        {
+          "id": "revision-sheet",
+          "label": "Last-minute revision sheet",
+          "type": "core",
+          "desc": "**The one idea:** voltage pushes, resistance resists, current flows: **V = I R**. Everything else follows from it and from **energy = charge × voltage**.\n\n**Formulas**\n- **Q = n e** and **I = Q ÷ t**\n- **V = W ÷ Q**\n- **V = I R** (Ohm's law, at a steady temperature)\n- **R = ρ l ÷ A** (ρ = specific resistance)\n- **ε = V + v**, **v = I r**, **ε = I (R + r)**\n- Series: **R = R₁ + R₂ + ...** Parallel: **1/R = 1/R₁ + 1/R₂ + ...**\n- **W = Q V = V I t = I² R t = V² t ÷ R**\n- **P = V I = I² R = V² ÷ R**\n- From a rating: **I = P ÷ V** and **R = V² ÷ P**\n\n**Units**\n- Charge: **coulomb (C)**. e = **1.6 × 10⁻¹⁹ C**. Current: **ampere (A)**. 1 mA = 10⁻³ A.\n- p.d. and e.m.f.: **volt (V)** = J/C. Resistance: **ohm (Ω)** = V/A. Specific resistance: **Ω m**.\n- Energy: **joule (J)**. Power: **watt (W)** = J/s.\n- **1 kWh = 3.6 × 10⁶ J** = one unit on the electricity bill.\n\n**Key points**\n- Ammeter **in series**, voltmeter **in parallel**. Conventional current flows from + to −; electrons flow the other way.\n- Ohm's law: V ∝ I **at constant temperature**. V-I graph: a **straight line through the origin**; **slope = R**.\n- **Ohmic:** metals, nichrome, manganin. **Non-ohmic:** bulb filament, diode, LED, solar cell.\n- R ∝ **length**, ∝ **1 ÷ area**. Double the radius: **R ÷ 4**. Stretch to double length: **R × 4**. A metal's R **rises** with temperature.\n- ρ depends only on the **material and temperature**, not on the size.\n- Copper or aluminium: **connecting wires**. Manganin or constantan: **standard resistors**. Nichrome: **heating elements**. Tungsten: **filaments**. Lead-tin: **fuses**.\n- **Superconductor:** zero resistance at very low temperature (mercury below 4.2 K).\n- e.m.f.: energy given per coulomb by the cell, measured with **no current** flowing. It depends on the **electrodes and electrolyte**, not the size.\n- Terminal voltage is **less** than the e.m.f. when current flows: some volts are lost inside.\n- **Series:** same current; p.d. shared; total **more** than the largest.\n- **Parallel:** same p.d.; current shared; total **less** than the smallest. n equal resistors: **R ÷ n**.\n- Heating effect: **H = I² R t**. Used in heaters, irons, bulbs and fuses.\n- Two bulbs **in series**: the **lower-wattage** bulb (higher R) glows brighter.\n\n**Traps:** change **minutes to seconds** and **mA to A**. Turn **1/R upside down**. Change **W to kW** for kWh. Don't forget **r** when a cell has internal resistance.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "2.5 × 10¹⁸ electrons pass a point in a wire every second. What is the current? (e = 1.6 × 10⁻¹⁹ C)",
+              "options": [
+                "4 A",
+                "1.6 A",
+                "2.5 A",
+                "0.4 A"
+              ],
+              "answer": 3,
+              "why": "Q = n e = 2.5 × 10¹⁸ × 1.6 × 10⁻¹⁹ = 0.4 C each second, so **I = 0.4 A**."
+            },
+            {
+              "q": "What happens to the resistance of a metal wire as it gets hotter?",
+              "options": [
+                "It decreases",
+                "It increases",
+                "It stays the same",
+                "It becomes zero"
+              ],
+              "answer": 1,
+              "why": "The ions vibrate more, so electrons collide more: resistance **increases**."
+            },
+            {
+              "q": "What is a superconductor?",
+              "options": [
+                "A wire with a very high resistance",
+                "A cell with no internal resistance",
+                "A very good insulator",
+                "A material with zero resistance at a very low temperature"
+              ],
+              "answer": 3,
+              "why": "A **superconductor** has **zero resistance** below a very low temperature, like mercury below 4.2 K."
+            },
+            {
+              "q": "A 4 Ω wire is stretched to twice its length. What is its new resistance?",
+              "options": [
+                "2 Ω",
+                "8 Ω",
+                "16 Ω",
+                "4 Ω"
+              ],
+              "answer": 2,
+              "why": "Twice as long **and** half the area: R × 2 × 2 = **16 Ω**."
+            },
+            {
+              "q": "Three 6 Ω resistors are joined in parallel. What is the total resistance?",
+              "options": [
+                "3 Ω",
+                "18 Ω",
+                "6 Ω",
+                "2 Ω"
+              ],
+              "answer": 3,
+              "why": "n equal resistors in parallel: 6 ÷ 3 = **2 Ω**."
+            },
+            {
+              "q": "A cell of e.m.f. 1.5 V has a terminal voltage of 1.2 V while it gives 0.3 A. What is its internal resistance?",
+              "options": [
+                "4 Ω",
+                "5 Ω",
+                "1 Ω",
+                "0.36 Ω"
+              ],
+              "answer": 2,
+              "why": "Lost volts v = 1.5 − 1.2 = 0.3 V. r = v ÷ I = 0.3 ÷ 0.3 = **1 Ω**."
+            },
+            {
+              "q": "Resistors of 2 Ω and 3 Ω in series are joined to a 10 V supply. What is the p.d. across the 3 Ω resistor?",
+              "options": [
+                "4 V",
+                "6 V",
+                "10 V",
+                "2 V"
+              ],
+              "answer": 1,
+              "why": "I = 10 ÷ 5 = 2 A. V = 2 × 3 = **6 V**."
+            },
+            {
+              "q": "A current of 2 A flows through a 20 Ω resistor. What power is used?",
+              "options": [
+                "80 W",
+                "10 W",
+                "40 W",
+                "800 W"
+              ],
+              "answer": 0,
+              "why": "P = I² R = 4 × 20 = **80 W**."
+            },
+            {
+              "q": "A bulb is rated 220 V, 100 W. What is its resistance when lit?",
+              "options": [
+                "0.45 Ω",
+                "22 000 Ω",
+                "2.2 Ω",
+                "484 Ω"
+              ],
+              "answer": 3,
+              "why": "R = V² ÷ P = 48 400 ÷ 100 = **484 Ω**."
+            },
+            {
+              "q": "How many joules are there in 1 kWh?",
+              "options": [
+                "3600 J",
+                "1000 J",
+                "3.6 × 10⁶ J",
+                "3.6 × 10³ J"
+              ],
+              "answer": 2,
+              "why": "1 kWh = 1000 W × 3600 s = **3.6 × 10⁶ J**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These are like the harder questions at the end of the chapter. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "find-emf-r",
+          "label": "Finding e.m.f. and internal resistance",
+          "type": "optional",
+          "desc": "A cell gives **1 A** through a 5 Ω resistor, but only **0.5 A** through an 11 Ω resistor. Find ε and r.\n\nε = 1 × (5 + r) and ε = 0.5 × (11 + r)\n\n5 + r = 5.5 + 0.5 r, so 0.5 r = 0.5\n\nr = **1 Ω**, and ε = 1 × 6 = **6 V**",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "half-voltage",
+          "label": "A heater on half the voltage",
+          "type": "optional",
+          "desc": "A heater is rated '220 V, 1000 W'. What power does it give on a 110 V supply? (Assume its resistance stays the same.)\n\nR = 220² ÷ 1000 = 48.4 Ω\n\nP = 110² ÷ 48.4 = **250 W**: half the voltage, a **quarter** of the power.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "cut-and-join",
+          "label": "Cut a wire and join the pieces",
+          "type": "optional",
+          "desc": "A uniform wire of resistance 36 Ω is cut into **three equal pieces**, and the pieces are joined **in parallel**. Find the total resistance.\n\nEach piece: 36 ÷ 3 = 12 Ω\n\nThree 12 Ω in parallel: 12 ÷ 3 = **4 Ω**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: the same 36 Ω wire is cut into two equal pieces joined in parallel. Find the resistance.",
+              "a": "Each 18 Ω; in parallel **9 Ω**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThis chapter has more numericals than any other. A struggling student scores well by learning **V = I R** in all three forms, the series and parallel rules, and **P = V I** with the kWh, and by writing units on every line.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- Start with the **water analogy**: p.d. is the height difference, current the flow, resistance a narrow pipe.\n- Use **PhET Circuit Construction Kit**: let them build series and parallel circuits and read the meters.\n- Insist on converting **mA, kΩ, minutes** before any formula.\n- Teach parallel as 'same voltage, share the current' and series as 'same current, share the voltage'. Say it every time.\n- Bring an **electricity bill**: find the units, the rate, and the appliance that costs most at home.\n- Let them **read the rating plates** on a fan, iron and charger at home.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 12-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** charge, Q = n e, current, I = Q ÷ t. Exercise 8(A).\n- **Period 2:** p.d., V = W ÷ Q; resistance. Activity: ammeter in series, voltmeter in parallel.\n- **Period 3:** Ohm's law; the verification experiment; V-I graphs. Activity: take readings and plot.\n- **Period 4:** ohmic and non-ohmic conductors; factors affecting resistance. Activity: PhET Resistance in a Wire.\n- **Period 5:** specific resistance; stretching and folding; choice of materials; superconductors. Exercise 8(A) numericals.\n- **Period 6:** e.m.f., terminal voltage, lost volts, internal resistance. Exercise 8(B).\n- **Period 7:** resistors in series and in parallel, with derivations. Activity: PhET Circuit Construction Kit.\n- **Period 8:** mixed networks; circuits with internal resistance. Exercise 8(B) numericals.\n- **Period 9:** electrical energy and power; W = V I t and its forms.\n- **Period 10:** power ratings; kWh; the electricity bill. Activity: a home appliance survey.\n- **Period 11:** heating effect; bulbs in series. Exercise 8(C) numericals.\n- **Period 12:** exam toolkit: definitions test, give-reasons practice, self-test and exit ticket.",
+          "links": [
+            {
+              "label": "PhET simulation: Circuit Construction Kit: DC (free)",
+              "url": "https://phet.colorado.edu/en/simulations/circuit-construction-kit-dc"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Leaving **mA, kΩ or minutes** unchanged.\n- Joining an ammeter **in parallel** or a voltmeter **in series**.\n- Forgetting to **turn 1/R upside down** in parallel.\n- Leaving out the **internal resistance** r.\n- Thinking **specific resistance** changes with length or thickness.\n- Mixing up **kW** (power) and **kWh** (energy).\n- Saying the **higher-wattage** bulb is brighter when two bulbs are in series.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. State Ohm's law.",
+              "a": "The current through a conductor is **directly proportional** to the p.d. across it, at **constant temperature**."
+            },
+            {
+              "q": "2. Resistors of 2 Ω and 3 Ω in series are joined to 10 V. Find the current.",
+              "a": "I = 10 ÷ 5 = **2 A**."
+            },
+            {
+              "q": "3. Find the total resistance of 6 Ω and 3 Ω in parallel.",
+              "a": "1/R = 1/6 + 1/3 = 1/2, so **2 Ω**."
+            },
+            {
+              "q": "4. A 2 kW heater runs for 3 hours. How many units does it use, and what do they cost at ₹7?",
+              "a": "2 × 3 = **6 kWh**; 6 × 7 = **₹42**."
+            },
+            {
+              "q": "5. Why are connecting wires thick and made of copper?",
+              "a": "Copper has **low specific resistance** and a thick wire has a **large area**, so the resistance and heat loss are **small**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

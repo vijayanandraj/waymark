@@ -1,0 +1,26 @@
+{
+  "stages": [
+    "school"
+  ],
+  "level": "beginner",
+  "lang": "en",
+  "authors": [
+    {
+      "name": "vijayanandraj",
+      "url": "https://github.com/vijayanandraj"
+    }
+  ],
+  "license": "CC-BY-SA-4.0",
+  "audience": "ICSE Class 10 students who find physics hard, and their teachers and parents: Chapter 9, Household Circuits",
+  "subject": "science",
+  "follows": "ICSE Class 10 Physics (Selina Concise Physics, Chapter 9: Household Circuits)",
+  "tags": [
+    "physics",
+    "icse",
+    "class 10",
+    "electricity",
+    "house wiring",
+    "safety",
+    "step by step"
+  ]
+}

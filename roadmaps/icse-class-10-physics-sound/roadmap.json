@@ -1,0 +1,1086 @@
+{
+  "title": "ICSE Class 10 Physics, Chapter 7: Sound, Step by Step",
+  "subtitle": "For students who find physics hard. Sound waves, echoes and their uses, natural, damped and forced vibrations, resonance, and loudness, pitch and quality in small steps, with every numerical shown line by line, quick checks, an exam toolkit and a last-minute revision sheet. Follows the ICSE Class 10 syllabus, Chapter 7 (Sound), in the order of Selina Concise Physics.",
+  "updated": "2026-11-23",
+  "changelog": [
+    {
+      "date": "2026-11-23",
+      "text": "First version: the whole chapter in small steps, with original worked examples, quick checks, a last-minute revision sheet, a self-test and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** be sure of V = f λ, distance and time for a sound that goes there and back, and squaring a ratio. The whole chapter uses them.",
+      "links": [
+        {
+          "label": "PhET simulation: Waves Intro (free)",
+          "url": "https://phet.colorado.edu/en/simulations/waves-intro"
+        }
+      ],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **For an echo, the sound goes there and back.** Draw an arrow out and an arrow back, then halve. Most lost marks in echo numericals come from forgetting to halve.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: sound is a vibration that travels.** Time its echo to find a distance. Push a body at its own frequency and it vibrates most: **resonance**. Its **amplitude, frequency and wave shape** decide how **loud**, how **high** and what **kind** of sound you hear.",
+          "links": [
+            {
+              "label": "PhET simulation: Waves Intro (free)",
+              "url": "https://phet.colorado.edu/en/simulations/waves-intro"
+            },
+            {
+              "label": "Last-minute revision sheet for this chapter",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-sound#revision-sheet"
+            },
+            {
+              "label": "Previous chapter: 6. Spectrum",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-spectrum"
+            },
+            {
+              "label": "Next chapter: 8. Current Electricity",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-current-electricity"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 7, *Sound*, of the ICSE Class 10 Physics syllabus. It follows the order of *Selina Concise Physics* for Class 10.\n\n**Who it is for.** Class 10 students who find physics hard, and want to understand this chapter and score decent marks in it. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** Sound is a vibration that travels. Its echo gives a distance, pushing a body at its own frequency gives resonance, and amplitude, frequency and wave shape give loudness, pitch and quality.\n\n**How it is different from the textbook.** The textbook gives echoes, vibrations and the characteristics of sound as three separate topics. Here one idea runs through all three, every echo numerical starts from a 'there and back' picture, and the differences between natural, damped, forced and resonant vibrations are set out side by side.\n\n**What is inside.**\n- 10 milestones and 44 small steps. The 35 solid steps are the core path. The dashed ones are optional.\n- 41 practice questions with hidden answers, and 5 pictures.\n- 25 click-to-check questions that say right or wrong, and why: a quick check after each of the 5 main milestones, and a 10-question self-test.\n- A **last-minute revision sheet**: every formula, unit and key point on one page.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the challenge questions, and a section for teachers and parents with an 8-period lesson plan, the mistakes to watch for and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from their textbook. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the ICSE syllabus but is not made or endorsed by CISCE or by any publisher. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Three quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Sound travels at 330 m/s. A note has a frequency of 660 Hz. Find its wavelength.",
+              "a": "λ = 330 ÷ 660 = **0.5 m**. Wrong? Do *Waves again: V = f λ*."
+            },
+            {
+              "q": "2. A sound goes to a wall and back, 680 m in all. How far away is the wall?",
+              "a": "Half of 680: **340 m**. Wrong? Do *There and back*."
+            },
+            {
+              "q": "3. The amplitude of a wave is doubled. What happens to amplitude²?",
+              "a": "2² = **4 times**. Wrong? Do *Squaring a ratio*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "wave-recap",
+          "label": "Waves again: V = f λ",
+          "type": "core",
+          "desc": "From Class 9:\n\n- **Frequency f:** vibrations each second, in hertz (Hz).\n- **Wavelength λ:** the length of one wave, in metres.\n- **Speed V = f × λ.**\n- **Time period T = 1 ÷ f:** the time for one vibration.\n\n**Worked example:** a 440 Hz note in air, where V = 330 m/s.\n\nλ = V ÷ f = 330 ÷ 440\n\nλ = **0.75 m**\n\nA 250 Hz note has T = 1 ÷ 250 = **0.004 s**.",
+          "links": [
+            {
+              "label": "PhET simulation: Waves Intro (free)",
+              "url": "https://phet.colorado.edu/en/simulations/waves-intro"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a sound in air (330 m/s) has a wavelength of 1.5 m. Find its frequency.",
+              "a": "f = 330 ÷ 1.5 = **220 Hz**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "there-and-back",
+          "label": "There and back",
+          "type": "core",
+          "desc": "**Distance = speed × time.**\n\nAn echo travels to the wall **and back**. So the distance it covers is **2 × (distance to the wall)**.\n\n**Worked example:** sound at 340 m/s travels for 0.5 s before the echo returns.\n\nTotal path = 340 × 0.5 = 170 m\n\nDistance to the wall = 170 ÷ 2 = **85 m**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: an echo takes 1 s to return, and sound travels at 340 m/s. How far away is the wall?",
+              "a": "Total path 340 m. Wall = **170 m** away."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "square-ratio",
+          "label": "Squaring a ratio",
+          "type": "core",
+          "desc": "Loudness goes with **amplitude squared**. To compare two sounds, **square each side** of the ratio.\n\n**Worked example:** amplitudes in the ratio 2 : 3.\n\nLoudness ratio = 2² : 3² = **4 : 9**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: one wave has three times the amplitude of another. How many times louder is it?",
+              "a": "3² = **9 times**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "sound-waves",
+      "label": "Sound waves",
+      "desc": "**Goal:** describe a sound wave and the words for it, and tell sound from light. Exercise 7(A) starts here.",
+      "links": [],
+      "children": [
+        {
+          "id": "sound-basics",
+          "label": "Sound is a vibration that travels",
+          "type": "core",
+          "desc": "- Sound is made by a **vibrating** body: a drum skin, your vocal cords, a guitar string.\n- It needs a **medium** (solid, liquid or gas). It **cannot** cross a vacuum.\n- In air it is a **longitudinal** wave: the air moves to and fro **along** the direction of travel, in **compressions** and **rarefactions**.\n- We hear **20 Hz to 20 000 Hz**: the **range of audibility**. It shrinks as we grow old.\n- Below 20 Hz: **infrasonic**. Above 20 kHz: **ultrasonic**. We hear neither, but they travel at the **same speed** as ordinary sound.\n\n**Worked example:** a dog whistle at 25 kHz is **ultrasonic**. A dog hears it; you don't.",
+          "links": [
+            {
+              "label": "Physics Classroom: sound is a mechanical wave",
+              "url": "https://www.physicsclassroom.com/class/sound/Lesson-1/Sound-is-a-Mechanical-Wave"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: an elephant's rumble has a frequency of 14 Hz. Can you hear it? What is it called?",
+              "a": "**No.** It is below 20 Hz: **infrasonic**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "wave-words",
+          "label": "Words for a wave",
+          "type": "core",
+          "desc": "- **Amplitude (a):** the biggest displacement of a particle from its rest position.\n- **Time period (T):** time for one vibration.\n- **Frequency (f):** vibrations per second. **Set by the source.**\n- **Wavelength (λ):** distance the wave travels in one time period.\n- **Wave speed (V):** distance the wave travels in one second. **Set by the medium.**\n\nSound travels at about **340 m/s in air**, about **1500 m/s in water**, and fastest in solids. In air it is faster when it is **hotter** or more **humid**; pressure makes no difference.\n\nWhen sound passes into another medium, its **speed and wavelength change**, but its **frequency does not**.\n\n**Worked example:** a 340 Hz note in air (340 m/s) has λ = 340 ÷ 340 = **1 m**. In water (1500 m/s) the same note has λ = 1500 ÷ 340 ≈ **4.4 m**, still 340 Hz.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: name one property of a wave that changes, and one that does not, when it passes into another medium.",
+              "a": "**Changes:** speed (and so wavelength). **Does not change:** frequency."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "sound-light",
+          "label": "Sound and light are different waves",
+          "type": "core",
+          "desc": "- Sound is a **mechanical** wave; light is **electromagnetic**.\n- Sound **needs a medium**; light can cross a **vacuum**.\n- Sound is **slow** (about 340 m/s in air); light is very fast (3 × 10⁸ m/s).\n- In air, sound is **longitudinal**; light is **transverse**.\n- Sound wavelengths are about **centimetres to metres**; visible light's are under a millionth of a metre.\n\n**Worked example:** in a thunderstorm you see the lightning first and hear the thunder later, because light is so much faster.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why can't astronauts on the Moon hear each other without radios?",
+              "a": "There is **no air** on the Moon, and sound needs a **medium**. Radio waves are electromagnetic and cross the vacuum."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-sound-waves",
+          "label": "Quick check: sound waves",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which of these frequencies can a human ear hear?",
+              "options": [
+                "10 Hz",
+                "5 Hz",
+                "1000 Hz",
+                "50 000 Hz"
+              ],
+              "answer": 2,
+              "why": "We hear from **20 Hz to 20 000 Hz**. 10 Hz and 5 Hz are infrasonic; 50 000 Hz is ultrasonic. See *Sound is a vibration that travels*."
+            },
+            {
+              "q": "A note of 500 Hz travels through air at 340 m/s. What is its wavelength?",
+              "options": [
+                "840 m",
+                "0.68 m",
+                "170 000 m",
+                "1.47 m"
+              ],
+              "answer": 1,
+              "why": "λ = V ÷ f = 340 ÷ 500 = **0.68 m**. Multiplying gives 170 000, which is far too big. See *Words for a wave*."
+            },
+            {
+              "q": "Sound passes from air into water. What stays the same?",
+              "options": [
+                "Its frequency",
+                "Nothing",
+                "Its speed",
+                "Its wavelength"
+              ],
+              "answer": 0,
+              "why": "The **frequency** is set by the source and never changes. The speed and wavelength change with the medium. See *Words for a wave*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "echoes",
+      "label": "Reflection of sound and echoes",
+      "desc": "**Goal:** know when an echo is heard, find distances with d = V t ÷ 2, and name the uses of echoes. Exercise 7(A) numericals use this.",
+      "links": [],
+      "children": [
+        {
+          "id": "sound-reflects",
+          "label": "Sound reflects too",
+          "type": "core",
+          "desc": "Sound bounces off walls, hills and buildings, obeying the **laws of reflection**: angle of reflection = angle of incidence.\n\nThe surface need not be shiny. It only has to be **bigger than the wavelength** of the sound.\n\nUses: a **megaphone**, a **sound board** behind a stage, an old **ear trumpet**.\n\n**Worked example:** a curved sound board behind a speaker in a hall reflects the sound towards the audience, so people at the back hear better.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is the only condition for a surface to reflect sound well?",
+              "a": "It must be **large compared with the wavelength** of the sound."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "echo-condition",
+          "label": "When do you hear an echo?",
+          "type": "core",
+          "desc": "**An echo is the sound heard after reflection from a distant obstacle, after the original sound has stopped.**\n\nOur ear **holds** a sound for about **0.1 s**. So the echo must arrive **at least 0.1 s** after the original sound.\n\nIn 0.1 s, sound in air (340 m/s) goes 34 m: **17 m there and 17 m back**. So the reflector must be at least **about 17 m away**.\n\nThree conditions:\n\n- the reflector is far enough away (**17 m** or more in air);\n- the reflector is **large** compared with the wavelength;\n- the sound is **loud** enough for the reflection to be heard.\n\nCloser than 17 m, the reflected sound **mixes** with the original and just makes it last longer: **reverberation**, as in a big empty hall.\n\n**Worked example:** on a cold day sound travels at 330 m/s. Least distance = 330 × 0.1 ÷ 2 = **16.5 m**.",
+          "links": [
+            {
+              "label": "Wikipedia: echo",
+              "url": "https://en.wikipedia.org/wiki/Echo"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what is the least distance for an echo under water, where sound travels at 1500 m/s?",
+              "a": "1500 × 0.1 ÷ 2 = **75 m**."
+            },
+            {
+              "q": "Your turn: Rahul stands 10 m from a wall and shouts. Does he hear a clear echo? Why?",
+              "a": "**No.** 10 m is less than 17 m, so the reflected sound returns **within 0.1 s** and mixes with his shout."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "echo-distance",
+          "label": "Finding a distance: d = V t ÷ 2",
+          "type": "core",
+          "desc": "The echo travels **there and back**, a distance **2d**, in time t:\n\n**2d = V × t**, so **d = V t ÷ 2**\n\n**Worked example:** a girl shouts towards a hill and hears the echo 1.2 s later (V = 340 m/s).\n\n2d = 340 × 1.2 = 408 m\n\nd = **204 m**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a wall is 51 m away. After how long is the echo heard? (V = 340 m/s)",
+              "a": "t = 2d ÷ V = 102 ÷ 340 = **0.3 s**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/echo.png",
+              "caption": "The echo goes out and back: halve the total path"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "echo-speed",
+          "label": "Measuring the speed of sound with echoes",
+          "type": "core",
+          "desc": "Stand a **known distance** d from a big wall. Clap, and time the echo with a stopwatch. Then **V = 2d ÷ t**.\n\nOne echo is too quick to time well, so clap **in step with the echoes**: clap again each time you hear the last echo. Time many claps and divide.\n\n**Worked example:** Asha stands 66 m from a wall. Her claps match the echoes when she claps **2.5 times a second**.\n\nTime for each echo t = 1 ÷ 2.5 = 0.4 s\n\nV = 2 × 66 ÷ 0.4 = **330 m/s**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a boy 51 m from a wall claps in step with the echo. From the 1st clap to the 31st takes 9 s. Find the speed of sound.",
+              "a": "30 gaps in 9 s, so t = 0.3 s. V = 2 × 51 ÷ 0.3 = **340 m/s**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "echo-uses",
+          "label": "Echoes at work",
+          "type": "core",
+          "desc": "Echoes are used with **ultrasound** (above 20 kHz), because it:\n\n- goes out as a **narrow beam**;\n- travels **far without spreading**;\n- is **not easily absorbed**.\n\nWho uses it:\n\n- **Bats** send out ultrasound and listen for echoes to dodge obstacles and catch insects in the dark (**sound ranging**).\n- **Dolphins** find food and enemies the same way.\n- **Fishermen** time echoes from a **shoal of fish**.\n- **SONAR** (sound navigation and ranging) finds the **depth of the sea**, submarines and wrecks.\n- **Ultrasound scans** picture organs and babies in the womb; **echocardiography** pictures the heart.\n\n**Worked example:** a ship's SONAR echo from the sea bed returns after 3 s. Sound travels at 1500 m/s in sea water. Depth = 1500 × 3 ÷ 2 = **2250 m**.",
+          "links": [
+            {
+              "label": "Wikipedia: sonar",
+              "url": "https://en.wikipedia.org/wiki/Sonar"
+            },
+            {
+              "label": "Wikipedia: animal echolocation",
+              "url": "https://en.wikipedia.org/wiki/Animal_echolocation"
+            },
+            {
+              "label": "Wikipedia: medical ultrasound",
+              "url": "https://en.wikipedia.org/wiki/Medical_ultrasound"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: the sea is 600 m deep. After how long does a SONAR pulse return? (1500 m/s)",
+              "a": "t = 2 × 600 ÷ 1500 = **0.8 s**."
+            },
+            {
+              "q": "Your turn: a bat hears the echo from an insect 1.7 m away. How long after its squeak? (340 m/s)",
+              "a": "t = 2 × 1.7 ÷ 340 = **0.01 s**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-echoes",
+          "label": "Quick check: echoes",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Why must a wall be at least about 17 m away for a clear echo in air?",
+              "options": [
+                "Our ear holds a sound for about 0.1 s",
+                "Sound needs 17 m to become loud",
+                "Closer walls absorb all the sound",
+                "Sound is slower close to a wall"
+              ],
+              "answer": 0,
+              "why": "The ear holds a sound for about **0.1 s**. The echo must come back later than that: 2d = 340 × 0.1, so d = **17 m**. See *When do you hear an echo?*"
+            },
+            {
+              "q": "A girl hears the echo of her clap from a building 2 s later. How far away is the building? (V = 340 m/s)",
+              "options": [
+                "680 m",
+                "340 m",
+                "1360 m",
+                "170 m"
+              ],
+              "answer": 1,
+              "why": "d = V t ÷ 2 = 340 × 2 ÷ 2 = **340 m**. Forgetting to halve gives 680 m. See *Finding a distance: d = V t ÷ 2*."
+            },
+            {
+              "q": "Why do bats and SONAR use ultrasound?",
+              "options": [
+                "It forms a narrow beam that travels far without spreading",
+                "It travels faster than ordinary sound",
+                "Humans can hear it more easily",
+                "It can travel through vacuum"
+              ],
+              "answer": 0,
+              "why": "Ultrasound can be sent as a **narrow beam**, goes far **without spreading**, and is not easily absorbed. Its speed is the **same** as ordinary sound. See *Echoes at work*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "vibrations",
+      "label": "Natural, damped and forced vibrations",
+      "desc": "**Goal:** tell the three kinds of vibration apart, and say what sets a body's natural frequency. Exercise 7(B) starts here.",
+      "links": [],
+      "children": [
+        {
+          "id": "natural",
+          "label": "Natural vibrations",
+          "type": "core",
+          "desc": "Pull a body aside and let go. It vibrates at its **own** frequency: its **natural frequency**. These are **natural (free) vibrations**.\n\nThe natural frequency depends on the **body itself**:\n\n- a **pendulum**: its **length** (longer, slower);\n- a **stretched string**: higher if it is **shorter**, **thinner** or **tighter**;\n- an **air column** (flute, bottle): higher if it is **shorter**;\n- a **tuning fork**: its size and shape.\n\nIn theory the amplitude stays the same for ever, but that only happens in a **vacuum**.\n\n**Worked example:** a sitar player tightens a string with its peg. The tension rises, so its natural frequency, and the note, go **up**.",
+          "links": [
+            {
+              "label": "Physics Classroom: natural frequency",
+              "url": "https://www.physicsclassroom.com/class/sound/Lesson-4/Natural-Frequency"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: state two ways to raise the frequency of a stretched string.",
+              "a": "**Increase the tension**, or **shorten** the vibrating length. (A thinner string also works.)"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "damped",
+          "label": "Damped vibrations",
+          "type": "core",
+          "desc": "In real life the air (or any medium) **resists** the motion. Energy is lost as **heat**, so the **amplitude gets smaller and smaller** until the body stops. These are **damped vibrations**.\n\n- The frequency stays almost the same.\n- Damping is faster in a thicker medium (water, oil) than in air.\n\n**Worked example:** a struck tuning fork, a swinging pendulum, a plucked ruler on a desk: all slowly die away.",
+          "links": [
+            {
+              "label": "Wikipedia: damping",
+              "url": "https://en.wikipedia.org/wiki/Damping"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: give one difference between natural and damped vibrations.",
+              "a": "Natural: **constant amplitude**, no energy loss. Damped: amplitude **decreases** as energy is lost to the medium."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/vibrations.png",
+              "caption": "Natural: amplitude steady. Damped: amplitude dies away"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "forced",
+          "label": "Forced vibrations",
+          "type": "core",
+          "desc": "If an **outside force keeps pushing** a body at some frequency, the body vibrates at **that** frequency, not its own. These are **forced vibrations**.\n\n- The amplitude is usually **small**, but it stays **steady**.\n- A big vibrating surface moves more air, so the sound is **louder**.\n\n**Worked example:** press the stem of a vibrating tuning fork on a table. The table top is forced to vibrate at the fork's frequency. Its large area moves a lot of air, so the note becomes **much louder**. A guitar's **hollow body** works the same way.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a tuning fork is held on a wooden box. At what frequency does the box vibrate?",
+              "a": "At the **fork's frequency**: these are forced vibrations."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-vibrations",
+          "label": "Quick check: vibrations",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A pendulum swinging in air slowly comes to rest. Its vibrations are:",
+              "options": [
+                "resonant",
+                "natural",
+                "damped",
+                "forced"
+              ],
+              "answer": 2,
+              "why": "Air resistance takes away energy, so the **amplitude falls**: **damped** vibrations. See *Damped vibrations*."
+            },
+            {
+              "q": "The stem of a vibrating tuning fork is pressed on a table, and the sound gets louder. The table's vibrations are:",
+              "options": [
+                "only damped",
+                "forced",
+                "natural",
+                "not vibrations at all"
+              ],
+              "answer": 1,
+              "why": "The fork **forces** the table to vibrate at the fork's frequency. The big table top moves more air, so it is **louder**. See *Forced vibrations*."
+            },
+            {
+              "q": "A guitar string gives a higher note when it is:",
+              "options": [
+                "replaced by a thicker string",
+                "tightened",
+                "plucked harder",
+                "made longer"
+              ],
+              "answer": 1,
+              "why": "More **tension**, a **shorter** length or a **thinner** string raise the frequency. Plucking harder makes it louder, not higher. See *Natural vibrations*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "resonance",
+      "label": "Resonance: vibrating at its own frequency",
+      "desc": "**Goal:** state the condition for resonance, describe experiments that show it, and give its everyday examples. Exercise 7(B) covers this.",
+      "links": [],
+      "children": [
+        {
+          "id": "resonance-step",
+          "label": "Resonance",
+          "type": "core",
+          "desc": "**Resonance** is a special case of forced vibrations. When the **frequency of the driving force equals the natural frequency** of the body, the body vibrates with a **very large amplitude**, and a **loud** sound is heard.\n\n- Driving frequency **different**: small forced vibrations.\n- Driving frequency **exactly equal**: resonance.\n\n**Worked example:** a string has a natural frequency of 320 Hz. Forks of 160 Hz, 320 Hz and 640 Hz are struck near it. Only the **320 Hz** fork makes it resonate.",
+          "links": [
+            {
+              "label": "Physics Classroom: resonance",
+              "url": "https://www.physicsclassroom.com/class/sound/Lesson-5/Resonance"
+            },
+            {
+              "label": "Wikipedia: resonance",
+              "url": "https://en.wikipedia.org/wiki/Resonance"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why is a loud sound heard at resonance?",
+              "a": "The body vibrates with a **large amplitude**, so it sends out **much more energy**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/resonance-curve.png",
+              "caption": "The amplitude peaks when the driving frequency equals the natural frequency"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "resonance-demos",
+          "label": "Seeing resonance",
+          "type": "core",
+          "desc": "- **Two tuning forks** of the same frequency on sound boxes, facing each other. Strike one: the other starts to sound too.\n- **Pendulums on one stretched string.** Swing one; the one with the **same length** swings hard and in step. Longer and shorter ones barely move.\n- **Air column over a tuning fork.** Slowly lower the water in a tube under a vibrating fork. At one length the sound becomes **loud**: the air column's natural frequency equals the fork's. It is loud again when the air column is **three times** as long.\n\n**Worked example:** a fork gives resonance when the air column is 18 cm long. The next resonance is at 3 × 18 = **54 cm**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: four pendulums hang from one string. A and C have the same length. A is set swinging. Which swings most, and why?",
+              "a": "**C.** It has the **same length**, so the same natural frequency as A: it **resonates**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "resonance-life",
+          "label": "Resonance in daily life",
+          "type": "core",
+          "desc": "- **Soldiers break step** on a suspension bridge. If their marching frequency equalled the bridge's natural frequency, it could swing violently and **collapse**.\n- **Tuning a radio or TV:** you change the circuit's frequency until it **equals** the station's. Only that station resonates.\n- A **rattle in a vehicle** at one speed: a loose part resonates with the engine. Change the speed and it stops.\n- A guitar or sitar's **sound box** resonates with the strings and makes the note loud.\n\n**Worked example:** a bus's window rattles loudly only at 40 km/h. At that speed the engine's vibration matches the window's natural frequency.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: give a reason. Soldiers are asked to break step while crossing a suspension bridge.",
+              "a": "Marching in step gives a **regular force**. If its frequency equals the bridge's **natural frequency**, resonance could make the bridge swing with a huge amplitude and break."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-resonance",
+          "label": "Quick check: resonance",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A stretched string has a natural frequency of 320 Hz. Which tuning fork makes it resonate?",
+              "options": [
+                "320 Hz",
+                "480 Hz",
+                "160 Hz",
+                "640 Hz"
+              ],
+              "answer": 0,
+              "why": "Resonance needs the driving frequency **exactly equal** to the natural frequency: **320 Hz**. See *Resonance*."
+            },
+            {
+              "q": "Why are marching soldiers told to break step on a suspension bridge?",
+              "options": [
+                "To make less noise",
+                "To save their energy",
+                "To cross faster",
+                "Their regular steps could make the bridge resonate"
+              ],
+              "answer": 3,
+              "why": "If the frequency of their steps equals the bridge's **natural frequency**, it could swing with a **huge amplitude** and fall. See *Resonance in daily life*."
+            },
+            {
+              "q": "Tuning a radio to a station uses:",
+              "options": [
+                "resonance",
+                "echoes",
+                "damping",
+                "reflection"
+              ],
+              "answer": 0,
+              "why": "The circuit's frequency is changed until it **equals** the station's frequency: **resonance**. See *Resonance in daily life*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "characteristics",
+      "label": "Loudness, pitch and quality",
+      "desc": "**Goal:** link loudness, pitch and quality to amplitude, frequency and wave shape. Exercise 7(C) covers this.",
+      "links": [],
+      "children": [
+        {
+          "id": "three-features",
+          "label": "Three ways sounds differ",
+          "type": "core",
+          "desc": "Put a microphone in front of a sound and connect it to a **cathode ray oscilloscope (CRO)**: you see the wave on the screen.\n\n- **Loudness** depends on the **amplitude** (how tall the wave is).\n- **Pitch** depends on the **frequency** (how close the waves are).\n- **Quality** depends on the **wave shape**.\n\n**Worked example:** strike a tuning fork softly, then hard. The wave on the CRO is **taller** the second time, but just as close together: louder, same pitch.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: two traces on a CRO have the same height but one has twice as many waves. How do the sounds differ?",
+              "a": "Same **loudness**, but the second has twice the **frequency**: a **higher pitch**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/loud-pitch.png",
+              "caption": "Loudness: taller waves. Pitch: closer waves"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "loudness",
+          "label": "Loudness",
+          "type": "core",
+          "desc": "**Loudness** lets you tell a loud sound from a soft one. It depends on:\n\n- the **amplitude**: **loudness ∝ amplitude²**;\n- the **distance** from the source: further away, softer;\n- the **area** of the vibrating body: a big bell is louder than a small one;\n- the **density** of the medium;\n- **resonating** bodies nearby (a sound box).\n\n**Worked example:** a drum is hit so its amplitude is **3 times** larger. Its loudness becomes 3² = **9 times**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: two sounds have amplitudes in the ratio 2 : 5. Find the ratio of their loudness.",
+              "a": "2² : 5² = **4 : 25**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "intensity-db",
+          "label": "Intensity, loudness and decibels",
+          "type": "core",
+          "desc": "- **Intensity** is the sound **energy per second** through **1 m²**. Unit: **W m⁻²**. It can be **measured**: it is **objective**.\n- **Loudness** is how loud it **feels**. It depends on the intensity **and** on the listener's ears: it is **subjective**. Unit: **phon**.\n- **Sound level** is given in **decibels (dB)**.\n\nRough levels: a whisper about 20 to 30 dB; conversation about 60 dB; heavy traffic about 80 to 90 dB; a jet taking off about 140 dB.\n\n- Below about **80 dB** is safe.\n- Constant sound above about **120 dB** causes headaches and can **damage hearing**: **noise pollution**.\n\n**Worked example:** two people hear the same loudspeaker. Its **intensity** at their seats is the same, but one finds it louder: **loudness** is subjective.",
+          "links": [
+            {
+              "label": "Physics Classroom: intensity and the decibel scale",
+              "url": "https://www.physicsclassroom.com/class/sound/Lesson-2/Intensity-and-the-Decibel-Scale"
+            },
+            {
+              "label": "Wikipedia: decibel",
+              "url": "https://en.wikipedia.org/wiki/Decibel"
+            },
+            {
+              "label": "Wikipedia: noise pollution",
+              "url": "https://en.wikipedia.org/wiki/Noise_pollution"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: name the unit of sound level, and say roughly what level is safe.",
+              "a": "The **decibel (dB)**. Below about **80 dB** is safe."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "pitch",
+          "label": "Pitch",
+          "type": "core",
+          "desc": "**Pitch** lets you tell a **shrill** (high) note from a **flat** (low) one. It depends on the **frequency**: higher frequency, higher pitch.\n\n- A woman's or child's voice usually has a **higher pitch** than a man's.\n- A flute plays a lower note when **more holes** are closed: a longer air column.\n- **Bass** is low pitch (tabla, dholak); **treble** is high pitch (flute, ghungroo).\n\nPitch is how we **feel** the frequency (subjective); the frequency itself is **measured** (objective).\n\n**Worked example:** a bottle filling under a tap. The air column gets **shorter**, its frequency rises, and the sound gets **shriller**. You can tell when it is nearly full without looking.",
+          "links": [
+            {
+              "label": "Physics Classroom: pitch and frequency",
+              "url": "https://www.physicsclassroom.com/class/sound/Lesson-2/Pitch-and-Frequency"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a tabla note is 120 Hz, a sitar note 300 Hz and a whistle 1200 Hz. Which has the highest pitch?",
+              "a": "The **whistle**: it has the highest frequency."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "quality",
+          "label": "Quality (timbre)",
+          "type": "core",
+          "desc": "**Quality** lets you tell two sounds of the **same loudness and pitch** apart, when they come from different sources.\n\nAn instrument doesn't play one pure frequency. It plays the **main frequency** (the principal note) **plus** weaker **subsidiary** vibrations at 2, 3, 4... times that frequency. The mix gives the wave its **shape**.\n\n- A **tuning fork** gives a **pure** note: a smooth sine wave.\n- A **piano** or **violin** playing the same note gives a more complicated shape.\n\n**Worked example:** you recognise your mother's voice on the phone without seeing her. Her voice has its own **wave shape**: its own **quality**.",
+          "links": [
+            {
+              "label": "Wikipedia: timbre",
+              "url": "https://en.wikipedia.org/wiki/Timbre"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: two identical guitars play the same note equally loudly. Will they sound different?",
+              "a": "**No.** Identical instruments give the **same wave shape**, so the same quality."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/quality.png",
+              "caption": "Same pitch and loudness, different wave shape: different quality"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "music-noise",
+          "label": "Music and noise",
+          "type": "core",
+          "desc": "- **Music:** pleasant, regular, made by **regular, periodic** vibrations. Its wave repeats.\n- **Noise:** unpleasant, made by **irregular** vibrations. Its wave has no pattern.\n\nThe line between them is partly **subjective**: one person's favourite song is another's noise.\n\n**Worked example:** a flute gives a smooth repeating wave on a CRO: **music**. A stone thrown on a tin roof gives a jagged, irregular trace: **noise**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: state one difference between a musical note and a noise.",
+              "a": "A musical note comes from **regular, periodic** vibrations; a noise from **irregular** ones."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-characteristics",
+          "label": "Quick check: loudness, pitch, quality",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "The amplitude of a sound is doubled. Its loudness becomes:",
+              "options": [
+                "4 times",
+                "2 times",
+                "the same",
+                "half"
+              ],
+              "answer": 0,
+              "why": "Loudness ∝ **amplitude²**: 2² = **4 times**. See *Loudness*."
+            },
+            {
+              "q": "What decides the pitch of a note?",
+              "options": [
+                "Its amplitude",
+                "Its wave shape",
+                "Its frequency",
+                "Its speed"
+              ],
+              "answer": 2,
+              "why": "**Higher frequency, higher pitch.** See *Pitch*."
+            },
+            {
+              "q": "You recognise a friend's voice on the phone without seeing them. Which characteristic helps?",
+              "options": [
+                "Quality (timbre)",
+                "Loudness",
+                "Speed",
+                "Pitch only"
+              ],
+              "answer": 0,
+              "why": "Every voice has its own **wave shape**, so its own **quality**. See *Quality (timbre)*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "exam-toolkit",
+      "label": "Exam toolkit: words and reasons",
+      "desc": "**Goal:** collect the marks that come from learning. This chapter has many definitions, differences and 'give reasons' questions.",
+      "links": [],
+      "children": [
+        {
+          "id": "definitions",
+          "label": "Definitions to learn word for word",
+          "type": "core",
+          "desc": "- **Echo:** the sound heard after reflection from a distant obstacle, after the original sound has ceased.\n- **Natural vibrations:** the periodic vibrations of a body in the absence of any external force on it.\n- **Damped vibrations:** the periodic vibrations of a body of decreasing amplitude in the presence of a resistive force.\n- **Forced vibrations:** the vibrations of a body under the influence of an external periodic force.\n- **Resonance:** when the frequency of the applied periodic force equals the natural frequency of a body, it vibrates with a large amplitude.\n- **Loudness:** the characteristic by which a loud sound is told from a faint one of the same pitch and quality.\n- **Pitch:** the characteristic by which a shrill note is told from a flat one.\n- **Quality:** the characteristic by which two sounds of the same loudness and pitch, from different sources, are told apart.\n- **Intensity:** the sound energy passing per second normally through unit area.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: cover the list. Define resonance, and say why it is called a special case of forced vibrations.",
+              "a": "A body driven at its **natural frequency** vibrates with a **large amplitude**. It is a forced vibration in which the driving frequency **equals** the natural frequency."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "numerical-method",
+          "label": "Numericals: four lines every time",
+          "type": "core",
+          "desc": "Examiners give marks for each line. Write all four:\n\n1. **Given:** V, t or d, with units.\n2. **Formula:** 2d = V t (echo), or V = f λ.\n3. **Substitute:** put the numbers in.\n4. **Answer:** with its **unit**.\n\n**Worked example:** a man fires a gun 136 m from a cliff. When does he hear the echo? (V = 340 m/s)\n\nGiven: d = 136 m, V = 340 m/s\n\nFormula: t = 2d ÷ V\n\nSubstitute: 2 × 136 ÷ 340\n\nAnswer: **0.8 s**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is the commonest mistake in echo numericals?",
+              "a": "Forgetting the **2**: the sound goes **there and back**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "give-reasons",
+          "label": "Give reasons: model answers",
+          "type": "core",
+          "desc": "Many questions ask *give a reason*. Try these before opening the answers.",
+          "links": [],
+          "faq": [
+            {
+              "q": "No echo is heard in a small room.",
+              "a": "The walls are less than **17 m** away, so the reflected sound returns within **0.1 s** and mixes with the original sound."
+            },
+            {
+              "q": "Ultrasound is used in SONAR.",
+              "a": "It forms a **narrow beam**, travels **far without spreading**, and is **not easily absorbed** by water."
+            },
+            {
+              "q": "Stringed instruments have a hollow sound box.",
+              "a": "The air in the box is set into **forced (resonant) vibrations**; its large area moves more air, making the sound **louder**."
+            },
+            {
+              "q": "A loud sound is heard at resonance.",
+              "a": "The body vibrates with a **very large amplitude**, so it sends out much more **energy**."
+            },
+            {
+              "q": "We can recognise a person by their voice.",
+              "a": "Each voice has its own **wave shape**, so its own **quality**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "diagrams-practise",
+          "label": "Diagrams to practise",
+          "type": "optional",
+          "desc": "- A sound going to a wall and back, with **d** marked twice.\n- Displacement-time graphs for **natural** and **damped** vibrations.\n- An amplitude-frequency graph showing the **resonance** peak.\n- CRO traces: **soft and loud** (same frequency), **low and high pitch** (same amplitude), **pure note and instrument** (same pitch and loudness).",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: last-minute revision and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Read the sheet the night before the exam and again on the morning.",
+      "links": [],
+      "children": [
+        {
+          "id": "revision-sheet",
+          "label": "Last-minute revision sheet",
+          "type": "core",
+          "desc": "**The one idea:** sound is a vibration that travels. Time its echo to find a distance. Push a body at its own frequency and it vibrates most. Its amplitude, frequency and wave shape give loudness, pitch and quality.\n\n**Formulas**\n- **V = f λ** and **T = 1 ÷ f**\n- Echo: **2d = V × t**, so **d = V t ÷ 2**\n- Least distance for an echo: **d = V × 0.1 ÷ 2** (about **17 m** in air, at 340 m/s)\n- **Loudness ∝ amplitude²**\n\n**Units**\n- Frequency: **hertz (Hz)**. 1 kHz = 1000 Hz.\n- Speed of sound: about **340 m/s in air** (330 to 350), about **1500 m/s in sea water**, much faster in solids.\n- Intensity: **W m⁻²**. Sound level: **decibel (dB)**. Loudness: **phon**.\n\n**Key points**\n- Sound needs a **medium**; it cannot cross a vacuum. In air it is **longitudinal**.\n- We hear **20 Hz to 20 kHz**. Below: **infrasonic**. Above: **ultrasonic**.\n- Speed depends on the **medium**; it rises with **temperature** and **humidity**, not pressure. Frequency is set by the **source**.\n- Echo needs: reflector at least **17 m** away (in air), **large** compared with the wavelength, and a **loud enough** sound.\n- Ultrasound: **narrow beam**, travels far, not easily absorbed. Used by **bats, dolphins, fishermen, SONAR** and **ultrasound scans**.\n- **Natural** vibrations: own frequency, steady amplitude (only in vacuum). **Damped**: amplitude falls. **Forced**: vibrates at the **driver's** frequency.\n- String: higher frequency if **shorter, thinner or tighter**. Air column: higher if **shorter**.\n- **Resonance:** driving frequency **=** natural frequency, so a **large amplitude** and a **loud** sound. Air column: loud at length L and again at **3L**.\n- Resonance examples: **soldiers break step**, **radio tuning**, rattling vehicles, guitar **sound box**.\n- **Loudness ↔ amplitude. Pitch ↔ frequency. Quality ↔ wave shape.**\n- Loudness and pitch are **subjective** (felt); intensity and frequency are **objective** (measured).\n- Loudness also depends on **distance**, the **vibrating area** and the **density** of the medium.\n- Safe: below about **80 dB**. Above **120 dB**: harmful, **noise pollution**.\n- Music: regular and pleasant. Noise: irregular and unpleasant.\n\n**Traps:** **halve** for an echo (there and back). Plucking harder changes **loudness**, not pitch. Resonance needs **exactly equal** frequencies, not double or half. Ultrasound is **not faster** than ordinary sound.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Sound of frequency below 20 Hz is called:",
+              "options": [
+                "ultrasonic",
+                "infrasonic",
+                "audible",
+                "supersonic"
+              ],
+              "answer": 1,
+              "why": "Below **20 Hz** is **infrasonic**. Above 20 kHz is ultrasonic."
+            },
+            {
+              "q": "A ship's SONAR pulse returns from the sea bed after 1.6 s. Sound travels at 1500 m/s in sea water. How deep is the sea?",
+              "options": [
+                "600 m",
+                "1200 m",
+                "937.5 m",
+                "2400 m"
+              ],
+              "answer": 1,
+              "why": "d = V t ÷ 2 = 1500 × 1.6 ÷ 2 = **1200 m**."
+            },
+            {
+              "q": "What is the least distance from a reflector needed to hear an echo under water, where sound travels at 1500 m/s?",
+              "options": [
+                "17 m",
+                "75 m",
+                "1500 m",
+                "150 m"
+              ],
+              "answer": 1,
+              "why": "d = V × 0.1 ÷ 2 = 1500 × 0.1 ÷ 2 = **75 m**."
+            },
+            {
+              "q": "A boy stands 34 m from a wall and claps. When does he hear the echo? (V = 340 m/s)",
+              "options": [
+                "After 0.2 s",
+                "After 0.4 s",
+                "After 0.1 s",
+                "After 10 s"
+              ],
+              "answer": 0,
+              "why": "t = 2d ÷ V = 68 ÷ 340 = **0.2 s**. That is more than 0.1 s, so he hears a **distinct** echo."
+            },
+            {
+              "q": "In damped vibrations, the amplitude:",
+              "options": [
+                "slowly increases",
+                "stays the same",
+                "slowly decreases",
+                "drops to zero at once"
+              ],
+              "answer": 2,
+              "why": "The medium takes away energy as **heat**, so the amplitude **falls** bit by bit."
+            },
+            {
+              "q": "At resonance, the amplitude of the driven body is:",
+              "options": [
+                "zero",
+                "the same as for any forced vibration",
+                "the largest it can be",
+                "the smallest"
+              ],
+              "answer": 2,
+              "why": "When the frequencies match, the body takes in energy best: the amplitude is **largest**."
+            },
+            {
+              "q": "A tuning fork over a tube of air gives a loud sound when the air column is 15 cm long. At what next length is it loud again?",
+              "options": [
+                "30 cm",
+                "60 cm",
+                "7.5 cm",
+                "45 cm"
+              ],
+              "answer": 3,
+              "why": "For a tube closed at one end, resonance comes again at **three times** the length: 3 × 15 = **45 cm**."
+            },
+            {
+              "q": "Two notes have the same frequency, with amplitudes in the ratio 1 : 3. What is the ratio of their loudness?",
+              "options": [
+                "1 : 1",
+                "1 : 3",
+                "3 : 1",
+                "1 : 9"
+              ],
+              "answer": 3,
+              "why": "Loudness ∝ amplitude²: 1² : 3² = **1 : 9**."
+            },
+            {
+              "q": "As a bottle fills under a tap, the sound it makes:",
+              "options": [
+                "gets lower in pitch",
+                "only gets louder",
+                "gets higher in pitch",
+                "stays the same"
+              ],
+              "answer": 2,
+              "why": "The air column gets **shorter**, so its frequency, and the **pitch**, rise."
+            },
+            {
+              "q": "Which one changes the quality of a note?",
+              "options": [
+                "How far away you are",
+                "Its amplitude",
+                "Its wave shape (the mix of extra frequencies)",
+                "Its frequency"
+              ],
+              "answer": 2,
+              "why": "Quality depends on the **wave shape**: which extra frequencies are mixed with the main one, and how strongly."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These are like the harder questions at the end of the chapter. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "two-cliffs",
+          "label": "Between two cliffs",
+          "type": "optional",
+          "desc": "A man stands between two cliffs and fires a gun. He hears one echo after 2 s and another after 3 s. How far apart are the cliffs? (V = 340 m/s)\n\nNearer cliff: d₁ = 340 × 2 ÷ 2 = 340 m\n\nFurther cliff: d₂ = 340 × 3 ÷ 2 = 510 m\n\nDistance between them = 340 + 510 = **850 m**",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "walk-closer",
+          "label": "Walking towards the cliff",
+          "type": "optional",
+          "desc": "A man fires a gun and hears the echo after 4 s. He walks 170 m towards the cliff, fires again, and hears the echo after 3 s. Find the distance and the speed of sound.\n\n2d ÷ V = 4 and 2(d − 170) ÷ V = 3\n\nDivide: d ÷ (d − 170) = 4 ÷ 3, so 3d = 4d − 680\n\nd = **680 m**, and V = 2 × 680 ÷ 4 = **340 m/s**",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "string-loops",
+          "label": "A string in loops",
+          "type": "optional",
+          "desc": "A stretched string plucked in the middle vibrates in **one loop**: the **principal note**, frequency f.\n\nPlucked a quarter of the way along, it vibrates in **two loops**: frequency **2f**. In three loops: **3f**.\n\nThe loops are shorter, so the wavelength is shorter and the frequency higher. These extra modes are the subsidiary notes that give an instrument its **quality**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a string's principal note is 150 Hz. What is the frequency when it vibrates in three loops?",
+              "a": "3 × 150 = **450 Hz**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThis chapter has one kind of numerical (echoes) and many **definitions, differences and reasons**. A struggling student scores well by learning d = V t ÷ 2 with the 2, the three kinds of vibration, and amplitude-frequency-shape for loudness-pitch-quality.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- Do an **echo outside**: find a big wall, pace out the distance, clap in step with the echo and time it. They will remember 'there and back'.\n- Use a **phone's free oscilloscope or tuner app**: whistle soft and loud, high and low, and watch the trace change.\n- Show **resonance** with two equal pendulums on a string, or a glass of water and a tuning fork.\n- Make a **three-column card**: loudness | amplitude, pitch | frequency, quality | wave shape.\n- Fill a bottle under a tap with eyes closed and ask when it is nearly full.\n- Practise the **differences** (natural, damped, forced, resonant) as short pairs, not long paragraphs.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "An 8-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** sound waves, range of audibility, V = f λ, sound versus light. Exercise 7(A) short questions.\n- **Period 2:** reflection of sound; echo and the 17 m condition; d = V t ÷ 2. Activity: an echo outside.\n- **Period 3:** measuring the speed of sound; bats, SONAR and ultrasound scans. Exercise 7(A) numericals.\n- **Period 4:** natural, damped and forced vibrations. Activity: a ruler on a desk, a tuning fork on a table.\n- **Period 5:** resonance; the three demonstrations; bridges, radio, rattles. Activity: pendulums on a string. Exercise 7(B).\n- **Period 6:** loudness, intensity and decibels; noise pollution. Activity: a sound-level app around the school.\n- **Period 7:** pitch, quality, music and noise. Activity: CRO or app traces of different instruments. Exercise 7(C).\n- **Period 8:** exam toolkit: definitions test, give-reasons practice, self-test and exit ticket.",
+          "links": [
+            {
+              "label": "PhET simulation: Waves Intro (free)",
+              "url": "https://phet.colorado.edu/en/simulations/waves-intro"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Forgetting to **halve** in echo numericals.\n- Thinking **ultrasound travels faster** than ordinary sound.\n- Saying **plucking harder** raises the pitch.\n- Saying resonance happens at **double or half** the natural frequency.\n- Mixing up **forced** and **resonant** vibrations.\n- Confusing **loudness** (felt) with **intensity** (measured).\n- Linking **quality** to frequency instead of **wave shape**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Why must a reflector be at least about 17 m away to hear an echo in air?",
+              "a": "The ear holds a sound for about **0.1 s**; in that time sound goes 34 m there and back, so **17 m** each way."
+            },
+            {
+              "q": "2. An echo is heard 0.8 s after a shout. How far away is the wall? (340 m/s)",
+              "a": "d = 340 × 0.8 ÷ 2 = **136 m**."
+            },
+            {
+              "q": "3. State the condition for resonance.",
+              "a": "The frequency of the driving force must **equal** the **natural frequency** of the body."
+            },
+            {
+              "q": "4. The amplitude of a sound is halved. What happens to its loudness?",
+              "a": "It becomes **one quarter**: (½)² = ¼."
+            },
+            {
+              "q": "5. Which characteristic lets you tell a flute from a violin playing the same note equally loudly?",
+              "a": "**Quality (timbre)**: they have different **wave shapes**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

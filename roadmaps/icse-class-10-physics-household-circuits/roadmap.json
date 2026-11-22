@@ -1,0 +1,964 @@
+{
+  "title": "ICSE Class 10 Physics, Chapter 9: Household Circuits, Step by Step",
+  "subtitle": "For students who find physics hard. Power transmission, the supply to a house, the ring system, fuses and MCBs, switches and staircase wiring, earthing, the three-pin plug, colour codes and safety in small steps, with labelled diagrams, quick checks, an exam toolkit and a last-minute revision sheet. Follows the ICSE Class 10 syllabus, Chapter 9 (Household Circuits), in the order of Selina Concise Physics.",
+  "updated": "2026-11-23",
+  "changelog": [
+    {
+      "date": "2026-11-23",
+      "text": "First version: the whole chapter in small steps, with original worked examples, quick checks, a last-minute revision sheet, a self-test and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** be sure of parallel circuits, I = P ÷ V, and the heating effect from Chapter 8. House wiring is built on all three.",
+      "links": [
+        {
+          "label": "Wikipedia: electrical grid",
+          "url": "https://en.wikipedia.org/wiki/Electrical_grid"
+        }
+      ],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **For every part of the wiring, ask: which wire is it in, and why?** Almost every question in this chapter comes back to the live wire.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: every appliance sits in parallel between the live and neutral wires.** The **live** wire is the dangerous one, so the **fuse and switch go in it**, and the **earth** wire gives a fault current a safe way out.",
+          "links": [
+            {
+              "label": "Wikipedia: electrical grid",
+              "url": "https://en.wikipedia.org/wiki/Electrical_grid"
+            },
+            {
+              "label": "Last-minute revision sheet for this chapter",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-household-circuits#revision-sheet"
+            },
+            {
+              "label": "Previous chapter: 8. Current Electricity",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-current-electricity"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 9, *Household Circuits*, of the ICSE Class 10 Physics syllabus. It follows the order of *Selina Concise Physics* for Class 10.\n\n**Who it is for.** Class 10 students who find physics hard, and want to understand this chapter and score decent marks in it. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** Every appliance sits in parallel between the live and neutral wires. The live wire is the dangerous one, so the fuse and switch go in it, and the earth wire gives a fault current a safe way out.\n\n**How it is different from the textbook.** The textbook lists each component on its own. Here one question (which wire is it in, and why?) explains the fuse, the switch, the main switch, earthing and the plug, and the I = P ÷ V calculations for choosing a fuse get their own worked examples.\n\n**What is inside.**\n- 10 milestones and 40 small steps. The 32 solid steps are the core path. The dashed ones are optional.\n- 34 practice questions with hidden answers, and 4 pictures.\n- 23 click-to-check questions that say right or wrong, and why: a quick check after each of the 5 main milestones, and a 10-question self-test.\n- A **last-minute revision sheet**: every formula, unit and key point on one page.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the challenge questions, and a section for teachers and parents with a 6-period lesson plan, the mistakes to watch for and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from their textbook. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the ICSE syllabus but is not made or endorsed by CISCE or by any publisher. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Three quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. In a parallel circuit, what is the same for every branch?",
+              "a": "The **voltage** across it. Wrong? Do *Series and parallel again (Chapter 8)*."
+            },
+            {
+              "q": "2. A 1100 W iron works on 220 V. What current does it take?",
+              "a": "I = P ÷ V = 1100 ÷ 220 = **5 A**. Wrong? Do *Current from power: I = P ÷ V*."
+            },
+            {
+              "q": "3. The current in a wire is doubled. What happens to the heat it produces?",
+              "a": "H ∝ I², so **4 times**. Wrong? Do *The heating effect (Chapter 8)*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "parallel-recap",
+          "label": "Series and parallel again (Chapter 8)",
+          "type": "core",
+          "desc": "- **Parallel:** every branch has the **same voltage**. Each can be switched **on and off on its own**. If one fails, the others carry on.\n- **Series:** the **same current** goes through each, but the **voltage is shared**. Switch one off and they all go off.\n\n**Worked example:** a string of festival lights wired in series: one bulb fails and the whole string goes dark. Your room's lights are in parallel: one bulb fails and the fan still runs.",
+          "links": [
+            {
+              "label": "PhET simulation: Circuit Construction Kit: DC (free)",
+              "url": "https://phet.colorado.edu/en/simulations/circuit-construction-kit-dc"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why do the other lights in your house stay on when one bulb blows?",
+              "a": "They are in **parallel**: each has its own path to the supply."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "current-from-power",
+          "label": "Current from power: I = P ÷ V",
+          "type": "core",
+          "desc": "Every appliance has a **power rating**. On the 220 V mains, the current it takes is:\n\n**I = P ÷ V**\n\n**Worked example:** an 880 W mixer on 220 V. I = 880 ÷ 220 = **4 A**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a 2200 W geyser on 220 V. What current does it take?",
+              "a": "2200 ÷ 220 = **10 A**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "heating-recap",
+          "label": "The heating effect (Chapter 8)",
+          "type": "core",
+          "desc": "Current heats a wire: **H = I² R t**.\n\n- A big current makes wires **hot**. Too hot, and the insulation melts and can catch **fire**.\n- A **fuse** uses this heating on purpose: its wire **melts** and breaks the circuit when the current is too big.\n\n**Worked example:** a wire carries 3 times its normal current. It heats up 3² = **9 times** as fast.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: the current through a fuse wire is doubled. How much faster does it heat up?",
+              "a": "2² = **4 times**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "supply",
+      "label": "Getting electricity into your house",
+      "desc": "**Goal:** trace electricity from the power station to your house, name the three wires, and explain the ring system. Exercise 9(A) covers this.",
+      "links": [],
+      "children": [
+        {
+          "id": "transmission",
+          "label": "From the power station to your house",
+          "type": "core",
+          "desc": "- Power is **generated at 11 kV**, as **a.c.** of frequency **50 Hz**.\n- A **step-up transformer** raises it to **132 kV** (or more) for the long lines of the grid.\n- **Step-down transformers** at substations lower it to **33 kV** (heavy industry), **11 kV** (light industry, the city substation), and finally **220 V** for homes.\n\nIt is **a.c.** because only a.c. can be stepped up and down by transformers.\n\n**Why such a high voltage?** Power is **P = V I**. For the same power, a high voltage means a **small current**. Then the heat lost in the lines (**I² R**) is tiny.\n\n**Worked example:** 11 000 W is sent through lines of resistance 2 Ω.\n\n- At 220 V: I = 50 A, loss = 50² × 2 = **5000 W**\n- At 11 000 V: I = 1 A, loss = 1² × 2 = **2 W**",
+          "links": [
+            {
+              "label": "Wikipedia: electric power transmission",
+              "url": "https://en.wikipedia.org/wiki/Electric_power_transmission"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: at what voltage and frequency is a.c. supplied to Indian homes?",
+              "a": "**220 V, 50 Hz.**"
+            }
+          ],
+          "images": [
+            {
+              "src": "images/supply-chain.png",
+              "caption": "Stepped up for the journey, stepped down for your home"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "three-wires",
+          "label": "Three wires into your house",
+          "type": "core",
+          "desc": "The supply cable has **three wires**:\n\n- **Live** (phase), **L**: at **220 V**. It brings the current in.\n- **Neutral**, **N**: at **0 V**. It is the **return path**.\n- **Earth**, **E**: at **0 V**. A **safety** wire; normally it carries no current.\n\nNeutral and earth are joined at the local substation, so both are at 0 V.\n\nFrom the pole, in order:\n\n- **Pole (company) fuse**, about 50 A, in the live wire. Only the electricity company may touch it.\n- **kWh meter**: measures the **energy** used.\n- **Main switch**: a **double pole** switch that breaks **both live and neutral** at once. (Often an **ELCB** now.)\n- **Main fuse** or **MCB**, in the **live** wire.\n- **Distribution board**: separate circuits, each with its own fuse or MCB, go to different parts of the house.\n\n**Worked example:** the main switch is double pole. When it is off, the house wiring is cut off from **both** supply wires. An electrician can work safely.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which two wires of the supply are at the same potential?",
+              "a": "The **neutral** and the **earth** wires: both at **0 V**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ring-system",
+          "label": "The ring system",
+          "type": "core",
+          "desc": "In the **ring system**, the live, neutral and earth wires run from the distribution board **round the rooms in a ring** and back.\n\nEach appliance is connected **across live and neutral**, with **its own fuse and switch in the live wire**, and its metal case to earth.\n\nAdvantages:\n\n- Current reaches each socket by **two paths**, so a **thinner, cheaper** wire can be used.\n- Each appliance has its **own fuse**: one fault does not cut off the others.\n- Plugs and sockets can all be the **same size**.\n- A **new socket** can be added to the ring in that room, without a new line from the board.\n\n**Worked example:** the fuse of the fan blows. The bulb and iron in the same room keep working: each has its own fuse.",
+          "links": [
+            {
+              "label": "Wikipedia: ring circuit",
+              "url": "https://en.wikipedia.org/wiki/Ring_circuit"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: state two advantages of the ring system.",
+              "a": "Thinner, **cheaper** wire can be used (two paths), and each appliance has its **own fuse**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/house-circuit.png",
+              "caption": "Each appliance across live and neutral, with its own fuse and switch in the live wire"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "why-parallel",
+          "label": "Why appliances are in parallel",
+          "type": "core",
+          "desc": "All appliances are joined **in parallel** with the mains:\n\n- each gets the full **220 V**, the voltage it is made for;\n- each can be **switched on and off on its own**;\n- one failing does not stop the others.\n\nIn **series**, the 220 V would be **shared**. Adding an appliance would **reduce the current** for all. And they would all switch on and off together.\n\n**Worked example:** two '220 V, 100 W' bulbs.\n\n- In **parallel**: each gets 220 V and gives **100 W**.\n- In **series**: each gets 110 V. R = 220² ÷ 100 = 484 Ω, so P = 110² ÷ 484 = **25 W** each: dim.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: three bulbs are in series across the mains. One blows. What happens to the other two?",
+              "a": "They **go out**: the only path for the current is broken."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-supply",
+          "label": "Quick check: the supply to a house",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "At what voltage and frequency is electricity supplied to homes in India?",
+              "options": [
+                "11 kV, 50 Hz",
+                "132 kV, 50 Hz",
+                "220 V, 50 Hz",
+                "220 V, 60 Hz"
+              ],
+              "answer": 2,
+              "why": "Homes get **220 V a.c. at 50 Hz**. 11 kV is the generating voltage. See *From the power station to your house*."
+            },
+            {
+              "q": "Why is electric power sent over long distances at a very high voltage?",
+              "options": [
+                "The current is then small, so less energy is lost as heat",
+                "It travels faster",
+                "Thinner insulation can be used",
+                "It is safer to touch"
+              ],
+              "answer": 0,
+              "why": "For the same power, **high voltage means low current**, and the heat lost in the lines (I² R) is tiny. See *From the power station to your house*."
+            },
+            {
+              "q": "How are the appliances in a house connected to the mains?",
+              "options": [
+                "Some in series, some in parallel",
+                "In parallel",
+                "In series",
+                "It does not matter"
+              ],
+              "answer": 1,
+              "why": "In **parallel**, each gets the full **220 V** and works on its own. See *Why appliances are in parallel*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "fuse",
+      "label": "The fuse and the MCB",
+      "desc": "**Goal:** explain how a fuse works, choose its rating, and say why it goes in the live wire. Exercise 9(B) starts here.",
+      "links": [],
+      "children": [
+        {
+          "id": "fuse-step",
+          "label": "The fuse",
+          "type": "core",
+          "desc": "**A fuse is a safety device that limits the current in a circuit.** It protects the wiring and the appliances.\n\n- It is a **short, thin** wire of high resistance, made of **lead-tin alloy**, which has a **low melting point**.\n- It works by the **heating effect**: if the current goes above its **rating**, the wire **melts** and breaks the circuit.\n- It sits in a **porcelain** holder, because porcelain does not conduct.\n- A higher rating needs a **thicker** fuse wire. The **length** does not matter.\n- After fixing the fault, fit a new wire of the **same rating**.\n\n**Never** use copper wire as a fuse. Its melting point is high, and a thick copper wire would not melt at a dangerous current.\n\nExpensive appliances often have a sealed **cartridge fuse** (1 A, 2 A, 5 A, 10 A or 13 A) in the plug.\n\n**Worked example:** a fuse rated 5 A has a current of 12 A forced through it by a fault. It heats up fast, **melts**, and the circuit goes dead before the wiring overheats.",
+          "links": [
+            {
+              "label": "Wikipedia: fuse (electrical)",
+              "url": "https://en.wikipedia.org/wiki/Fuse_(electrical)"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: give two reasons why a copper wire should not replace a fuse wire.",
+              "a": "Copper has a **high melting point**, and a copper wire thick enough to fit would **not melt** at a dangerous current."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "fuse-rating",
+          "label": "Choosing the right fuse",
+          "type": "core",
+          "desc": "A fuse's rating should be **a little more** than the largest normal current of the appliance or circuit: **I = P ÷ V**.\n\n- **Lighting circuits** (bulbs, fans, TV): **5 A**.\n- **Power circuits** (geyser, heater, AC, washing machine): **15 A**.\n- Appliances with a **motor** (pump, mixer) draw extra current when starting, so their fuse must be above the **starting** current.\n\n**Worked example 1:** a 1 kW toaster on 220 V takes 1000 ÷ 220 ≈ **4.5 A**: a **5 A** fuse suits it.\n\n**Worked example 2:** a house has an **8 A** main fuse on 220 V, so at most 8 × 220 = 1760 W at once. A 1000 W iron is on. That leaves 760 W, enough for **12** bulbs of 60 W (720 W).",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a 2.5 kW room heater runs on 220 V. Should it have a 5 A or a 15 A fuse?",
+              "a": "I = 2500 ÷ 220 ≈ 11.4 A. A 5 A fuse would blow at once: it needs **15 A**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "fuse-live",
+          "label": "Why the fuse goes in the live wire",
+          "type": "core",
+          "desc": "The fuse is always in the **live** wire, **before** the appliance.\n\n- **In the live wire:** when it blows, the appliance is **cut off from the 220 V**. Nothing in it is live. Safe.\n- **In the neutral wire:** when it blows, the current stops, but the appliance is **still joined to the live wire** at 220 V. Touch a faulty part and you get a **shock**.\n\n**Worked example:** a fuse in the neutral wire of a heater blows. The heater goes cold, but its element is still at 220 V. A person cleaning it could be badly shocked.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: give a reason. A fuse is always put in the live wire.",
+              "a": "So that when it blows the appliance is **disconnected from the high voltage** of the live wire, and is safe to touch."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mcb",
+          "label": "MCB and ELCB",
+          "type": "core",
+          "desc": "Most new homes use a **miniature circuit breaker (MCB)** instead of a fuse for each circuit.\n\n- When too much current flows, it **trips** in a split second (about 25 ms) and switches the circuit off.\n- After the fault is fixed, you just **push its switch back up**. No fuse wire to replace.\n\nAn **ELCB** (earth leakage circuit breaker) at the main switch trips if current leaks to earth, for example through a person.\n\n**Worked example:** the AC and the geyser are switched on together and the MCB for that circuit trips. Switch one off, push the MCB back up, and the power returns.",
+          "links": [
+            {
+              "label": "Wikipedia: circuit breaker",
+              "url": "https://en.wikipedia.org/wiki/Circuit_breaker"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: state two advantages of an MCB over a fuse.",
+              "a": "It acts **very quickly**, and it is **reset with a switch**, with no wire to replace."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-fuse",
+          "label": "Quick check: fuse and MCB",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "What is a fuse wire made of?",
+              "options": [
+                "Tungsten",
+                "An alloy of lead and tin",
+                "Copper",
+                "Nichrome"
+              ],
+              "answer": 1,
+              "why": "**Lead-tin alloy** has a **low melting point**, so it melts quickly when the current is too large. See *The fuse*."
+            },
+            {
+              "q": "Can a 5 A fuse be used with a 1.5 kW geyser on 220 V?",
+              "options": [
+                "Yes: the geyser draws about 6.8 A",
+                "Yes: it draws only 0.15 A",
+                "No: the geyser draws about 6.8 A",
+                "No: it draws 330 A"
+              ],
+              "answer": 2,
+              "why": "I = P ÷ V = 1500 ÷ 220 ≈ **6.8 A**. That is more than 5 A, so the fuse would **blow** as soon as the geyser is switched on. See *Choosing the right fuse*."
+            },
+            {
+              "q": "In which wire is a fuse connected?",
+              "options": [
+                "Any of them",
+                "The earth wire",
+                "The neutral wire",
+                "The live wire"
+              ],
+              "answer": 3,
+              "why": "In the **live** wire, so that when it blows the appliance is cut off from the high voltage. See *Why the fuse goes in the live wire*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "switches",
+      "label": "Switches",
+      "desc": "**Goal:** say why switches go in the live wire, and explain two-way switches. Exercise 9(B) covers this.",
+      "links": [],
+      "children": [
+        {
+          "id": "switch-live",
+          "label": "Switches go in the live wire",
+          "type": "core",
+          "desc": "- A **single pole** switch, used with each appliance, breaks **only the live** wire.\n- A **double pole** switch, used as the **main switch**, breaks **live and neutral** together.\n\nThe switch is always in the **live** wire. When it is off, the appliance is **cut off from 220 V** and is safe to repair.\n\nIf a switch were in the **neutral** wire, the bulb would still go off, but the appliance would **stay live**: deceptive and dangerous.\n\n**Never touch a switch with wet hands.** Water conducts and can carry current from the switch into your body.\n\n**Worked example:** to change a bulb, switching it off at a switch in the live wire is enough to make the holder safe. (Switching off the main switch as well is safer still.)",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a bulb's switch is wrongly put in the neutral wire. The bulb is off. Is it safe to touch the holder? Why?",
+              "a": "**No.** The holder is **still joined to the live wire** at 220 V."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "staircase",
+          "label": "Two-way switches for a staircase",
+          "type": "core",
+          "desc": "On a staircase you want to switch the light **on at the bottom** and **off at the top**, or the other way round. **Two-way** (dual control) switches do this.\n\n- Each switch has a **common** terminal and **two** other terminals.\n- **Two wires** join the two switches.\n- The bulb lights when **both switches connect to the same wire**: the circuit is complete.\n- Flip **either** switch and the circuit breaks (or completes again).\n\n**Worked example:** you flip the bottom switch: the light comes on. At the top you flip the other switch: they now point to different wires, and the light goes off.",
+          "links": [
+            {
+              "label": "Wikipedia: multiway switching",
+              "url": "https://en.wikipedia.org/wiki/Multiway_switching"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: name another place where two-way switches are useful.",
+              "a": "Either end of a **long corridor**, or by the door and the bed in a bedroom."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/staircase.png",
+              "caption": "Both switches on the same wire: the circuit is complete and the bulb lights"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-switches",
+          "label": "Quick check: switches",
+          "type": "core",
+          "desc": "Two questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Why is a switch always put in the live wire?",
+              "options": [
+                "So that the appliance is not live when it is switched off",
+                "So that it uses less electricity",
+                "So that the bulb glows brighter",
+                "Because the neutral wire carries no current"
+              ],
+              "answer": 0,
+              "why": "In the live wire, **off really means off**: the appliance is cut off from 220 V and is safe to touch or repair. See *Switches go in the live wire*."
+            },
+            {
+              "q": "What do two-way (dual control) switches on a staircase let you do?",
+              "options": [
+                "Make the light brighter",
+                "Switch one light on or off from two different places",
+                "Use less power",
+                "Use two bulbs at once"
+              ],
+              "answer": 1,
+              "why": "Either switch can turn the light **on or off**, at the bottom or the top of the stairs. See *Two-way switches for a staircase*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "earthing",
+      "label": "Earthing, plugs and colour codes",
+      "desc": "**Goal:** explain how earthing protects you, label a three-pin plug and socket, and know the colour codes. Exercise 9(B) covers this.",
+      "links": [],
+      "children": [
+        {
+          "id": "local-earthing",
+          "label": "Earthing the house",
+          "type": "core",
+          "desc": "Near the kWh meter, the house has its own **local earthing**:\n\n- A pit **2 to 3 m deep** is dug.\n- A **copper plate** (about 50 cm × 50 cm) is buried in it, on a thick copper wire inside an insulating pipe.\n- It is packed with **charcoal and salt**. Water is poured in from time to time to keep it **damp**, so it makes good contact with the earth.\n- The top of the wire is joined to the earth connection at the meter.\n\nIf a fault sends a large current into the wiring, it can escape to earth instead of overheating the wires and starting a **fire**.\n\n**Worked example:** in a dry summer the soil round the plate dries out and conducts poorly. Pouring water down the pipe restores a good earth.",
+          "links": [
+            {
+              "label": "Wikipedia: ground (electricity)",
+              "url": "https://en.wikipedia.org/wiki/Ground_(electricity)"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why are charcoal and salt packed round the earthing plate?",
+              "a": "They keep the soil **damp and conducting**, giving a good contact between the plate and the earth."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "appliance-earthing",
+          "label": "Earthing an appliance",
+          "type": "core",
+          "desc": "Appliances with a **metal case** that we handle (iron, fridge, geyser, toaster, cooler) have the case joined to the **earth wire**.\n\nHow it protects you:\n\n- Suppose the **live wire touches the metal case** (worn insulation).\n- Without earthing, the case is at **220 V**. Touch it and current flows through you to the ground: a **shock**.\n- With earthing, a **huge current** rushes through the case to earth (almost no resistance), the **fuse blows**, and the appliance is cut off. **No shock.**\n\nEarthing only protects you if the **fuse is in the live wire**. The paint must be scraped off where the earth wire is fixed, so it touches bare metal.\n\n**Worked example:** a washing machine's live wire rubs through its insulation and touches the drum. Because the drum is earthed, the fuse blows at once.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why is an earth wire needed in a power circuit but not in a lighting circuit?",
+              "a": "Power appliances have **metal bodies** that we touch; bulbs and holders are mostly **insulated**, so there is no metal case to make live."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "three-pin",
+          "label": "The three-pin plug and socket",
+          "type": "core",
+          "desc": "- **Top pin: earth (E).** It is **thicker**, so it cannot go into the live or neutral hole. It is **longer**, so it connects **first** and disconnects **last**.\n- Looking at the **plug's pins**: **live (L) on the left**, **neutral (N) on the right**.\n- Looking at the **socket's holes**: **live on the right**, **neutral on the left** (it faces the plug, so it is a mirror image).\n- The pins are **split** at the ends to grip the socket tightly. A loose fit causes **sparking**.\n\nLow-power appliances with plastic bodies (a night lamp, a phone charger) may have just **two pins**.\n\n**Worked example:** you push a plug in. The long earth pin touches first, so if the appliance is faulty the fuse blows **before** you are holding a live case.",
+          "links": [
+            {
+              "label": "Wikipedia: AC power plugs and sockets",
+              "url": "https://en.wikipedia.org/wiki/AC_power_plugs_and_sockets"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: give two reasons why the earth pin is longer and thicker than the others.",
+              "a": "**Longer:** it makes the earth connection **first**. **Thicker:** it cannot go into the **live or neutral** hole by mistake."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/three-pin.png",
+              "caption": "Plug and socket face each other, so left and right swap"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "colour-code",
+          "label": "Colour codes and high tension wires",
+          "type": "core",
+          "desc": "The three wires in a cable have different coloured insulation:\n\n- **New (international):** **brown** = live, **light blue** = neutral, **green** or green-yellow = earth.\n- **Old:** **red** = live, **black** = neutral, **green** = earth.\n\nThe colours tell an electrician which wire to join to the **switch and fuse** (live), and which to the **case** (earth).\n\n**High tension wires** carry heavy currents. They are made of **many thin wires twisted together**, not one thick wire. The bigger **surface area** lets them **lose heat** faster, and their resistance stays low.\n\n**Worked example:** an electrician fitting a plug connects the **brown** wire to the live pin (through the fuse), **blue** to neutral and **green** to earth.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: give the new colour code for the live, neutral and earth wires.",
+              "a": "**Brown**, **light blue**, **green** (or green-yellow)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-earthing",
+          "label": "Quick check: earthing, plugs, colours",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "The metal case of an electric iron is connected to:",
+              "options": [
+                "nothing",
+                "the neutral wire",
+                "the live wire",
+                "the earth wire"
+              ],
+              "answer": 3,
+              "why": "If the live wire touches the case, the current rushes to **earth** and the fuse blows, so you get **no shock**. See *Earthing an appliance*."
+            },
+            {
+              "q": "Why is the earth pin of a three-pin plug made longer than the other two?",
+              "options": [
+                "So it fits only one way",
+                "To make the plug stronger",
+                "So it carries more current",
+                "So it connects to earth first and disconnects last"
+              ],
+              "answer": 3,
+              "why": "Being **longer**, the earth pin is connected **before** the live pin goes in, and is the last to come out. See *The three-pin plug and socket*."
+            },
+            {
+              "q": "In the new international colour code, the live wire is:",
+              "options": [
+                "black",
+                "brown",
+                "green",
+                "light blue"
+              ],
+              "answer": 1,
+              "why": "**Brown: live. Light blue: neutral. Green (or green-yellow): earth.** See *Colour codes and high tension wires*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "safety",
+      "label": "Staying safe with electricity",
+      "desc": "**Goal:** explain overloading and short circuits, and list the safety precautions. Exercise 9(B) covers this.",
+      "links": [],
+      "children": [
+        {
+          "id": "overload-short",
+          "label": "Overloading and short circuits",
+          "type": "core",
+          "desc": "Two faults make wires dangerously **hot** and can start a **fire**:\n\n- **Overloading:** too many appliances on one circuit or socket. The **total current** goes above what the wires can carry.\n- **Short circuit:** the **live wire touches the neutral** directly, often through damaged insulation. The resistance is almost zero, so a **huge current** flows.\n\nThe **fuse or MCB** cuts the current in both cases.\n\n**Worked example:** a 3 kW AC and a 2 kW geyser run together on one 15 A circuit. Current = 5000 ÷ 220 ≈ **22.7 A**, far above 15 A: the MCB trips. That is **overloading**.",
+          "links": [
+            {
+              "label": "Wikipedia: short circuit",
+              "url": "https://en.wikipedia.org/wiki/Short_circuit"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what is the difference between overloading and a short circuit?",
+              "a": "**Overloading:** too many appliances draw too much total current. **Short circuit:** live touches neutral directly, giving a huge current."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "safety-rules",
+          "label": "Safety precautions",
+          "type": "core",
+          "desc": "To avoid **fire**:\n\n- use cables rated for **more** than the total current of all appliances used together;\n- don't run many appliances from one socket.\n\nTo avoid **electric shock**:\n\n- keep the **insulation** in good condition and replace cracked wires;\n- **never** touch switches or appliances with **wet hands**;\n- **earth** every metal-cased appliance;\n- put a proper **fuse** in the **live** wire of each appliance;\n- keep the **local earthing** in good order;\n- switch off the **main switch** before any repair.\n\nIf someone gets a shock, **switch off the mains first**. Don't touch them with bare hands; push them free with something dry and non-conducting, like a wooden stick.\n\n**Worked example:** water spills near an extension board. Switch the board off at the wall **before** wiping it, with dry hands.",
+          "links": [
+            {
+              "label": "Wikipedia: electrical injury",
+              "url": "https://en.wikipedia.org/wiki/Electrical_injury"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: list three ways an electric shock can happen from an appliance.",
+              "a": "**Worn insulation**, touching it with **wet hands**, and **no earthing** of its metal case (or no fuse)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-safety",
+          "label": "Quick check: safety",
+          "type": "core",
+          "desc": "Two questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "What is a short circuit?",
+              "options": [
+                "Too many appliances are switched on",
+                "The fuse blows",
+                "The earth wire breaks",
+                "The live wire touches the neutral wire directly"
+              ],
+              "answer": 3,
+              "why": "With almost **no resistance** in the path, a **huge current** flows. Too many appliances is **overloading**. See *Overloading and short circuits*."
+            },
+            {
+              "q": "Why must switches never be touched with wet hands?",
+              "options": [
+                "Water makes the bulb fuse",
+                "Water damages the switch",
+                "Wet hands slip",
+                "Water conducts and can carry current from the switch to your body"
+              ],
+              "answer": 3,
+              "why": "Water forms a **conducting path** between the live wire and your hand, and you can get a **shock**. See *Safety precautions*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "exam-toolkit",
+      "label": "Exam toolkit: words, reasons and diagrams",
+      "desc": "**Goal:** collect the marks that come from learning and drawing. This chapter is almost all 'give reasons', 'state' and labelled diagrams.",
+      "links": [],
+      "children": [
+        {
+          "id": "definitions",
+          "label": "Definitions to learn word for word",
+          "type": "core",
+          "desc": "- **Fuse:** a safety device. It is a short, thin wire of low melting point, which melts and breaks the circuit when the current exceeds a safe limit.\n- **Current rating of a fuse:** the largest current that can flow through it without melting it.\n- **Earthing:** connecting the metal body of an appliance to the earth, so that a fault current flows safely to earth.\n- **Short circuit:** when the live wire comes in direct contact with the neutral wire, giving a very low resistance path and a very large current.\n- **Overloading:** drawing more current from a circuit than it is designed to carry.\n- **Ring system:** house wiring in which the live, neutral and earth wires run in a ring, each appliance being tapped from it with its own fuse and switch.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: cover the list. Define a short circuit.",
+              "a": "The **live wire touches the neutral** directly, giving a **very low resistance** path and a **very large current**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "numerical-method",
+          "label": "Numericals: four lines every time",
+          "type": "core",
+          "desc": "This chapter's numericals use **I = P ÷ V** to choose a fuse or check a load. Write all four lines:\n\n1. **Given:** P in W, V in V.\n2. **Formula:** I = P ÷ V.\n3. **Substitute.**\n4. **Answer**, then compare with the fuse rating.\n\n**Worked example:** can a 3.5 kW heater be used on 220 V with a 15 A fuse?\n\nGiven: P = 3500 W, V = 220 V\n\nFormula: I = P ÷ V\n\nSubstitute: 3500 ÷ 220\n\nAnswer: **15.9 A**, more than 15 A: **no**, the fuse would blow.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: can a 2 kW kettle be used on 220 V with a 13 A fuse?",
+              "a": "I = 2000 ÷ 220 ≈ **9.1 A**, less than 13 A: **yes**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "give-reasons",
+          "label": "Give reasons: model answers",
+          "type": "core",
+          "desc": "Many questions ask *give a reason*. Try these before opening the answers.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Electric power is transmitted at a high voltage.",
+              "a": "For the same power, a high voltage means a **small current**, so much less energy is **lost as heat** (I² R) in the long lines."
+            },
+            {
+              "q": "The fuse is put in the live wire.",
+              "a": "When it blows, the appliance is **cut off from the high voltage**, so it is safe to touch."
+            },
+            {
+              "q": "The metal case of an appliance is earthed.",
+              "a": "If the live wire touches the case, a large current flows to **earth**, the **fuse blows**, and the user gets **no shock**."
+            },
+            {
+              "q": "The earth pin of a plug is longer and thicker.",
+              "a": "**Longer**, so earth connects **first**; **thicker**, so it **cannot** go into the live or neutral hole."
+            },
+            {
+              "q": "A copper wire is not used as a fuse wire.",
+              "a": "Copper has a **high melting point** and low resistance, so it would **not melt** when the current became dangerous."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "diagrams-practise",
+          "label": "Diagrams to practise",
+          "type": "core",
+          "desc": "- The **power supply** from the power station to the house, with the voltages.\n- The **house supply**: pole fuse, kWh meter, main switch, main fuse, distribution board.\n- The **ring system** with a bulb, a fan and a socket, each with a fuse and switch in the live wire.\n- **Two-way switches** on a staircase, in the ON and OFF positions.\n- A **three-pin plug and socket**, labelled L, N and E.\n- **Earthing** of an appliance, and **local earthing**.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: last-minute revision and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Read the sheet the night before the exam and again on the morning.",
+      "links": [],
+      "children": [
+        {
+          "id": "revision-sheet",
+          "label": "Last-minute revision sheet",
+          "type": "core",
+          "desc": "**The one idea:** every appliance sits in parallel between the **live** and **neutral** wires. The live wire is the dangerous one, so the **fuse and switch go in the live wire**, and the **earth wire** gives a fault current a safe way out.\n\n**Formulas**\n- **I = P ÷ V** (current an appliance draws)\n- Fuse rating: a little **more** than the normal current, I = total power ÷ voltage\n- Heating in wires: **H = I² R t**\n\n**Units and values**\n- Generated at **11 kV**, stepped up to **132 kV** (or more), stepped down to **33 kV**, **11 kV**, then **220 V** for homes.\n- Supply: **a.c., 220 V, 50 Hz**.\n- Fuse ratings: **5 A** for lighting circuits, **15 A** for power circuits (geyser, AC, heater). Pole fuse about **50 A**.\n\n**Key points**\n- Three wires: **live** (220 V), **neutral** (0 V, return path), **earth** (0 V, safety). Neutral and earth are joined at the substation.\n- Order from the pole: **pole fuse, kWh meter, main switch, main fuse (or MCB), distribution board**.\n- **Main switch:** double pole, breaks **live and neutral** together. **Main fuse / MCB:** in the **live** wire.\n- **Ring system:** wires run in a ring. Each appliance has its **own fuse and switch** in the live wire. Thinner wire can be used, and new sockets are easy to add.\n- **Parallel:** each appliance gets **220 V** and works on its own. **Series** would share the voltage and switch everything together.\n- **Fuse:** short, thin wire of **lead-tin alloy** (low melting point, high resistance). Works by the **heating effect**. Thicker for a **higher rating**; length does not matter.\n- Fuse in the **live** wire: when it blows, the appliance is cut off from 220 V. In the neutral, the appliance would **stay live**.\n- **MCB:** trips in a split second and is **reset** by a switch; no wire to replace.\n- **Switch** in the **live** wire. Single pole for appliances; double pole for the main switch. **Two-way switches** for staircases.\n- **Local earthing:** a copper plate deep in the ground, packed with **charcoal and salt**, kept damp.\n- **Appliance earthing:** metal case to the earth wire. A fault sends current to earth and **blows the fuse**.\n- **Three-pin plug:** earth pin on top, **thicker and longer**. Facing the plug's pins: **live left, neutral right**. Facing the socket: **live right, neutral left**.\n- Colours. **New:** **brown** live, **light blue** neutral, **green** (or green-yellow) earth. **Old:** red, black, green.\n- **High tension wires:** many thin wires twisted together, for a **large surface** to lose heat.\n- **Overloading:** too many appliances, too much current. **Short circuit:** live touches neutral. Both overheat wires and can cause **fire**.\n\n**Traps:** fuse and switch in the **live** wire, never the neutral. A fuse rating must be **above** the appliance's current, but not far above. Live is on the **right** of the socket but the **left** of the plug (they face each other). kWh meter measures **energy**, not power.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "At what voltage is electric power generated at a power station?",
+              "options": [
+                "132 kV",
+                "220 V",
+                "11 kV",
+                "33 kV"
+              ],
+              "answer": 2,
+              "why": "It is generated at **11 kV**, then stepped up for transmission."
+            },
+            {
+              "q": "The main switch in a house is a double pole switch. What does it break?",
+              "options": [
+                "Only the neutral wire",
+                "Only the earth wire",
+                "Both the live and the neutral wires",
+                "Only the live wire"
+              ],
+              "answer": 2,
+              "why": "A double pole switch cuts **live and neutral together**, completely isolating the house wiring."
+            },
+            {
+              "q": "Why is an MCB often used instead of a fuse?",
+              "options": [
+                "It switches off quickly and can be reset with a switch",
+                "It uses less electricity",
+                "It makes the voltage steadier",
+                "It never switches off"
+              ],
+              "answer": 0,
+              "why": "An MCB **trips** in a split second, and after the fault is fixed you just **push it back on**."
+            },
+            {
+              "q": "Two '220 V, 100 W' bulbs are joined in series on 220 V. What power does each use?",
+              "options": [
+                "50 W",
+                "200 W",
+                "25 W",
+                "100 W"
+              ],
+              "answer": 2,
+              "why": "Each gets 110 V. R = 220² ÷ 100 = 484 Ω, so P = 110² ÷ 484 = **25 W**. That is why appliances are joined in parallel."
+            },
+            {
+              "q": "Two fuse wires are rated 5 A and 15 A. Which is thicker?",
+              "options": [
+                "The 5 A wire",
+                "It depends on the length",
+                "The 15 A wire",
+                "Both are the same"
+              ],
+              "answer": 2,
+              "why": "A **higher** current rating needs a **thicker** wire, so it does not melt until a larger current flows."
+            },
+            {
+              "q": "Can a 2 kW kettle be used on 220 V with a 13 A fuse?",
+              "options": [
+                "No: it draws 440 A",
+                "No: it draws about 9.1 A",
+                "Yes: it draws 0.11 A",
+                "Yes: it draws about 9.1 A"
+              ],
+              "answer": 3,
+              "why": "I = 2000 ÷ 220 ≈ **9.1 A**, less than 13 A, so the fuse is suitable."
+            },
+            {
+              "q": "Which wire in the house supply is kept at the same potential as the earth?",
+              "options": [
+                "The neutral wire",
+                "The phase wire",
+                "None of them",
+                "The live wire"
+              ],
+              "answer": 0,
+              "why": "The **neutral** and earth wires are joined at the substation, so both are at **0 V**."
+            },
+            {
+              "q": "Looking at the front of a three-pin socket, where is the live hole?",
+              "options": [
+                "In the middle",
+                "On the right",
+                "On the left",
+                "At the top"
+              ],
+              "answer": 1,
+              "why": "Facing the socket: earth at the **top**, live on the **right**, neutral on the **left**."
+            },
+            {
+              "q": "Which is an advantage of the ring system of house wiring?",
+              "options": [
+                "The voltage is shared between appliances",
+                "All appliances switch on together",
+                "Each appliance has its own fuse, and thinner wire can be used",
+                "No fuses are needed"
+              ],
+              "answer": 2,
+              "why": "Current reaches each socket by **two paths**, so a **thinner** ring wire is enough, and every appliance has its **own fuse**."
+            },
+            {
+              "q": "High tension wires are made of many thin wires twisted together. Why?",
+              "options": [
+                "To increase the resistance",
+                "To make them lighter than air",
+                "To make the current flow faster",
+                "To give a large surface area to lose heat"
+              ],
+              "answer": 3,
+              "why": "Many thin strands have a much **larger surface** than one thick wire, so they **radiate heat** away better."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These are like the harder questions at the end of the chapter. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "big-line",
+          "label": "Current in a transmission line",
+          "type": "optional",
+          "desc": "A power station sends **6.6 MW** along a line at **132 kV**. What current flows in the line?\n\nI = P ÷ V = 6 600 000 ÷ 132 000 = **50 A**\n\nAt 220 V the same power would need 30 000 A: no wire could carry it without melting.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "motor-fuse",
+          "label": "A fuse for a pump",
+          "type": "optional",
+          "desc": "A 1.1 kW water pump on 220 V takes **5 A** when running but about **7 A** for a moment when it starts. Which fuse should it have: 5 A, 8 A or 15 A?\n\nA 5 A fuse would blow **every time it starts**. A 15 A fuse would let a dangerous fault current through. **8 A** is just above the starting current: the best choice.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "car-earth",
+          "label": "A car uses its body as a wire",
+          "type": "optional",
+          "desc": "In a car, each bulb has only **one wire** from the battery. The other side of the bulb, and of the battery, is joined to the **metal body**.\n\nThe current returns to the battery **through the body**, which acts as the second wire. The car's lights also dim when the starter motor runs. It draws a huge current, so the battery's terminal voltage drops (Chapter 8).",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThis chapter has almost no calculation. Marks come from **labelled diagrams** and **reasons**, and nearly every reason is about the **live wire**. A struggling student scores well by learning one rule: fuse and switch in the live wire, metal case to earth.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- Begin with the **danger**: the live wire is at 220 V, the others at 0 V. Ask 'which wire?' for every part.\n- Look at a **real distribution board** at school or home (from a safe distance): find the meter, main switch and MCBs.\n- Open a **three-pin plug** (unplugged!) and show the colours, the fuse (if any) and the long earth pin.\n- Act out the **staircase switches** with two students and a skipping rope for each wire.\n- Practise I = P ÷ V with the **rating plates** of appliances at home, and ask which fuse each needs.\n- Draw the **ring system** together step by step: live, neutral, earth, then one appliance at a time.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 6-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** from the power station to your house; why high voltage; the three wires. Exercise 9(A).\n- **Period 2:** pole fuse, meter, main switch, main fuse, distribution board; ring system; why parallel. Activity: draw the house supply.\n- **Period 3:** the fuse, its rating, why in the live wire; MCB and ELCB. Activity: I = P ÷ V for home appliances.\n- **Period 4:** switches; staircase wiring. Activity: two-way switches with a battery and bulb, or acted out.\n- **Period 5:** local and appliance earthing; three-pin plug and socket; colour codes; high tension wires; safety. Exercise 9(B).\n- **Period 6:** exam toolkit: diagram practice, give-reasons practice, self-test and exit ticket.",
+          "links": [
+            {
+              "label": "Wikipedia: electrical grid",
+              "url": "https://en.wikipedia.org/wiki/Electrical_grid"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Putting the fuse or switch in the **neutral** wire.\n- Thinking the **earth wire** carries current all the time.\n- Mixing up **live left / live right** between plug and socket.\n- Saying a fuse wire's **length** decides its rating (it is the **thickness**).\n- Confusing **overloading** with a **short circuit**.\n- Using the **old** colour code when the question asks for the new one, or the other way round.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. At what voltage is power generated, and at what voltage does it reach our homes?",
+              "a": "Generated at **11 kV**; reaches homes at **220 V** (a.c., 50 Hz)."
+            },
+            {
+              "q": "2. Why is the switch put in the live wire?",
+              "a": "So that when it is **off**, the appliance is **cut off from 220 V** and safe."
+            },
+            {
+              "q": "3. A 1.5 kW geyser runs on 220 V. Will a 5 A fuse do? Why?",
+              "a": "**No.** It takes 1500 ÷ 220 ≈ **6.8 A**, so a 5 A fuse would blow."
+            },
+            {
+              "q": "4. Give the new colour code for live, neutral and earth.",
+              "a": "**Brown, light blue, green** (or green-yellow)."
+            },
+            {
+              "q": "5. How does earthing protect a person touching a faulty iron?",
+              "a": "The fault current flows through the **earth wire**, the **fuse blows**, and no current flows through the person."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}
