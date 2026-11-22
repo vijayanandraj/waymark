@@ -1,0 +1,1279 @@
+{
+  "title": "ICSE Class 10 Physics, Chapter 2: Work, Energy and Power, Step by Step",
+  "subtitle": "For students who find physics hard. Work, power, potential and kinetic energy, energy changes and conservation of energy in small steps, with every numerical shown line by line, quick checks, an exam toolkit and a last-minute revision sheet. Follows the ICSE Class 10 syllabus, Chapter 2 (Work, Energy and Power), in the order of Selina Concise Physics.",
+  "updated": "2026-11-22",
+  "changelog": [
+    {
+      "date": "2026-11-22",
+      "text": "First version: the whole chapter in small steps, with original worked examples, quick checks, a last-minute revision sheet, a self-test and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** be sure of weight in newtons, powers of ten, squaring, and four values of cos. Every numerical in this chapter uses them.",
+      "links": [
+        {
+          "label": "Physics Classroom: work",
+          "url": "https://www.physicsclassroom.com/class/energy/Lesson-1/Definition-and-Mathematics-of-Work"
+        }
+      ],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Change everything into metres, kilograms and seconds first.** Most lost marks in this chapter come from minutes, hours and centimetres left unchanged.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: work is energy on the move.** Doing work moves energy from one thing to another. Power is how fast it moves. And the total never changes: energy is not used up, it only changes form.",
+          "links": [
+            {
+              "label": "Physics Classroom: work",
+              "url": "https://www.physicsclassroom.com/class/energy/Lesson-1/Definition-and-Mathematics-of-Work"
+            },
+            {
+              "label": "Last-minute revision sheet for this chapter",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-work-energy-power#revision-sheet"
+            },
+            {
+              "label": "Previous chapter: 1. Force",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-force"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 2, *Work, Energy and Power*, of the ICSE Class 10 Physics syllabus. It follows the order of *Selina Concise Physics* for Class 10.\n\n**Who it is for.** Class 10 students who find physics hard, and want to understand this chapter and score decent marks in it. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** Work is energy on the move. Power is how fast it moves, and the total never changes.\n\n**How it is different from the textbook.** The textbook gives each unit and formula equal weight. Here every numerical follows one method, unit changes get their own steps, and the chapter's three big formulas (W = F S cos θ, ½mv², mgh) are each practised on their own before they are mixed.\n\n**What is inside.**\n- 11 milestones and 55 small steps. The 42 solid steps are the core path. The dashed ones are optional.\n- 49 practice questions with hidden answers, and 7 pictures.\n- 28 click-to-check questions that say right or wrong, and why: a quick check after each of the 6 main milestones, and a 10-question self-test.\n- A **last-minute revision sheet**: every formula, unit and key point on one page.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the challenge questions, work from a graph, and kinetic energy with momentum, and a section for teachers and parents with a 10-period lesson plan, the mistakes to watch for and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from their textbook. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the ICSE syllabus but is not made or endorsed by CISCE or by any publisher. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. What is the weight of a 40 kg girl in newtons? (Take g = 10 N/kg.)",
+              "a": "40 × 10 = **400 N**. Wrong? Do *Weight in newtons*."
+            },
+            {
+              "q": "2. Write 3 600 000 in the form 3.6 × 10ⁿ.",
+              "a": "**3.6 × 10⁶**. Wrong? Do *Powers of ten*."
+            },
+            {
+              "q": "3. Find ½ × 4 × 3².",
+              "a": "Square first: 3² = 9. Then ½ × 4 × 9 = **18**. Wrong? Do *Square first, then halve*."
+            },
+            {
+              "q": "4. What is cos 60°?",
+              "a": "**½**. Wrong? Do *Four values of cos*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "weight-newtons",
+          "label": "Weight in newtons",
+          "type": "core",
+          "desc": "Weight is the pull of the Earth. **Weight = mass × g.**\n\n- Your book will say **g = 10 N/kg** (or 9.8). Use what the question gives.\n- A mass of 1 kg weighs **1 kgf = 10 N** (or 9.8 N).\n\n**Worked example:** a 40 kg girl weighs 40 × 10 = **400 N**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a bag of rice has mass 25 kg. What is its weight, with g = 10 N/kg?",
+              "a": "25 × 10 = **250 N**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "powers-of-ten",
+          "label": "Powers of ten",
+          "type": "core",
+          "desc": "This chapter has big and tiny numbers. Write them as **a number × 10ⁿ**.\n\n- 10³ = 1000. 10⁶ = 1 000 000. 10⁷ = 10 000 000.\n- 3 600 000 = **3.6 × 10⁶**.\n- 10⁻¹⁹ is a tiny number: 0.000...0001 with the 1 in the 19th place.\n\nTo multiply, multiply the numbers and **add the powers**: 2 × 10³ × 3 × 10⁴ = 6 × 10⁷.",
+          "links": [
+            {
+              "label": "Math is Fun: scientific notation",
+              "url": "https://www.mathsisfun.com/numbers/scientific-notation.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: write 5 × 10⁷ as an ordinary number.",
+              "a": "**50 000 000**: 5 followed by seven zeros."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "square-first",
+          "label": "Square first, then halve",
+          "type": "core",
+          "desc": "Kinetic energy uses **½mv²**. Only the v is squared.\n\n**Worked example:** ½ × 4 × 3²\n\n3² = 9\n\n½ × 4 × 9 = **18**\n\nDo not square the 4, and do not halve before squaring.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: find ½ × 2 × 5².",
+              "a": "5² = 25, then ½ × 2 × 25 = **25**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "cos-values",
+          "label": "Four values of cos",
+          "type": "core",
+          "desc": "When a force is slanted, you multiply by **cos θ**. You only need four values:\n\n- cos 0° = **1** (force along the motion)\n- cos 60° = **½**\n- cos 90° = **0** (force at right angles)\n- cos 180° = **−1** (force against the motion)",
+          "links": [
+            {
+              "label": "Math is Fun: sine, cosine and tangent",
+              "url": "https://www.mathsisfun.com/sine-cosine-tangent.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: which angle makes cos θ zero?",
+              "a": "**90°**. So a force at right angles to the motion does **no work**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "work",
+      "label": "Work: a force that moves something",
+      "desc": "**Goal:** know when work is done, and find it with W = F S, W = F S cos θ and W = mgh. Exercise 2(A) starts here.",
+      "links": [],
+      "children": [
+        {
+          "id": "when-work",
+          "label": "When is work done?",
+          "type": "core",
+          "desc": "In physics, **work is done only when a force moves something**.\n\n- Pushing a car that moves: **work done**.\n- Pushing a wall that does not move: **no work**, however tired you feel.\n- A coolie standing still with a load: **no work** on the load.\n\nTwo things are needed: a **force**, and a **displacement** in its direction.",
+          "links": [
+            {
+              "label": "Physics Classroom: work",
+              "url": "https://www.physicsclassroom.com/class/energy/Lesson-1/Definition-and-Mathematics-of-Work"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: yes or no? (a) a boy climbs 20 stairs, (b) a girl holds a heavy bag without moving.",
+              "a": "(a) **Yes**: he moves up against gravity. (b) **No**: nothing moves."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "w-fs",
+          "label": "W = F × S",
+          "type": "core",
+          "desc": "**Work = force × displacement in the direction of the force.**\n\n**Worked example:** you push a box with 25 N and it moves 4 m.\n\nW = F × S = 25 × 4\n\nW = **100 J**\n\nThe unit is the **joule (J)**: 1 J is done when 1 N moves something 1 m. Work is a **scalar**: it has no direction.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a cart is pushed with 150 N for 12 m. How much work is done?",
+              "a": "150 × 12 = **1800 J**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "w-angle",
+          "label": "Force at an angle: W = F S cos θ",
+          "type": "core",
+          "desc": "If the force is slanted, only the part **along the motion** does work.\n\n**W = F × S × cos θ**, where θ is the angle between the force and the motion.\n\n**Worked example:** a 20 N pull at 60° moves a box 5 m.\n\nW = 20 × 5 × cos 60°\n\nW = 20 × 5 × ½ = **50 J**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a rope pulls a sledge with 40 N at 60° to the ground. It moves 10 m. Find the work done.",
+              "a": "40 × 10 × ½ = **200 J**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/work-angle.png",
+              "caption": "Only the 10 N part along the ground does work"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "w-signs",
+          "label": "Positive, zero and negative work",
+          "type": "core",
+          "desc": "The angle θ decides the sign.\n\n- **θ = 0°:** cos = 1, work is **positive**. A ball falling: gravity pulls down, it moves down.\n- **θ = 90°:** cos = 0, **no work**. A coolie walking on level ground: gravity is down, he moves sideways. A body moving in a circle: the force is to the centre, the motion along the tangent.\n- **θ = 180°:** cos = −1, work is **negative**. Friction on a sliding box. A fielder catching a ball.\n\n**Worked example:** friction of 8 N acts on a box that slides 3 m. W = 8 × 3 × (−1) = **−24 J**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a satellite goes round the Earth in a circle. How much work does gravity do on it? Why?",
+              "a": "**Zero.** Gravity points to the centre and the satellite moves along the tangent: **θ = 90°**."
+            },
+            {
+              "q": "Your turn: give a reason. The work done by a fielder taking a catch is negative.",
+              "a": "He pushes **against** the ball's motion: the force and displacement are **opposite** (θ = 180°)."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/work-signs.png",
+              "caption": "The angle between force and motion decides the sign of the work"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "w-mgh",
+          "label": "Work against gravity: W = mgh",
+          "type": "core",
+          "desc": "To lift a body, you push up with a force equal to its weight, mg. It moves up a height h.\n\n**W = mgh.** Only the **vertical height** counts, not the path.\n\n- Stairs: **h = number of steps × height of one step**.\n- Stairs, slope or lift: the same h gives the same work.\n\n**Worked example:** a 40 kg girl climbs 6 steps, each 20 cm high (g = 10 N/kg).\n\nh = 6 × 0.2 = 1.2 m\n\nW = 40 × 10 × 1.2 = **480 J**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a 50 kg boy climbs 30 steps, each 15 cm high (g = 10 N/kg). How much work does he do?",
+              "a": "h = 30 × 0.15 = 4.5 m. W = 50 × 10 × 4.5 = **2250 J**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/stairs.png",
+              "caption": "Only the vertical height counts: 6 steps of 20 cm make h = 1.2 m"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "w-graph",
+          "label": "Work from a force-displacement graph",
+          "type": "optional",
+          "desc": "When the force changes, draw force against displacement. **The area under the graph is the work.**\n\n**Worked example:** a force grows steadily from 0 to 12 N over 3 m. The area is a triangle:\n\nW = ½ × 3 × 12 = **18 J**\n\nFor a constant force the area is a rectangle: F × S.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a steady force of 4 N acts over 5 m. Draw the graph in your head. What is the area?",
+              "a": "A rectangle 5 by 4: **20 J**. Same as F × S."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/fs-graph.png",
+              "caption": "The area under the force-displacement graph is the work done"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-work",
+          "label": "Quick check: work",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A coolie stands still for 10 minutes holding a 30 kg box on his head. How much work does he do on the box?",
+              "options": [
+                "It depends on how tired he is",
+                "3000 J",
+                "300 J",
+                "Zero"
+              ],
+              "answer": 3,
+              "why": "The box does not move, so the displacement is **zero** and **W = 0**, even though he feels tired. See *When is work done?*"
+            },
+            {
+              "q": "A rope pulls a trolley with 30 N at 60° to the ground. The trolley moves 4 m. Find the work done.",
+              "options": [
+                "240 J",
+                "120 J",
+                "0 J",
+                "60 J"
+              ],
+              "answer": 3,
+              "why": "W = F S cos θ = 30 × 4 × ½ = **60 J**. Only the part of the force along the motion does work."
+            },
+            {
+              "q": "A 45 kg girl climbs stairs 2 m high (g = 10 N/kg). How much work does she do against gravity?",
+              "options": [
+                "90 J",
+                "450 J",
+                "900 J",
+                "47 J"
+              ],
+              "answer": 2,
+              "why": "W = mgh = 45 × 10 × 2 = **900 J**. Only the vertical height counts. See *Work against gravity: W = mgh*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "units-energy",
+      "label": "Units of work and energy",
+      "desc": "**Goal:** change between joule, erg, kWh, calorie and eV. Exercise 2(A) has many of these.",
+      "links": [],
+      "children": [
+        {
+          "id": "joule-erg",
+          "label": "Joule and erg",
+          "type": "core",
+          "desc": "- **SI unit: joule (J).** 1 J = 1 N × 1 m.\n- **CGS unit: erg.** 1 erg = 1 dyne × 1 cm.\n\n1 J = 10⁵ dyne × 10² cm, so **1 J = 10⁷ erg**.\n\nBigger units: 1 kJ = 10³ J, 1 MJ = 10⁶ J.\n\n**Worked example:** 5 J = 5 × 10⁷ erg.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: express 3 × 10⁸ erg in joule.",
+              "a": "Divide by 10⁷: 3 × 10⁸ ÷ 10⁷ = **30 J**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "kwh",
+          "label": "kWh: the unit on the electricity bill",
+          "type": "core",
+          "desc": "**1 kWh** is the energy used by a 1 kW appliance in 1 hour. It is the **'unit'** on your electricity bill.\n\n1 kWh = 1000 W × 3600 s = **3.6 × 10⁶ J**\n\n**Worked example:** a 2 kW geyser runs for 3 hours.\n\nEnergy = 2 kW × 3 h = 6 kWh\n\n= 6 × 3.6 × 10⁶ = **2.16 × 10⁷ J**\n\nAt ₹7 a unit, it costs 6 × 7 = **₹42**.",
+          "links": [
+            {
+              "label": "Wikipedia: kilowatt-hour",
+              "url": "https://en.wikipedia.org/wiki/Kilowatt-hour"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a 100 W bulb is on for 10 hours. How many kWh?",
+              "a": "100 W = 0.1 kW. 0.1 × 10 = **1 kWh** (= 3.6 × 10⁶ J)."
+            },
+            {
+              "q": "Your turn: a 1500 W iron is used for 2 hours. What does it cost at ₹7 a unit?",
+              "a": "1.5 kW × 2 h = 3 kWh. 3 × 7 = **₹21**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "cal-ev",
+          "label": "Calorie and electron volt",
+          "type": "core",
+          "desc": "- **Calorie:** for heat. 1 calorie heats 1 g of water by 1 °C. **1 cal = 4.18 J** (1 J ≈ 0.24 cal).\n- **Electron volt (eV):** for the tiny energies of electrons and atoms. **1 eV = 1.6 × 10⁻¹⁹ J**.\n\n**Worked example:** an electron has 3.2 × 10⁻¹⁹ J.\n\n3.2 × 10⁻¹⁹ ÷ 1.6 × 10⁻¹⁹ = **2 eV**",
+          "links": [
+            {
+              "label": "Wikipedia: calorie",
+              "url": "https://en.wikipedia.org/wiki/Calorie"
+            },
+            {
+              "label": "Wikipedia: electronvolt",
+              "url": "https://en.wikipedia.org/wiki/Electronvolt"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: name the quantity measured in (a) kWh, (b) kW, (c) eV.",
+              "a": "(a) **energy**, (b) **power**, (c) **energy**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-units-energy",
+          "label": "Quick check: units of energy",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Express 7 J in erg.",
+              "options": [
+                "7 × 10³ erg",
+                "7 × 10⁵ erg",
+                "0.7 erg",
+                "7 × 10⁷ erg"
+              ],
+              "answer": 3,
+              "why": "**1 J = 10⁷ erg**, so 7 J = 7 × 10⁷ erg."
+            },
+            {
+              "q": "A 60 W fan runs for 5 hours. How much energy does it use, in joule?",
+              "options": [
+                "3.6 × 10⁶ J",
+                "300 J",
+                "1.08 × 10⁶ J",
+                "18 000 J"
+              ],
+              "answer": 2,
+              "why": "60 W × 5 × 3600 s = 1 080 000 J = **1.08 × 10⁶ J**. Change hours to seconds first."
+            },
+            {
+              "q": "What does kWh measure?",
+              "options": [
+                "Time",
+                "Force",
+                "Energy",
+                "Power"
+              ],
+              "answer": 2,
+              "why": "kW × hours = **energy**. kW alone is power. See *kWh: the unit on the electricity bill*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "power",
+      "label": "Power: how fast work is done",
+      "desc": "**Goal:** find power, change its units, and use P = F × v. Exercise 2(A) numericals use this.",
+      "links": [],
+      "children": [
+        {
+          "id": "p-wt",
+          "label": "P = W ÷ t",
+          "type": "core",
+          "desc": "**Power is the rate of doing work**: work done per second.\n\n**P = W ÷ t.** The unit is the **watt (W)**: 1 W = 1 J per second.\n\n**Worked example:** a boy does 1800 J of work in 30 s.\n\nP = 1800 ÷ 30 = **60 W**\n\nSame work, less time: **more power**.",
+          "links": [
+            {
+              "label": "Physics Classroom: power",
+              "url": "https://www.physicsclassroom.com/class/energy/Lesson-1/Power"
+            },
+            {
+              "label": "Math is Fun: power",
+              "url": "https://www.mathsisfun.com/physics/power.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: Ravi and Meena each do 2400 J climbing a tower. Ravi takes 40 s, Meena 60 s. Compare their powers.",
+              "a": "Ravi: 2400 ÷ 40 = 60 W. Meena: 2400 ÷ 60 = 40 W. Ratio **3 : 2**. Same work, different power."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "p-units",
+          "label": "Units of power",
+          "type": "core",
+          "desc": "- **watt (W)** = 1 J/s. CGS: erg/s.\n- **kilowatt** 1 kW = 10³ W. **megawatt** 1 MW = 10⁶ W. **gigawatt** 1 GW = 10⁹ W.\n- **horse power: 1 HP = 746 W.** Used for engines and pumps.\n\n**Worked example:** a 3 HP pump = 3 × 746 = **2238 W**.",
+          "links": [
+            {
+              "label": "Wikipedia: horsepower",
+              "url": "https://en.wikipedia.org/wiki/Horsepower"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a motor is 1492 W. How many HP is that?",
+              "a": "1492 ÷ 746 = **2 HP**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "p-fv",
+          "label": "Power = force × speed",
+          "type": "core",
+          "desc": "When a steady force moves something at a steady speed:\n\nP = W ÷ t = F × S ÷ t, and S ÷ t is the speed. So **P = F × v**.\n\n**Worked example:** a horse pulls a cart with 200 N at 3 m/s.\n\nP = 200 × 3 = **600 W**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a 4 kW motor lifts a 2000 N load. At what steady speed?",
+              "a": "v = P ÷ F = 4000 ÷ 2000 = **2 m/s**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "efficiency",
+          "label": "Efficiency of a pump or motor",
+          "type": "core",
+          "desc": "No machine turns all its power into useful work. Some is lost to friction as heat.\n\n**Efficiency = useful power ÷ power input** (× 100 for a percentage).\n\n**Worked example:** a pump lifts 300 kg of water 20 m in 60 s (g = 10 N/kg). It is 50% efficient.\n\nUseful work = mgh = 300 × 10 × 20 = 60 000 J\n\nUseful power = 60 000 ÷ 60 = 1000 W\n\nPower input = 1000 ÷ 0.5 = **2000 W**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a motor gives 800 W of useful power at 40% efficiency. What power does it take in?",
+              "a": "800 ÷ 0.4 = **2000 W**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "work-vs-power",
+          "label": "Work, energy, power: don't mix them",
+          "type": "core",
+          "desc": "- **Work** = F × S. Does **not** depend on time. Unit: **J**.\n- **Energy** = the capacity to do work. Unit: **J**, also kWh.\n- **Power** = how fast. **Depends on time.** Unit: **W**, also kW, HP.\n\n**kW is power. kWh is energy.** Watt is power, watt hour is energy.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: give a reason. Two coolies lift the same load onto the same bus roof, one in 1 minute, one in 2. Who does more work? Who has more power?",
+              "a": "**Same work** (same load, same height). The faster one has **twice the power**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-power",
+          "label": "Quick check: power",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A pump does 9000 J of work in 1 minute. What is its power?",
+              "options": [
+                "150 W",
+                "540 000 W",
+                "9000 W",
+                "15 W"
+              ],
+              "answer": 0,
+              "why": "P = W ÷ t = 9000 ÷ 60 = **150 W**. Change minutes to seconds."
+            },
+            {
+              "q": "Change 2 HP into watt.",
+              "options": [
+                "746 W",
+                "373 W",
+                "1492 W",
+                "2000 W"
+              ],
+              "answer": 2,
+              "why": "**1 HP = 746 W**, so 2 × 746 = **1492 W**."
+            },
+            {
+              "q": "A man pulls a cart with 150 N at a steady 4 m/s. What power does he spend?",
+              "options": [
+                "6000 W",
+                "600 W",
+                "37.5 W",
+                "154 W"
+              ],
+              "answer": 1,
+              "why": "**P = F × v** = 150 × 4 = **600 W**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "mech-energy",
+      "label": "Potential and kinetic energy",
+      "desc": "**Goal:** find potential and kinetic energy, and use the work-energy theorem. Exercise 2(B) numericals use this.",
+      "links": [],
+      "children": [
+        {
+          "id": "energy-def",
+          "label": "Energy: stored ability to do work",
+          "type": "core",
+          "desc": "**The energy of a body is its capacity to do work.** It is measured by the work it can do, in **joule**.\n\n- When a body does work, its energy **goes down**.\n- When work is done on it, its energy **goes up**.\n\n**Mechanical energy = potential energy + kinetic energy.**",
+          "links": [
+            {
+              "label": "Physics Classroom: mechanical energy",
+              "url": "https://www.physicsclassroom.com/class/energy/Lesson-1/Mechanical-Energy"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "pe",
+          "label": "Potential energy: U = mgh",
+          "type": "core",
+          "desc": "**Potential energy (U) is the energy a body has because of its position or shape.**\n\n- **Gravitational:** a body at a height. **U = mgh**, the work done lifting it.\n- **Elastic:** a wound spring, a bent bow, a stretched rubber band.\n\n**Worked example:** a 2 kg pot on a shelf 5 m up (g = 10 N/kg).\n\nU = 2 × 10 × 5 = **100 J**",
+          "links": [
+            {
+              "label": "Physics Classroom: potential energy",
+              "url": "https://www.physicsclassroom.com/class/energy/Lesson-1/Potential-Energy"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a 500 g book sits on a shelf 2 m high (g = 10 N/kg). Find its potential energy.",
+              "a": "500 g = 0.5 kg. U = 0.5 × 10 × 2 = **10 J**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ke",
+          "label": "Kinetic energy: K = ½mv²",
+          "type": "core",
+          "desc": "**Kinetic energy (K) is the energy a body has because it is moving.**\n\n**K = ½mv².** Mass in kg, speed in m/s.\n\n**Worked example:** a 1000 kg car at 10 m/s.\n\nK = ½ × 1000 × 10² = ½ × 1000 × 100 = **50 000 J**\n\nAt 20 m/s: K = ½ × 1000 × 400 = **200 000 J**. **Double the speed, four times the energy.** That is why fast crashes are so much worse.",
+          "links": [
+            {
+              "label": "Physics Classroom: kinetic energy",
+              "url": "https://www.physicsclassroom.com/class/energy/Lesson-1/Kinetic-Energy"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a 0.5 kg ball is thrown at 6 m/s. Find its kinetic energy.",
+              "a": "½ × 0.5 × 36 = **9 J**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "work-energy",
+          "label": "Work-energy theorem",
+          "type": "core",
+          "desc": "**The work done on a body = the change in its kinetic energy.**\n\n**W = ½mv² − ½mu²**, where u is the starting speed and v the final speed.\n\n**Worked example:** a 2 kg trolley speeds up from 3 m/s to 5 m/s.\n\nW = ½ × 2 × (25 − 9) = **16 J** of work was done on it.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: brakes stop a 1000 kg car moving at 20 m/s. How much work do the brakes do?",
+              "a": "W = ½ × 1000 × (0 − 400) = **−200 000 J**. Negative: the force is against the motion."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ke-momentum",
+          "label": "Kinetic energy and momentum",
+          "type": "optional",
+          "desc": "Momentum is **p = mv**. Then **K = p² ÷ 2m**, and **p = √(2mK)**.\n\n**Worked example:** a 2 kg ball at 6 m/s.\n\np = 2 × 6 = 12 kg m/s\n\nK = 12² ÷ (2 × 2) = 144 ÷ 4 = **36 J**. Check: ½ × 2 × 36 = 36 J.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: two bodies have the same kinetic energy. One is 1 kg, the other 4 kg. Which has more momentum?",
+              "a": "p = √(2mK), so the **4 kg** body has more: twice as much, because √4 = 2."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ke-kinds",
+          "label": "Three kinds of kinetic energy",
+          "type": "core",
+          "desc": "A moving body can have one or more of these:\n\n- **Translational:** moving in a straight line. A car on a straight road, a falling stone.\n- **Rotational:** spinning about an axis. A spinning top, a fan, the Earth turning.\n- **Vibrational:** moving to and fro. A plucked guitar string, atoms in a solid.\n\nA rolling ball has **both** translational and rotational KE.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which kind of kinetic energy does a plucked sitar string have?",
+              "a": "**Vibrational**: it moves to and fro about its rest position."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-mech-energy",
+          "label": "Quick check: PE and KE",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A 3 kg pot is on a shelf 4 m up (g = 10 N/kg). What is its potential energy?",
+              "options": [
+                "120 J",
+                "30 J",
+                "12 J",
+                "1.2 J"
+              ],
+              "answer": 0,
+              "why": "U = mgh = 3 × 10 × 4 = **120 J**."
+            },
+            {
+              "q": "A 4 kg ball rolls at 5 m/s. What is its kinetic energy?",
+              "options": [
+                "20 J",
+                "50 J",
+                "100 J",
+                "10 J"
+              ],
+              "answer": 1,
+              "why": "K = ½mv² = ½ × 4 × 25 = **50 J**. **Square the speed first.**"
+            },
+            {
+              "q": "A car doubles its speed. Its kinetic energy becomes:",
+              "options": [
+                "the same",
+                "half",
+                "4 times",
+                "2 times"
+              ],
+              "answer": 2,
+              "why": "K = ½mv². Double v and v² becomes **4 times**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "forms",
+      "label": "Energy changes form",
+      "desc": "**Goal:** name the forms of energy, and the change made by common devices. Exercise 2(B) short questions use this.",
+      "links": [],
+      "children": [
+        {
+          "id": "forms-list",
+          "label": "Forms of energy",
+          "type": "core",
+          "desc": "- **Mechanical:** potential and kinetic.\n- **Heat:** from burning fuel, from the Sun.\n- **Light:** lets us see. The Sun is the main source.\n- **Chemical:** stored in food, fuels and cells.\n- **Electrical:** moving charges, from cells and generators.\n- **Nuclear:** from fission and fusion, by **E = mc²**.\n- **Sound:** from vibrating bodies.\n\nOthers in your book: solar, hydro, wind, geothermal and magnetic energy.",
+          "links": [
+            {
+              "label": "PhET simulation: Energy Forms and Changes (free)",
+              "url": "https://phet.colorado.edu/en/simulations/energy-forms-and-changes"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: which form of energy is stored in a dry cell?",
+              "a": "**Chemical** energy. It changes into electrical energy when the cell is used."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "devices",
+          "label": "Devices that change energy",
+          "type": "core",
+          "desc": "Learn the change each device makes:\n\n- **Dynamo / generator:** mechanical to electrical.\n- **Electric motor:** electrical to mechanical.\n- **Cell in use:** chemical to electrical. **Charging a battery:** electrical to chemical.\n- **Loudspeaker:** electrical to sound. **Microphone:** sound to electrical.\n- **Electric bulb:** electrical to light and heat. **Heater:** electrical to heat.\n- **Solar cell:** light to electrical. **Photosynthesis:** light to chemical.\n- **Burning candle:** chemical to light and heat.",
+          "links": [
+            {
+              "label": "Wikipedia: energy transformation",
+              "url": "https://en.wikipedia.org/wiki/Energy_transformation"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: name the energy change in (a) an electric fan, (b) a microphone.",
+              "a": "(a) **electrical to mechanical** (kinetic). (b) **sound to electrical**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "hydro",
+          "label": "A chain of changes: a hydroelectric dam",
+          "type": "core",
+          "desc": "Big changes happen in steps:\n\n- Water high in a dam has **potential energy**.\n- It falls: **kinetic energy**.\n- It spins a turbine: **rotational kinetic energy**.\n- The turbine turns a generator: **electrical energy**.\n- In your home: **light, heat and sound**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: write the energy changes when coal is burnt in a power station to light a bulb.",
+              "a": "**Chemical** (coal) → **heat** (steam) → **kinetic** (turbine) → **electrical** → **light and heat**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/hydro-chain.png",
+              "caption": "From water high in a dam to the lights in your home"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "degradation",
+          "label": "Where does the energy go? Wasted heat",
+          "type": "optional",
+          "desc": "In every change, some energy turns into **heat** that spreads out and cannot be used again. This is called the **degradation of energy**.\n\n- A bulb gets hot: not all the electrical energy becomes light.\n- A machine's moving parts warm up through **friction**.\n\nThe energy is not destroyed. It just becomes less useful.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "qc-forms",
+          "label": "Quick check: forms of energy",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which device changes mechanical energy into electrical energy?",
+              "options": [
+                "Electric motor",
+                "Loudspeaker",
+                "Electric bulb",
+                "Dynamo (generator)"
+              ],
+              "answer": 3,
+              "why": "A **dynamo** turns motion into electricity. A motor does the reverse."
+            },
+            {
+              "q": "A loudspeaker changes:",
+              "options": [
+                "electrical energy into sound",
+                "sound into electrical energy",
+                "heat into sound",
+                "light into sound"
+              ],
+              "answer": 0,
+              "why": "**Electrical into sound.** A microphone does the reverse."
+            },
+            {
+              "q": "In photosynthesis, plants change light energy into:",
+              "options": [
+                "nuclear energy",
+                "electrical energy",
+                "chemical energy",
+                "sound energy"
+              ],
+              "answer": 2,
+              "why": "Light is stored as **chemical energy** in food."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "conservation",
+      "label": "Conservation of energy",
+      "desc": "**Goal:** state the principle, and use K + U = constant for a falling body and a pendulum. Exercise 2(C) covers this.",
+      "links": [],
+      "children": [
+        {
+          "id": "principle",
+          "label": "Energy is never lost",
+          "type": "core",
+          "desc": "**The principle of conservation of energy: energy can neither be created nor destroyed. It only changes from one form to another.**\n\nThe total energy stays the same. If only PE and KE swap, and there is no friction:\n\n**K + U = constant.**",
+          "links": [
+            {
+              "label": "Wikipedia: conservation of energy",
+              "url": "https://en.wikipedia.org/wiki/Conservation_of_energy"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "falling",
+          "label": "A falling ball: K + U stays the same",
+          "type": "core",
+          "desc": "A 2 kg ball is dropped from 20 m (g = 10 N/kg).\n\n- **Top (20 m):** U = 2 × 10 × 20 = 400 J, K = 0. Total **400 J**.\n- **At 15 m:** U = 300 J. It has fallen 5 m, so K = 2 × 10 × 5 = 100 J. Total **400 J**.\n- **Ground:** U = 0, K = 400 J. Total **400 J**.\n\n**The PE that is lost is the KE that is gained.** Halfway down, K = U.",
+          "links": [
+            {
+              "label": "PhET simulation: Energy Skate Park (free)",
+              "url": "https://phet.colorado.edu/en/simulations/energy-skate-park-basics"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a 1 kg stone falls from 45 m (g = 10). What is its kinetic energy just before it lands?",
+              "a": "All the PE becomes KE: mgh = 1 × 10 × 45 = **450 J**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/falling-energy.png",
+              "caption": "U falls, K rises, and U + K stays 400 J at every height"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "v-sqrt",
+          "label": "Speed from height: v = √(2gh)",
+          "type": "core",
+          "desc": "At the ground, all the PE is KE: ½mv² = mgh. The m cancels:\n\n**v = √(2gh).** The mass does not matter.\n\n**Worked example:** dropped from 20 m: v = √(2 × 10 × 20) = √400 = **20 m/s**.\n\nIt works upwards too. Thrown up at u, a body rises to **h = u² ÷ 2g**. At 20 m/s: 400 ÷ 20 = **20 m**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a stone is dropped from 45 m (g = 10 m/s²). How fast is it going when it lands?",
+              "a": "v = √(2 × 10 × 45) = √900 = **30 m/s**. (Check: ½ × 1 × 30² = 450 J, the same as mgh.)"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "pendulum",
+          "label": "The simple pendulum",
+          "type": "core",
+          "desc": "A swinging bob keeps changing PE into KE and back:\n\n- **At each end:** it stops for an instant. **All PE**, K = 0.\n- **At the lowest point:** fastest. **All KE**.\n- In between: some of each. The total stays the same.\n\n**Worked example:** a 0.2 kg bob is pulled aside, rising 5 cm (g = 10). PE = 0.2 × 10 × 0.05 = **0.1 J**. At the bottom, v = √(2 × 10 × 0.05) = **1 m/s**.",
+          "links": [
+            {
+              "label": "PhET simulation: Pendulum Lab (free)",
+              "url": "https://phet.colorado.edu/en/simulations/pendulum-lab"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: give a reason. A real pendulum slowly stops swinging. Is energy destroyed?",
+              "a": "**No.** Air friction slowly turns the mechanical energy into **heat**. The total energy is conserved."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/pendulum.png",
+              "caption": "All PE at the ends, all KE at the lowest point"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-conservation",
+          "label": "Quick check: conservation",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A 2 kg ball falls from 20 m (g = 10 N/kg). What is its kinetic energy just before it hits the ground?",
+              "options": [
+                "20 J",
+                "400 J",
+                "200 J",
+                "40 J"
+              ],
+              "answer": 1,
+              "why": "All the potential energy mgh = 2 × 10 × 20 = **400 J** has turned into kinetic energy. See *A falling ball: K + U stays the same*."
+            },
+            {
+              "q": "With what speed does a body dropped from 5 m reach the ground (g = 10 m/s²)?",
+              "options": [
+                "50 m/s",
+                "5 m/s",
+                "100 m/s",
+                "10 m/s"
+              ],
+              "answer": 3,
+              "why": "v = √(2gh) = √(2 × 10 × 5) = √100 = **10 m/s**."
+            },
+            {
+              "q": "Where is a swinging pendulum bob moving fastest?",
+              "options": [
+                "In the middle (lowest point)",
+                "At either end",
+                "Halfway up",
+                "It moves at one speed"
+              ],
+              "answer": 0,
+              "why": "At the **lowest point** all its energy is kinetic, so it is fastest. At the ends it stops for an instant. See *The simple pendulum*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "exam-toolkit",
+      "label": "Exam toolkit: words and reasons",
+      "desc": "**Goal:** collect the marks that come from learning. Definitions, the four-line method and 'give reasons' answers are easy marks if you know them exactly.",
+      "links": [],
+      "children": [
+        {
+          "id": "definitions",
+          "label": "Definitions to learn word for word",
+          "type": "core",
+          "desc": "- **Work:** the product of the force and the displacement of the point of application in the direction of the force.\n- **1 joule:** the work done when a force of 1 N moves a body 1 m in its own direction.\n- **Power:** the rate of doing work.\n- **1 watt:** the power when 1 joule of work is done in 1 second.\n- **Energy:** the capacity of a body to do work.\n- **1 kWh:** the energy used by a source of power 1 kW in 1 hour.\n- **1 eV:** the energy gained by an electron accelerated through a potential difference of 1 volt.\n- **Potential energy:** energy due to the changed position or shape of a body.\n- **Kinetic energy:** energy due to motion.\n- **Work-energy theorem:** the work done on a body equals the increase in its kinetic energy.\n- **Conservation of energy:** energy can neither be created nor destroyed; it only changes from one form to another.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: cover the list. Define 1 kWh, then say what it equals in joule.",
+              "a": "The energy used by a **1 kW** source in **1 hour**. 1 kWh = **3.6 × 10⁶ J**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "numerical-method",
+          "label": "Numericals: four lines every time",
+          "type": "core",
+          "desc": "Examiners give marks for each line. Write all four:\n\n1. **Given:** the numbers, changed to kg, m and s.\n2. **Formula:** in words or symbols.\n3. **Substitute:** put the numbers in.\n4. **Answer:** with its **unit**.\n\n**Worked example:** a 50 kg girl climbs a 6 m staircase in 15 s (g = 10). Find her power.\n\nGiven: m = 50 kg, h = 6 m, t = 15 s\n\nFormula: P = mgh ÷ t\n\nSubstitute: 50 × 10 × 6 ÷ 15\n\nAnswer: **200 W**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which line do students most often leave out?",
+              "a": "The **unit** in the answer, and changing minutes into **seconds** in the Given line."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "give-reasons",
+          "label": "Give reasons: model answers",
+          "type": "core",
+          "desc": "Many questions ask *give a reason*. Try these before opening the answers.",
+          "links": [],
+          "faq": [
+            {
+              "q": "A coolie walking on a level platform with a load on his head does no work against gravity.",
+              "a": "Gravity acts **downwards** and the load moves **sideways**: the angle is **90°**, so W = F S cos 90° = 0."
+            },
+            {
+              "q": "No work is done by the centripetal force on a body moving in a circle.",
+              "a": "The force is towards the **centre** and the motion is along the **tangent**: they are at **90°**."
+            },
+            {
+              "q": "A man pushing a wall that does not move does no work.",
+              "a": "The **displacement is zero**, so W = F × 0 = 0."
+            },
+            {
+              "q": "kWh is a unit of energy, not of power.",
+              "a": "kW × hour = power × time = **energy**."
+            },
+            {
+              "q": "A hammer drives a nail in, but a hammer resting on the nail does not.",
+              "a": "The moving hammer has **kinetic energy** to do work on the nail. At rest it has none."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "diagrams-practise",
+          "label": "Diagrams to practise",
+          "type": "optional",
+          "desc": "Practise drawing these. Label every force, angle and height.\n\n- A force at angle θ to the motion, with F cos θ marked.\n- A force-displacement graph, with the area shaded.\n- A falling body at the top, middle and ground, with U and K at each.\n- A simple pendulum, marking where PE and KE are greatest.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: last-minute revision and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Read the sheet the night before the exam and again on the morning.",
+      "links": [],
+      "children": [
+        {
+          "id": "revision-sheet",
+          "label": "Last-minute revision sheet",
+          "type": "core",
+          "desc": "**The one idea:** work is energy on the move. Power is how fast it moves, and the total never changes.\n\n**Formulas**\n- **W = F × S** (force and displacement in the same direction)\n- **W = F S cos θ** (θ = angle between force and displacement)\n- **W = mgh** (work against gravity; h = vertical height = steps × step height)\n- **P = W ÷ t**, and **P = F × v**\n- **U = mgh** (potential energy)\n- **K = ½mv²** (kinetic energy). Also **K = p² ÷ 2m**, where p = mv.\n- **Work done = change in K = ½m(v² − u²)** (work-energy theorem)\n- Falling from h: **v = √(2gh)**. Thrown up at u: rises to **h = u² ÷ 2g**.\n- **Efficiency = useful power ÷ power input** (× 100 for %)\n\n**Units**\n- Work and energy: **joule (J)**. 1 J = **10⁷ erg**.\n- **1 kWh = 3.6 × 10⁶ J** (one unit on the electricity bill). 1 Wh = 3600 J.\n- **1 calorie = 4.18 J** (1 J ≈ 0.24 cal). **1 eV = 1.6 × 10⁻¹⁹ J**.\n- Power: **watt (W)** = 1 J/s. 1 kW = 10³ W, 1 MW = 10⁶ W, 1 GW = 10⁹ W. **1 HP = 746 W**.\n- kW is **power**. kWh is **energy**.\n\n**Key points**\n- Work is zero if **S = 0** or **θ = 90°** (coolie walking on level ground, circular motion).\n- θ = 0°: work **positive**. θ = 180°: work **negative** (friction, catching a ball).\n- Work and energy are **scalars**.\n- Mechanical energy = **PE + KE**. Kinetic energy: **translational, rotational, vibrational**.\n- **Conservation:** energy is never created or destroyed, only changed. Free fall: **K + U = mgh** at every point.\n- Pendulum: **all PE at the ends, all KE at the lowest point**.\n- 'Lost' energy usually becomes **heat** through friction.\n\n**Traps:** minutes and hours into **seconds**. Square the speed **before** halving. Use the **vertical** height, not the length of the slope.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A body is moved in a circle by a centripetal force. How much work does that force do?",
+              "options": [
+                "F × radius",
+                "Negative work",
+                "Zero",
+                "F × circumference"
+              ],
+              "answer": 2,
+              "why": "The force is towards the centre and the motion is along the tangent: **θ = 90°, so W = 0**."
+            },
+            {
+              "q": "A 50 kg boy climbs 30 steps, each 15 cm high (g = 10 N/kg). How much work does he do?",
+              "options": [
+                "22 500 J",
+                "750 J",
+                "225 J",
+                "2250 J"
+              ],
+              "answer": 3,
+              "why": "h = 30 × 0.15 = 4.5 m. W = mgh = 50 × 10 × 4.5 = **2250 J**."
+            },
+            {
+              "q": "A 1.5 kW heater runs for 2 hours. How many units (kWh) does it use?",
+              "options": [
+                "0.75 kWh",
+                "3 kWh",
+                "3.5 kWh",
+                "3000 kWh"
+              ],
+              "answer": 1,
+              "why": "1.5 kW × 2 h = **3 kWh**."
+            },
+            {
+              "q": "Express 3 kWh in joule.",
+              "options": [
+                "3 × 10³ J",
+                "1.08 × 10⁷ J",
+                "1.08 × 10⁴ J",
+                "3.6 × 10⁶ J"
+              ],
+              "answer": 1,
+              "why": "3 × 3.6 × 10⁶ = **1.08 × 10⁷ J**."
+            },
+            {
+              "q": "An electron has 4.8 × 10⁻¹⁹ J of energy. How many eV is that?",
+              "options": [
+                "4.8 eV",
+                "0.33 eV",
+                "30 eV",
+                "3 eV"
+              ],
+              "answer": 3,
+              "why": "4.8 × 10⁻¹⁹ ÷ 1.6 × 10⁻¹⁹ = **3 eV**."
+            },
+            {
+              "q": "A motor of 4 kW lifts a 2000 N load. At what steady speed?",
+              "options": [
+                "2 m/s",
+                "8 m/s",
+                "500 m/s",
+                "0.5 m/s"
+              ],
+              "answer": 0,
+              "why": "P = F × v, so v = 4000 ÷ 2000 = **2 m/s**."
+            },
+            {
+              "q": "A pump gives 1000 W of useful power but takes 2000 W. What is its efficiency?",
+              "options": [
+                "200%",
+                "2%",
+                "50%",
+                "20%"
+              ],
+              "answer": 2,
+              "why": "1000 ÷ 2000 × 100 = **50%**."
+            },
+            {
+              "q": "A 1 kg ball speeds up from 2 m/s to 4 m/s. How much work was done on it?",
+              "options": [
+                "4 J",
+                "2 J",
+                "8 J",
+                "6 J"
+              ],
+              "answer": 3,
+              "why": "½ × 1 × (16 − 4) = **6 J**: the gain in kinetic energy."
+            },
+            {
+              "q": "A 3 kg stone is dropped from 45 m (g = 10). Halfway down, what is its kinetic energy?",
+              "options": [
+                "675 J",
+                "1350 J",
+                "450 J",
+                "0 J"
+              ],
+              "answer": 0,
+              "why": "Total = mgh = 3 × 10 × 45 = 1350 J. Halfway, **K = U = 675 J**."
+            },
+            {
+              "q": "Which has rotational kinetic energy?",
+              "options": [
+                "A book on a shelf",
+                "A trolley sliding along a straight track",
+                "A spinning top",
+                "A stretched spring"
+              ],
+              "answer": 2,
+              "why": "A **spinning top** turns about an axis. The spring and the book have potential energy."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These are like the harder questions at the end of the chapter. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "slope",
+          "label": "Pulling up a slope",
+          "type": "optional",
+          "desc": "A 2 kg box is pulled 4 m up a slope at 30° to the ground with a force of 14 N along the slope (g = 10).\n\nWork done by the pull: 14 × 4 = **56 J**\n\nHeight gained: 4 × sin 30° = 4 × ½ = 2 m\n\nWork against gravity: mgh = 2 × 10 × 2 = **40 J**\n\nThe other **16 J** went in doing work against **friction**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why is the work against gravity found with the height, not the 4 m?",
+              "a": "Gravity acts **vertically**. Only the **vertical** displacement (2 m) is in its direction."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "pump-hard",
+          "label": "A pump with an efficiency",
+          "type": "optional",
+          "desc": "A pump lifts 500 kg of water from a well 30 m deep in 25 s (g = 10). It is 40% efficient. Find the power it takes in.\n\nUseful work = 500 × 10 × 30 = 150 000 J\n\nUseful power = 150 000 ÷ 25 = 6000 W\n\nPower input = 6000 ÷ 0.4 = **15 000 W = 15 kW**",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "ke-ratio",
+          "label": "Comparing kinetic energies",
+          "type": "optional",
+          "desc": "Body A has mass m and speed 2v. Body B has mass 2m and speed v. Which has more kinetic energy?\n\nK_A = ½ × m × (2v)² = 2mv²\n\nK_B = ½ × 2m × v² = mv²\n\n**A has twice as much.** Speed counts more than mass, because it is squared.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a ball's speed is halved. What happens to its kinetic energy?",
+              "a": "(½)² = ¼. It becomes **a quarter**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ke-graph-area",
+          "label": "Area under a changing force",
+          "type": "optional",
+          "desc": "A spring pushes a toy with a force that falls steadily from 12 N to 0 over 3 m. How much work does it do?\n\nThe graph is a triangle: W = ½ × 3 × 12 = **18 J**. The toy gains 18 J of kinetic energy (if there is no friction).",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThis chapter has many short numericals and many units. A struggling student can score well by learning the unit changes, the definitions, and the four-line method.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- Start with **real work**: lift a bag onto a table, push a wall. Ask 'did anything move?' before any formula.\n- Make a **units card** with them: J, erg, kWh, cal, eV, W, HP. Test it for two minutes every lesson.\n- Insist on **seconds**: minutes and hours left unchanged cause most wrong answers.\n- For ½mv², have them say aloud: **square first, then half**.\n- Use the **electricity bill** at home: read the units, work out the cost of one appliance.\n- Drop a ball and swing a pendulum: name the energy at the top, the middle and the bottom.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 10-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** when work is done; W = F × S. Activity: list five things in the room, work or no work.\n- **Period 2:** W = F S cos θ, positive, zero and negative work. Activity: pull a bag with a string at different angles.\n- **Period 3:** W = mgh and stairs. Activity: measure one step, count the school stairs, find the work each student does. Exercise 2(A).\n- **Period 4:** units of energy: joule, erg, kWh, calorie, eV. Activity: read a real electricity bill.\n- **Period 5:** power, its units, P = F × v. Activity: time students climbing the stairs and find their power in watt.\n- **Period 6:** efficiency; work, energy and power compared. Exercise 2(A) numericals.\n- **Period 7:** PE and KE, the work-energy theorem. Exercise 2(B) numericals.\n- **Period 8:** forms of energy and devices. Activity: a 'what changes into what' card game.\n- **Period 9:** conservation of energy, the falling ball, the pendulum. Activity: a pendulum and a dropped ball. Exercise 2(C).\n- **Period 10:** exam toolkit: definitions test, give-reasons practice, self-test and exit ticket.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Leaving **minutes or hours** unchanged in P = W ÷ t.\n- Using the **length of the slope** instead of the vertical height in mgh.\n- Squaring the whole of **mv** or halving before squaring in ½mv².\n- Mixing **kW and kWh**.\n- Saying a person holding a load still is **doing work**.\n- Thinking energy is **used up**, instead of changed into another form (often heat).\n- Forgetting to change **grams into kilograms**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. A force of 30 N moves a box 4 m in its own direction. How much work is done?",
+              "a": "30 × 4 = **120 J**."
+            },
+            {
+              "q": "2. A 60 W bulb is on for 5 hours. How much energy does it use, in kWh?",
+              "a": "0.06 kW × 5 h = **0.3 kWh**."
+            },
+            {
+              "q": "3. A 50 kg boy climbs 3 m in 6 s (g = 10). What is his power?",
+              "a": "50 × 10 × 3 ÷ 6 = **250 W**."
+            },
+            {
+              "q": "4. Find the kinetic energy of a 4 kg ball at 3 m/s.",
+              "a": "½ × 4 × 9 = **18 J**."
+            },
+            {
+              "q": "5. State the principle of conservation of energy.",
+              "a": "Energy can neither be **created nor destroyed**. It only **changes from one form to another**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

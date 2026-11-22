@@ -1,0 +1,26 @@
+{
+  "stages": [
+    "school"
+  ],
+  "level": "beginner",
+  "lang": "en",
+  "authors": [
+    {
+      "name": "vijayanandraj",
+      "url": "https://github.com/vijayanandraj"
+    }
+  ],
+  "license": "CC-BY-SA-4.0",
+  "audience": "ICSE Class 10 students who find physics hard, and their teachers and parents: Chapter 2, Work, Energy and Power",
+  "subject": "science",
+  "follows": "ICSE Class 10 Physics (Selina Concise Physics, Chapter 2: Work, Energy and Power)",
+  "tags": [
+    "physics",
+    "icse",
+    "class 10",
+    "work",
+    "energy",
+    "power",
+    "step by step"
+  ]
+}
