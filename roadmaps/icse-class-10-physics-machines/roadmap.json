@@ -1,0 +1,1466 @@
+{
+  "title": "ICSE Class 10 Physics, Chapter 3: Machines, Step by Step",
+  "subtitle": "For students who find physics hard. Mechanical advantage, velocity ratio and efficiency, the three classes of levers, and single pulleys, pulley systems and the block and tackle, in small steps, with every numerical shown line by line, quick checks, an exam toolkit and a last-minute revision sheet. Follows the ICSE Class 10 syllabus, Chapter 3 (Machines), in the order of Selina Concise Physics.",
+  "updated": "2026-11-23",
+  "changelog": [
+    {
+      "date": "2026-11-23",
+      "text": "First version: the whole chapter in small steps, with original worked examples, quick checks, a last-minute revision sheet, a self-test and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** be sure of kgf and newtons, ratios and percentages, moments and work. Every numerical in this chapter uses them.",
+      "links": [
+        {
+          "label": "Wikipedia: simple machine",
+          "url": "https://en.wikipedia.org/wiki/Simple_machine"
+        }
+      ],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Same units before you divide.** Load and effort both in N (or both in kgf). Both arms in cm (or both in m). Most lost marks in this chapter come from mixing them.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: what you gain in force, you pay in distance.** A machine never gives you free work. If it lets a small effort lift a big load, your hand must move farther than the load. Levers and pulleys are just different ways of making that trade.",
+          "links": [
+            {
+              "label": "Wikipedia: simple machine",
+              "url": "https://en.wikipedia.org/wiki/Simple_machine"
+            },
+            {
+              "label": "Last-minute revision sheet for this chapter",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-machines#revision-sheet"
+            },
+            {
+              "label": "Previous chapter: 2. Work, Energy and Power",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-work-energy-power"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 3, *Machines*, of the ICSE Class 10 Physics syllabus. It follows the order of *Selina Concise Physics* for Class 10.\n\n**Who it is for.** Class 10 students who find physics hard, and want to understand this chapter and score decent marks in it. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** What you gain in force, you pay in distance. A machine never gives free work.\n\n**How it is different from the textbook.** The textbook gives every formula its own derivation, and treats the two kinds of pulley system with similar-looking working. Here, every pulley is handled by one method, counting the strands, and the two systems that students mix up (2ⁿ and n) are put side by side. The three classes of lever come down to one question: what is in the middle?\n\n**What is inside.**\n- 12 milestones and 64 small steps. The 52 solid steps are the core path. The dashed ones are optional.\n- 63 practice questions with hidden answers, and 9 pictures.\n- 31 click-to-check questions that say right or wrong, and why: a quick check after each of the 7 main milestones, and a 10-question self-test.\n- A **last-minute revision sheet**: every formula, unit and key point on one page.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the challenge questions, the two kinds of oar, a list of diagrams to practise, and a section for teachers and parents with an 11-period lesson plan, the mistakes to watch for and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from their textbook. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the ICSE syllabus but is not made or endorsed by CISCE or by any publisher. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Change 12 kgf into newton. (Take g = 10 N/kg.)",
+              "a": "12 × 10 = **120 N**. Wrong? Do *kgf, gf and newtons*."
+            },
+            {
+              "q": "2. Write 360 ÷ 480 as a decimal, then as a percentage.",
+              "a": "360 ÷ 480 = **0.75 = 75%**. Wrong? Do *How many times? Ratios and percentages*."
+            },
+            {
+              "q": "3. A 40 N load is 15 cm from a pivot. The effort is 60 cm from it. Find the effort.",
+              "a": "40 × 15 = E × 60, so E = 600 ÷ 60 = **10 N**. Wrong? Do *Moments again (Chapter 1)*."
+            },
+            {
+              "q": "4. A force of 25 N pulls a rope through 6 m. How much work does it do?",
+              "a": "25 × 6 = **150 J**. Wrong? Do *Work again (Chapter 2)*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "kgf-newton",
+          "label": "kgf, gf and newtons",
+          "type": "core",
+          "desc": "Loads in this chapter come in **kgf** or in **newton (N)**.\n\n**1 kgf = 10 N** (taking g = 10 N/kg). And **1000 gf = 1 kgf**.\n\n**Worked example:** a 300 g stone has a weight of 300 gf.\n\n300 gf = 300 ÷ 1000 = 0.3 kgf\n\n0.3 kgf = 0.3 × 10 = **3 N**\n\n**Before you divide load by effort, put both in the same unit.**",
+          "links": [
+            {
+              "label": "Wikipedia: kilogram-force",
+              "url": "https://en.wikipedia.org/wiki/Kilogram-force"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: change 45 kgf into newton.",
+              "a": "45 × 10 = **450 N**."
+            },
+            {
+              "q": "Your turn: a load is 600 N and the effort is 20 kgf. How many times bigger is the load?",
+              "a": "Same units first: 20 kgf = 200 N. Then 600 ÷ 200 = **3 times**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ratio-percent",
+          "label": "How many times? Ratios and percentages",
+          "type": "core",
+          "desc": "A ratio says **how many times** bigger one thing is. You find it by dividing.\n\n- 600 ÷ 200 = 3: the first is 3 times the second.\n- 40 ÷ 160 = 0.25: the first is a quarter of the second.\n\nA ratio of two forces, or of two distances, has **no unit**. The units cancel.\n\nTo change a decimal into a percentage, **multiply by 100**: 0.75 × 100 = 75%. To go back, divide by 100: 80% = 0.8.",
+          "links": [
+            {
+              "label": "Math is Fun: decimals and percentages",
+              "url": "https://www.mathsisfun.com/converting-decimals-percents.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: write 0.6 as a percentage, and 90% as a decimal.",
+              "a": "0.6 × 100 = **60%**. 90 ÷ 100 = **0.9**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "moments-recap",
+          "label": "Moments again (Chapter 1)",
+          "type": "core",
+          "desc": "A bar on a pivot balances when the two turning effects are equal. This is the **principle of moments** from Chapter 1:\n\n**load × load arm = effort × effort arm**\n\nEach arm is measured from the pivot, which we now call the **fulcrum**.\n\n**Worked example:** a 60 N load is 20 cm from the fulcrum. The effort is 80 cm from it.\n\n60 × 20 = E × 80\n\n1200 = E × 80\n\nE = 1200 ÷ 80 = **15 N**",
+          "links": [
+            {
+              "label": "Math is Fun: moment (torque)",
+              "url": "https://www.mathsisfun.com/physics/moment-torque.html"
+            },
+            {
+              "label": "Chapter 1: Force",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-force"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a 90 N load is 10 cm from the fulcrum. The effort is 30 cm away. Find the effort.",
+              "a": "90 × 10 = E × 30, so E = 900 ÷ 30 = **30 N**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "work-recap",
+          "label": "Work again (Chapter 2)",
+          "type": "core",
+          "desc": "Work is done when a force moves something. **W = F × d**, measured in **joule (J)**.\n\n**Worked example:** an effort of 50 N pulls a rope through 4 m.\n\nW = 50 × 4 = **200 J**\n\nIn this chapter you will find two works: the work **you** put in, and the work done **on the load**.",
+          "links": [
+            {
+              "label": "Chapter 2: Work, Energy and Power",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-work-energy-power"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a pulley lifts a 300 N load through 2 m. How much work is done on the load?",
+              "a": "300 × 2 = **600 J**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "machines",
+      "label": "What machines do",
+      "desc": "**Goal:** know the four jobs a machine does, and what load and effort mean. Exercise 3(A) starts here.",
+      "links": [],
+      "children": [
+        {
+          "id": "four-jobs",
+          "label": "Four jobs a machine does",
+          "type": "core",
+          "desc": "A **machine** is a device that makes a job easier. A force at one point (the **effort**) overcomes a force at another point (the **load**).\n\nIt helps in four ways:\n\n- **Lift a heavy load with a small effort:** a **force multiplier**. A car jack, a crowbar.\n- **Move the effort to a handier point.** On a bicycle you push the pedal, and the chain turns the back wheel.\n- **Change the direction of the effort.** At a well you pull the rope down, and the bucket comes up.\n- **Gain speed.** A small movement of your hand makes a big, quick movement of the load. Scissors cutting cloth, a fishing rod.",
+          "links": [
+            {
+              "label": "Wikipedia: simple machine",
+              "url": "https://en.wikipedia.org/wiki/Simple_machine"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: which job does each do? (a) a car jack (b) a pulley at the top of a flagpole.",
+              "a": "(a) **Force multiplier**: a small push lifts a heavy car. (b) **Changes direction**: you pull down, the flag goes up."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "load-effort",
+          "label": "Load and effort",
+          "type": "core",
+          "desc": "Every machine has two forces:\n\n- **Load (L):** the force the machine has to overcome. Often it is a weight.\n- **Effort (E):** the force **you** apply to the machine.\n\n**Worked example:** you open a bottle. The cap holds on with 60 N. You lift the opener's handle with 10 N.\n\nLoad = **60 N** (the cap). Effort = **10 N** (your hand).",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: Priya uses a crowbar to move a 50 kgf stone. She pushes down with 10 kgf. Which is the load, and which is the effort?",
+              "a": "The stone's **50 kgf** is the **load**. Her **10 kgf** push is the **effort**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "force-or-speed",
+          "label": "Force or speed, never both",
+          "type": "core",
+          "desc": "Here is the one idea of this chapter. Look at the lever in the picture.\n\nA 100 N effort lifts a 300 N load. That is a **gain in force**.\n\nBut the effort end moves 30 cm while the load rises only 10 cm. You **pay in distance**.\n\n**What you gain in force, you pay in distance.** So a machine can multiply force **or** speed, but never both at the same time.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a machine lets you lift a load 4 times your effort. Does your hand move farther or less far than the load?",
+              "a": "**Farther**: about **4 times** as far. You gain force and pay in distance."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/trade.png",
+              "caption": "A gain in force, paid for in distance"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-machines",
+          "label": "Quick check: what machines do",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A pulley at a well lets you pull down to raise the bucket. Which job is it doing?",
+              "options": [
+                "Multiplying force",
+                "Gaining speed",
+                "Changing the direction of the effort",
+                "Multiplying energy"
+              ],
+              "answer": 2,
+              "why": "You pull **down** and the bucket goes **up**. See *Four jobs a machine does*."
+            },
+            {
+              "q": "In a nut cracker, which force is the load?",
+              "options": [
+                "Your hand on the handles",
+                "The resistance of the nut",
+                "The weight of the nut cracker",
+                "The force at the hinge"
+              ],
+              "answer": 1,
+              "why": "The **load** is the force the machine overcomes: the nut's resistance. Your hand gives the **effort**."
+            },
+            {
+              "q": "A machine lets you lift a load 5 times your effort. What happens to the distances?",
+              "options": [
+                "Your hand moves 5 times as far as the load",
+                "The load moves 5 times as far as your hand",
+                "Both move the same distance",
+                "Neither moves"
+              ],
+              "answer": 0,
+              "why": "**What you gain in force, you pay in distance.** See *Force or speed, never both*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "ma-vr",
+      "label": "Mechanical advantage and velocity ratio",
+      "desc": "**Goal:** find MA and VR, and say what each one tells you. Exercise 3(A).",
+      "links": [],
+      "children": [
+        {
+          "id": "ma",
+          "label": "Mechanical advantage: MA = L ÷ E",
+          "type": "core",
+          "desc": "**Mechanical advantage (MA) = load ÷ effort.** It tells you how many times the machine multiplies your force.\n\n**Worked example:** a jack lifts a 9000 N car with an effort of 300 N.\n\nMA = L ÷ E\n\nMA = 9000 ÷ 300 = **30**\n\nMA has **no unit**: newton ÷ newton cancels.",
+          "links": [
+            {
+              "label": "Wikipedia: mechanical advantage",
+              "url": "https://en.wikipedia.org/wiki/Mechanical_advantage"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a lever lifts 80 kgf with an effort of 16 kgf. Find the MA.",
+              "a": "80 ÷ 16 = **5**."
+            },
+            {
+              "q": "Your turn: the load is 500 N and the effort is 25 kgf. Find the MA.",
+              "a": "Same units first: 25 kgf = 250 N. MA = 500 ÷ 250 = **2**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ma-meaning",
+          "label": "MA more than 1, equal to 1, less than 1",
+          "type": "core",
+          "desc": "- **MA more than 1:** the effort is less than the load. A **force multiplier**: a crowbar, a nut cracker.\n- **MA equal to 1:** the effort equals the load. No gain in force. Used to **change direction**: a single fixed pulley.\n- **MA less than 1:** the effort is more than the load. You lose force but **gain speed**: sugar tongs, a knife.\n\n**Worked example:** fire tongs lift a 3 N piece of coal. Your fingers squeeze with 12 N.\n\nMA = 3 ÷ 12 = **0.25**\n\nThis is less than 1, so the tongs give a gain in speed and reach, not force.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a machine has MA 1.6. Is it a force multiplier or a speed multiplier?",
+              "a": "MA is **more than 1**, so it is a **force multiplier**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "vr",
+          "label": "Velocity ratio: VR = dE ÷ dL",
+          "type": "core",
+          "desc": "**Velocity ratio (VR) = distance moved by the effort ÷ distance moved by the load.**\n\nBoth move in the same time, so this also equals the effort's speed ÷ the load's speed. That is why it is called a *velocity* ratio.\n\n**Worked example:** you push a lever handle down 45 cm. The load rises 9 cm.\n\nVR = dE ÷ dL\n\nVR = 45 ÷ 9 = **5**\n\nVR has **no unit**. It depends **only on the design** of the machine: its lengths, or its number of pulleys. Friction does not change it.",
+          "links": [
+            {
+              "label": "Wikipedia: velocity ratio",
+              "url": "https://en.wikipedia.org/wiki/Velocity_ratio"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a rope is pulled through 6 m and the load rises 1.5 m. Find the VR.",
+              "a": "6 ÷ 1.5 = **4**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ideal-ma-vr",
+          "label": "In a perfect machine, MA = VR",
+          "type": "core",
+          "desc": "Imagine a **perfect** machine: no friction, and parts that weigh nothing. Then **MA = VR**.\n\nIn the lever picture of *Force or speed, never both*: VR = 30 ÷ 10 = 3, and MA = 300 ÷ 100 = 3.\n\nIn a **real** machine, part of your effort goes into friction and into moving the machine's own parts. So the effort is bigger, and **MA is less than VR**. The VR stays the same.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a real pulley system has VR 4. Could its MA be 4.5?",
+              "a": "**No.** MA is never more than VR. A real machine has MA **less than 4**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-ma-vr",
+          "label": "Quick check: MA and VR",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A load of 600 N is lifted by an effort of 150 N. What is the MA?",
+              "options": [
+                "4 N",
+                "90 000",
+                "4",
+                "0.25"
+              ],
+              "answer": 2,
+              "why": "MA = 600 ÷ 150 = **4**, with **no unit**."
+            },
+            {
+              "q": "The effort moves 2 m while the load moves 50 cm. What is the VR?",
+              "options": [
+                "0.04",
+                "4",
+                "25",
+                "100"
+              ],
+              "answer": 1,
+              "why": "Same units first: 50 cm = 0.5 m. VR = 2 ÷ 0.5 = **4**."
+            },
+            {
+              "q": "Oiling a machine reduces friction. What happens to its VR?",
+              "options": [
+                "It goes up",
+                "It goes down",
+                "It stays the same",
+                "It becomes 1"
+              ],
+              "answer": 2,
+              "why": "VR depends **only on the design**. Less friction raises the MA, not the VR."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "efficiency",
+      "label": "Work in, work out: efficiency",
+      "desc": "**Goal:** find the efficiency of a machine, and link it to MA and VR. Exercise 3(A).",
+      "links": [],
+      "children": [
+        {
+          "id": "work-in-out",
+          "label": "Work input and work output",
+          "type": "core",
+          "desc": "- **Work input** = work done **by the effort** = E × dE\n- **Work output** = work done **on the load** = L × dL\n\n**Worked example:** an effort of 50 N moves 4 m. It lifts a 160 N load through 1 m.\n\nWork input = 50 × 4 = **200 J**\n\nWork output = 160 × 1 = **160 J**\n\nThe missing 40 J went into friction, and came out as heat.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: an effort of 80 N moves 3 m and lifts a 200 N load through 1 m. Find the work input and the work output.",
+              "a": "Input = 80 × 3 = **240 J**. Output = 200 × 1 = **200 J**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "eta",
+          "label": "Efficiency: work out ÷ work in",
+          "type": "core",
+          "desc": "**Efficiency (η) = work output ÷ work input.** η is the Greek letter *eta*. Multiply by 100 to get a percentage.\n\n**Worked example** (the picture): 200 J goes in, 150 J comes out.\n\nη = 150 ÷ 200 = 0.75\n\nη = 0.75 × 100 = **75%**\n\nEfficiency has **no unit**. For every real machine it is **less than 100%**.",
+          "links": [
+            {
+              "label": "Wikipedia: mechanical efficiency",
+              "url": "https://en.wikipedia.org/wiki/Mechanical_efficiency"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: in *Work input and work output*, 160 J came out of 200 J. Find the efficiency.",
+              "a": "160 ÷ 200 = 0.8 = **80%**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/energy-flow.png",
+              "caption": "75% comes out as useful work. The other 25% becomes heat"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "why-not-100",
+          "label": "Why no machine is 100% efficient",
+          "type": "core",
+          "desc": "Energy is never made from nothing (Chapter 2). So the **work output can never be more than the work input**, and the efficiency can never be more than 100%.\n\nIn a real machine some input is always lost, mostly as **heat**, because:\n\n- the moving parts rub (**friction**) and are not weightless,\n- the string stretches a little,\n- the parts bend a little: they are not perfectly rigid.\n\nA machine with no loss at all is called an **ideal machine**. Its efficiency would be 100%. It does not exist, but it makes the sums simple.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a machine is 85% efficient. What happens to the other 15% of the input?",
+              "a": "It is **lost**, mostly as **heat** from friction between the moving parts."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ma-vr-eta",
+          "label": "MA = VR × η",
+          "type": "core",
+          "desc": "MA, VR and efficiency are linked by one formula: **MA = VR × η**. So also **η = MA ÷ VR**.\n\n**Worked example:** a pulley system has VR 4 and efficiency 75%.\n\nMA = VR × η\n\nMA = 4 × 0.75 = **3**\n\n**Worked example:** a lever has MA 2.4 and VR 3.\n\nη = MA ÷ VR = 2.4 ÷ 3 = 0.8 = **80%**\n\n**Use η as a decimal** (0.75, not 75) when you multiply. Where the formula comes from is in *The derivation: MA = VR × η*.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: VR = 5 and η = 60%. Find the MA.",
+              "a": "MA = 5 × 0.6 = **3**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-efficiency",
+          "label": "Quick check: efficiency",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A machine does 300 J of work on a load. The effort did 400 J of work. What is the efficiency?",
+              "options": [
+                "133%",
+                "75%",
+                "0.75%",
+                "700 J"
+              ],
+              "answer": 1,
+              "why": "η = 300 ÷ 400 = 0.75 = **75%**."
+            },
+            {
+              "q": "A machine has VR 6 and efficiency 50%. Find its MA.",
+              "options": [
+                "12",
+                "300",
+                "3",
+                "0.5"
+              ],
+              "answer": 2,
+              "why": "MA = VR × η = 6 × 0.5 = **3**. Use η as a decimal."
+            },
+            {
+              "q": "Which machine could **not** exist?",
+              "options": [
+                "MA 2, VR 3",
+                "MA 0.5, VR 0.6",
+                "MA 4, VR 3",
+                "MA 1, VR 1.2"
+              ],
+              "answer": 2,
+              "why": "MA more than VR means efficiency over 100%: more work out than in. That is **impossible**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "levers",
+      "label": "Levers",
+      "desc": "**Goal:** name the parts of a lever and use MA = effort arm ÷ load arm. Exercise 3(A).",
+      "links": [],
+      "children": [
+        {
+          "id": "what-lever",
+          "label": "What a lever is",
+          "type": "core",
+          "desc": "A **lever** is a rigid bar, straight or bent, that turns about a fixed point called the **fulcrum (F)**.\n\n- **Effort arm:** the distance from the fulcrum to the effort.\n- **Load arm:** the distance from the fulcrum to the load.\n\nA lever works by the **principle of moments**: load × load arm = effort × effort arm. For an ideal lever, the bar weighs nothing and there is no friction at the fulcrum.",
+          "links": [
+            {
+              "label": "Wikipedia: lever",
+              "url": "https://en.wikipedia.org/wiki/Lever"
+            },
+            {
+              "label": "PhET: balancing act (simulation)",
+              "url": "https://phet.colorado.edu/en/simulations/balancing-act"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: check that the lever in the picture balances.",
+              "a": "Load side: 500 × 0.3 = **150**. Effort side: 100 × 1.5 = **150**. They are equal, so it balances."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/lever-arms.png",
+              "caption": "The long effort arm makes the effort 5 times smaller"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "law-levers",
+          "label": "MA of a lever = effort arm ÷ load arm",
+          "type": "core",
+          "desc": "Start from load × load arm = effort × effort arm. Divide both sides by (effort × load arm):\n\nload ÷ effort = effort arm ÷ load arm\n\nSo **MA = effort arm ÷ load arm**. This is the **law of levers**.\n\n**Worked example:** a lever has effort arm 72 cm and load arm 8 cm.\n\nMA = 72 ÷ 8 = **9**\n\n- Effort arm longer than load arm: **MA more than 1**.\n- Equal arms: **MA = 1**.\n- Effort arm shorter: **MA less than 1**.\n\n**To raise the MA, make the effort arm longer**, or the load arm shorter.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: effort arm 1.2 m, load arm 30 cm. Find the MA.",
+              "a": "Same units first: 30 cm = 0.3 m. MA = 1.2 ÷ 0.3 = **4**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "lever-effort",
+          "label": "Finding the effort",
+          "type": "core",
+          "desc": "There are two ways. They give the same answer.\n\n**Worked example (using MA):** a lever has MA 6. The load is 420 N.\n\nE = L ÷ MA = 420 ÷ 6 = **70 N**\n\n**Worked example (using moments):** a 35 kgf load is 12 cm from the fulcrum. The effort is 84 cm away.\n\n35 × 12 = E × 84\n\n420 = E × 84\n\nE = 420 ÷ 84 = **5 kgf**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: effort arm 50 cm, load arm 10 cm, load 300 N. Find the effort.",
+              "a": "MA = 50 ÷ 10 = 5. E = 300 ÷ 5 = **60 N**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "lever-lengths",
+          "label": "Arms from the whole length",
+          "type": "core",
+          "desc": "Questions often give the **whole length** of the bar. Find the two arms first.\n\n**Worked example:** a crowbar 1.5 m long has its fulcrum 25 cm from the tip. A 90 kgf load is at the tip.\n\nLoad arm = 25 cm\n\nEffort arm = 150 − 25 = 125 cm\n\nMA = 125 ÷ 25 = 5\n\nE = 90 ÷ 5 = **18 kgf**\n\nDraw a quick sketch first. It stops you mixing up the arms.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a bar 2.4 m long has its fulcrum 40 cm from the load end. The load is 150 kgf. Find the MA and the effort.",
+              "a": "Load arm = 40 cm. Effort arm = 240 − 40 = 200 cm. MA = 200 ÷ 40 = **5**. E = 150 ÷ 5 = **30 kgf**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-levers",
+          "label": "Quick check: levers",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A lever has effort arm 90 cm and load arm 15 cm. Find its MA.",
+              "options": [
+                "6",
+                "0.17",
+                "75",
+                "1350"
+              ],
+              "answer": 0,
+              "why": "MA = effort arm ÷ load arm = 90 ÷ 15 = **6**."
+            },
+            {
+              "q": "A lever has MA 4. The load is 200 kgf. Find the effort.",
+              "options": [
+                "800 kgf",
+                "50 kgf",
+                "204 kgf",
+                "196 kgf"
+              ],
+              "answer": 1,
+              "why": "E = L ÷ MA = 200 ÷ 4 = **50 kgf**."
+            },
+            {
+              "q": "How can you increase the MA of a lever?",
+              "options": [
+                "Make the effort arm longer",
+                "Make the load arm longer",
+                "Use a heavier load",
+                "Push faster"
+              ],
+              "answer": 0,
+              "why": "**MA = effort arm ÷ load arm.** A longer effort arm gives a bigger MA."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "lever-classes",
+      "label": "Three classes of levers",
+      "desc": "**Goal:** tell the three classes apart by what is in the middle, and know what MA each can have. Exercise 3(A).",
+      "links": [],
+      "children": [
+        {
+          "id": "fle",
+          "label": "What is in the middle? F, L, E = 1, 2, 3",
+          "type": "core",
+          "desc": "To find the class, look at the **middle** one of the three: fulcrum, load, effort.\n\n- **Class I:** the **fulcrum** is in the middle.\n- **Class II:** the **load** is in the middle.\n- **Class III:** the **effort** is in the middle.\n\nRemember **F, L, E = 1, 2, 3**. Whatever is in the middle tells you the class.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: in a wheelbarrow, the wheel is the fulcrum, the load is in the tray, and you lift the handles. Which class?",
+              "a": "The **load** is in the middle: **class II**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/lever-classes.png",
+              "caption": "Find the middle one: F, L, E = I, II, III"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "class-1",
+          "label": "Class I: fulcrum in the middle",
+          "type": "core",
+          "desc": "F is between L and E. The load and the effort act in the **same direction**.\n\nExamples: a seesaw, scissors, pliers, a crowbar, a claw hammer, a beam balance, the handle of a hand pump, a spoon opening a tin lid, nodding your head.\n\n**The MA can be more than 1, equal to 1, or less than 1.** It depends on where F is.\n\n- Crowbar, pliers: long handles, **MA more than 1**.\n- Beam balance: equal arms, **MA = 1**.\n- Scissors for cloth: blades longer than handles, **MA less than 1** (a gain in speed).\n\n**Worked example:** a seesaw is supported at its centre. Rahul (30 kgf) sits 1.6 m from the centre. Where must Meena (40 kgf) sit to balance him?\n\n40 × x = 30 × 1.6\n\n40 × x = 48\n\nx = 48 ÷ 40 = **1.2 m** from the centre, on the other side.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: scissors cut cloth 9 cm from the rivet. Your fingers press 3 cm from the rivet with 12 kgf. Find the MA and the load.",
+              "a": "MA = 3 ÷ 9 = **1/3** (about 0.33). Load = MA × E = 1/3 × 12 = **4 kgf**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "class-2",
+          "label": "Class II: load in the middle",
+          "type": "core",
+          "desc": "L is between F and E. The load and the effort act in **opposite directions**.\n\nThe effort is always farther from the fulcrum than the load, so the **effort arm is always longer**. That means **MA is always more than 1**: a class II lever is always a **force multiplier**.\n\nExamples: a nut cracker, a bottle opener, a wheelbarrow, a lemon crusher, a paper cutter, a door, raising your body on your toes.\n\n**Worked example:** a nut cracker's handles are 18 cm long. A nut sits 3 cm from the hinge and needs 54 kgf to crack.\n\nMA = 18 ÷ 3 = 6\n\nE = 54 ÷ 6 = **9 kgf**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a wheelbarrow carries 60 kgf. The load is 30 cm from the wheel's axle. You lift the handles 1.2 m from it. Find the effort.",
+              "a": "Same units: 1.2 m = 120 cm. MA = 120 ÷ 30 = 4. E = 60 ÷ 4 = **15 kgf**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "class-3",
+          "label": "Class III: effort in the middle",
+          "type": "core",
+          "desc": "E is between F and L. The load and the effort act in **opposite directions**.\n\nThe effort is always nearer the fulcrum, so **MA is always less than 1**. You need **more** effort than the load.\n\nSo why use it? For **speed and reach**. A small movement of the effort makes a large, quick movement of the load. It also lets you hold things gently, from a distance.\n\nExamples: sugar tongs, fire tongs, forceps, a fishing rod, a knife, a spade lifting soil, a foot treadle, your forearm lifting a load.\n\n**Worked example:** fire tongs 24 cm long lift a 2 N piece of coal. Your fingers press 8 cm from the hinge.\n\nMA = 8 ÷ 24 = 1/3\n\nE = L ÷ MA = 2 ÷ 1/3 = 2 × 3 = **6 N**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: forceps hold a 0.6 N load 15 cm from the hinge. Your fingers press 5 cm from the hinge. Find the effort.",
+              "a": "MA = 5 ÷ 15 = 1/3. E = 0.6 × 3 = **1.8 N**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "scissors-shears",
+          "label": "Why scissors and shears look different",
+          "type": "core",
+          "desc": "Both are class I levers, but they are built for different jobs.\n\n- **Scissors for cloth:** blades **longer** than the handles. MA less than 1. A small squeeze makes the blades sweep a long cut: a **gain in speed**. Cloth is easy to cut.\n- **Shears for metal:** handles **much longer** than the blades. MA more than 1. A small effort makes a big force: a **force multiplier**. Metal is hard to cut.\n\nSame class, different MA. **The class depends on positions. The MA depends on lengths.**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: pliers or paper scissors: which one has MA more than 1, and why?",
+              "a": "**Pliers.** Their handles are much longer than their jaws, so the effort arm is longer."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "body-levers",
+          "label": "Levers in your body",
+          "type": "core",
+          "desc": "Your muscles give the effort. Your joints are the fulcrums.\n\n- **Nodding your head: class I.** The top of the spine is the fulcrum, in the middle. The weight of the face is in front. The neck muscles pull at the back.\n- **Standing on your toes: class II.** The toes are the fulcrum at one end. Your body weight is the load, in the middle. The calf muscle pulls up at the heel.\n- **Lifting a load in your hand: class III.** The elbow is the fulcrum. The biceps pulls in the middle. The load is in your hand.\n\nThe forearm has an MA much less than 1. The biceps pulls hard, but your hand moves fast and far.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: in the picture, the hand holds a 20 N load. What force must the biceps give?",
+              "a": "MA = 4 ÷ 32 = 1/8. E = L ÷ MA = 20 × 8 = **160 N**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/forearm.png",
+              "caption": "The forearm: effort in the middle, so class III"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "oars",
+          "label": "Two kinds of oar",
+          "type": "optional",
+          "desc": "A boat shows two classes of lever.\n\n- **A long-handle oar**, used by one person: the edge of the boat is the fulcrum, in the middle. **Class I.** The hands are close to the fulcrum, so the blade sweeps far through the water: MA less than 1, a gain in speed.\n- **A short-handle oar**, used in a boat race: one hand holds the top end still (the fulcrum). The other hand pushes in the middle. The blade pushes the water at the far end. **Class III**, again for speed.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: in a racing boat, what acts as the fulcrum of each short oar?",
+              "a": "The **hand holding the top end still**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-lever-classes",
+          "label": "Quick check: classes of levers",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "In a bottle opener, the load (the cap) is between the fulcrum and your hand. Which class of lever is it?",
+              "options": [
+                "Class I",
+                "Class II",
+                "Class III",
+                "It is not a lever"
+              ],
+              "answer": 1,
+              "why": "**Load in the middle: class II.** Remember F, L, E = 1, 2, 3."
+            },
+            {
+              "q": "Which class of lever always has MA less than 1?",
+              "options": [
+                "Class I",
+                "Class II",
+                "Class III",
+                "None of them"
+              ],
+              "answer": 2,
+              "why": "In class III the **effort is in the middle**, so the effort arm is always the shorter one."
+            },
+            {
+              "q": "Which of these is a class I lever?",
+              "options": [
+                "A nut cracker",
+                "A pair of pliers",
+                "Fire tongs",
+                "A wheelbarrow"
+              ],
+              "answer": 1,
+              "why": "Pliers have the **fulcrum (the rivet) in the middle**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "single-pulleys",
+      "label": "Single pulleys",
+      "desc": "**Goal:** find the MA, VR and efficiency of a single fixed pulley and a single movable pulley. Exercise 3(B) starts here.",
+      "links": [],
+      "children": [
+        {
+          "id": "fixed-pulley",
+          "label": "A single fixed pulley: MA = 1",
+          "type": "core",
+          "desc": "A **pulley** is a wheel with a grooved rim. A rope runs in the groove, and the wheel turns on an axle.\n\nIn a **fixed pulley**, the axle is fixed to a support. The load hangs on one end of the rope. You pull the other end.\n\nThe tension **T** is the same all along the rope. So in an ideal pulley:\n\nL = T and E = T, so **E = L** and **MA = 1**.\n\nPull the rope down 1 m and the load rises 1 m, so **VR = 1**.\n\nIn a real pulley there is friction at the axle. The effort is a little more than the load, so **MA is a little less than 1**, and the efficiency is less than 100%.",
+          "links": [
+            {
+              "label": "Wikipedia: pulley",
+              "url": "https://en.wikipedia.org/wiki/Pulley"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a fixed pulley lifts a 240 N bucket with a 300 N pull. Find the MA and the efficiency.",
+              "a": "MA = 240 ÷ 300 = **0.8**. VR = 1, so η = 0.8 ÷ 1 = **80%**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/fixed-pulley.png",
+              "caption": "One strand holds the load, so the effort equals the load"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "why-fixed",
+          "label": "So why use a fixed pulley?",
+          "type": "core",
+          "desc": "A fixed pulley gives no gain in force and no gain in speed. But it **changes the direction** of the effort.\n\nPulling **down** is much easier than lifting **up**. You can even use your own weight to pull.\n\nThat is why wells, flagpoles and window blinds use a fixed pulley.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: give one reason why a fixed pulley is useful, even though its MA is 1.",
+              "a": "It lets you pull **downwards**, a more convenient direction, and use your **own weight** as part of the effort."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "movable-pulley",
+          "label": "A single movable pulley: MA = 2",
+          "type": "core",
+          "desc": "In a **movable pulley**, the load hangs from the pulley itself. One end of the rope is tied to a support. You pull the other end **upwards**.\n\nNow **two strands** hold the load, each with tension T:\n\nL = 2T and E = T, so **MA = 2** (ideal).\n\nWhen the load rises 1 m, **both** strands get 1 m shorter. So your end moves **2 m**, and **VR = 2**.\n\n**Worked example:** a movable pulley lifts a 360 N load. Ideal effort = 360 ÷ 2 = **180 N**.\n\nIn a real pulley, friction and the weight of the pulley make the **MA less than 2**. The VR stays 2.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: you pull the free end up through 3 m. How far does the load rise?",
+              "a": "VR = 2, so the load rises 3 ÷ 2 = **1.5 m**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/movable-pulley.png",
+              "caption": "Two strands share the load, so each pulls half"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "movable-fixed",
+          "label": "Pulling down with a movable pulley",
+          "type": "core",
+          "desc": "A movable pulley makes you pull **up**, which is awkward. So we add a **fixed pulley** above it to turn the rope round.\n\nNow you pull **down**, and the **MA is still 2** and the **VR is still 2**. The fixed pulley only changes the direction.\n\n**Worked example:** this pair lifts a 50 kgf sack.\n\nIdeal effort = 50 ÷ 2 = **25 kgf**, pulled downwards.\n\nIf the effort end moves 4 m, the sack rises 4 ÷ 2 = **2 m**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: in this pair, what job does each pulley do?",
+              "a": "The **movable** pulley halves the effort (a force multiplier). The **fixed** pulley changes the direction of the effort."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "fixed-vs-movable",
+          "label": "Fixed and movable pulleys, side by side",
+          "type": "core",
+          "desc": "**Single fixed pulley**\n\n- The axle is fixed to a support.\n- The load hangs on one end of the rope.\n- Ideal **MA = 1, VR = 1**.\n- Used to **change direction**.\n- The effort is pulled **down**.\n- Its own weight does not add to the effort.\n\n**Single movable pulley**\n\n- The pulley moves up with the load.\n- The load hangs from the pulley's axle.\n- Ideal **MA = 2, VR = 2**.\n- Used as a **force multiplier**.\n- The effort is pulled **up**.\n- Its own weight adds to the load, so the MA falls.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: cover the lists. Give four differences between a fixed and a movable pulley.",
+              "a": "Any four: **support** (axle fixed or moving), **where the load hangs**, **MA and VR** (1 or 2), **use** (direction or force), **direction of effort** (down or up), **effect of its own weight**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-single-pulleys",
+          "label": "Quick check: single pulleys",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "What is the ideal MA of a single fixed pulley?",
+              "options": [
+                "0",
+                "1",
+                "2",
+                "It depends on the load"
+              ],
+              "answer": 1,
+              "why": "One strand holds the load, so **E = L** and **MA = 1**."
+            },
+            {
+              "q": "With a single movable pulley, the effort end moves 5 m. How far does the load rise?",
+              "options": [
+                "10 m",
+                "5 m",
+                "2.5 m",
+                "1 m"
+              ],
+              "answer": 2,
+              "why": "**VR = 2**, so the load moves half as far: 5 ÷ 2 = **2.5 m**."
+            },
+            {
+              "q": "A real movable pulley lifts 400 N with an effort of 250 N. What is its efficiency?",
+              "options": [
+                "62.5%",
+                "80%",
+                "160%",
+                "50%"
+              ],
+              "answer": 1,
+              "why": "MA = 400 ÷ 250 = 1.6. η = MA ÷ VR = 1.6 ÷ 2 = 0.8 = **80%**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "pulley-systems",
+      "label": "Pulley systems",
+      "desc": "**Goal:** find the MA and VR of several movable pulleys, and of a block and tackle, by counting. Exercise 3(B).",
+      "links": [],
+      "children": [
+        {
+          "id": "count-strands",
+          "label": "Count the strands",
+          "type": "core",
+          "desc": "For heavy loads, we join several pulleys. One trick works for most of them:\n\n**Count the strands of rope that hold up the moving part.** When a single rope runs through the system, every strand pulls with the same tension T, which equals your effort.\n\n- 1 strand: MA = 1\n- 2 strands: MA = 2\n- n strands: **MA = n**, and **VR = n**\n\nCount only the strands that pull on the **moving** pulley or block. The rope in your hand counts only if you pull it **upwards** from the moving part.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: look at the picture in *A single movable pulley: MA = 2*. How many strands hold the load, and what is the MA?",
+              "a": "**2 strands**, so **MA = 2**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "movable-chain",
+          "label": "Several movable pulleys: MA = 2ⁿ",
+          "type": "core",
+          "desc": "Here each movable pulley has **its own rope**. One end of each rope is tied to the support.\n\nEach movable pulley **halves** the pull:\n\n- 1 movable pulley: MA = 2\n- 2 movable pulleys: MA = 2 × 2 = 4\n- 3 movable pulleys: MA = 2 × 2 × 2 = 8\n\nSo with **n movable pulleys** (and one fixed pulley to turn the rope), **MA = 2ⁿ** and **VR = 2ⁿ**.\n\n**Worked example** (the picture): 2 movable pulleys lift 400 N.\n\nMA = 2² = 4\n\nE = 400 ÷ 4 = **100 N**\n\nThe fixed pulley C does not change the MA. It only lets you pull down.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: 3 movable pulleys and 1 fixed pulley lift 800 N. Find the ideal MA and the effort.",
+              "a": "MA = 2³ = **8**. E = 800 ÷ 8 = **100 N**."
+            },
+            {
+              "q": "Your turn: in the same system, the load rises 1 m. How far does the effort end move?",
+              "a": "VR = 8, so it moves **8 m**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/movable-chain.png",
+              "caption": "Each movable pulley halves the pull: 400, 200, 100"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "block-tackle",
+          "label": "Block and tackle: MA = n",
+          "type": "core",
+          "desc": "A **block and tackle** has two blocks of pulleys. The upper block is fixed to a support. The lower block moves with the load. **One rope**, the tackle, runs round all the pulleys.\n\nWhen the effort is pulled **downwards**, the number of strands holding the lower block equals the **total number of pulleys, n**.\n\nSo **MA = n** and **VR = n** (ideal).\n\n**Worked example** (the picture): 4 pulleys lift a 400 N load.\n\nE = 400 ÷ 4 = **100 N**\n\nIf the load rises 0.5 m, each of the 4 strands gets 0.5 m shorter. So the effort end moves 4 × 0.5 = **2 m**.",
+          "links": [
+            {
+              "label": "Wikipedia: block and tackle",
+              "url": "https://en.wikipedia.org/wiki/Block_and_tackle"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a block and tackle has 5 pulleys. It lifts 1500 N. Find the ideal effort.",
+              "a": "MA = 5. E = 1500 ÷ 5 = **300 N**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/block-tackle.png",
+              "caption": "Count the strands on the moving block: 4"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "tackle-tie",
+          "label": "Where to tie the rope",
+          "type": "core",
+          "desc": "When you draw a block and tackle, tie the end of the rope so that the effort pulls **downwards**.\n\n- The lower block has **the same number** of pulleys as the upper block, **or one fewer**.\n- **Same number** in each block (total even, like 2 + 2): tie the end to the hook of the **upper** block.\n- **One more** in the upper block (total odd, like 3 + 2): tie the end to the hook of the **lower** block.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: you must draw a block and tackle with VR 5. How many pulleys go in each block, and where is the rope tied?",
+              "a": "**3 in the upper block, 2 in the lower.** The total is odd, so tie the end to the **lower** block's hook."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "two-systems",
+          "label": "2ⁿ or n? Don't mix them",
+          "type": "core",
+          "desc": "The two systems look alike. Ask: **how many ropes?**\n\n- **A separate rope** for each movable pulley: each pulley **doubles** the MA. **MA = 2ⁿ**, where n is the number of **movable** pulleys.\n- **One rope** through two blocks: each strand **adds** one. **MA = n**, where n is the number of **all** the pulleys.\n\n**Worked example:** you have 5 pulleys.\n\nAs 4 movable + 1 fixed, separate ropes: MA = 2⁴ = **16**\n\nAs a block and tackle (3 + 2): MA = **5**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: you have 3 pulleys. Which gives the bigger ideal MA: 2 movable + 1 fixed with separate ropes, or a block and tackle?",
+              "a": "Separate ropes: 2² = **4**. Block and tackle: **3**. So **separate ropes** give more."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "lower-block",
+          "label": "Why the lower block should be light",
+          "type": "core",
+          "desc": "In a real block and tackle, your effort must also lift the **lower block**. Lifting it is not useful work.\n\nIdeal: L = nE. With a lower block of weight w (and no friction): **L + w = nE**.\n\n**Worked example:** 4 pulleys, effort 300 N, lower block weighs 200 N.\n\nL + 200 = 4 × 300 = 1200\n\nL = 1200 − 200 = **1000 N**\n\nMA = 1000 ÷ 300 = **3.33**, less than 4. The VR is still 4.\n\nSo keep the lower block **light**, and oil the pulleys to cut friction.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why does a heavy lower block lower the efficiency but not the VR?",
+              "a": "VR depends only on the **number of strands**. But part of the work now goes into lifting the block, so less of it is **useful**: η falls."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "system-efficiency",
+          "label": "Efficiency of a pulley system",
+          "type": "core",
+          "desc": "Use the formulas you already know: MA = L ÷ E, VR = number of strands, η = MA ÷ VR.\n\n**Worked example:** a block and tackle of 3 pulleys lifts 540 N with an effort of 225 N.\n\nMA = 540 ÷ 225 = 2.4\n\nVR = 3\n\nη = 2.4 ÷ 3 = 0.8 = **80%**\n\n**Worked example:** a system with VR 5 is 70% efficient. What load can a 200 N effort lift?\n\nMA = VR × η = 5 × 0.7 = 3.5\n\nL = MA × E = 3.5 × 200 = **700 N**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a system with VR 4 lifts 480 N with an effort of 150 N. Find its efficiency.",
+              "a": "MA = 480 ÷ 150 = 3.2. η = 3.2 ÷ 4 = 0.8 = **80%**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-pulley-systems",
+          "label": "Quick check: pulley systems",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A block and tackle has 6 pulleys, and the effort is pulled down. What is its ideal MA?",
+              "options": [
+                "6",
+                "12",
+                "64",
+                "3"
+              ],
+              "answer": 0,
+              "why": "One rope through two blocks: **MA = n = 6**."
+            },
+            {
+              "q": "Three movable pulleys, each with its own rope, are used with one fixed pulley. What is the ideal MA?",
+              "options": [
+                "4",
+                "6",
+                "8",
+                "3"
+              ],
+              "answer": 2,
+              "why": "Each movable pulley doubles it: 2 × 2 × 2 = **2³ = 8**."
+            },
+            {
+              "q": "A pulley system has VR 4 and efficiency 75%. What load can an effort of 100 N lift?",
+              "options": [
+                "300 N",
+                "400 N",
+                "133 N",
+                "75 N"
+              ],
+              "answer": 0,
+              "why": "MA = 4 × 0.75 = 3. L = MA × E = 3 × 100 = **300 N**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "exam-toolkit",
+      "label": "Exam toolkit: words and reasons",
+      "desc": "**Goal:** collect the marks that come from learning. Definitions, the one derivation, the four-line method and 'give reasons' answers are easy marks if you know them exactly.",
+      "links": [],
+      "children": [
+        {
+          "id": "definitions",
+          "label": "Definitions to learn word for word",
+          "type": "core",
+          "desc": "- **Machine:** a device by which we can overcome a large load at one point by a small effort at a convenient point and in a convenient direction, or by which we can get a gain in speed.\n- **Load:** the resistive force overcome by a machine.\n- **Effort:** the force applied on a machine to overcome the load.\n- **Mechanical advantage:** the ratio of the load to the effort.\n- **Velocity ratio:** the ratio of the velocity of the effort to the velocity of the load. Also, the distance moved by the effort ÷ the distance moved by the load.\n- **Work input:** the work done on the machine by the effort.\n- **Work output:** the work done by the machine on the load.\n- **Efficiency:** the ratio of the work output to the work input.\n- **Ideal machine:** a machine with no loss of energy. Its efficiency is 100% and its MA = VR.\n- **Lever:** a rigid bar, straight or bent, that can turn about a fixed axis (the fulcrum).\n- **Principle of a lever:** in equilibrium, the moment of the load about the fulcrum equals the moment of the effort about it, in the opposite direction.\n- **Law of levers:** MA = effort arm ÷ load arm.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: cover the list. Define velocity ratio and state its unit.",
+              "a": "The ratio of the **velocity of the effort** to the **velocity of the load**. It has **no unit**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "derivation",
+          "label": "The derivation: MA = VR × η",
+          "type": "core",
+          "desc": "This derivation is in the syllabus. Learn it line by line.\n\nLet the effort E move a distance dE, while the load L moves dL, in the same time.\n\nWork input = E × dE\n\nWork output = L × dL\n\nη = work output ÷ work input = (L × dL) ÷ (E × dE)\n\nη = (L ÷ E) ÷ (dE ÷ dL)\n\nBut L ÷ E = MA, and dE ÷ dL = VR.\n\nSo **η = MA ÷ VR**, or **MA = VR × η**.\n\nFor an ideal machine, η = 1, so **MA = VR**. For a real machine, η is less than 1, so **MA is less than VR**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: write the derivation from memory, then check it. Which two ratios appear in the second-last line?",
+              "a": "**L ÷ E**, which is the MA, and **dE ÷ dL**, which is the VR."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "numerical-method",
+          "label": "Numericals: four lines every time",
+          "type": "core",
+          "desc": "Examiners give marks for each line. Write all four:\n\n1. **Given:** the numbers, in matching units.\n2. **Formula:** in words or symbols.\n3. **Substitute:** put the numbers in.\n4. **Answer:** with its unit, or \"no unit\" for MA, VR and η.\n\n**Worked example:** a block and tackle of 4 pulleys lifts 60 kgf with an effort of 20 kgf. Find its efficiency.\n\nGiven: L = 60 kgf, E = 20 kgf, n = 4, so VR = 4\n\nFormula: MA = L ÷ E, η = MA ÷ VR\n\nSubstitute: MA = 60 ÷ 20 = 3, η = 3 ÷ 4\n\nAnswer: **η = 0.75 = 75%**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which line do students most often get wrong in this chapter?",
+              "a": "The **Given** line: mixing **kgf with N**, or **cm with m**. And giving MA or VR a **unit**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "give-reasons",
+          "label": "Give reasons: model answers",
+          "type": "core",
+          "desc": "Many questions ask *give a reason*. Try these before opening the answers.",
+          "links": [],
+          "faq": [
+            {
+              "q": "The MA of a real machine is always less than its VR.",
+              "a": "Part of the effort is used against **friction** and to move the machine's own **parts**, so the effort is bigger than ideal. VR depends only on the design, so it does not change."
+            },
+            {
+              "q": "A single fixed pulley is used, though its MA is only 1.",
+              "a": "It **changes the direction** of the effort. We can pull down, which is easier, and use our own weight."
+            },
+            {
+              "q": "The MA of a class II lever is always more than 1.",
+              "a": "The load is **between** the fulcrum and the effort, so the **effort arm is always longer** than the load arm."
+            },
+            {
+              "q": "Class III levers are used, though their MA is less than 1.",
+              "a": "They give a **gain in speed**: a small movement of the effort moves the load through a large distance."
+            },
+            {
+              "q": "The lower block of a block and tackle should be light.",
+              "a": "The effort has to lift the lower block too. That work is **not useful**, so a heavy block lowers the MA and the efficiency."
+            },
+            {
+              "q": "No machine can have an efficiency of more than 100%.",
+              "a": "The work output can never be more than the work input. That would create energy, which breaks the **conservation of energy**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "diagrams-practise",
+          "label": "Diagrams to practise",
+          "type": "optional",
+          "desc": "Practise drawing these. Mark F, L and E with arrows, and label every arm.\n\n- One lever of each class, with an example of each.\n- Your head, your toes and your forearm as levers.\n- A single fixed pulley and a single movable pulley, with the tension on every strand.\n- A movable pulley with a fixed pulley, so the effort is pulled down.\n- Three movable pulleys and one fixed pulley, with the tension in each rope.\n- A block and tackle with VR 4, and one with VR 5, each with the rope tied correctly.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: last-minute revision and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Read the sheet the night before the exam and again on the morning.",
+      "links": [],
+      "children": [
+        {
+          "id": "revision-sheet",
+          "label": "Last-minute revision sheet",
+          "type": "core",
+          "desc": "**The one idea:** a machine never gives free work. What you gain in force, you pay in distance.\n\n**Formulas**\n\n- **MA = L ÷ E**\n- **VR = dE ÷ dL** (= velocity of effort ÷ velocity of load)\n- **η = work output ÷ work input = (L × dL) ÷ (E × dE)**\n- **MA = VR × η**, so **η = MA ÷ VR**\n- Lever: **MA = effort arm ÷ load arm**. Load × load arm = effort × effort arm.\n- Single fixed pulley: **MA = 1, VR = 1** (ideal).\n- Single movable pulley: **MA = 2, VR = 2** (ideal).\n- n movable pulleys with separate ropes, plus 1 fixed: **MA = VR = 2ⁿ**.\n- Block and tackle of n pulleys, effort pulled down: **MA = VR = n**.\n- Lower block of weight w: **L + w = nE**.\n\n**Units**\n\n- MA, VR and η have **no unit**.\n- **1 kgf = 10 N** (g = 10 N/kg). **1000 gf = 1 kgf**.\n\n**Key points**\n\n- Ideal machine: η = 100%, MA = VR. Real machine: **η less than 100%, MA less than VR**.\n- Friction changes MA and η, **never VR**.\n- MA more than 1: force multiplier. MA = 1: changes direction. MA less than 1: gain in speed.\n- **F, L, E = 1, 2, 3:** the one in the middle gives the class.\n- Class I: MA can be anything. Class II: **MA always more than 1**. Class III: **MA always less than 1**.\n- In the body: nodding the head is class I, standing on toes is class II, the forearm is class III.\n- Block and tackle: lower block has the same number of pulleys or one fewer. Even total: tie to the upper hook. Odd total: tie to the lower hook.\n\n**Traps:** same units before dividing. η as a decimal when you multiply. 2ⁿ for separate ropes, n for one rope.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A load of 1200 N is lifted by an effort of 300 N. What is the MA?",
+              "options": [
+                "4",
+                "0.25",
+                "900",
+                "1500"
+              ],
+              "answer": 0,
+              "why": "MA = 1200 ÷ 300 = **4**."
+            },
+            {
+              "q": "The effort moves 3 m while the load moves 60 cm. What is the VR?",
+              "options": [
+                "0.2",
+                "20",
+                "5",
+                "180"
+              ],
+              "answer": 2,
+              "why": "Same units: 60 cm = 0.6 m. VR = 3 ÷ 0.6 = **5**."
+            },
+            {
+              "q": "A machine has VR 5 and MA 4. What is its efficiency?",
+              "options": [
+                "125%",
+                "80%",
+                "20%",
+                "9"
+              ],
+              "answer": 1,
+              "why": "η = MA ÷ VR = 4 ÷ 5 = 0.8 = **80%**."
+            },
+            {
+              "q": "Which pair are levers of the same class?",
+              "options": [
+                "Scissors and a nut cracker",
+                "Pliers and a seesaw",
+                "A wheelbarrow and fire tongs",
+                "Sugar tongs and a bottle opener"
+              ],
+              "answer": 1,
+              "why": "Pliers and a seesaw both have the **fulcrum in the middle**: class I."
+            },
+            {
+              "q": "Raising your body on your toes uses which class of lever?",
+              "options": [
+                "Class I",
+                "Class II",
+                "Class III",
+                "It is not a lever"
+              ],
+              "answer": 1,
+              "why": "Toes = fulcrum, body weight in the middle, calf muscle at the heel: **load in the middle, class II**."
+            },
+            {
+              "q": "A crowbar 1 m long has its fulcrum 20 cm from the load end. What is its ideal MA?",
+              "options": [
+                "5",
+                "4",
+                "0.25",
+                "80"
+              ],
+              "answer": 1,
+              "why": "Load arm = 20 cm. Effort arm = 100 − 20 = 80 cm. MA = 80 ÷ 20 = **4**."
+            },
+            {
+              "q": "In a forearm, the biceps pulls 5 cm from the elbow and the load is 30 cm from it. What is the MA?",
+              "options": [
+                "6",
+                "1/6",
+                "25",
+                "35"
+              ],
+              "answer": 1,
+              "why": "MA = effort arm ÷ load arm = 5 ÷ 30 = **1/6**. Class III, so less than 1."
+            },
+            {
+              "q": "A real single fixed pulley lifts 180 N with a 200 N pull. What is its efficiency?",
+              "options": [
+                "111%",
+                "90%",
+                "20%",
+                "10%"
+              ],
+              "answer": 1,
+              "why": "MA = 180 ÷ 200 = 0.9. VR = 1. η = 0.9 = **90%**."
+            },
+            {
+              "q": "A block and tackle has 5 pulleys. The load rises 40 cm. How far does the effort end move?",
+              "options": [
+                "8 cm",
+                "40 cm",
+                "2 m",
+                "45 cm"
+              ],
+              "answer": 2,
+              "why": "VR = 5, so 5 × 40 = 200 cm = **2 m**."
+            },
+            {
+              "q": "Two movable pulleys with separate ropes and one fixed pulley lift 600 N. What is the ideal effort?",
+              "options": [
+                "300 N",
+                "200 N",
+                "150 N",
+                "1200 N"
+              ],
+              "answer": 2,
+              "why": "MA = 2² = 4. E = 600 ÷ 4 = **150 N**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These are like the harder questions at the end of the chapter. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "falling-mass",
+          "label": "A machine driven by a falling weight",
+          "type": "optional",
+          "desc": "A 50 kg mass falls 6 m in 3 s and drives a machine (g = 10 N/kg). The machine is 70% efficient. Find the power input, and the useful work done in the 3 s.\n\nForce = mg = 50 × 10 = 500 N\n\nWork input = 500 × 6 = 3000 J\n\nPower input = 3000 ÷ 3 = **1000 W**\n\nUseful work = 3000 × 0.7 = **2100 J**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is the useful power output?",
+              "a": "2100 ÷ 3 = **700 W** (or 1000 × 0.7)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "wheelbarrow-weight",
+          "label": "A wheelbarrow and its own weight",
+          "type": "optional",
+          "desc": "A wheelbarrow carries 40 kgf of bricks. The barrow itself weighs 10 kgf. Both act 30 cm (measured along the ground) from the wheel's axle. The handles are 120 cm from the axle. Find the effort needed to lift the legs off the ground.\n\nThe effort must lift the barrow too, so the total load = 40 + 10 = 50 kgf\n\nMoments about the axle: 50 × 30 = E × 120\n\nE = 1500 ÷ 120 = **12.5 kgf**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why is lifting easier when the bricks are loaded nearer the wheel?",
+              "a": "The **load arm gets shorter**, so the MA gets bigger and less effort is needed."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "metre-rule",
+          "label": "A metre rule as a lever",
+          "type": "optional",
+          "desc": "A uniform metre rule weighs 1.2 N. It is pivoted at the 70 cm mark. You press down at the 100 cm mark to hold it level. Find the effort and the MA.\n\nThe weight acts at the middle, the 50 cm mark. It is the load.\n\nLoad arm = 70 − 50 = 20 cm. Effort arm = 100 − 70 = 30 cm.\n\n1.2 × 20 = E × 30\n\nE = 24 ÷ 30 = **0.8 N**\n\nMA = 30 ÷ 20 = **1.5**. Check: 1.2 ÷ 0.8 = 1.5.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: is the effort more or less than the weight of the rule? Why?",
+              "a": "**Less**, because the effort arm (30 cm) is longer than the load arm (20 cm)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "heavy-block",
+          "label": "A block and tackle with a heavy lower block",
+          "type": "optional",
+          "desc": "A block and tackle has 3 pulleys in the upper block and 2 in the lower block. The lower block weighs 100 N. An effort of 400 N is pulled down. Ignore friction. Find the load, the MA and the efficiency.\n\nn = 5, so L + 100 = 5 × 400 = 2000\n\nL = 2000 − 100 = **1900 N**\n\nMA = 1900 ÷ 400 = **4.75**\n\nη = 4.75 ÷ 5 = 0.95 = **95%**",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "upward-effort",
+          "label": "Pulling upwards on a block and tackle",
+          "type": "optional",
+          "desc": "A block and tackle has 2 pulleys in each block. The rope is tied to the **lower** block's hook, and the free end comes off a lower pulley, so you pull **upwards**. It lifts a 600 N load.\n\nNow **5 strands** hold the lower block: the 4 between the blocks, and the one in your hand.\n\nMA = 5 (ideal), so E = 600 ÷ 5 = **120 N**\n\nIf the load rises 30 cm, your hand moves 5 × 30 = **150 cm = 1.5 m**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why is the MA 5 with only 4 pulleys?",
+              "a": "The strand in your hand also pulls **up on the lower block**. So **5 strands** hold it, not 4."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThis chapter is mostly about three numbers (MA, VR, η) and one skill: seeing where F, L and E are. A struggling student can score well by learning F, L, E = 1, 2, 3, counting strands, and the derivation.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- Start with **real machines**: a bottle opener, scissors, a broom, a nut cracker. Ask 'where does it turn?' before any formula.\n- Teach **F, L, E = 1, 2, 3**: find the middle one. Practise on ten household objects.\n- Make a **ruler lever**: a 30 cm ruler on a pencil, with coins as loads. Let them feel the effort change as the pencil moves.\n- For pulleys, use **string and a cotton reel**. Count the strands that hold the load, every time.\n- Insist on the **same units** before dividing, and **no unit** for MA, VR and η.\n- Keep coming back to the one idea: **gain in force, pay in distance**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "An 11-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** what machines do; load and effort. Activity: sort ten household tools by the job each does.\n- **Period 2:** MA and VR, and why they have no unit. Activity: a ruler on a pencil as a lever; measure how far each end moves.\n- **Period 3:** work input and output, efficiency, ideal and real machines. Activity: rub your palms together: where did the 'lost' energy go? Exercise 3(A), theory questions.\n- **Period 4:** MA = VR × η and its derivation. Activity: derive it together on the board, then each student writes it from memory.\n- **Period 5:** levers, the law of levers, finding the effort, arms from the whole length. Activity: the ruler lever with coins as loads. Exercise 3(A), numericals.\n- **Period 6:** the three classes: F, L, E = 1, 2, 3. Activity: a 'which class?' card sort with twenty pictures.\n- **Period 7:** examples of each class, scissors and shears, levers in the body. Activity: feel your biceps as you lift a bag. Exercise 3(A), class questions.\n- **Period 8:** single fixed and single movable pulleys. Activity: a spring balance on a pulley: measure the effort for a known load. Exercise 3(B) starts.\n- **Period 9:** movable with fixed; fixed and movable compared; several movable pulleys (2ⁿ). Activity: count the strands on string-and-reel models.\n- **Period 10:** block and tackle, tying the rope, the lower block, efficiency of a system. Exercise 3(B), numericals.\n- **Period 11:** exam toolkit: definitions test, the derivation, give-reasons practice, self-test and exit ticket.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Dividing kgf by N, or cm by m, without changing units first.\n- Giving MA, VR or η a **unit**.\n- Using η = 75 instead of **0.75** in MA = VR × η.\n- Writing VR upside down: it is the **effort's** distance ÷ the **load's** distance.\n- Finding the class by looking at the ends instead of the **middle**.\n- Saying a class I lever always has MA more than 1.\n- Using **2ⁿ** for a block and tackle, or **n** for separate ropes.\n- Counting the effort strand when the effort is pulled **down**.\n- Thinking friction changes the **VR**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. A lever lifts 450 N with an effort of 90 N. Find its MA.",
+              "a": "450 ÷ 90 = **5**."
+            },
+            {
+              "q": "2. A machine has VR 6 and efficiency 50%. Find its MA.",
+              "a": "6 × 0.5 = **3**."
+            },
+            {
+              "q": "3. In sugar tongs, which of F, L and E is in the middle? Which class is it?",
+              "a": "The **effort**. **Class III**."
+            },
+            {
+              "q": "4. Why is a single fixed pulley used, though its MA is 1?",
+              "a": "It **changes the direction** of the effort to a more convenient one."
+            },
+            {
+              "q": "5. A block and tackle has 4 pulleys. The load rises 2 m. How far does the effort end move?",
+              "a": "VR = 4, so **8 m**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

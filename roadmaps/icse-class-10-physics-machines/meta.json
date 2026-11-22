@@ -1,0 +1,26 @@
+{
+  "stages": [
+    "school"
+  ],
+  "subject": "science",
+  "level": "beginner",
+  "lang": "en",
+  "authors": [
+    {
+      "name": "vijayanandraj",
+      "url": "https://github.com/vijayanandraj"
+    }
+  ],
+  "license": "CC-BY-SA-4.0",
+  "audience": "ICSE Class 10 students who find physics hard, and their teachers and parents: Chapter 3, Machines (levers, pulleys, MA, VR and efficiency)",
+  "follows": "ICSE Class 10 Physics (Selina Concise Physics, Chapter 3: Machines)",
+  "tags": [
+    "physics",
+    "icse",
+    "class 10",
+    "machines",
+    "levers",
+    "pulleys",
+    "step by step"
+  ]
+}
