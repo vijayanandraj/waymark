@@ -5,6 +5,10 @@
   "changelog": [
     {
       "date": "2026-11-23",
+      "text": "Added a link to the next chapter, Chapter 10: Electro-magnetism."
+    },
+    {
+      "date": "2026-11-23",
       "text": "First version: the whole chapter in small steps, with original worked examples, quick checks, a last-minute revision sheet, a self-test and a section for teachers and parents."
     }
   ],
@@ -37,6 +41,10 @@
             {
               "label": "Previous chapter: 8. Current Electricity",
               "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-current-electricity"
+            },
+            {
+              "label": "Next chapter: 10. Electro-magnetism",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-electromagnetism"
             }
           ],
           "children": []

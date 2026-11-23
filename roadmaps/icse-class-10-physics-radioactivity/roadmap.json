@@ -1,0 +1,1119 @@
+{
+  "title": "ICSE Class 10 Physics, Chapter 12: Radioactivity, Step by Step",
+  "subtitle": "For students who find physics hard. The nucleus, isotopes, isobars and isotones, alpha, beta and gamma radiations, balancing nuclear equations, uses and safety, background radiation, and nuclear fission and fusion in small steps, with labelled diagrams, quick checks, an exam toolkit and a last-minute revision sheet. Follows the ICSE Class 10 syllabus, Chapter 12 (Radioactivity), in the order of Selina Concise Physics.",
+  "updated": "2026-11-23",
+  "changelog": [
+    {
+      "date": "2026-11-23",
+      "text": "First version: the whole chapter in small steps, with original worked examples, quick checks, a last-minute revision sheet, a self-test and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** be sure of the parts of an atom, how a nucleus is written, and adding up to check that both sides balance. Every nuclear equation uses all three.",
+      "links": [
+        {
+          "label": "PhET simulation: Build an Atom (free)",
+          "url": "https://phet.colorado.edu/en/simulations/build-an-atom"
+        }
+      ],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Always check two sums.** In every nuclear equation, the top numbers (A) must add up the same on both sides, and so must the bottom numbers (Z).\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: an unstable nucleus throws out alpha, beta or gamma to become more stable, and A and Z always balance.** Splitting or joining nuclei turns a little mass into a lot of energy.",
+          "links": [
+            {
+              "label": "PhET simulation: Build an Atom (free)",
+              "url": "https://phet.colorado.edu/en/simulations/build-an-atom"
+            },
+            {
+              "label": "Last-minute revision sheet for this chapter",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-radioactivity#revision-sheet"
+            },
+            {
+              "label": "Previous chapter: 11. Calorimetry",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-calorimetry"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 12, *Radioactivity*, of the ICSE Class 10 Physics syllabus. It follows the order of *Selina Concise Physics* for Class 10.\n\n**Who it is for.** Class 10 students who find physics hard, and want to understand this chapter and score decent marks in it. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** An unstable nucleus throws out alpha, beta or gamma to become more stable, and A and Z always balance. Splitting or joining nuclei turns a little mass into a lot of energy.\n\n**How it is different from the textbook.** The textbook is heavy on facts. Here the one skill that wins easy marks, balancing nuclear equations, comes first as plain arithmetic, and the alpha, beta, gamma comparison is built up one radiation at a time with two pictures, before the uses, safety and nuclear energy.\n\n**What is inside.**\n- 10 milestones and 44 small steps. The 36 solid steps are the core path. The dashed ones are optional.\n- 38 practice questions with hidden answers, and 4 pictures.\n- 25 click-to-check questions that say right or wrong, and why: a quick check after each of the 5 main milestones, and a 10-question self-test.\n- A **last-minute revision sheet**: every formula, unit and key point on one page.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the challenge questions, and a section for teachers and parents with an 8-period lesson plan, the mistakes to watch for and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from their textbook. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the ICSE syllabus but is not made or endorsed by CISCE or by any publisher. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Three quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. What are the three particles in an atom, and their charges?",
+              "a": "**Proton** (+), **neutron** (0), **electron** (−). Wrong? Do *The atom again*."
+            },
+            {
+              "q": "2. ²³₁₁Na: how many protons and neutrons?",
+              "a": "**11** protons, 23 − 11 = **12** neutrons. Wrong? Do *Writing a nucleus*."
+            },
+            {
+              "q": "3. Fill the blank so the top numbers balance: 226 = 222 + ?",
+              "a": "**4.** Wrong? Do *Balancing the sums*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "atom-again",
+          "label": "The atom again",
+          "type": "core",
+          "desc": "- An atom has a tiny, heavy **nucleus** at the centre, with **electrons** moving round it.\n- The nucleus holds **protons** (charge **+e**) and **neutrons** (no charge). Together they are called **nucleons**.\n- **Electrons** have charge **−e** and almost no mass.\n- A neutral atom has **as many electrons as protons**.\n- The nucleus is about **100 000 times smaller** than the atom, but holds almost all its mass.\n\nThis chapter is about the **nucleus**. Chemistry is about the **electrons**.\n\n**Worked example:** a neutral atom has 8 protons. It has **8 electrons**.",
+          "links": [
+            {
+              "label": "PhET simulation: Build an Atom (free)",
+              "url": "https://phet.colorado.edu/en/simulations/build-an-atom"
+            },
+            {
+              "label": "Wikipedia: atomic nucleus",
+              "url": "https://en.wikipedia.org/wiki/Atomic_nucleus"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: which particle in the atom has no charge?",
+              "a": "The **neutron**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "notation",
+          "label": "Writing a nucleus",
+          "type": "core",
+          "desc": "A nucleus is written as, for example, **²³₁₁Na**:\n\n- the number on **top** is the **mass number A** = protons + neutrons;\n- the number **below** is the **atomic number Z** = protons;\n- **neutrons = A − Z**.\n\nZ decides which **element** it is. Change Z and you have a different element.\n\n**Worked example:** ³⁹₁₉K has **19 protons** and 39 − 19 = **20 neutrons**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: how many protons and neutrons are in ³¹₁₅P?",
+              "a": "**15** protons and 31 − 15 = **16** neutrons."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "balancing",
+          "label": "Balancing the sums",
+          "type": "core",
+          "desc": "In a nuclear change, nothing is lost from the count:\n\n- the **top numbers** (A) add up to the same on both sides;\n- the **bottom numbers** (Z) add up to the same on both sides.\n\nUseful particles:\n\n- alpha particle **⁴₂He**\n- beta particle (electron) **⁰₋₁e**\n- neutron **¹₀n**, proton **¹₁p**\n\n**Worked example:** ²²⁶₈₈Ra → ²²²₈₆Rn + ?. Top: 226 − 222 = 4. Bottom: 88 − 86 = 2. The missing particle is **⁴₂He**, an alpha particle.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: ³²₁₅P → ³²₁₆S + ?. What is the missing particle?",
+              "a": "Top: 32 − 32 = 0. Bottom: 15 − 16 = −1. It is **⁰₋₁e**, a beta particle."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "nucleus",
+      "label": "The nucleus",
+      "desc": "**Goal:** describe the nucleus and tell isotopes, isobars and isotones apart. Exercise 12(A) starts here.",
+      "links": [],
+      "children": [
+        {
+          "id": "nucleus-step",
+          "label": "Inside the nucleus",
+          "type": "core",
+          "desc": "- The nucleus holds **Z protons** and **(A − Z) neutrons**.\n- Protons **repel** each other, but a very strong, short-range **nuclear force** holds all the nucleons together.\n- A nucleus is **stable** when its numbers of protons and neutrons are well balanced. If not, it is **unstable** and may break down: it is **radioactive**.\n- **Heavy** nuclei (Z above 82) are all unstable.\n\n**Worked example:** ²²⁶₈₈Ra has 88 protons and 138 neutrons. With Z above 82, it is **radioactive**.",
+          "links": [
+            {
+              "label": "Wikipedia: atomic nucleus",
+              "url": "https://en.wikipedia.org/wiki/Atomic_nucleus"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what holds the protons together in the nucleus, though they repel each other?",
+              "a": "The strong, short-range **nuclear force**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "iso",
+          "label": "Isotopes, isobars and isotones",
+          "type": "core",
+          "desc": "- **Isotopes:** same **Z**, different **A**. Same element, different numbers of neutrons. Example: ¹²₆C, ¹³₆C, ¹⁴₆C.\n- **Isobars:** same **A**, different **Z**. Different elements. Example: ⁴⁰₁₈Ar and ⁴⁰₂₀Ca.\n- **Isotones:** same number of **neutrons**. Example: ³⁹₁₉K and ⁴⁰₂₀Ca both have **20** neutrons.\n\nMemory trick: isoto**p**es, same **p**rotons; isob**a**rs, same **A**; isoto**n**es, same **n**eutrons.\n\nIsotopes have the **same chemistry** (same electrons), but some are radioactive and some are not.\n\n**Worked example:** ¹²₆C is stable; ¹⁴₆C is radioactive. Both are carbon.",
+          "links": [
+            {
+              "label": "PhET simulation: Isotopes and Atomic Mass (free)",
+              "url": "https://phet.colorado.edu/en/simulations/isotopes-and-atomic-mass"
+            },
+            {
+              "label": "Wikipedia: isotope",
+              "url": "https://en.wikipedia.org/wiki/Isotope"
+            },
+            {
+              "label": "Wikipedia: isobar (nuclide)",
+              "url": "https://en.wikipedia.org/wiki/Isobar_(nuclide)"
+            },
+            {
+              "label": "Wikipedia: isotone",
+              "url": "https://en.wikipedia.org/wiki/Isotone"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: are ²⁷₁₃Al and ²⁸₁₄Si isotopes, isobars or isotones?",
+              "a": "Neutrons: 27 − 13 = 14 and 28 − 14 = 14. **Isotones.**"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-nucleus",
+          "label": "Quick check: the nucleus",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "An aluminium nucleus is ²⁷₁₃Al. How many neutrons does it have?",
+              "options": [
+                "40",
+                "13",
+                "27",
+                "14"
+              ],
+              "answer": 3,
+              "why": "Neutrons = A − Z = 27 − 13 = **14**. See *Writing a nucleus*."
+            },
+            {
+              "q": "Isotopes of an element have the same:",
+              "options": [
+                "atomic number, but different mass numbers",
+                "mass number, but different atomic numbers",
+                "mass number and atomic number",
+                "number of neutrons"
+              ],
+              "answer": 0,
+              "why": "Same **Z** (same element), different **A** (different number of neutrons). See *Isotopes, isobars and isotones*."
+            },
+            {
+              "q": "⁴⁰₁₈Ar and ⁴⁰₂₀Ca are:",
+              "options": [
+                "the same element",
+                "isotopes",
+                "isobars",
+                "isotones"
+              ],
+              "answer": 2,
+              "why": "Same **mass number** (40), different atomic numbers: **isobars**. See *Isotopes, isobars and isotones*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "radiations",
+      "label": "Radioactivity: alpha, beta and gamma",
+      "desc": "**Goal:** say what radioactivity is, and compare alpha, beta and gamma radiations. Exercise 12(A) covers this.",
+      "links": [],
+      "children": [
+        {
+          "id": "what-radioactivity",
+          "label": "What radioactivity is",
+          "type": "core",
+          "desc": "**Radioactivity is the spontaneous breaking down of an unstable nucleus, giving out alpha, beta or gamma radiation.**\n\n- It was found by **Henri Becquerel** in 1896, in uranium salts. **Marie and Pierre Curie** then found **radium** and **polonium**.\n- It is **spontaneous**: it happens by itself.\n- It is a **nuclear** process: it is **not** changed by **temperature, pressure** or **chemical** state.\n- An element that is radioactive turns into a **different element**.\n\n**Worked example:** radium in a hot oven and radium in a freezer give out radiation at the **same rate**.",
+          "links": [
+            {
+              "label": "Wikipedia: radioactive decay",
+              "url": "https://en.wikipedia.org/wiki/Radioactive_decay"
+            },
+            {
+              "label": "Wikipedia: Henri Becquerel",
+              "url": "https://en.wikipedia.org/wiki/Henri_Becquerel"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why is radioactivity called a nuclear phenomenon, not a chemical one?",
+              "a": "It comes from the **nucleus**, and **chemical** changes (which involve electrons) do not affect it."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "alpha",
+          "label": "Alpha particles",
+          "type": "core",
+          "desc": "- An **alpha particle** is a **helium nucleus**: 2 protons + 2 neutrons, **⁴₂He**.\n- Charge **+2e**; mass about **4 times** that of a hydrogen atom.\n- Speed about **10⁷ m/s**: fast, but much slower than light.\n- **Very strongly ionising**: it knocks electrons off many air atoms.\n- **Least penetrating**: it travels only **a few cm in air** and is stopped by a sheet of **paper**.\n- Bent by electric and magnetic fields, **a little** (it is heavy).\n\n**Worked example:** because it ionises so strongly, an alpha particle uses up its energy in the first **few cm** of air.",
+          "links": [
+            {
+              "label": "Wikipedia: alpha particle",
+              "url": "https://en.wikipedia.org/wiki/Alpha_particle"
+            },
+            {
+              "label": "PhET simulation: Alpha Decay (free)",
+              "url": "https://phet.colorado.edu/en/simulations/alpha-decay"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what is an alpha particle made of?",
+              "a": "**Two protons and two neutrons**: a helium nucleus."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "beta",
+          "label": "Beta particles",
+          "type": "core",
+          "desc": "- A **beta particle** is a **fast electron**, **⁰₋₁e**, thrown out of the **nucleus**.\n- It is made when a **neutron** in the nucleus changes into a **proton** and an **electron**.\n- Charge **−e**; very light.\n- Speed: very fast, often **close to the speed of light**.\n- **Less ionising** than alpha, **more penetrating**: stopped by a few **mm of aluminium**.\n- Bent by fields **much more** than alpha, and the **opposite way**.\n\n**Worked example:** a beta particle comes from the **nucleus**, not from the electron shells, even though it is an electron.",
+          "links": [
+            {
+              "label": "Wikipedia: beta particle",
+              "url": "https://en.wikipedia.org/wiki/Beta_particle"
+            },
+            {
+              "label": "PhET simulation: Beta Decay (free)",
+              "url": "https://phet.colorado.edu/en/simulations/beta-decay"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: there are no electrons in the nucleus. So where does a beta particle come from?",
+              "a": "A **neutron** changes into a **proton** and an **electron**, and the electron is thrown out."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "gamma",
+          "label": "Gamma rays",
+          "type": "core",
+          "desc": "- **Gamma rays** are **electromagnetic waves** of very short wavelength, shorter than X-rays.\n- **No charge** and **no mass**.\n- They travel at the **speed of light**, 3 × 10⁸ m/s.\n- **Least ionising**, **most penetrating**: several cm of **lead** or thick **concrete** cut them down a lot.\n- **Not bent** by electric or magnetic fields.\n- A nucleus usually gives out gamma **after** an alpha or beta decay, to lose leftover energy.\n\n**Worked example:** a gamma ray passes straight between charged plates, while alpha and beta bend.",
+          "links": [
+            {
+              "label": "Wikipedia: gamma ray",
+              "url": "https://en.wikipedia.org/wiki/Gamma_ray"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why are gamma rays not deflected by a magnetic field?",
+              "a": "They carry **no charge**: they are electromagnetic **waves**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "compare",
+          "label": "Comparing alpha, beta and gamma",
+          "type": "core",
+          "desc": "- **Nature:** alpha, helium nuclei; beta, fast electrons; gamma, electromagnetic waves.\n- **Charge:** alpha **+2e**; beta **−e**; gamma **none**.\n- **Ionising power:** alpha **most**; beta **less** (about 100 times less); gamma **least**.\n- **Penetrating power:** alpha **least** (paper); beta **more** (a few mm of aluminium); gamma **most** (cut down by cm of lead).\n- **In a field:** alpha bends **a little** towards the **−** plate; beta bends **a lot** towards the **+** plate; gamma goes **straight**.\n\nNotice: the **more** a radiation ionises, the **less** it penetrates. It loses its energy faster.\n\n**Worked example:** a source behind 1 cm of aluminium still sets off a counter. It must give out **gamma**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a counter near a source drops a lot when paper is put in front, and drops to zero with 3 mm of aluminium. What does the source give out?",
+              "a": "**Alpha** (stopped by paper) and **beta** (stopped by aluminium), but **no gamma**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/penetration.png",
+              "caption": "Paper stops alpha, aluminium stops beta, lead cuts down gamma"
+            },
+            {
+              "src": "images/deflection.png",
+              "caption": "Between charged plates: alpha bends a little, beta a lot, gamma not at all"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-radiations",
+          "label": "Quick check: alpha, beta and gamma",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which radiation is stopped by a sheet of paper?",
+              "options": [
+                "gamma",
+                "beta",
+                "none of them",
+                "alpha"
+              ],
+              "answer": 3,
+              "why": "**Alpha** is the least penetrating. Beta needs a few mm of aluminium; gamma needs thick lead. See *Comparing alpha, beta and gamma*."
+            },
+            {
+              "q": "Which radiation is not deflected by an electric or magnetic field?",
+              "options": [
+                "all are deflected",
+                "beta",
+                "gamma",
+                "alpha"
+              ],
+              "answer": 2,
+              "why": "**Gamma** rays are electromagnetic waves with **no charge**. See *Gamma rays*."
+            },
+            {
+              "q": "Heating a radioactive substance strongly will:",
+              "options": [
+                "speed up its radioactivity",
+                "turn it into a gas",
+                "not change its rate of radioactivity",
+                "stop its radioactivity"
+              ],
+              "answer": 2,
+              "why": "Radioactivity is a **nuclear** process. Heat, pressure and chemistry do not affect it. See *What radioactivity is*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "nuclear-changes",
+      "label": "Changes in the nucleus",
+      "desc": "**Goal:** write and balance alpha, beta and gamma decay equations, and follow a short decay chain. Exercise 12(A) covers this.",
+      "links": [],
+      "children": [
+        {
+          "id": "alpha-decay",
+          "label": "Alpha decay",
+          "type": "core",
+          "desc": "When a nucleus gives out an alpha particle it loses **2 protons and 2 neutrons**:\n\n- **A goes down by 4**;\n- **Z goes down by 2**: the element moves **two places back** in the periodic table.\n\n**Worked example:** radium-226 gives out an alpha particle.\n\n²²⁶₈₈Ra → ²²²₈₆Rn + ⁴₂He\n\nCheck the top: 226 = 222 + 4. Check the bottom: 88 = 86 + 2. Radium becomes **radon**.",
+          "links": [
+            {
+              "label": "PhET simulation: Alpha Decay (free)",
+              "url": "https://phet.colorado.edu/en/simulations/alpha-decay"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: polonium-210, ²¹⁰₈₄Po, gives out an alpha particle. Write the new nucleus.",
+              "a": "A = 210 − 4 = 206, Z = 84 − 2 = 82: **²⁰⁶₈₂Pb** (lead)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "beta-decay",
+          "label": "Beta decay",
+          "type": "core",
+          "desc": "In beta decay a **neutron** turns into a **proton** and an **electron**: ¹₀n → ¹₁p + ⁰₋₁e. The electron leaves.\n\n- **A stays the same** (one neutron lost, one proton gained);\n- **Z goes up by 1**: the element moves **one place forward**.\n\n**Worked example:** phosphorus-32 gives out a beta particle.\n\n³²₁₅P → ³²₁₆S + ⁰₋₁e\n\nTop: 32 = 32 + 0. Bottom: 15 = 16 + (−1). Phosphorus becomes **sulphur**.",
+          "links": [
+            {
+              "label": "PhET simulation: Beta Decay (free)",
+              "url": "https://phet.colorado.edu/en/simulations/beta-decay"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: strontium-90, ⁹⁰₃₈Sr, gives out a beta particle. Write the new nucleus.",
+              "a": "A stays 90, Z = 38 + 1 = 39: **⁹⁰₃₉Y** (yttrium)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "gamma-emission",
+          "label": "Gamma emission",
+          "type": "core",
+          "desc": "After an alpha or beta decay the new nucleus is often **excited**: it has spare energy. It gives this out as a **gamma ray**.\n\n- **A does not change.**\n- **Z does not change.** It is the **same element**.\n\nOnly the **energy** of the nucleus goes down.\n\n**Worked example:** an excited barium-137 nucleus gives out a gamma ray and is still **barium-137**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what changes in a nucleus when it gives out a gamma ray?",
+              "a": "Only its **energy**. A and Z stay the **same**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "decay-chain-step",
+          "label": "Decay chains",
+          "type": "core",
+          "desc": "A new nucleus is often **still unstable**, so decays follow one after another: a **decay chain**. It ends at a **stable** nucleus, usually lead.\n\n**Worked example:** polonium-218 decays by **one alpha** and then **two betas**.\n\n²¹⁸₈₄Po → ²¹⁴₈₂Pb (alpha)\n\n²¹⁴₈₂Pb → ²¹⁴₈₃Bi (beta)\n\n²¹⁴₈₃Bi → ²¹⁴₈₄Po (beta)\n\nWe are back at **Z = 84**, polonium, with A **4 less**. One alpha and two betas always give an **isotope** of the starting element.",
+          "links": [
+            {
+              "label": "Wikipedia: decay chain",
+              "url": "https://en.wikipedia.org/wiki/Decay_chain"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: thorium-232, ²³²₉₀Th, gives out one alpha and then two betas. What is the final nucleus?",
+              "a": "Alpha: ²²⁸₈₈Ra. Beta: ²²⁸₈₉Ac. Beta: **²²⁸₉₀Th**, an isotope of thorium."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/decay-chain.png",
+              "caption": "Alpha moves down 4 and left 2; beta moves right 1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-nuclear-changes",
+          "label": "Quick check: changes in the nucleus",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "²¹⁰₈₄Po gives out an alpha particle. What is the new nucleus?",
+              "options": [
+                "²⁰⁶₈₂Pb",
+                "²¹⁰₈₅At",
+                "²⁰⁸₈₂Pb",
+                "²⁰⁶₈₄Po"
+              ],
+              "answer": 0,
+              "why": "Alpha: **A − 4**, **Z − 2**: 206 and 82, which is lead. See *Alpha decay*."
+            },
+            {
+              "q": "In beta decay, inside the nucleus:",
+              "options": [
+                "two protons leave",
+                "a neutron changes into a proton and an electron",
+                "a proton changes into a neutron",
+                "an electron from the shell enters"
+              ],
+              "answer": 1,
+              "why": "n → p + e. The electron leaves as the **beta particle**, and **Z goes up by 1**. See *Beta decay*."
+            },
+            {
+              "q": "A nucleus gives out a gamma ray. Its mass number and atomic number:",
+              "options": [
+                "stay the same",
+                "both go down by 1",
+                "A falls by 4",
+                "Z goes up by 1"
+              ],
+              "answer": 0,
+              "why": "Gamma is only **energy**: **no change** in A or Z. See *Gamma emission*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "safety",
+      "label": "Uses, dangers and safety",
+      "desc": "**Goal:** give uses of radioisotopes, explain the dangers, list safety rules and the sources of background radiation. Exercise 12(B) starts here.",
+      "links": [],
+      "children": [
+        {
+          "id": "uses",
+          "label": "Radioisotopes at work",
+          "type": "core",
+          "desc": "- **Medicine:** **cobalt-60** gamma rays kill **cancer** cells. **Iodine-131** is a **tracer** to study the thyroid gland.\n- **Sterilising:** gamma rays kill germs on syringes, bandages and some foods, without heating them.\n- **Industry:** beta sources measure the **thickness** of paper and metal sheets; tracers find **leaks** in buried pipes.\n- **Smoke detectors:** a tiny **americium-241** source ionises the air; smoke stops the current and sets off the alarm.\n- **Carbon dating:** living things take in **carbon-14**. After death it slowly decays, so the amount left tells the **age** of old wood or bones.\n- **Agriculture:** radiation is used to make new seed varieties and to keep potatoes from sprouting.\n\n**Worked example:** a hospital sterilises plastic syringes with **gamma rays**, because heat would melt them.",
+          "links": [
+            {
+              "label": "Wikipedia: radiocarbon dating",
+              "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating"
+            },
+            {
+              "label": "Wikipedia: smoke detector",
+              "url": "https://en.wikipedia.org/wiki/Smoke_detector"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: name a radioisotope used to treat cancer, and one used as a tracer.",
+              "a": "**Cobalt-60** for cancer; **iodine-131** as a tracer (thyroid)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "harm",
+          "label": "Why radiation is harmful",
+          "type": "core",
+          "desc": "Radiation **ionises** atoms in our cells. This can kill cells or damage their **DNA**.\n\n- **Short-term:** radiation **burns**, hair loss, sickness.\n- **Long-term:** **cancer**, such as leukaemia.\n- **Genetic effects:** damage passed on to **children**.\n\nSources of harmful radiation include **nuclear test fallout**, **accidents** at reactors, careless use of **X-rays**, and **radioactive waste**.\n\nOutside the body, gamma is most dangerous (it gets in). **Inside** the body (breathed in or swallowed), **alpha** is most dangerous (it ionises most).\n\n**Worked example:** a doctor's X-ray room has **lead** walls and the radiographer stands **outside** it.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which radiation is most harmful if a source is swallowed? Why?",
+              "a": "**Alpha**: it is the **most ionising**, and inside the body nothing stops it reaching cells."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "safety-rules",
+          "label": "Safety with radioactive sources",
+          "type": "core",
+          "desc": "- Keep sources in **thick lead** boxes.\n- Handle them with **long tongs**, never with your hands. **Distance** cuts the dose a lot.\n- Keep the **time** near a source short.\n- Workers wear **film badges** (or dosimeters) to record how much radiation they get.\n- Wear protective clothing; never eat or drink in the lab.\n- **Nuclear waste** is sealed in thick containers and buried **deep underground**, away from water, for a very long time.\n\n**Worked example:** the three simplest rules are **distance, shielding** and **time**.",
+          "links": [
+            {
+              "label": "Wikipedia: radiation protection",
+              "url": "https://en.wikipedia.org/wiki/Radiation_protection"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what does a film badge do?",
+              "a": "It **records** how much radiation the worker has received, so they can be kept within safe limits."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "background",
+          "label": "Background radiation",
+          "type": "core",
+          "desc": "We all get a little radiation all the time: **background radiation**.\n\n- **Cosmic rays** from space (more on mountains and in aeroplanes).\n- **Rocks and soil**, such as granite; **radon** gas that seeps up from the ground.\n- Our **food and bodies**: potassium-40 and carbon-14.\n- **Medical** X-rays and scans; tiny amounts from past nuclear tests.\n\nNormal background radiation is **small** and is **not** a danger.\n\n**Worked example:** a counter in a lab with no source nearby still clicks now and then. That is **background radiation**.",
+          "links": [
+            {
+              "label": "Wikipedia: background radiation",
+              "url": "https://en.wikipedia.org/wiki/Background_radiation"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: name two natural sources of background radiation.",
+              "a": "Any two: **cosmic rays**, **rocks and soil** (radon), **potassium-40** in our bodies and food."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-safety",
+          "label": "Quick check: uses and safety",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which of these is a use of radioactive isotopes?",
+              "options": [
+                "Lighting homes",
+                "Cooling engines",
+                "Making glass",
+                "Treating cancer"
+              ],
+              "answer": 3,
+              "why": "**Cobalt-60** gamma rays kill cancer cells. Other uses: tracers, sterilising, dating. See *Radioisotopes at work*."
+            },
+            {
+              "q": "Why is radiation harmful to living things?",
+              "options": [
+                "It makes cells cold",
+                "It ionises atoms in cells and damages them",
+                "It adds mass to cells",
+                "It is too bright"
+              ],
+              "answer": 1,
+              "why": "**Ionisation** damages cells and their genes: burns, cancer, genetic effects. See *Why radiation is harmful*."
+            },
+            {
+              "q": "Which of these is a source of background radiation?",
+              "options": [
+                "Sound waves",
+                "A torch bulb",
+                "A mobile phone screen",
+                "Cosmic rays from space"
+              ],
+              "answer": 3,
+              "why": "Background radiation comes from **cosmic rays, rocks and soil, radon gas, our food and bodies**, and medical uses. See *Background radiation*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "nuclear-energy",
+      "label": "Nuclear energy: fission and fusion",
+      "desc": "**Goal:** explain where nuclear energy comes from, describe fission, the chain reaction and fusion, and compare them. Exercise 12(B) covers this.",
+      "links": [],
+      "children": [
+        {
+          "id": "mass-energy",
+          "label": "Mass becomes energy",
+          "type": "core",
+          "desc": "**Einstein's equation: E = m c²**, where c = 3 × 10⁸ m/s.\n\nIn a nuclear change the products have a little **less mass** than what you started with. That lost mass becomes **energy**.\n\nBecause c² is huge, a **tiny** mass gives an **enormous** energy.\n\n**Worked example:** 1 g = 0.001 kg of mass turned into energy gives\n\nE = 0.001 × (3 × 10⁸)²\n\nE = **9 × 10¹³ J**\n\nNuclear energy is often given in **MeV**: 1 MeV = 1.6 × 10⁻¹³ J.",
+          "links": [
+            {
+              "label": "Wikipedia: mass-energy equivalence",
+              "url": "https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence"
+            },
+            {
+              "label": "Math is Fun: scientific notation",
+              "url": "https://www.mathsisfun.com/numbers/scientific-notation.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: how much energy would 1 kg of mass give if it all became energy?",
+              "a": "E = 1 × (3 × 10⁸)² = **9 × 10¹⁶ J**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "fission",
+          "label": "Nuclear fission",
+          "type": "core",
+          "desc": "**Nuclear fission is the splitting of a heavy nucleus into two lighter nuclei of about the same size, with the release of energy.**\n\nA **slow neutron** hits a uranium-235 nucleus. It splits, for example:\n\n²³⁵₉₂U + ¹₀n → ¹⁴⁰₅₄Xe + ⁹⁴₃₈Sr + 2 ¹₀n + energy\n\nCheck the top: 235 + 1 = 140 + 94 + 2. Check the bottom: 92 = 54 + 38.\n\nEach fission gives about **200 MeV** and **2 or 3 new neutrons**.\n\n**Worked example:** the energy from 1 kg of uranium-235 is about the same as from burning **millions of kg** of coal.",
+          "links": [
+            {
+              "label": "PhET simulation: Nuclear Fission (free)",
+              "url": "https://phet.colorado.edu/en/simulations/nuclear-fission"
+            },
+            {
+              "label": "Wikipedia: nuclear fission",
+              "url": "https://en.wikipedia.org/wiki/Nuclear_fission"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what particle is used to start fission, and why that particle?",
+              "a": "A **neutron**: it has **no charge**, so the positive nucleus does not push it away."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "chain",
+          "label": "The chain reaction",
+          "type": "core",
+          "desc": "The new neutrons can split **more** uranium nuclei. Each of those gives more neutrons, and so on: a **chain reaction**.\n\n- 1 fission → 2 → 4 → 8 → ... The number grows very fast.\n- **Uncontrolled:** all the energy comes out in a flash: an **atom bomb**.\n- **Controlled:** in a **nuclear reactor**, **control rods** (boron or cadmium) soak up extra neutrons, so that on average just **one** neutron from each fission causes another. A **moderator** (such as heavy water or graphite) slows the neutrons. The steady heat makes steam to turn turbines and generate **electricity**.\n\n**Worked example:** India has nuclear power stations at **Tarapur** and **Kudankulam**.",
+          "links": [
+            {
+              "label": "Wikipedia: nuclear chain reaction",
+              "url": "https://en.wikipedia.org/wiki/Nuclear_chain_reaction"
+            },
+            {
+              "label": "Wikipedia: nuclear reactor",
+              "url": "https://en.wikipedia.org/wiki/Nuclear_reactor"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what is the job of the control rods in a nuclear reactor?",
+              "a": "They **absorb extra neutrons** so the chain reaction stays **steady** and does not run away."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/chain-reaction.png",
+              "caption": "Each fission sets off two more"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "fusion",
+          "label": "Nuclear fusion",
+          "type": "core",
+          "desc": "**Nuclear fusion is the joining of two light nuclei to make a heavier nucleus, with the release of energy.**\n\n²₁H + ³₁H → ⁴₂He + ¹₀n + energy\n\nCheck the top: 2 + 3 = 4 + 1. Check the bottom: 1 + 1 = 2 + 0.\n\n- Both nuclei are **positive** and repel. They join only at **millions of degrees** and great pressure, when they move fast enough.\n- Fusion powers the **Sun and stars**: hydrogen becomes helium.\n- An uncontrolled fusion reaction is the **hydrogen bomb**. Controlled fusion for power stations is still being developed.\n\n**Worked example:** for the **same mass** of fuel, fusion gives **more energy** than fission.",
+          "links": [
+            {
+              "label": "Wikipedia: nuclear fusion",
+              "url": "https://en.wikipedia.org/wiki/Nuclear_fusion"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why is fusion also called a thermonuclear reaction?",
+              "a": "It needs extremely high **temperatures** (millions of degrees) to make the nuclei join."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "compare-energy",
+          "label": "Fission, fusion and decay compared",
+          "type": "core",
+          "desc": "**Fission and fusion:**\n\n- Fission **splits** a heavy nucleus; fusion **joins** light nuclei.\n- Fission starts with a **slow neutron**; fusion needs **very high temperature**.\n- Fission leaves **radioactive waste**; fusion's main product, helium, is **not** radioactive.\n- Fission powers **reactors** and the **atom bomb**; fusion powers the **Sun** and the **hydrogen bomb**.\n\n**Radioactive decay and fission:**\n\n- Decay is **natural and spontaneous**; fission is **made to happen** by a neutron.\n- Decay gives out alpha, beta or gamma, and **small** energy; fission gives two big pieces, neutrons and **far more** energy.\n- Decay **cannot be controlled**; fission **can** be, in a reactor.\n\n**Worked example:** a smoke detector uses **decay**; a power station uses **fission**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: give one way fusion is 'cleaner' than fission.",
+              "a": "Fusion's product, **helium**, is **not radioactive**; fission leaves **radioactive waste**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-nuclear-energy",
+          "label": "Quick check: nuclear energy",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "In nuclear fission:",
+              "options": [
+                "a nucleus gives out a gamma ray only",
+                "an electron is given out",
+                "two light nuclei join",
+                "a heavy nucleus splits into two lighter nuclei"
+              ],
+              "answer": 3,
+              "why": "**Fission** = splitting a heavy nucleus, such as uranium-235. See *Nuclear fission*."
+            },
+            {
+              "q": "Where does the energy of fission and fusion come from?",
+              "options": [
+                "A small loss of mass, turned into energy by E = mc²",
+                "Chemical burning",
+                "The heat of the neutron",
+                "Friction between nuclei"
+              ],
+              "answer": 0,
+              "why": "The products have a little **less mass**. That mass becomes energy: **E = mc²**. See *Mass becomes energy*."
+            },
+            {
+              "q": "Why does fusion happen only at very high temperatures?",
+              "options": [
+                "Nuclei melt at high temperature",
+                "Cold nuclei have no mass",
+                "The positive nuclei repel each other, so they must move very fast to join",
+                "Neutrons need heating"
+              ],
+              "answer": 2,
+              "why": "Both nuclei are **positive**. Only at **millions of degrees** do they move fast enough to join. See *Nuclear fusion*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "exam-toolkit",
+      "label": "Exam toolkit: words, equations and reasons",
+      "desc": "**Goal:** collect the marks that come from definitions, balanced equations and 'give reasons'.",
+      "links": [],
+      "children": [
+        {
+          "id": "definitions",
+          "label": "Definitions to learn word for word",
+          "type": "core",
+          "desc": "- **Mass number (A):** the total number of protons and neutrons in the nucleus.\n- **Atomic number (Z):** the number of protons in the nucleus.\n- **Isotopes:** atoms of the same element with the same atomic number but different mass numbers.\n- **Isobars:** atoms of different elements with the same mass number.\n- **Isotones:** atoms with the same number of neutrons.\n- **Radioactivity:** the spontaneous emission of alpha, beta or gamma radiation from an unstable nucleus.\n- **Nuclear fission:** the splitting of a heavy nucleus into two lighter nuclei, with the release of energy.\n- **Nuclear fusion:** the joining of two light nuclei into a heavier nucleus, with the release of energy.\n- **Background radiation:** the radiation always present around us from natural and man-made sources.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: cover the list. Define isobars and give an example.",
+              "a": "Atoms of **different elements** with the **same mass number**. Example: ⁴⁰₁₈Ar and ⁴⁰₂₀Ca."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "equation-method",
+          "label": "Nuclear equations: four lines every time",
+          "type": "core",
+          "desc": "For 'find the new nucleus' questions, write four lines:\n\n1. **Given:** the starting nucleus and what it gives out.\n2. **Rule:** alpha, A − 4 and Z − 2; beta, A same and Z + 1; gamma, no change.\n3. **Write** the equation.\n4. **Check** that both the top and the bottom numbers balance.\n\n**Worked example:** ²⁴₁₁Na gives out a beta particle.\n\nRule: beta, A same, Z + 1\n\n²⁴₁₁Na → ²⁴₁₂Mg + ⁰₋₁e\n\nCheck: 24 = 24 + 0; 11 = 12 + (−1). **Balanced.**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is the commonest slip in beta decay?",
+              "a": "Making Z go **down**. In beta decay **Z goes up by 1**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "give-reasons",
+          "label": "Give reasons: model answers",
+          "type": "core",
+          "desc": "Many questions ask *give a reason*. Try these before opening the answers.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Gamma rays are not deflected by a magnetic field.",
+              "a": "They are **electromagnetic waves** and carry **no charge**."
+            },
+            {
+              "q": "Alpha particles have the least penetrating power.",
+              "a": "They are **heavy** and **strongly ionising**, so they lose their energy within a **few cm** of air."
+            },
+            {
+              "q": "A beta particle is an electron, yet it comes from the nucleus.",
+              "a": "A **neutron** in the nucleus changes into a **proton** and an **electron**, and the electron is thrown out."
+            },
+            {
+              "q": "Radioactive sources are kept in thick lead containers.",
+              "a": "**Lead** absorbs radiation, including most **gamma** rays, protecting people nearby."
+            },
+            {
+              "q": "Fusion is not yet used in power stations.",
+              "a": "It needs **millions of degrees**, and such hot fuel is very hard to **hold and control**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "diagrams-practise",
+          "label": "Diagrams to practise",
+          "type": "core",
+          "desc": "- Alpha, beta and gamma paths between **charged plates** (or in a magnetic field).\n- **Penetration:** paper, aluminium, lead, with the radiation each stops.\n- A **chain reaction**: each fission giving 2 neutrons.\n- The **radiation hazard** symbol (a trefoil).",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: last-minute revision and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Read the sheet the night before the exam and again on the morning.",
+      "links": [],
+      "children": [
+        {
+          "id": "revision-sheet",
+          "label": "Last-minute revision sheet",
+          "type": "core",
+          "desc": "**The one idea:** an **unstable nucleus** throws out **α, β or γ** to become more stable. **A and Z always balance.** Splitting or joining nuclei turns **a little mass** into **a lot of energy**.\n\n**Notation and formulas**\n- **²³₁₁Na** means A = 23 (mass number: protons + neutrons) and Z = 11 (atomic number: protons). **Neutrons = A − Z**.\n- **Alpha decay:** A goes **down 4**, Z goes **down 2**. **Beta decay:** A **same**, Z goes **up 1**. **Gamma:** **no change**.\n- One α and two β: the **same element** again, with A **4 less** (an isotope).\n- **E = mc²**: 1 g of mass → **9 × 10¹³ J**.\n\n**Units and values**\n- 1 MeV = 1.6 × 10⁻¹³ J. One fission of U-235 gives about **200 MeV**.\n- Speed of light c = 3 × 10⁸ m/s.\n\n**Key points**\n- **Isotopes:** same Z, different A. **Isobars:** same A, different Z. **Isotones:** same number of neutrons.\n- **Radioactivity:** spontaneous emission of radiation from an unstable nucleus. Found by **Becquerel**. Not changed by temperature, pressure or chemical state.\n- **Alpha:** helium nucleus ⁴₂He, charge **+2e**, most **ionising**, least **penetrating** (stopped by **paper** or a few cm of air).\n- **Beta:** fast **electron** from n → p + e, charge **−e**, stopped by a few mm of **aluminium**. Bends **more** than alpha, the **other way**.\n- **Gamma:** **electromagnetic waves**, no charge, speed of light, least ionising, most penetrating (cut down by several cm of **lead**), **not deflected**.\n- Uses: **Co-60** for cancer, **I-131** tracer for the thyroid, sterilising, thickness gauges, finding leaks, **smoke detectors** (Am-241), **carbon dating**.\n- Harm: **ionisation** damages cells: radiation burns, cancer, genetic effects.\n- Safety: **distance**, **tongs**, **lead** shielding, **short** exposure, **film badges**, safe disposal of **waste** deep underground.\n- Background radiation: **cosmic rays**, **rocks** and soil, **radon** gas, K-40 and C-14 in our bodies, medical X-rays.\n- **Fission:** a heavy nucleus (U-235) hit by a **slow neutron** splits into two, giving out 2 or 3 neutrons and energy: a **chain reaction**. Controlled in a **reactor**; uncontrolled in an **atom bomb**.\n- **Fusion:** light nuclei join (²H + ³H → ⁴He + n). Needs **millions of degrees**. Powers the **Sun** and the **hydrogen bomb**.\n\n**Traps:** in beta decay Z goes **up**, not down. Gamma changes **nothing** in A or Z. Isobars have the same **A**, isotopes the same **Z**. Radioactive decay is **natural and slow**; fission is **made to happen** and gives far more energy.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "How many protons and neutrons are in ²³₁₁Na?",
+              "options": [
+                "23 protons, 11 neutrons",
+                "11 protons, 12 neutrons",
+                "12 protons, 11 neutrons",
+                "11 protons, 23 neutrons"
+              ],
+              "answer": 1,
+              "why": "Protons = Z = **11**; neutrons = 23 − 11 = **12**."
+            },
+            {
+              "q": "¹²₆C, ¹³₆C and ¹⁴₆C are:",
+              "options": [
+                "isotopes",
+                "isotones",
+                "isobars",
+                "different elements"
+              ],
+              "answer": 0,
+              "why": "Same atomic number (6), different mass numbers: **isotopes** of carbon."
+            },
+            {
+              "q": "Who discovered radioactivity?",
+              "options": [
+                "Henri Becquerel",
+                "Michael Faraday",
+                "Albert Einstein",
+                "Isaac Newton"
+              ],
+              "answer": 0,
+              "why": "**Becquerel** found it in uranium salts in 1896."
+            },
+            {
+              "q": "An alpha particle is the same as:",
+              "options": [
+                "an electron",
+                "a hydrogen atom",
+                "a helium nucleus",
+                "a photon"
+              ],
+              "answer": 2,
+              "why": "Two protons and two neutrons: a **helium nucleus**, ⁴₂He."
+            },
+            {
+              "q": "Which radiation ionises the air most strongly?",
+              "options": [
+                "alpha",
+                "beta",
+                "all equally",
+                "gamma"
+              ],
+              "answer": 0,
+              "why": "**Alpha** is the most ionising, which is also why it stops so soon."
+            },
+            {
+              "q": "A nucleus gives out one alpha particle and then two beta particles. The final nucleus is:",
+              "options": [
+                "2 places lower in atomic number",
+                "an isobar of the original",
+                "the original nucleus",
+                "an isotope of the original, 4 less in mass number"
+              ],
+              "answer": 3,
+              "why": "Alpha: Z − 2, A − 4. Two beta: Z + 2. Net: **same Z**, A **4 less**: an **isotope**."
+            },
+            {
+              "q": "Radioactive sources in a school lab are held with:",
+              "options": [
+                "a paper towel",
+                "long tongs",
+                "bare hands with gloves",
+                "a magnet"
+              ],
+              "answer": 1,
+              "why": "**Distance** cuts the dose a lot, so sources are handled with **long tongs** and kept in **lead** boxes."
+            },
+            {
+              "q": "In ²³⁵₉₂U + ¹₀n → ¹⁴⁰₅₄Xe + ⁹⁴₃₈Sr + x ¹₀n, what is x?",
+              "options": [
+                "0",
+                "3",
+                "1",
+                "2"
+              ],
+              "answer": 3,
+              "why": "Mass numbers: 235 + 1 = 140 + 94 + x, so **x = 2**."
+            },
+            {
+              "q": "In a nuclear reactor the chain reaction is kept steady by:",
+              "options": [
+                "lead shielding round the building",
+                "cooling the uranium to 0 °C",
+                "adding more uranium",
+                "control rods that absorb extra neutrons"
+              ],
+              "answer": 3,
+              "why": "**Control rods** (boron or cadmium) soak up neutrons so that, on average, **one** neutron per fission causes another."
+            },
+            {
+              "q": "The Sun gets its energy from:",
+              "options": [
+                "radioactive decay of radium",
+                "burning coal",
+                "nuclear fusion of hydrogen into helium",
+                "nuclear fission of uranium"
+              ],
+              "answer": 2,
+              "why": "In the Sun's hot core, **hydrogen nuclei fuse** into helium, losing a little mass as energy."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These are like the harder questions at the end of the chapter. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "mass-vs-coal",
+          "label": "One gram against coal",
+          "type": "optional",
+          "desc": "Burning 1 kg of coal gives about 3 × 10⁷ J. How much coal gives the same energy as 1 g of mass turned completely into energy?\n\nEnergy from 1 g: E = 0.001 × (3 × 10⁸)² = **9 × 10¹³ J**\n\nCoal needed = 9 × 10¹³ ÷ 3 × 10⁷ = **3 × 10⁶ kg**: three thousand tonnes.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "chain-count",
+          "label": "Counting the chain",
+          "type": "optional",
+          "desc": "Each fission releases 2 neutrons, and both cause another fission. Start with one fission.\n\n- Step 1: 1 fission; step 2: 2; step 3: 4; ...\n- Step 10: 2⁹ = **512** fissions.\n- Total in the first 10 steps: 1 + 2 + 4 + ... + 512 = **1023** fissions.\n\nAt about 200 MeV each, that is over **200 000 MeV**, and real chains have far more than 10 steps.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "find-unknown",
+          "label": "Find the parent",
+          "type": "optional",
+          "desc": "A nucleus X gives out an alpha particle and becomes ²²²₈₆Rn. What was X?\n\nAdd the alpha back: A = 222 + 4 = 226, Z = 86 + 2 = 88. X is **²²⁶₈₈Ra**, radium.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThis chapter is mostly **facts and comparisons**, with one skill that wins easy marks: balancing nuclear equations. A struggling student scores well by checking the two sums every time, and by learning the alpha, beta, gamma comparison as a table they can rebuild.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- Teach the **two sums** (top and bottom) first, as simple arithmetic, before any physics.\n- Make a **wall chart** comparing alpha, beta and gamma; rebuild it from memory each lesson.\n- Use **PhET Alpha Decay**, **Beta Decay** and **Nuclear Fission**: students can watch the nucleus change.\n- Show the **penetration** idea with paper, a ruler of aluminium and a lead apron picture.\n- Connect to the news and to India: **Kudankulam**, cancer treatment with cobalt-60, smoke detectors.\n- Address fear calmly: background radiation is **normal**; safety rules are simple.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "An 8-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** prerequisites: the atom, writing a nucleus, balancing sums. The nucleus.\n- **Period 2:** isotopes, isobars and isotones. Activity: sort a set of nucleus cards.\n- **Period 3:** radioactivity; alpha, beta and gamma; comparison. Activity: PhET Alpha Decay.\n- **Period 4:** alpha, beta and gamma decay equations; decay chains. Exercise 12(A).\n- **Period 5:** uses of radioisotopes; harmful effects; safety rules; background radiation.\n- **Period 6:** E = mc²; nuclear fission; the chain reaction; the reactor. Activity: PhET Nuclear Fission.\n- **Period 7:** nuclear fusion; fission and fusion compared; decay and fission compared. Exercise 12(B).\n- **Period 8:** exam toolkit: definitions test, equation practice, give-reasons practice, self-test and exit ticket.",
+          "links": [
+            {
+              "label": "PhET simulation: Nuclear Fission (free)",
+              "url": "https://phet.colorado.edu/en/simulations/nuclear-fission"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Making **Z go down** in beta decay.\n- Changing A or Z in **gamma** emission.\n- Mixing up **isotopes** (same Z) and **isobars** (same A).\n- Saying a beta particle comes from the **electron shells**.\n- Swapping **penetrating** and **ionising** power for alpha and gamma.\n- Confusing **fission** and **fusion**, or saying the Sun uses fission.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. How many neutrons are in ⁵⁹₂₇Co?",
+              "a": "59 − 27 = **32**."
+            },
+            {
+              "q": "2. Which radiation is the most penetrating?",
+              "a": "**Gamma.**"
+            },
+            {
+              "q": "3. ²³⁸₉₄Pu gives out an alpha particle. Write the new nucleus.",
+              "a": "A = 234, Z = 92: **²³⁴₉₂U**."
+            },
+            {
+              "q": "4. Give one use of radioisotopes in medicine.",
+              "a": "**Cobalt-60** to treat cancer (or **iodine-131** as a tracer)."
+            },
+            {
+              "q": "5. What is nuclear fusion?",
+              "a": "The **joining of two light nuclei** into a heavier one, with the release of **energy**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

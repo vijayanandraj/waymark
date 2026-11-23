@@ -1,0 +1,990 @@
+{
+  "title": "ICSE Class 10 Physics, Chapter 10: Electro-magnetism, Step by Step",
+  "subtitle": "For students who find physics hard. The magnetic effect of current, electromagnets, the force on a current and the d.c. motor, electromagnetic induction, the a.c. generator and the transformer in small steps, with labelled diagrams, quick checks, an exam toolkit and a last-minute revision sheet. Follows the ICSE Class 10 syllabus, Chapter 10 (Electro-magnetism), in the order of Selina Concise Physics.",
+  "updated": "2026-11-23",
+  "changelog": [
+    {
+      "date": "2026-11-23",
+      "text": "First version: the whole chapter in small steps, with original worked examples, quick checks, a last-minute revision sheet, a self-test and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** be sure of magnets and field lines, the direction of current, and the difference between d.c. and a.c. This chapter joins electricity and magnetism.",
+      "links": [
+        {
+          "label": "PhET simulation: Magnets and Electromagnets (free)",
+          "url": "https://phet.colorado.edu/en/simulations/magnets-and-electromagnets"
+        }
+      ],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Use your actual hands.** For every rule in this chapter, hold up your thumb and fingers and turn them to match the diagram. That is how examiners expect you to find directions.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: a current makes a magnetic field; a field pushes on a current; and a changing field makes a current.** Motors use the push. Generators and transformers use the change.",
+          "links": [
+            {
+              "label": "PhET simulation: Magnets and Electromagnets (free)",
+              "url": "https://phet.colorado.edu/en/simulations/magnets-and-electromagnets"
+            },
+            {
+              "label": "Last-minute revision sheet for this chapter",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-electromagnetism#revision-sheet"
+            },
+            {
+              "label": "Previous chapter: 9. Household Circuits",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-household-circuits"
+            },
+            {
+              "label": "Next chapter: 11. Calorimetry",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-calorimetry"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 10, *Electro-magnetism*, of the ICSE Class 10 Physics syllabus. It follows the order of *Selina Concise Physics* for Class 10.\n\n**Who it is for.** Class 10 students who find physics hard, and want to understand this chapter and score decent marks in it. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** A current makes a magnetic field, a field pushes on a current, and a changing field makes a current. Motors use the push; generators and transformers use the change.\n\n**How it is different from the textbook.** The textbook gives several rules for directions one after another. Here they are grouped by job (field, force, induced current), practised with your actual hands, and the commonly confused pairs (left and right hands, split ring and slip rings, motor and generator) are set side by side.\n\n**What is inside.**\n- 10 milestones and 38 small steps. The 30 solid steps are the core path. The dashed ones are optional.\n- 32 practice questions with hidden answers, and 5 pictures.\n- 25 click-to-check questions that say right or wrong, and why: a quick check after each of the 5 main milestones, and a 10-question self-test.\n- A **last-minute revision sheet**: every formula, unit and key point on one page.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the challenge questions, and a section for teachers and parents with a 10-period lesson plan, the mistakes to watch for and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from their textbook. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the ICSE syllabus but is not made or endorsed by CISCE or by any publisher. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Three quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Two north poles are brought close. What happens?",
+              "a": "They **repel**. Wrong? Do *Magnets again*."
+            },
+            {
+              "q": "2. Outside a cell, which way does conventional current flow?",
+              "a": "From the **+ terminal to the − terminal**. Wrong? Do *Which way does current flow?*"
+            },
+            {
+              "q": "3. What is the difference between d.c. and a.c.?",
+              "a": "d.c. flows **one way**; a.c. keeps **reversing**. Wrong? Do *d.c. and a.c.*"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "magnet-recap",
+          "label": "Magnets again",
+          "type": "core",
+          "desc": "- A magnet has a **north** and a **south** pole. **Like poles repel; unlike poles attract.**\n- **Field lines** go from **N to S** outside the magnet. They never cross. Where they are **closer**, the field is **stronger**.\n- A **compass needle** is a tiny magnet: it lines up **along** the field.\n\n**Worked example:** a compass placed near the north pole of a bar magnet points **away** from it, along the field lines.",
+          "links": [
+            {
+              "label": "Wikipedia: magnet",
+              "url": "https://en.wikipedia.org/wiki/Magnet"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: where is the field of a bar magnet strongest?",
+              "a": "Near the **poles**, where the field lines are **closest together**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "current-direction",
+          "label": "Which way does current flow?",
+          "type": "core",
+          "desc": "- **Conventional current** flows from the **+** terminal, round the circuit, to the **−** terminal.\n- **Electrons** actually move the other way, from − to +.\n\nAll the rules in this chapter use **conventional current**.\n\n**Worked example:** a wire joins the + end of a cell on the left to the − end on the right, along the top. Current in that wire flows **left to right**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: in which direction do electrons move in that wire?",
+              "a": "**Right to left**: opposite to the conventional current."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ac-dc",
+          "label": "d.c. and a.c.",
+          "type": "core",
+          "desc": "- **Direct current (d.c.)** flows in **one direction** only. From a cell or battery.\n- **Alternating current (a.c.)** keeps **reversing** direction. From the mains and from generators.\n- In India the mains a.c. has a **frequency of 50 Hz**: 50 complete cycles a second, so it reverses **100 times** a second.\n\n**Worked example:** at 50 Hz, one cycle takes 1 ÷ 50 = **0.02 s**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: name one source of d.c. and one of a.c.",
+              "a": "d.c.: a **cell or battery**. a.c.: the **mains** (or an a.c. generator)."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "magnetic-effect",
+      "label": "A current makes a magnetic field",
+      "desc": "**Goal:** describe Oersted's experiment, find the field round a wire, a loop and a solenoid. Exercise 10(A) starts here.",
+      "links": [],
+      "children": [
+        {
+          "id": "oersted",
+          "label": "Oersted's experiment",
+          "type": "core",
+          "desc": "Put a wire **north-south**, just above a compass needle. Join it to a cell through a key.\n\n- **Key open:** no current; the needle points north.\n- **Key closed:** the needle **swings**. A current makes a **magnetic field**.\n- **Reverse** the current: the needle swings the **other way**.\n- **More** current: the needle swings **further**.\n\nThis is the **magnetic effect of electric current**, found by **Hans Oersted** in 1820.\n\n**Worked example:** a student puts the compass **above** the wire instead of below it. The needle now swings the **opposite** way: the field circles the wire.",
+          "links": [
+            {
+              "label": "Wikipedia: Hans Christian Ørsted",
+              "url": "https://en.wikipedia.org/wiki/Hans_Christian_%C3%98rsted"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what happens to the compass when the key is opened again?",
+              "a": "The current stops, so the needle swings **back to north**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "straight-wire",
+          "label": "The field round a straight wire",
+          "type": "core",
+          "desc": "Sprinkle iron filings on a card with a vertical wire through it. They form **circles** round the wire.\n\n**Right-hand thumb rule:** grip the wire in your right hand with the **thumb along the current**. Your **fingers curl** the way the **field** goes.\n\n- The field is **stronger** with **more current**.\n- It is **stronger close** to the wire and **weaker further** away.\n\n**Worked example:** a vertical wire carries current **upwards**. Seen from above, the field lines go round **anticlockwise**.",
+          "links": [
+            {
+              "label": "Wikipedia: right-hand rule",
+              "url": "https://en.wikipedia.org/wiki/Right-hand_rule"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: the current in that wire is reversed (now downwards). Seen from above, which way does the field go?",
+              "a": "**Clockwise.**"
+            }
+          ],
+          "images": [
+            {
+              "src": "images/wire-field.png",
+              "caption": "Circles round the wire, closer together near it"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "loop-solenoid",
+          "label": "Loops and solenoids",
+          "type": "core",
+          "desc": "- A **circular loop** of wire makes a field like a short magnet: one face is **N**, the other **S**.\n- **Clock rule:** look at a face. If the current goes **clockwise**, that face is **South**. **Anticlockwise**: **North**.\n- A **solenoid** is a long coil of many turns. It behaves like a **bar magnet**. Inside, the field lines are **straight and parallel**: a strong, even field.\n\nThe solenoid's field is **stronger** with:\n\n- **more turns**;\n- **more current**;\n- a **soft iron core** inside.\n\n**Worked example:** looking at the left end of a solenoid, the current goes anticlockwise. That end is a **north** pole, so the right end is **south**.",
+          "links": [
+            {
+              "label": "Wikipedia: solenoid",
+              "url": "https://en.wikipedia.org/wiki/Solenoid"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a compass is placed inside a current-carrying solenoid. Which way does it point?",
+              "a": "**Along the axis**, towards the solenoid's **north** end."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/solenoid.png",
+              "caption": "A solenoid's field is like a bar magnet's"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-magnetic-effect",
+          "label": "Quick check: magnetic effect of current",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Who first showed that an electric current produces a magnetic field?",
+              "options": [
+                "Fleming",
+                "Newton",
+                "Oersted",
+                "Faraday"
+              ],
+              "answer": 2,
+              "why": "In **Oersted's** experiment a compass needle under a wire swings when a current flows. See *Oersted's experiment*."
+            },
+            {
+              "q": "In the right-hand thumb rule, the thumb points along:",
+              "options": [
+                "the flow of electrons",
+                "the current",
+                "the force",
+                "the magnetic field"
+              ],
+              "answer": 1,
+              "why": "Thumb along the **current**; the curled fingers show the **field**. See *The field round a straight wire*."
+            },
+            {
+              "q": "Which of these makes the magnetic field of a solenoid stronger?",
+              "options": [
+                "Reducing the current",
+                "Using fewer turns",
+                "Putting a plastic core inside",
+                "Putting a soft iron core inside"
+              ],
+              "answer": 3,
+              "why": "More **turns**, more **current**, or a **soft iron core** all make it stronger. See *Loops and solenoids*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "electromagnets",
+      "label": "Electromagnets and their uses",
+      "desc": "**Goal:** make an electromagnet, compare it with a permanent magnet, and explain its uses. Exercise 10(A) covers this.",
+      "links": [],
+      "children": [
+        {
+          "id": "electromagnet",
+          "label": "Electromagnets",
+          "type": "core",
+          "desc": "**An electromagnet is a temporary magnet: a coil of insulated wire round a soft iron core, which is a magnet only while current flows.**\n\n- **I-shaped (bar):** a coil round a straight soft iron bar.\n- **U-shaped (horseshoe):** coils on both arms of a U-shaped core, wound in **opposite** senses, so one arm is N and the other S.\n\n**Why soft iron?** It is **magnetised easily** and **loses its magnetism** as soon as the current stops.\n\nMake it **stronger** with **more turns** or **more current**. With **a.c.**, its poles keep **swapping** 100 times a second.\n\n**Worked example:** a crane's electromagnet lifts scrap iron. Switch off the current and the scrap **drops**: the soft iron no longer holds its magnetism.",
+          "links": [
+            {
+              "label": "Wikipedia: electromagnet",
+              "url": "https://en.wikipedia.org/wiki/Electromagnet"
+            },
+            {
+              "label": "PhET simulation: Magnets and Electromagnets (free)",
+              "url": "https://phet.colorado.edu/en/simulations/magnets-and-electromagnets"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: state two ways to make an electromagnet stronger.",
+              "a": "**More turns** of wire, and **more current**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "em-vs-permanent",
+          "label": "Electromagnet or permanent magnet?",
+          "type": "core",
+          "desc": "A **permanent magnet** is made of **steel** (or special alloys): it keeps its magnetism.\n\n- Electromagnet: **soft iron**; a magnet only **while current flows**; strength can be **changed**; poles can be **reversed**; can be made **very strong**.\n- Permanent magnet: **steel**; **always** a magnet; strength **fixed**; poles **fixed**; usually weaker.\n\n**Worked example:** to make a permanent magnet, put a **steel** bar inside a solenoid and pass a current. After switching off, the steel **stays** magnetised.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: give two advantages of an electromagnet over a permanent magnet.",
+              "a": "It can be **switched on and off**, and its **strength can be changed** (also: poles can be reversed, it can be very strong)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "em-uses",
+          "label": "Electromagnets at work",
+          "type": "core",
+          "desc": "- **Electric bell:** current flows, the electromagnet pulls the soft iron **armature**, the hammer hits the gong, and the armature leaves the contact screw. The circuit **breaks**, the magnet lets go, the spring pulls the armature back, the circuit **closes** again. This repeats many times a second.\n- **Cranes** that lift scrap iron.\n- **Relays:** a small current switches a big one.\n- **Loudspeakers, microphones** and **electric motors**.\n- Doctors use small electromagnets to pull **iron splinters** out of an eye.\n\n**Worked example:** the bell keeps ringing only while you press the switch. Let go and the electromagnet stays off.",
+          "links": [
+            {
+              "label": "Wikipedia: electric bell",
+              "url": "https://en.wikipedia.org/wiki/Electric_bell"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why must the armature of an electric bell be soft iron, not steel?",
+              "a": "Steel would **stay magnetised** and stick to the electromagnet, so the circuit would not keep breaking and closing."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-electromagnets",
+          "label": "Quick check: electromagnets",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Why is the core of an electromagnet made of soft iron?",
+              "options": [
+                "It is magnetised and demagnetised easily",
+                "It does not conduct heat",
+                "It is the cheapest metal",
+                "It keeps its magnetism for ever"
+              ],
+              "answer": 0,
+              "why": "Soft iron becomes a strong magnet while the current flows and **loses its magnetism** when it stops. See *Electromagnets*."
+            },
+            {
+              "q": "What is a permanent magnet usually made of?",
+              "options": [
+                "Steel",
+                "Aluminium",
+                "Copper",
+                "Soft iron"
+              ],
+              "answer": 0,
+              "why": "**Steel** keeps its magnetism after the current is switched off. See *Electromagnet or permanent magnet?*"
+            },
+            {
+              "q": "Which of these uses an electromagnet?",
+              "options": [
+                "A solar cell",
+                "A torch bulb",
+                "An electric bell",
+                "An electric iron"
+              ],
+              "answer": 2,
+              "why": "The bell's electromagnet pulls the hammer, breaks the circuit, lets go, and repeats. See *Electromagnets at work*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "motor",
+      "label": "Force on a current: the d.c. motor",
+      "desc": "**Goal:** find the force on a current in a magnetic field with Fleming's left-hand rule, and explain the d.c. motor. Exercise 10(B) covers this.",
+      "links": [],
+      "children": [
+        {
+          "id": "force",
+          "label": "The force on a current in a magnetic field",
+          "type": "core",
+          "desc": "A wire carrying current in a magnetic field **feels a force**. Hang a wire between the poles of a magnet and switch on: it **jumps**.\n\n**Fleming's left-hand rule:** stretch the **first finger**, **second finger** and **thumb** of your left hand at right angles.\n\n- **F**irst finger: **F**ield (N to S)\n- se**C**ond finger: **C**urrent\n- thu**M**b: **M**otion (the force)\n\nThe force:\n\n- is **largest** when the wire is at **right angles** to the field, and **zero** when it is **parallel**;\n- grows with the **field strength B**, the **current I** and the **length** of wire in the field;\n- **reverses** if the current or the field is reversed.\n\n**Worked example:** the field goes left to right and the current flows **into** the page. The force on the wire is **downwards**.",
+          "links": [
+            {
+              "label": "Wikipedia: Fleming's left-hand rule",
+              "url": "https://en.wikipedia.org/wiki/Fleming%27s_left-hand_rule_for_motors"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: in that example, the current is reversed (out of the page). Which way is the force?",
+              "a": "**Upwards**: reversing the current reverses the force."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/fleming.png",
+              "caption": "Left hand for motors, right hand for generators"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "dc-motor",
+          "label": "The d.c. motor",
+          "type": "core",
+          "desc": "A **d.c. motor** turns **electrical energy** into **mechanical energy** (rotation).\n\nParts:\n\n- a rectangular **coil** that can turn between the poles of a magnet;\n- a **split ring commutator**: a ring cut in two halves, one joined to each end of the coil;\n- two carbon **brushes** pressing on the split ring, joined to the battery.\n\nHow it works:\n\n- Current goes **one way** in one side of the coil and the **other way** in the opposite side. By Fleming's left-hand rule the forces are **opposite**: one side goes up, the other down. The coil **turns**.\n- Every **half turn**, the split ring swaps brushes and **reverses the current** in the coil. So the forces keep turning it **the same way**.\n\n**Faster** with more current, more turns, a stronger magnet or a bigger coil.\n\n**Worked example:** a ceiling fan, a mixer and a toy car all use electric motors.",
+          "links": [
+            {
+              "label": "Wikipedia: DC motor",
+              "url": "https://en.wikipedia.org/wiki/DC_motor"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what would happen without the split ring commutator?",
+              "a": "After half a turn the forces would **push the coil back**: it would rock to and fro instead of **turning** round."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-motor",
+          "label": "Quick check: force and the motor",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Fleming's left-hand rule gives the direction of:",
+              "options": [
+                "the induced current",
+                "the field round a straight wire",
+                "the current in a solenoid",
+                "the force on a current-carrying wire in a magnetic field"
+              ],
+              "answer": 3,
+              "why": "Field, current, **force**: the left-hand rule is the **motor** rule. See *The force on a current in a magnetic field*."
+            },
+            {
+              "q": "When is the force on a current-carrying wire in a magnetic field zero?",
+              "options": [
+                "When the wire is parallel to the field",
+                "When the wire is at right angles to the field",
+                "When the current is large",
+                "Never"
+              ],
+              "answer": 0,
+              "why": "The force is **largest** at right angles and **zero** when the wire lies **along** the field. See *The force on a current in a magnetic field*."
+            },
+            {
+              "q": "What does the split ring commutator do in a d.c. motor?",
+              "options": [
+                "Makes the current a.c.",
+                "Makes the magnet stronger",
+                "Reverses the current in the coil every half turn",
+                "Stops the coil"
+              ],
+              "answer": 2,
+              "why": "Reversing the current every half turn keeps the coil turning **the same way**. See *The d.c. motor*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "induction",
+      "label": "A changing field makes a current",
+      "desc": "**Goal:** describe how a changing field induces a current, state Faraday's laws and Lenz's law. Exercise 10(C) starts here.",
+      "links": [],
+      "children": [
+        {
+          "id": "induction-step",
+          "label": "Electromagnetic induction",
+          "type": "core",
+          "desc": "Join a coil to a **galvanometer** (a sensitive current meter).\n\n- **Push a magnet into** the coil: the needle **flicks**. A current is **induced**.\n- **Hold it still:** the needle reads **zero**.\n- **Pull it out:** the needle flicks the **other way**.\n- Move it **faster**: a **bigger** flick.\n\nThe same happens with **two coils**: switching the current **on or off** in one induces a brief current in the other.\n\n**Electromagnetic induction:** an e.m.f. (and current) is produced in a coil when the **magnetic field through it changes**. It was found by **Michael Faraday**.\n\n**Worked example:** a coil is moved towards a magnet that is held still. A current is induced, because the field through the coil **changes**: only **relative** motion matters.",
+          "links": [
+            {
+              "label": "Wikipedia: electromagnetic induction",
+              "url": "https://en.wikipedia.org/wiki/Electromagnetic_induction"
+            },
+            {
+              "label": "PhET simulation: Faraday's Law (free)",
+              "url": "https://phet.colorado.edu/en/simulations/faradays-law"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a steady current flows in one coil next to a second coil. Is a current induced in the second?",
+              "a": "**No.** A **steady** current gives a **steady** field: nothing is changing."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "induction-laws",
+          "label": "Faraday's laws and Lenz's law",
+          "type": "core",
+          "desc": "**Faraday's laws:**\n\n- An e.m.f. is induced in a coil **whenever the magnetic field through it changes**. It lasts only while the change goes on.\n- The induced e.m.f. is **proportional to the rate** at which the field changes.\n\nSo the e.m.f. is **bigger** with **faster** movement, **more turns** and a **stronger** magnet.\n\n**Direction:**\n\n- **Fleming's right-hand rule:** First finger Field, thuMb Motion, seCond finger induced Current.\n- **Lenz's law:** the induced current flows so as to **oppose** the change that causes it.\n\n**Worked example:** a **north** pole is pushed towards a coil. The near end of the coil becomes a **north** pole, to push it back. You must **do work** against this push, and that work becomes electrical energy. Lenz's law is the **conservation of energy**.",
+          "links": [
+            {
+              "label": "Wikipedia: Lenz's law",
+              "url": "https://en.wikipedia.org/wiki/Lenz%27s_law"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: the north pole is now pulled away. What does the near end of the coil become?",
+              "a": "A **south** pole, to **pull it back**: still opposing the change."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-induction",
+          "label": "Quick check: induction",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A magnet is held still inside a coil joined to a galvanometer. What does the galvanometer show?",
+              "options": [
+                "A steady current",
+                "No current",
+                "An alternating current",
+                "A large current"
+              ],
+              "answer": 1,
+              "why": "A current is induced only while the magnetic field through the coil is **changing**. See *Electromagnetic induction*."
+            },
+            {
+              "q": "Lenz's law follows from the law of:",
+              "options": [
+                "conservation of energy",
+                "gravitation",
+                "reflection",
+                "conservation of mass"
+              ],
+              "answer": 0,
+              "why": "The induced current **opposes** the change, so you must do **work**: energy is not created from nothing. See *Faraday's laws and Lenz's law*."
+            },
+            {
+              "q": "How can the induced e.m.f. in a coil be made larger?",
+              "options": [
+                "Move the magnet more slowly",
+                "Move the magnet faster",
+                "Use fewer turns",
+                "Use a weaker magnet"
+              ],
+              "answer": 1,
+              "why": "e.m.f. ∝ **rate of change** of the field: faster movement, more turns or a stronger magnet. See *Faraday's laws and Lenz's law*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "generator-transformer",
+      "label": "Generators and transformers",
+      "desc": "**Goal:** explain the a.c. generator and the transformer, and use Es ÷ Ep = Ns ÷ Np. Exercise 10(C) covers this.",
+      "links": [],
+      "children": [
+        {
+          "id": "ac-generator",
+          "label": "The a.c. generator",
+          "type": "core",
+          "desc": "An **a.c. generator** (dynamo) turns **mechanical energy** into **electrical energy**.\n\n- A **coil** is turned between the poles of a magnet by a turbine, an engine or your hand.\n- The field through the coil keeps **changing**, so an e.m.f. is **induced**.\n- Each end of the coil is joined to its own **slip ring**; **brushes** press on the rings and take the current out.\n- Each half turn, the sides of the coil swap places, so the current **reverses**: it is **a.c.**\n- **One turn** of the coil gives **one cycle**. The **frequency** is the number of turns each second.\n\n**Worked example:** a generator turns at 3000 turns a minute = 50 turns a second. It makes a.c. of **50 Hz**, like the Indian mains.",
+          "links": [
+            {
+              "label": "PhET simulation: Generator (free)",
+              "url": "https://phet.colorado.edu/en/simulations/generator"
+            },
+            {
+              "label": "Wikipedia: alternator",
+              "url": "https://en.wikipedia.org/wiki/Alternator"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what speed of turning (in turns per minute) gives 60 Hz a.c.?",
+              "a": "60 turns a second × 60 = **3600 turns per minute**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/ac-output.png",
+              "caption": "One turn of the coil gives one cycle of a.c."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "motor-generator",
+          "label": "Motor and generator compared",
+          "type": "core",
+          "desc": "- **Motor:** electrical → **mechanical**. Uses **Fleming's left-hand** rule. A d.c. motor has a **split ring**.\n- **Generator:** mechanical → **electrical**. Uses **Fleming's right-hand** rule. An a.c. generator has **slip rings**.\n\nBoth have a coil turning between magnetic poles. In fact a motor turned by hand works as a generator.\n\n**Why a.c. for the mains?** a.c. can be **stepped up and down** by transformers, so it can be sent long distances at high voltage with little loss (Chapter 9). d.c. is still needed for charging batteries, electroplating and electronics.\n\n**Worked example:** a bicycle dynamo is turned by the wheel and lights the lamp: a **generator**. The fan above you is a **motor**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which hand's rule do you use for (a) a motor, (b) a generator?",
+              "a": "(a) **left** hand, (b) **right** hand."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "transformer",
+          "label": "The transformer",
+          "type": "core",
+          "desc": "A **transformer** changes the **voltage** of a.c. It does **not** change the frequency.\n\n- Two coils, the **primary** (input) and the **secondary** (output), are wound on a **laminated soft iron core**.\n- The a.c. in the primary makes a **changing** field in the core. This field passes through the secondary and **induces** an e.m.f. in it.\n- It works **only on a.c.**: a steady d.c. makes no changing field.\n\n**Es ÷ Ep = Ns ÷ Np** (secondary over primary: the **turns ratio**)\n\n**Worked example:** a doorbell needs 11 V from 220 V mains. The primary has 2000 turns.\n\nNs = Np × Es ÷ Ep = 2000 × 11 ÷ 220\n\nNs = **100 turns**",
+          "links": [
+            {
+              "label": "Wikipedia: transformer",
+              "url": "https://en.wikipedia.org/wiki/Transformer"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a phone charger brings 220 V down to 5.5 V. Its primary has 2000 turns. How many turns on the secondary?",
+              "a": "Ns = 2000 × 5.5 ÷ 220 = **50 turns**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/transformer.png",
+              "caption": "Fewer turns on the secondary: a lower voltage"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "step-up-down",
+          "label": "Step-up and step-down",
+          "type": "core",
+          "desc": "- **Step-up:** **Ns > Np**, output voltage **higher**. Used at **power stations** to send power at high voltage.\n- **Step-down:** **Ns < Np**, output voltage **lower**. Used at **city substations**, in phone chargers, doorbells and radios.\n\nIn an **ideal** transformer, power in = power out: **Ep Ip = Es Is**. So where the voltage goes **down**, the current goes **up**, and that coil uses **thicker** wire.\n\n**Worked example 1:** a step-up transformer raises 220 V to 6600 V. With 200 primary turns, Ns = 200 × 6600 ÷ 220 = **6000 turns**.\n\n**Worked example 2:** the 11 V doorbell takes 2 A. Primary current = 11 × 2 ÷ 220 = **0.1 A**.\n\nReal transformers lose a little energy: as **eddy currents** in the core (cut by **laminating** it), heating in the coils, and in magnetising the core (cut by using **soft iron**).",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: in a step-down transformer, which coil has the thicker wire? Why?",
+              "a": "The **secondary**: it has the **lower voltage**, so it carries the **larger current**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-generator-transformer",
+          "label": "Quick check: generator and transformer",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which part of an a.c. generator lets the coil send out alternating current?",
+              "options": [
+                "Slip rings",
+                "A fuse",
+                "A split ring",
+                "A soft iron core"
+              ],
+              "answer": 0,
+              "why": "**Slip rings** keep each end of the coil joined to the same brush, so the output **alternates**. See *The a.c. generator*."
+            },
+            {
+              "q": "A transformer has 1000 turns on the primary and 50 on the secondary. It is joined to 220 V a.c. What is the secondary voltage?",
+              "options": [
+                "220 V",
+                "11 V",
+                "0.23 V",
+                "4400 V"
+              ],
+              "answer": 1,
+              "why": "Es = Ep × Ns ÷ Np = 220 × 50 ÷ 1000 = **11 V**. Turning the ratio upside down gives 4400 V. See *The transformer*."
+            },
+            {
+              "q": "Why can't a transformer work on d.c.?",
+              "options": [
+                "d.c. melts the core",
+                "d.c. has too high a voltage",
+                "A steady current gives no change in the magnetic field",
+                "d.c. is too dangerous"
+              ],
+              "answer": 2,
+              "why": "Induction needs a **changing** field. A steady d.c. gives none, so no e.m.f. is induced in the secondary. See *The transformer*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "exam-toolkit",
+      "label": "Exam toolkit: rules, reasons and diagrams",
+      "desc": "**Goal:** collect the marks that come from learning and drawing. This chapter is mostly rules, labelled diagrams and 'give reasons'.",
+      "links": [],
+      "children": [
+        {
+          "id": "definitions",
+          "label": "Rules and definitions to learn word for word",
+          "type": "core",
+          "desc": "- **Right-hand thumb rule:** if a current-carrying wire is held in the right hand with the thumb along the current, the curled fingers give the direction of the magnetic field.\n- **Clock rule:** a face of a coil with clockwise current is a south pole; with anticlockwise current, a north pole.\n- **Fleming's left-hand rule:** with the first finger along the field and the second finger along the current, the thumb gives the direction of the force.\n- **Electromagnetic induction:** an e.m.f. is induced in a coil when the magnetic flux linked with it changes.\n- **Fleming's right-hand rule:** with the first finger along the field and the thumb along the motion, the second finger gives the induced current.\n- **Lenz's law:** the induced current opposes the change that produces it.\n- **Transformer:** a device that changes the voltage of an alternating current, by electromagnetic induction.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: cover the list. State Lenz's law, and the law it is based on.",
+              "a": "The induced current **opposes the change** that produces it. It comes from the **conservation of energy**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "numerical-method",
+          "label": "Numericals: four lines every time",
+          "type": "core",
+          "desc": "This chapter's numericals use the **turns ratio**. Write all four lines:\n\n1. **Given:** Ep, Np, Ns (or Es).\n2. **Formula:** Es ÷ Ep = Ns ÷ Np.\n3. **Substitute.**\n4. **Answer**, with its unit, and say step-up or step-down.\n\n**Worked example:** a transformer with 200 primary turns and 6000 secondary turns is joined to 220 V a.c. Find Es.\n\nGiven: Ep = 220 V, Np = 200, Ns = 6000\n\nFormula: Es = Ep × Ns ÷ Np\n\nSubstitute: 220 × 6000 ÷ 200\n\nAnswer: **6600 V** (step-up)",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is the commonest slip with the turns ratio?",
+              "a": "Putting it **upside down**. It is **secondary over primary** for both voltage and turns."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "give-reasons",
+          "label": "Give reasons: model answers",
+          "type": "core",
+          "desc": "Many questions ask *give a reason*. Try these before opening the answers.",
+          "links": [],
+          "faq": [
+            {
+              "q": "The core of an electromagnet is soft iron, not steel.",
+              "a": "Soft iron is **magnetised easily** and **loses its magnetism** as soon as the current stops; steel would stay magnetised."
+            },
+            {
+              "q": "A d.c. motor needs a split ring commutator.",
+              "a": "It **reverses the current** in the coil every half turn, so the forces keep turning it in **one direction**."
+            },
+            {
+              "q": "A transformer cannot be used with d.c.",
+              "a": "A steady d.c. gives **no change** in the magnetic field, so **no e.m.f.** is induced in the secondary."
+            },
+            {
+              "q": "The core of a transformer is laminated.",
+              "a": "Thin insulated sheets cut down **eddy currents** in the core, so less energy is wasted as **heat**."
+            },
+            {
+              "q": "You feel resistance when you push a magnet into a coil that is part of a closed circuit.",
+              "a": "By **Lenz's law** the induced current makes a pole that **opposes** the magnet; you must do work against it."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "diagrams-practise",
+          "label": "Diagrams to practise",
+          "type": "core",
+          "desc": "- Field lines round a **straight wire**, a **loop** and a **solenoid**, with directions.\n- An **electromagnet** (I-shaped and U-shaped) and an **electric bell**.\n- **Fleming's left-hand** and **right-hand** rules.\n- A **d.c. motor** with its split ring and brushes.\n- An **a.c. generator** with its slip rings and brushes.\n- A **step-up** and a **step-down transformer**, labelled primary, secondary and core.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: last-minute revision and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Read the sheet the night before the exam and again on the morning.",
+      "links": [],
+      "children": [
+        {
+          "id": "revision-sheet",
+          "label": "Last-minute revision sheet",
+          "type": "core",
+          "desc": "**The one idea:** a current makes a magnetic field; a field pushes on a current; and a **changing** field makes a current. Motors use the push. Generators and transformers use the change.\n\n**Formulas**\n- Transformer: **Es ÷ Ep = Ns ÷ Np** (the turns ratio)\n- Ideal transformer: **Ep × Ip = Es × Is** (power in = power out)\n- a.c.: **T = 1 ÷ f**. At 50 Hz, T = 0.02 s.\n\n**Units and values**\n- Mains a.c. in India: **50 Hz**: it reverses direction **100 times a second**.\n- Unit of magnetic field strength B: **N A⁻¹ m⁻¹** (the tesla).\n\n**Rules**\n- **Right-hand thumb rule:** thumb along the current, fingers curl along the field (straight wire).\n- **Clock rule:** current **clockwise** as you look at a face: that face is **South**. **Anticlockwise:** **North**.\n- **Fleming's left-hand rule (motor):** First finger Field, seCond finger Current, thuMb Motion (force).\n- **Fleming's right-hand rule (generator):** First finger Field, thuMb Motion, seCond finger induced Current.\n- **Lenz's law:** the induced current **opposes** the change that causes it (conservation of energy).\n\n**Key points**\n- Field round a straight wire: **circles**, stronger with **more current** and **nearer** the wire.\n- A solenoid acts like a **bar magnet**; inside, the field is **strong and even**. Stronger with more **turns**, more **current**, a **soft iron core**.\n- Electromagnet: **soft iron** (magnetises and demagnetises easily). Permanent magnet: **steel**.\n- Electromagnet advantages: switch on and off, adjust its strength, reverse its poles, very strong.\n- Uses: **electric bell**, cranes, relays, loudspeakers, motors.\n- Force on a wire in a field: largest at **right angles**, **zero** when parallel; grows with **B, I and length**.\n- **d.c. motor:** electrical → mechanical. **Split ring commutator** reverses the current every half turn. Faster with more current, more turns, a stronger magnet.\n- **Induction:** an e.m.f. only while the field through the coil **changes**. Bigger if faster, more turns, stronger magnet.\n- **a.c. generator:** mechanical → electrical; **slip rings**; one turn = one cycle.\n- **Transformer:** works only on **a.c.**; **laminated soft iron core** (cuts eddy current losses). **Step-up:** Ns > Np (power stations). **Step-down:** Ns < Np (chargers, doorbells, city substations). The low-voltage coil carries more current, so its wire is **thicker**.\n\n**Traps:** left hand = **motor**, right hand = **generator**. Split ring = motor, slip rings = a.c. generator. Turns ratio is **Ns ÷ Np**, secondary over primary. A transformer changes voltage, **not frequency**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Looking at one face of a coil, the current flows clockwise. That face of the coil is:",
+              "options": [
+                "not a pole",
+                "both poles",
+                "a south pole",
+                "a north pole"
+              ],
+              "answer": 2,
+              "why": "**Clock rule:** clockwise = **South**, anticlockwise = North."
+            },
+            {
+              "q": "A current-carrying solenoid behaves like:",
+              "options": [
+                "a resistor only",
+                "a cell",
+                "a horseshoe magnet",
+                "a bar magnet"
+              ],
+              "answer": 3,
+              "why": "It has a **north** and a **south** end, just like a **bar magnet**."
+            },
+            {
+              "q": "In an electric bell, why does the hammer keep striking the gong?",
+              "options": [
+                "The electromagnet pulls the armature, which breaks the circuit, so it springs back and the circuit closes again",
+                "The hammer is made of steel",
+                "The current is a.c.",
+                "The gong is a magnet"
+              ],
+              "answer": 0,
+              "why": "Pull, break, release, close: the bell **makes and breaks** its own circuit many times a second."
+            },
+            {
+              "q": "The force on a current-carrying wire in a magnetic field depends on:",
+              "options": [
+                "the field strength, the current and the length in the field",
+                "only the current",
+                "only the field",
+                "the colour of the wire"
+              ],
+              "answer": 0,
+              "why": "F grows with **B**, **I** and the **length** of wire in the field."
+            },
+            {
+              "q": "A d.c. motor changes:",
+              "options": [
+                "heat into electrical energy",
+                "mechanical energy into electrical energy",
+                "chemical energy into electrical energy",
+                "electrical energy into mechanical energy"
+              ],
+              "answer": 3,
+              "why": "A **motor** turns electrical energy into **motion**. A generator does the reverse."
+            },
+            {
+              "q": "Fleming's right-hand rule gives the direction of:",
+              "options": [
+                "the poles of a solenoid",
+                "the force on a wire in a motor",
+                "the induced current",
+                "the field round a straight wire"
+              ],
+              "answer": 2,
+              "why": "The **right** hand is for **generators**: the direction of the **induced** current."
+            },
+            {
+              "q": "The north pole of a magnet is pushed into a coil. What does the near end of the coil become?",
+              "options": [
+                "A south pole, to pull it in",
+                "It keeps changing",
+                "No pole",
+                "A north pole, to push the magnet back"
+              ],
+              "answer": 3,
+              "why": "**Lenz's law:** the induced current **opposes** the motion, so the near end becomes **north**."
+            },
+            {
+              "q": "What is the frequency of the a.c. mains supply in India?",
+              "options": [
+                "100 Hz",
+                "60 Hz",
+                "50 Hz",
+                "220 Hz"
+              ],
+              "answer": 2,
+              "why": "**50 Hz**: 50 cycles a second, reversing direction 100 times a second."
+            },
+            {
+              "q": "In a step-up transformer, which coil has more turns?",
+              "options": [
+                "Both the same",
+                "The primary",
+                "Neither has turns",
+                "The secondary"
+              ],
+              "answer": 3,
+              "why": "**Step-up:** Ns > Np, so the **secondary** has more turns."
+            },
+            {
+              "q": "Why is a transformer core made of thin laminated sheets?",
+              "options": [
+                "To make it lighter",
+                "To cut energy lost by eddy currents",
+                "To raise the voltage",
+                "To make it look neat"
+              ],
+              "answer": 1,
+              "why": "Insulated thin sheets stop large **eddy currents** in the core, which would waste energy as **heat**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These are like the harder questions at the end of the chapter. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "efficiency-tr",
+          "label": "A transformer for a lamp",
+          "type": "optional",
+          "desc": "A 240 V to 12 V transformer runs a 60 W lamp. (Assume it is ideal.)\n\nLamp current: Is = 60 ÷ 12 = **5 A**\n\nPrimary current: Ip = 60 ÷ 240 = **0.25 A**\n\nTurns ratio Ns ÷ Np = 12 ÷ 240 = 1 ÷ 20: the primary has **20 times** as many turns.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "ac-reversals",
+          "label": "How many times does it reverse?",
+          "type": "optional",
+          "desc": "a.c. at 50 Hz goes through 50 cycles a second. In each cycle the current flows **one way, then the other**: it changes direction **twice**.\n\nSo it reverses **100 times a second**, and one cycle takes **0.02 s**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "half-voltage-tr",
+          "label": "Turns and voltage",
+          "type": "optional",
+          "desc": "A transformer's secondary gives 110 V when the primary is joined to 220 V. The secondary has 500 turns. How many turns does the primary have, and is it step-up or step-down?\n\nNp = Ns × Ep ÷ Es = 500 × 220 ÷ 110 = **1000 turns**. Output lower: **step-down**.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThis chapter is mostly **rules, directions and diagrams**, with one simple formula. A struggling student scores well by practising the four hand rules physically, and by drawing the motor, generator and transformer until they can label them blind.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- Use **real hands** every lesson: field, current, motion. Make them say the letters aloud.\n- Do **Oersted's experiment** with a cell, a wire and a compass. It takes five minutes and they never forget it.\n- Build an **electromagnet**: an iron nail, insulated wire, a cell, some paper clips. Count the clips as you add turns.\n- Use **PhET Faraday's Law** and **Generator**: they can see the galvanometer flick as the magnet moves.\n- Show a **phone charger** or doorbell transformer and ask: step-up or step-down?\n- Pair the confusable words: **left/right**, **split ring/slip rings**, **motor/generator**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 10-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** magnets again; Oersted's experiment. Activity: a compass under a wire.\n- **Period 2:** field round a straight wire, right-hand thumb rule; loops and the clock rule. Activity: iron filings on card.\n- **Period 3:** solenoids; electromagnets; soft iron versus steel. Activity: build a nail electromagnet. Exercise 10(A).\n- **Period 4:** uses of electromagnets; the electric bell. Activity: take apart an old bell.\n- **Period 5:** force on a current; Fleming's left-hand rule. Activity: the jumping wire.\n- **Period 6:** the d.c. motor and its split ring. Exercise 10(B).\n- **Period 7:** electromagnetic induction; Faraday's laws; Lenz's law. Activity: magnet, coil and galvanometer, or PhET.\n- **Period 8:** the a.c. generator; motor versus generator; a.c. versus d.c.\n- **Period 9:** the transformer; turns ratio; step-up and step-down. Exercise 10(C).\n- **Period 10:** exam toolkit: rules test, diagram practice, give-reasons practice, self-test and exit ticket.",
+          "links": [
+            {
+              "label": "PhET simulation: Faraday's Law (free)",
+              "url": "https://phet.colorado.edu/en/simulations/faradays-law"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Using the **right** hand for the motor rule, or the left for the generator.\n- Mixing up the **split ring** (d.c. motor) and **slip rings** (a.c. generator).\n- Saying an e.m.f. is induced while the magnet is **held still** inside the coil.\n- Writing the turns ratio **upside down**.\n- Saying a transformer changes the **frequency**, or works on **d.c.**\n- Using **electron** flow instead of conventional current with the rules.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. State the right-hand thumb rule.",
+              "a": "Hold the wire in the right hand with the **thumb along the current**: the **curled fingers** show the field."
+            },
+            {
+              "q": "2. Why is soft iron used for an electromagnet's core?",
+              "a": "It **magnetises easily** and **loses its magnetism** when the current stops."
+            },
+            {
+              "q": "3. What is the function of the split ring in a d.c. motor?",
+              "a": "It **reverses the current** in the coil every **half turn**, so the coil keeps turning one way."
+            },
+            {
+              "q": "4. A magnet is pushed into a coil, then held still. When is a current induced?",
+              "a": "Only **while it is moving**. Held still, there is **no** current."
+            },
+            {
+              "q": "5. A transformer has 1000 primary and 100 secondary turns. On 220 V, what is the output?",
+              "a": "220 × 100 ÷ 1000 = **22 V** (step-down)."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

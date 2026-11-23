@@ -1,0 +1,1115 @@
+{
+  "title": "ICSE Class 10 Physics, Chapter 11: Calorimetry, Step by Step",
+  "subtitle": "For students who find physics hard. Heat and temperature, heat capacity and specific heat capacity, the method of mixtures, water's high specific heat, change of state and the latent heat of fusion in small steps, with worked numericals, quick checks, an exam toolkit and a last-minute revision sheet. Follows the ICSE Class 10 syllabus, Chapter 11 (Calorimetry), in the order of Selina Concise Physics.",
+  "updated": "2026-11-23",
+  "changelog": [
+    {
+      "date": "2026-11-23",
+      "text": "First version: the whole chapter in small steps, with original worked examples, quick checks, a last-minute revision sheet, a self-test and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** be sure of temperature scales, the units of mass and energy, and solving an equation for one unknown. Every numerical in this chapter uses all three.",
+      "links": [
+        {
+          "label": "PhET simulation: Energy Forms and Changes (free)",
+          "url": "https://phet.colorado.edu/en/simulations/energy-forms-and-changes"
+        }
+      ],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Write the heat balance in words first.** 'Heat lost by the hot water = heat gained by the cold water.' Then put the numbers under each side.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: heat flows from hot to cold, and none is lost: heat lost = heat gained.** Use Q = m c ΔT when the temperature changes, and Q = m L when the state changes.",
+          "links": [
+            {
+              "label": "PhET simulation: Energy Forms and Changes (free)",
+              "url": "https://phet.colorado.edu/en/simulations/energy-forms-and-changes"
+            },
+            {
+              "label": "Last-minute revision sheet for this chapter",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-calorimetry#revision-sheet"
+            },
+            {
+              "label": "Previous chapter: 10. Electro-magnetism",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-electromagnetism"
+            },
+            {
+              "label": "Next chapter: 12. Radioactivity",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-physics-radioactivity"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 11, *Calorimetry*, of the ICSE Class 10 Physics syllabus. It follows the order of *Selina Concise Physics* for Class 10.\n\n**Who it is for.** Class 10 students who find physics hard, and want to understand this chapter and score decent marks in it. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** Heat flows from hot to cold and none is lost: heat lost = heat gained. Use Q = m c ΔT when the temperature changes, and Q = m L when the state changes.\n\n**How it is different from the textbook.** The textbook treats specific heat and latent heat as two topics. Here they are one heat balance, written in words first. The g to kg step, the melting step and the warming of melted ice become habits, and the heating curve is drawn from real numbers.\n\n**What is inside.**\n- 11 milestones and 44 small steps. The 36 solid steps are the core path. The dashed ones are optional.\n- 39 practice questions with hidden answers, and 3 pictures.\n- 28 click-to-check questions that say right or wrong, and why: a quick check after each of the 6 main milestones, and a 10-question self-test.\n- A **last-minute revision sheet**: every formula, unit and key point on one page.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the challenge questions, and a section for teachers and parents with a 9-period lesson plan, the mistakes to watch for and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from their textbook. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the ICSE syllabus but is not made or endorsed by CISCE or by any publisher. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. What is 27 °C in kelvin?",
+              "a": "27 + 273 = **300 K**. Wrong? Do *Celsius and kelvin*."
+            },
+            {
+              "q": "2. Water warms from 20 °C to 60 °C. What is the rise in kelvin?",
+              "a": "**40 K**: a change of 1 °C is a change of 1 K. Wrong? Do *Celsius and kelvin*."
+            },
+            {
+              "q": "3. Write 2500 g in kg, and 630 000 J in kJ.",
+              "a": "**2.5 kg** and **630 kJ**. Wrong? Do *Grams, kilograms and joules*."
+            },
+            {
+              "q": "4. Solve 1.5 × 4200 × x = 18 900.",
+              "a": "6300 x = 18 900, so **x = 3**. Wrong? Do *Solving for the unknown*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "kelvin",
+          "label": "Celsius and kelvin",
+          "type": "core",
+          "desc": "- To change °C to kelvin, **add 273**. To change kelvin to °C, take away 273.\n- A **change** of 1 °C is the **same** as a change of 1 K.\n\nSo in this chapter a rise **ΔT** has the **same number** in °C and in K. You never add 273 to a temperature **difference**.\n\n**Worked example:** water warms from 15 °C to 45 °C. ΔT = 45 − 15 = **30 °C = 30 K**.",
+          "links": [
+            {
+              "label": "Math is Fun: temperature conversion",
+              "url": "https://www.mathsisfun.com/temperature-conversion.html"
+            },
+            {
+              "label": "Wikipedia: kelvin",
+              "url": "https://en.wikipedia.org/wiki/Kelvin"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a metal cools from 90 °C to 35 °C. What is the fall in temperature in kelvin?",
+              "a": "90 − 35 = **55 K**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "units",
+          "label": "Grams, kilograms and joules",
+          "type": "core",
+          "desc": "- **1 kg = 1000 g**. To change g to kg, **divide by 1000**: 250 g = 0.25 kg.\n- **1 kJ = 1000 J**.\n- Specific heat in **J kg⁻¹ K⁻¹** needs the mass in **kg**. If it is in J g⁻¹ K⁻¹, keep the mass in **g**.\n\n**Worked example:** 4200 J kg⁻¹ K⁻¹ is the same as 4.2 J g⁻¹ K⁻¹, because 1 kg = 1000 g.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: write 75 g in kg, and 16 800 J in kJ.",
+              "a": "**0.075 kg** and **16.8 kJ**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "solving",
+          "label": "Solving for the unknown",
+          "type": "core",
+          "desc": "Most numericals end with one unknown, such as the final temperature T.\n\n- Multiply out the brackets.\n- Put all the T terms on **one side** and the numbers on the **other**.\n- Divide.\n\n**Worked example:** solve 840 (80 − T) = 1260 (T − 20).\n\n67 200 − 840 T = 1260 T − 25 200\n\n67 200 + 25 200 = 1260 T + 840 T\n\n92 400 = 2100 T\n\nT = **44**",
+          "links": [
+            {
+              "label": "Math is Fun: solving equations",
+              "url": "https://www.mathsisfun.com/algebra/equations-solving.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: solve 2100 (100 − T) = 8400 (T − 25). Hint: divide both sides by 2100 first.",
+              "a": "100 − T = 4 (T − 25), so 100 − T = 4T − 100, 200 = 5T, **T = 40**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "heat-temp",
+      "label": "Heat and temperature",
+      "desc": "**Goal:** say what heat is, how it differs from temperature, and what decides how much heat a body takes. Exercise 11(A) starts here.",
+      "links": [],
+      "children": [
+        {
+          "id": "what-heat",
+          "label": "What heat is",
+          "type": "core",
+          "desc": "**Heat is energy that flows from a hotter body to a colder one because of the difference in their temperatures.**\n\n- It flows until both reach the **same temperature**.\n- Its SI unit is the **joule (J)**.\n- An older unit is the **calorie**: the heat that warms **1 g of water by 1 °C**. **1 calorie = 4.2 J** (more exactly 4.186 J).\n- Food 'Calories' are really **kilocalories** (1 kcal = 1000 cal).\n\n**Worked example:** a hot cup of tea on a table cools until it is at **room temperature**. Then heat stops flowing.",
+          "links": [
+            {
+              "label": "Physics Classroom: what is heat?",
+              "url": "https://www.physicsclassroom.com/class/thermalP/Lesson-1/What-is-Heat"
+            },
+            {
+              "label": "Wikipedia: calorie",
+              "url": "https://en.wikipedia.org/wiki/Calorie"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: change 50 calories into joules.",
+              "a": "50 × 4.2 = **210 J**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "heat-vs-temp",
+          "label": "Heat or temperature?",
+          "type": "core",
+          "desc": "**Temperature** tells you **how hot** a body is. It decides **which way** heat flows.\n\n- Heat is **energy**, in **joules**. Temperature is a **degree of hotness**, in °C or **K**.\n- Heat is measured with a **calorimeter**; temperature with a **thermometer**.\n- Heat depends on the **mass**; temperature does not.\n- Heat flows from **high to low temperature**, never the other way by itself, even if the colder body holds more heat.\n\n**Worked example:** a bath of warm water at 40 °C holds **far more heat** than a spoon of boiling water. Yet heat flows **from the spoon into the bath**.",
+          "links": [
+            {
+              "label": "Physics Classroom: temperature and thermometers",
+              "url": "https://www.physicsclassroom.com/class/thermalP/Lesson-1/Temperature-and-Thermometers"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: two blocks of iron at 60 °C, one of 1 kg and one of 3 kg. Which holds more heat? Which is hotter?",
+              "a": "The **3 kg** block holds more heat. They are **equally hot** (same temperature)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "heat-factors",
+          "label": "What decides how much heat",
+          "type": "core",
+          "desc": "The heat a body takes in (or gives out) depends on:\n\n- its **mass**: twice the mass needs twice the heat;\n- its **rise (or fall) in temperature**: twice the rise needs twice the heat;\n- its **material**: 1 kg of water needs about **10 times** as much heat as 1 kg of copper for the same rise.\n\nPut together: **Q ∝ m × ΔT**, and the material sets the number in front.\n\n**Worked example:** warming 2 kg of water by 10 °C needs the same heat as warming 1 kg of water by **20 °C**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: 1 kg of water is warmed by 30 °C. Which needs the same heat: 3 kg by 10 °C, or 3 kg by 30 °C?",
+              "a": "**3 kg by 10 °C**: 3 × 10 = 1 × 30."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-heat-temp",
+          "label": "Quick check: heat and temperature",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "What is the SI unit of heat?",
+              "options": [
+                "joule",
+                "calorie",
+                "watt",
+                "kelvin"
+              ],
+              "answer": 0,
+              "why": "Heat is energy, so its unit is the **joule**. The calorie is an older unit. See *What heat is*."
+            },
+            {
+              "q": "A bucket of warm water and a cup of boiling water are compared. Which statement is right?",
+              "options": [
+                "Both hold the same heat",
+                "The bucket is hotter",
+                "The cup is hotter, but the bucket may hold more heat",
+                "The cup holds more heat because it is hotter"
+              ],
+              "answer": 2,
+              "why": "Temperature is **how hot**; heat also depends on **how much** there is. See *Heat or temperature?*"
+            },
+            {
+              "q": "1 calorie is about:",
+              "options": [
+                "0.42 J",
+                "4.2 J",
+                "42 J",
+                "1 J"
+              ],
+              "answer": 1,
+              "why": "**1 calorie = 4.2 J** (more exactly 4.186 J). See *What heat is*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "heat-capacity",
+      "label": "Heat capacity and specific heat capacity",
+      "desc": "**Goal:** define heat capacity and specific heat capacity, know their units, and use Q = m c ΔT. Exercise 11(A) covers this.",
+      "links": [],
+      "children": [
+        {
+          "id": "heat-capacity-step",
+          "label": "Heat capacity",
+          "type": "core",
+          "desc": "**The heat capacity of a body is the heat needed to raise its temperature by 1 °C (or 1 K).**\n\n**C′ = Q ÷ ΔT**, in **J K⁻¹** (or J °C⁻¹).\n\nIt belongs to the **whole body**, so it depends on the **mass** and the **material**: **C′ = m c**.\n\n**Worked example:** a 0.5 kg aluminium pan (c = 900 J kg⁻¹ K⁻¹) has heat capacity 0.5 × 900 = **450 J K⁻¹**. Warming it by 40 °C takes 450 × 40 = **18 000 J**.",
+          "links": [
+            {
+              "label": "Wikipedia: heat capacity",
+              "url": "https://en.wikipedia.org/wiki/Heat_capacity"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a 5 kg iron block has c = 420 J kg⁻¹ K⁻¹. What is its heat capacity?",
+              "a": "C′ = 5 × 420 = **2100 J K⁻¹**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "specific-heat",
+          "label": "Specific heat capacity",
+          "type": "core",
+          "desc": "**The specific heat capacity of a substance is the heat needed to raise the temperature of 1 kg of it by 1 °C (or 1 K).**\n\n**c = Q ÷ (m × ΔT)**, in **J kg⁻¹ K⁻¹**. It belongs to the **material**, not to one body.\n\nValues to know (J kg⁻¹ K⁻¹):\n\n- **water: 4200**, the highest of common substances\n- ice: **2100**, half that of water\n- aluminium: about 900; copper: about 390; mercury: about 140\n\n**Worked example:** a substance with **low c** (like copper) heats up **quickly** and cools quickly. A substance with **high c** (like water) heats up **slowly** and cools slowly.",
+          "links": [
+            {
+              "label": "Wikipedia: specific heat capacity",
+              "url": "https://en.wikipedia.org/wiki/Specific_heat_capacity"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what is the specific heat capacity of water in J g⁻¹ K⁻¹?",
+              "a": "4200 ÷ 1000 = **4.2 J g⁻¹ K⁻¹**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/specific-heats.png",
+              "caption": "Water needs far more heat per kg per degree"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "q-mct",
+          "label": "Using Q = m c ΔT",
+          "type": "core",
+          "desc": "**Q = m × c × ΔT**\n\nQ is the heat in J, m the mass in **kg**, c the specific heat capacity, and ΔT the change in temperature.\n\n**Worked example:** how much heat warms 3 kg of water from 20 °C to 70 °C?\n\nGiven: m = 3 kg, c = 4200 J kg⁻¹ K⁻¹, ΔT = 70 − 20 = 50 °C\n\nFormula: Q = m c ΔT\n\nSubstitute: Q = 3 × 4200 × 50\n\nAnswer: Q = **630 000 J = 630 kJ**",
+          "links": [
+            {
+              "label": "Physics Classroom: measuring the quantity of heat",
+              "url": "https://www.physicsclassroom.com/class/thermalP/Lesson-2/Measuring-the-Quantity-of-Heat"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: 500 g of aluminium (c = 900 J kg⁻¹ K⁻¹) is warmed by 20 °C. How much heat is needed?",
+              "a": "Q = 0.5 × 900 × 20 = **9000 J**. (Did you change 500 g to 0.5 kg?)"
+            },
+            {
+              "q": "Your turn: 2 kg of water takes in 8400 J. What is its heat capacity, and how much does its temperature rise?",
+              "a": "C′ = 2 × 4200 = 8400 J K⁻¹, so the rise is 8400 ÷ 8400 = **1 °C**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-heat-capacity",
+          "label": "Quick check: specific heat capacity",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "What is the SI unit of specific heat capacity?",
+              "options": [
+                "J kg⁻¹",
+                "J K⁻¹",
+                "J",
+                "J kg⁻¹ K⁻¹"
+              ],
+              "answer": 3,
+              "why": "Per kilogram **and** per kelvin: **J kg⁻¹ K⁻¹**. J K⁻¹ is heat capacity. See *Specific heat capacity*."
+            },
+            {
+              "q": "A 2 kg block of aluminium has c = 900 J kg⁻¹ K⁻¹. What is its heat capacity?",
+              "options": [
+                "1800 J K⁻¹",
+                "900 J K⁻¹",
+                "450 J K⁻¹",
+                "902 J K⁻¹"
+              ],
+              "answer": 0,
+              "why": "C′ = m × c = 2 × 900 = **1800 J K⁻¹**. See *Heat capacity*."
+            },
+            {
+              "q": "2 kg of water is given 84 000 J of heat. By how much does its temperature rise? (c = 4200 J kg⁻¹ K⁻¹)",
+              "options": [
+                "10 °C",
+                "40 °C",
+                "20 °C",
+                "5 °C"
+              ],
+              "answer": 0,
+              "why": "ΔT = Q ÷ (m c) = 84 000 ÷ (2 × 4200) = **10 °C**. See *Using Q = m c ΔT*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "mixtures",
+      "label": "Mixing hot and cold",
+      "desc": "**Goal:** state the principle of method of mixtures, describe a calorimeter, and solve mixture numericals. Exercise 11(A) covers this.",
+      "links": [],
+      "children": [
+        {
+          "id": "principle",
+          "label": "Heat lost = heat gained",
+          "type": "core",
+          "desc": "Mix a **hot** body and a **cold** body. Heat flows from the hot to the cold. It stops when they reach the **same final temperature**.\n\n**Principle of method of mixtures: if no heat is lost to the surroundings, heat lost by the hot body = heat gained by the cold body.**\n\nIt is just the **conservation of energy**.\n\n**Worked example:** hot water gives out 5000 J while cooling in a cup of cold milk. If none escapes, the milk takes in **5000 J**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why do we say 'if no heat is lost'?",
+              "a": "In real life a little heat escapes to the **air** and the **container**. So the hot body loses slightly more than the cold body gains."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "calorimeter",
+          "label": "The calorimeter",
+          "type": "core",
+          "desc": "A **calorimeter** is a vessel for measuring heat in mixtures.\n\n- Made of **copper**. Copper has a **low specific heat**, so it takes little heat itself. It is a **good conductor**, so it quickly reaches the temperature inside.\n- **Polished** outside, to cut heat loss by radiation.\n- Kept in a box packed with an **insulator** (wool, cotton, thermocol), to cut loss by conduction.\n- Has a **lid**, a **stirrer** and a **thermometer**.\n\n**Worked example:** a calorimeter made of a high-c material would soak up much of the heat itself, making the result **less accurate**.",
+          "links": [
+            {
+              "label": "Wikipedia: calorimeter",
+              "url": "https://en.wikipedia.org/wiki/Calorimeter"
+            },
+            {
+              "label": "Physics Classroom: calorimeters and calorimetry",
+              "url": "https://www.physicsclassroom.com/class/thermalP/Lesson-2/Calorimeters-and-Calorimetry"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: give two reasons a calorimeter is made of copper.",
+              "a": "Copper has a **low specific heat** and is a **good conductor** of heat."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "final-temperature",
+          "label": "Finding a final temperature",
+          "type": "core",
+          "desc": "Write the balance in words, then in symbols. The hot body **falls** to T; the cold body **rises** to T.\n\n**Worked example:** 200 g of water at 80 °C is poured into 300 g of water at 20 °C. Find the final temperature T. (Ignore the container.)\n\nHeat lost by hot water = 0.2 × 4200 × (80 − T) = 840 (80 − T)\n\nHeat gained by cold water = 0.3 × 4200 × (T − 20) = 1260 (T − 20)\n\n840 (80 − T) = 1260 (T − 20)\n\nT = **44 °C**\n\nCheck: it lies **between** 20 °C and 80 °C, and nearer 20 °C because there was **more** cold water.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: 100 g of water at 70 °C is mixed with 100 g of water at 10 °C. Find the final temperature.",
+              "a": "Equal masses of the same liquid: (70 + 10) ÷ 2 = **40 °C**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "metal-c",
+          "label": "Finding the specific heat of a metal",
+          "type": "core",
+          "desc": "Heat a metal to a known temperature. Drop it into water in a calorimeter and measure the final temperature. The heat it **loses** equals the heat the water **gains**.\n\n**Worked example:** a 200 g metal ball at 100 °C is dropped into 300 g of water at 20 °C. The final temperature is 25 °C. Find c of the metal.\n\nHeat gained by water = 0.3 × 4200 × (25 − 20) = **6300 J**\n\nHeat lost by metal = 0.2 × c × (100 − 25) = 15 c\n\n15 c = 6300\n\nc = **420 J kg⁻¹ K⁻¹**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: in that experiment, why did the water warm only 5 °C while the metal cooled 75 °C?",
+              "a": "Water has a **much higher specific heat** (and there was more of it), so it needs much more heat per degree."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/mixtures.png",
+              "caption": "Heat lost by the metal = heat gained by the water"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-mixtures",
+          "label": "Quick check: mixtures",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "100 g of water at 70 °C is mixed with 100 g of water at 10 °C. What is the final temperature?",
+              "options": [
+                "40 °C",
+                "30 °C",
+                "80 °C",
+                "60 °C"
+              ],
+              "answer": 0,
+              "why": "Equal masses of water: the final temperature is the **average**, (70 + 10) ÷ 2 = **40 °C**. See *Finding a final temperature*."
+            },
+            {
+              "q": "The principle of method of mixtures says:",
+              "options": [
+                "temperature lost = temperature gained",
+                "mass lost = mass gained",
+                "heat lost by the hot body = heat gained by the cold body",
+                "heat flows from cold to hot"
+              ],
+              "answer": 2,
+              "why": "With no heat lost to the surroundings, **heat lost = heat gained**. See *Heat lost = heat gained*."
+            },
+            {
+              "q": "Why is a calorimeter usually made of copper?",
+              "options": [
+                "Copper has a low specific heat and conducts heat well",
+                "Copper does not conduct heat",
+                "Copper is light",
+                "Copper has a high specific heat"
+              ],
+              "answer": 0,
+              "why": "**Low c**: it takes little heat itself. **Good conductor**: it reaches the mixture's temperature fast. See *The calorimeter*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "water-c",
+      "label": "Why water's high specific heat matters",
+      "desc": "**Goal:** explain everyday uses and effects of water's high specific heat, and of low specific heat. Exercise 11(A) has many 'give reasons' on this.",
+      "links": [],
+      "children": [
+        {
+          "id": "water-store",
+          "label": "Water as a store of heat",
+          "type": "core",
+          "desc": "Water has the **highest specific heat** of common substances. So it **takes in a lot of heat** to warm up, and **gives out a lot of heat** as it cools.\n\n- **Hot water bottles** use water: it gives out heat for a long time.\n- **Radiators** in cold countries carry hot water round a house.\n- **Car engines** are cooled by water: it takes away a lot of heat with only a small rise in its temperature.\n- Our **bodies** are mostly water, so our temperature does not change easily.\n\n**Worked example:** 1 kg of water cooling by 1 °C gives out **4200 J**; 1 kg of copper gives out only about **390 J**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why is water used to cool a car engine?",
+              "a": "Its **high specific heat** lets it absorb a lot of heat with only a **small rise** in its temperature."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "breeze-frost",
+          "label": "Sea breezes and frost",
+          "type": "core",
+          "desc": "- **Sea breeze (day):** land, with a **lower** specific heat, warms **faster** than the sea. Hot air over the land rises, and **cool air from the sea** blows in.\n- **Land breeze (night):** the land cools faster, so the breeze blows from **land to sea**.\n- **Coastal places** have a **mild** climate: the sea warms and cools **slowly**.\n- **Frost:** farmers **flood fields** on a cold night. The water gives out a lot of heat as it cools. So the ground does not get cold enough for frost to harm the crops.\n\n**Worked example:** Mumbai, by the sea, has a smaller difference between summer and winter temperatures than Delhi, far inland.",
+          "links": [
+            {
+              "label": "Wikipedia: sea breeze",
+              "url": "https://en.wikipedia.org/wiki/Sea_breeze"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: at night, which way does the breeze blow at the seaside, and why?",
+              "a": "From **land to sea**: the land cools **faster** (lower c), so the warmer air over the sea rises."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "low-c",
+          "label": "Low specific heat at work",
+          "type": "core",
+          "desc": "A **low** specific heat is useful when you want something to heat up or respond **fast**.\n\n- **Mercury** in thermometers: low c, so it quickly takes the temperature of what it touches, and takes little heat from it.\n- **Cooking pans** of copper or aluminium heat up quickly. Their **handles** are of materials that conduct heat poorly.\n- **Sand** in a desert gets very hot by day and very cold at night.\n\n**Worked example:** on a sunny beach, the **sand** burns your feet while the **sea** water still feels cool.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why does a desert get very cold at night?",
+              "a": "Sand has a **low specific heat**, so it **loses heat quickly** once the Sun sets."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-water-c",
+          "label": "Quick check: water's high specific heat",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Why is water used in a hot water bottle?",
+              "options": [
+                "It is light",
+                "Its high specific heat lets it give out a lot of heat as it cools",
+                "It has a low specific heat",
+                "It boils easily"
+              ],
+              "answer": 1,
+              "why": "Water's **high specific heat** means it **gives out a lot of heat** for each degree it cools. See *Water as a store of heat*."
+            },
+            {
+              "q": "Farmers flood their fields on a cold night to protect crops from frost because:",
+              "options": [
+                "water gives out a lot of heat as it cools, keeping the ground warmer",
+                "water absorbs cold",
+                "water stops the wind",
+                "water freezes quickly"
+              ],
+              "answer": 0,
+              "why": "The water releases plenty of heat while cooling, so the temperature does not fall low enough for **frost**. See *Sea breezes and frost*."
+            },
+            {
+              "q": "On a sunny day at the seaside, the land heats up faster than the sea because:",
+              "options": [
+                "land has a higher specific heat than water",
+                "the sea reflects all sunlight",
+                "land has a lower specific heat than water",
+                "land is closer to the Sun"
+              ],
+              "answer": 2,
+              "why": "**Low c** heats up **fast**. The air over land rises and cool air blows in from the sea: a **sea breeze**. See *Sea breezes and frost*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "change-of-state",
+      "label": "Change of state",
+      "desc": "**Goal:** describe melting and boiling, read a heating curve, and say how pressure and impurities change melting and boiling points. Exercise 11(B) starts here.",
+      "links": [],
+      "children": [
+        {
+          "id": "melt-boil",
+          "label": "Melting and boiling",
+          "type": "core",
+          "desc": "- **Melting (fusion):** solid to liquid at a fixed temperature, the **melting point**. Ice melts at **0 °C**.\n- **Freezing:** liquid to solid, at the **same** temperature.\n- **Boiling (vaporisation):** liquid to gas at the **boiling point**. Water boils at **100 °C** at normal pressure.\n- **Condensation:** gas to liquid, at the same temperature.\n\nDuring a change of state the temperature stays **constant**. The heat supplied goes into **changing the state**: it pulls the molecules apart, not makes them move faster.\n\n**Volume changes:**\n\n- Most solids **expand** on melting. **Ice is different:** it **contracts** when it melts. 1 g of ice takes about 1.09 cm³; 1 g of water at 0 °C, 1 cm³.\n- Water **expands** about **1760 times** when it turns into steam: 1 cm³ of water makes about 1760 cm³ of steam.\n\n**Worked example:** water pipes burst in very cold weather because water **expands** as it freezes.",
+          "links": [
+            {
+              "label": "PhET simulation: States of Matter: Basics (free)",
+              "url": "https://phet.colorado.edu/en/simulations/states-of-matter-basics"
+            },
+            {
+              "label": "Wikipedia: melting point",
+              "url": "https://en.wikipedia.org/wiki/Melting_point"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why does ice float on water?",
+              "a": "Ice takes **more volume** than the same mass of water, so it is **less dense**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "heating-curve",
+          "label": "The heating curve",
+          "type": "core",
+          "desc": "Heat 1 kg of ice from −20 °C steadily until it is water at 100 °C. Plot temperature against heat supplied.\n\n- **Ice warms** from −20 °C to 0 °C: 1 × 2100 × 20 = **42 000 J**. The line **rises**.\n- **Ice melts** at 0 °C: 1 × 336 000 = **336 000 J**. The line is **flat**.\n- **Water warms** from 0 °C to 100 °C: 1 × 4200 × 100 = **420 000 J**. The line rises, **less steeply** than for ice (water's c is higher).\n\nTotal: 42 000 + 336 000 + 420 000 = **798 000 J**.\n\n**Worked example:** the flat part is long. Melting takes **eight times** as much heat as warming the ice by 20 °C.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: on the heating curve, why is the slope for water less steep than for ice?",
+              "a": "Water has **twice the specific heat** of ice, so the same heat gives **half the temperature rise**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/heating-curve.png",
+              "caption": "Flat while melting: the heat changes the state"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "change-points",
+          "label": "Changing melting and boiling points",
+          "type": "core",
+          "desc": "- **Pressure and melting:** more pressure **lowers** the melting point of ice. A wire with weights hanging from it slowly cuts **through** a block of ice, and the ice **refreezes** above it (**regelation**).\n- **Impurities and melting:** salt **lowers** the melting point. Salt and ice make a **freezing mixture** (about −22 °C), used to make ice cream. Salt is spread on icy roads.\n- **Pressure and boiling:** more pressure **raises** the boiling point. A **pressure cooker** boils water at about **120 °C**, so food cooks faster. On **mountains** the pressure is low, water boils below 100 °C, and food takes longer to cook.\n- **Impurities and boiling:** salt **raises** the boiling point of water.\n\n**Worked example:** salty water boils at a little **above** 100 °C.",
+          "links": [
+            {
+              "label": "Wikipedia: pressure cooking",
+              "url": "https://en.wikipedia.org/wiki/Pressure_cooking"
+            },
+            {
+              "label": "Wikipedia: regelation",
+              "url": "https://en.wikipedia.org/wiki/Regelation"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why does food take longer to cook in an open pan high in the hills?",
+              "a": "The air pressure is **lower**, so water boils **below 100 °C** and the food is cooked at a lower temperature."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-change-of-state",
+          "label": "Quick check: change of state",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "While ice is melting at 0 °C, its temperature:",
+              "options": [
+                "stays at 0 °C",
+                "falls",
+                "rises steadily",
+                "goes up and down"
+              ],
+              "answer": 0,
+              "why": "The heat goes into **changing the state**, not raising the temperature: the flat part of the curve. See *The heating curve*."
+            },
+            {
+              "q": "Food cooks faster in a pressure cooker because:",
+              "options": [
+                "steam is cooler",
+                "higher pressure lowers the boiling point",
+                "the cooker is made of steel",
+                "higher pressure raises the boiling point of water"
+              ],
+              "answer": 3,
+              "why": "More pressure, **higher boiling point**: about 120 °C, so food cooks faster. See *Changing melting and boiling points*."
+            },
+            {
+              "q": "Adding salt to ice:",
+              "options": [
+                "makes it boil",
+                "lowers its melting point",
+                "raises its melting point",
+                "does not change it"
+              ],
+              "answer": 1,
+              "why": "**Impurities lower** the melting point. That is why salt and ice make a freezing mixture. See *Changing melting and boiling points*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "latent-heat",
+      "label": "Latent heat of fusion",
+      "desc": "**Goal:** define the specific latent heat of fusion, use Q = m L, and solve numericals with melting ice. Exercise 11(B) covers this.",
+      "links": [],
+      "children": [
+        {
+          "id": "latent-step",
+          "label": "Specific latent heat of fusion",
+          "type": "core",
+          "desc": "**The specific latent heat of fusion of a solid is the heat needed to change 1 kg of it from solid to liquid at its melting point, with no change in temperature.**\n\n**Q = m × L**, and L is in **J kg⁻¹**. There is **no K**: the temperature does not change.\n\nFor ice: **L = 336 000 J kg⁻¹ = 336 J g⁻¹ = 80 cal g⁻¹**.\n\n'Latent' means **hidden**: the heat goes in but no thermometer shows it. The same heat comes **out** when water freezes.\n\n**Worked example:** to melt 50 g of ice at 0 °C, Q = 0.05 × 336 000 = **16 800 J**.",
+          "links": [
+            {
+              "label": "Wikipedia: latent heat",
+              "url": "https://en.wikipedia.org/wiki/Latent_heat"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: how much heat is given out when 25 g of water at 0 °C freezes into ice?",
+              "a": "Q = 0.025 × 336 000 = **8400 J** (given out, not taken in)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ice-numericals",
+          "label": "Numericals with ice",
+          "type": "core",
+          "desc": "When ice melts in a mixture, it takes heat **twice**. First it needs heat to **melt** (m L). Then, as water, it **warms** from 0 °C to the final temperature (m c ΔT).\n\n**Worked example 1:** how much ice at 0 °C will just cool 200 g of water at 30 °C to 0 °C?\n\nHeat lost by water = 0.2 × 4200 × 30 = **25 200 J**\n\nHeat gained by ice = m × 336 000\n\nm = 25 200 ÷ 336 000 = 0.075 kg = **75 g**\n\n**Worked example 2:** 60 g of ice at 0 °C is put into 300 g of water at 40 °C. Find the final temperature T.\n\nHeat gained by ice = 0.06 × 336 000 + 0.06 × 4200 × (T − 0) = 20 160 + 252 T\n\nHeat lost by water = 0.3 × 4200 × (40 − T) = 50 400 − 1260 T\n\n20 160 + 252 T = 50 400 − 1260 T\n\n1512 T = 30 240\n\nT = **20 °C**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: 25 g of ice at 0 °C melts in 100 g of water and the mixture ends at 0 °C. By how much did the water cool?",
+              "a": "Heat to melt = 0.025 × 336 000 = 8400 J. Fall = 8400 ÷ (0.1 × 4200) = **20 °C**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ice-life",
+          "label": "Ice in everyday life",
+          "type": "core",
+          "desc": "- **Ice cools a drink better than ice-cold water.** Each gram of ice at 0 °C takes **336 J** just to melt. Only then does it start warming.\n- **Snow on mountains melts slowly**, because of its large latent heat. Rivers get a **steady** supply of water through summer.\n- **It feels colder after snowfall** than during it. Melting snow takes heat from the **air and ground**.\n- **Lakes freeze slowly** in winter. Each kg of water must give out 336 000 J to freeze.\n\n**Worked example:** 10 g of ice at 0 °C takes **3360 J** to melt. 10 g of water at 0 °C takes only **42 J** to warm by 1 °C.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why are drinks cooled faster with ice than with the same mass of ice-cold water?",
+              "a": "To melt, the ice must first take in its **latent heat** (336 J per g). So it removes **far more heat** from the drink."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-latent-heat",
+          "label": "Quick check: latent heat",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "The specific latent heat of fusion of ice is 336 000 J kg⁻¹. How much heat melts 10 g of ice at 0 °C?",
+              "options": [
+                "33 600 J",
+                "3360 J",
+                "336 000 J",
+                "336 J"
+              ],
+              "answer": 1,
+              "why": "Q = m L = 0.01 × 336 000 = **3360 J**. Forgetting to change g to kg gives the big wrong answers. See *Numericals with ice*."
+            },
+            {
+              "q": "Ice at 0 °C cools a drink better than water at 0 °C because:",
+              "options": [
+                "ice floats",
+                "ice is colder than 0 °C",
+                "water has a lower specific heat",
+                "each gram of ice takes 336 J from the drink just to melt"
+              ],
+              "answer": 3,
+              "why": "Ice absorbs its **latent heat** before its temperature rises at all. See *Ice in everyday life*."
+            },
+            {
+              "q": "The latent heat of fusion is in J kg⁻¹, not J kg⁻¹ K⁻¹, because:",
+              "options": [
+                "ice has no mass",
+                "kelvin is not an SI unit",
+                "melting happens with no change of temperature",
+                "it is a force"
+              ],
+              "answer": 2,
+              "why": "There is **no ΔT** while the state changes, so there is no 'per kelvin'. See *Specific latent heat of fusion*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "exam-toolkit",
+      "label": "Exam toolkit: words and reasons",
+      "desc": "**Goal:** collect the marks that come from learning definitions, setting out numericals and giving reasons.",
+      "links": [],
+      "children": [
+        {
+          "id": "definitions",
+          "label": "Definitions to learn word for word",
+          "type": "core",
+          "desc": "- **Heat:** the form of energy that flows from a hotter body to a colder body because of their difference in temperature.\n- **Temperature:** the degree of hotness of a body, which decides the direction of heat flow.\n- **Heat capacity:** the heat needed to raise the temperature of a body by 1 °C (or 1 K). Unit J K⁻¹.\n- **Specific heat capacity:** the heat needed to raise the temperature of 1 kg of a substance by 1 °C (or 1 K). Unit J kg⁻¹ K⁻¹.\n- **Principle of method of mixtures:** heat lost by the hot body = heat gained by the cold body, if no heat is lost to the surroundings.\n- **Melting point:** the fixed temperature at which a solid changes into a liquid.\n- **Specific latent heat of fusion:** the heat needed to change 1 kg of a solid into liquid at its melting point, with no change in temperature. Unit J kg⁻¹.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: cover the list. What is the difference between heat capacity and specific heat capacity?",
+              "a": "Heat capacity is for the **whole body** (J K⁻¹); specific heat capacity is for **1 kg** of the substance (J kg⁻¹ K⁻¹)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "numerical-method",
+          "label": "Numericals: four lines every time",
+          "type": "core",
+          "desc": "Write all four lines. For mixtures, write the heat balance **in words** first.\n\n1. **Given:** masses (in **kg**), c values, temperatures, L.\n2. **Formula:** heat lost = heat gained, with Q = m c ΔT and Q = m L.\n3. **Substitute.**\n4. **Answer**, with its unit. Check that a final temperature lies **between** the starting ones.\n\n**Worked example:** 1.5 kg of water at 90 °C cools to 40 °C. How much heat does it give out?\n\nGiven: m = 1.5 kg, c = 4200 J kg⁻¹ K⁻¹, ΔT = 50 °C\n\nFormula: Q = m c ΔT\n\nSubstitute: 1.5 × 4200 × 50\n\nAnswer: **315 000 J = 315 kJ**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what are the two commonest slips in calorimetry numericals?",
+              "a": "Not changing **g to kg**, and **forgetting the melting step** (m L) when ice is involved."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "give-reasons",
+          "label": "Give reasons: model answers",
+          "type": "core",
+          "desc": "Many questions ask *give a reason*. Try these before opening the answers.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Water is used in hot water bottles.",
+              "a": "Its **high specific heat** lets it give out a **large amount of heat** as it cools, so it stays warm a long time."
+            },
+            {
+              "q": "A calorimeter is made of copper.",
+              "a": "Copper has a **low specific heat**, so it takes little heat, and is a **good conductor**, so it quickly reaches the mixture's temperature."
+            },
+            {
+              "q": "The temperature of melting ice stays at 0 °C though heat is supplied.",
+              "a": "The heat is used as **latent heat** to **change the state**, not to raise the temperature."
+            },
+            {
+              "q": "Ice at 0 °C cools a drink better than water at 0 °C.",
+              "a": "Ice takes in **336 J per g** as latent heat to melt, before warming, so it removes more heat."
+            },
+            {
+              "q": "Food cooks faster in a pressure cooker.",
+              "a": "The **higher pressure raises the boiling point** of water to about 120 °C."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "diagrams-practise",
+          "label": "Diagrams to practise",
+          "type": "core",
+          "desc": "- A **calorimeter** in its insulated box, with stirrer, thermometer and lid.\n- The **heating curve** of ice to water, labelled with the flat melting part.\n- **Sea breeze** and **land breeze**, with arrows.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: last-minute revision and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Read the sheet the night before the exam and again on the morning.",
+      "links": [],
+      "children": [
+        {
+          "id": "revision-sheet",
+          "label": "Last-minute revision sheet",
+          "type": "core",
+          "desc": "**The one idea:** heat flows from **hot to cold**, and none is lost: **heat lost = heat gained**. Use **Q = m c ΔT** when the temperature changes, and **Q = m L** when the state changes.\n\n**Formulas**\n- **Q = m c ΔT** (Q heat in J, m mass in kg, c specific heat capacity, ΔT change in temperature)\n- **Heat capacity C′ = Q ÷ ΔT = m c**\n- **Q = m L** (L specific latent heat, during a change of state, with no change in temperature)\n- Mixtures: **heat lost by hot = heat gained by cold**\n\n**Units**\n- Heat: **joule (J)**. **1 calorie = 4.2 J**. 1 kJ = 1000 J.\n- Heat capacity: **J K⁻¹**. Specific heat capacity: **J kg⁻¹ K⁻¹** (or J g⁻¹ K⁻¹).\n- Latent heat: **J kg⁻¹** (no K, since T does not change).\n- A change of **1 °C = a change of 1 K**, so ΔT is the same in both. Change g to **kg** before using J kg⁻¹.\n\n**Key values**\n- c of water: **4200 J kg⁻¹ K⁻¹** (the highest of common substances). Ice: **2100**. Copper: about 390.\n- L of ice: **336 000 J kg⁻¹ = 336 J g⁻¹ = 80 cal g⁻¹**.\n\n**Key points**\n- **Heat** is energy that flows because of a temperature difference. **Temperature** is how hot something is; it decides which way heat flows.\n- Heat needed depends on **mass**, **rise in temperature** and the **material**.\n- **Calorimeter:** copper (low c, good conductor), polished and lagged to cut heat loss.\n- High c of water: **radiators, hot water bottles**, flooding fields against **frost**, coolant in engines, **sea breezes**, mild coastal climates.\n- Low c (mercury in thermometers, metal pans): heats up and responds **fast**.\n- During melting or boiling, the temperature stays **constant**: the heat changes the state.\n- Ice **contracts** on melting (1 g of ice ≈ 1.09 cm³). Water **expands** about 1760 times when it turns to steam.\n- **Pressure** raises the boiling point (pressure cooker −120 °C) and lowers the melting point of ice. **Impurities** lower the melting point and raise the boiling point.\n- Ice cools better than ice-cold water; snow melts slowly and feeds rivers; it feels colder after snowfall (melting takes heat from the air).\n\n**Traps:** grams not changed to **kg**. Using **c** where the state changes (use **L**). Leaving out the **ice-melting** step. Writing the final temperature as the plain average when the masses or materials differ.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Heat flows between two bodies in contact because of a difference in their:",
+              "options": [
+                "heat capacities",
+                "volumes",
+                "temperatures",
+                "masses"
+              ],
+              "answer": 2,
+              "why": "Heat always flows from the **higher** to the **lower temperature**."
+            },
+            {
+              "q": "Which substance needs the most heat to warm 1 kg by 1 °C?",
+              "options": [
+                "mercury",
+                "ice",
+                "water",
+                "copper"
+              ],
+              "answer": 2,
+              "why": "Water's c = **4200 J kg⁻¹ K⁻¹** is the highest of the four."
+            },
+            {
+              "q": "A temperature rise of 25 °C is the same as a rise of:",
+              "options": [
+                "25 × 273 K",
+                "25 K",
+                "298 K",
+                "248 K"
+              ],
+              "answer": 1,
+              "why": "A **change** of 1 °C equals a change of **1 K**, so ΔT is the same number."
+            },
+            {
+              "q": "How much heat raises 500 g of water from 30 °C to 50 °C? (c = 4200 J kg⁻¹ K⁻¹)",
+              "options": [
+                "42 000 000 J",
+                "84 000 J",
+                "105 000 J",
+                "42 000 J"
+              ],
+              "answer": 3,
+              "why": "Q = 0.5 × 4200 × 20 = **42 000 J**."
+            },
+            {
+              "q": "The heat capacity of a body depends on:",
+              "options": [
+                "only its material",
+                "only its shape",
+                "only its temperature",
+                "its mass and material"
+              ],
+              "answer": 3,
+              "why": "C′ = **m c**: both the **mass** and the **material** (through c)."
+            },
+            {
+              "q": "In a method of mixtures experiment, the result is not exact mainly because:",
+              "options": [
+                "water has no mass",
+                "some heat is lost to the surroundings",
+                "heat is destroyed",
+                "the thermometer adds heat"
+              ],
+              "answer": 1,
+              "why": "We assume **no heat is lost**. In practice a little escapes to the air and the calorimeter."
+            },
+            {
+              "q": "Why are coastal places cooler in summer and warmer in winter than inland places?",
+              "options": [
+                "Sea air has no heat",
+                "Land does not absorb heat",
+                "The sea's high specific heat makes it warm and cool slowly",
+                "The sea reflects heat"
+              ],
+              "answer": 2,
+              "why": "Water's **high c** means the sea changes temperature **slowly**, which keeps the coast **mild**."
+            },
+            {
+              "q": "Ice is melting in a beaker over a flame. The thermometer reads 0 °C for several minutes. Where is the heat going?",
+              "options": [
+                "Into raising the temperature",
+                "Nowhere: it is lost",
+                "Into changing ice to water",
+                "Into the thermometer"
+              ],
+              "answer": 2,
+              "why": "It is the **latent heat of fusion**: it changes the **state** without a rise in temperature."
+            },
+            {
+              "q": "How much heat melts 200 g of ice at 0 °C? (L = 336 000 J kg⁻¹)",
+              "options": [
+                "1680 J",
+                "67 200 J",
+                "67 200 000 J",
+                "336 200 J"
+              ],
+              "answer": 1,
+              "why": "Q = m L = 0.2 × 336 000 = **67 200 J**."
+            },
+            {
+              "q": "It feels colder after a snowfall than during it because:",
+              "options": [
+                "snow raises the pressure",
+                "snow gives out heat",
+                "melting snow takes heat from the surroundings",
+                "the Sun is weaker"
+              ],
+              "answer": 2,
+              "why": "Each kg of snow needs **336 000 J** to melt, and it takes this from the **air and ground**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These are like the harder questions at the end of the chapter. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "heater-time",
+          "label": "How long does the kettle take?",
+          "type": "optional",
+          "desc": "A 1000 W electric kettle heats 2 kg of water from 25 °C to 75 °C. Assume no heat is lost. How long does it take?\n\nHeat needed: Q = 2 × 4200 × 50 = **420 000 J**\n\nA 1000 W kettle gives 1000 J each second.\n\nTime = 420 000 ÷ 1000 = 420 s = **7 minutes**",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "ice-to-water",
+          "label": "From cold ice to warm water",
+          "type": "optional",
+          "desc": "How much heat turns 100 g of ice at −10 °C into water at 20 °C? (c of ice 2100, c of water 4200 J kg⁻¹ K⁻¹, L = 336 000 J kg⁻¹)\n\nWarm the ice to 0 °C: 0.1 × 2100 × 10 = **2100 J**\n\nMelt it: 0.1 × 336 000 = **33 600 J**\n\nWarm the water to 20 °C: 0.1 × 4200 × 20 = **8400 J**\n\nTotal = **44 100 J**. Notice that **melting** is by far the largest part.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "real-experiment",
+          "label": "Why the real answer comes out lower",
+          "type": "optional",
+          "desc": "In a school lab, 200 g of water at 80 °C is mixed with 300 g at 20 °C in a calorimeter. The worked answer is 44 °C, but the thermometer shows about 42 °C. Give two reasons.\n\n- Some heat warms the **calorimeter** itself.\n- Some heat **escapes** to the air while pouring and stirring.\n\nBoth make the hot water lose **more** than the cold water gains.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThis chapter has **one balance** used again and again: heat lost = heat gained. A struggling student scores well with three habits. Write that line in words every time. Change grams to kilograms. Remember that ice melts **before** it warms.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- Make them write **'heat lost by ... = heat gained by ...'** in words before any number.\n- Do a real **mixture** with two beakers of water and a thermometer. Predict first, then measure.\n- Heat ice in a beaker and read the thermometer every 30 seconds. **Plot the heating curve** together.\n- Use **PhET Energy Forms and Changes**: heat iron, brick, water and olive oil side by side.\n- Link to their lives: **sea breezes**, pressure cookers, ice in a drink, a hot water bottle.\n- Drill **g to kg** with five quick conversions at the start of every period.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 9-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** prerequisites: kelvin, units, solving. Heat and temperature; the calorie.\n- **Period 2:** heat capacity and specific heat capacity; values. Activity: warm equal masses of water and oil.\n- **Period 3:** Q = m c ΔT numericals. Exercise 11(A), first numericals.\n- **Period 4:** the principle of mixtures; the calorimeter; final temperature. Activity: mix hot and cold water.\n- **Period 5:** finding c of a metal; water's high c in daily life; sea breezes and frost. Exercise 11(A).\n- **Period 6:** change of state; the heating curve. Activity: heat ice and plot the curve.\n- **Period 7:** pressure and impurities; ice's volume change; latent heat of fusion.\n- **Period 8:** numericals with ice; ice in everyday life. Exercise 11(B).\n- **Period 9:** exam toolkit: definitions test, give-reasons practice, self-test and exit ticket.",
+          "links": [
+            {
+              "label": "PhET simulation: Energy Forms and Changes (free)",
+              "url": "https://phet.colorado.edu/en/simulations/energy-forms-and-changes"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Leaving the mass in **grams** with c in J kg⁻¹ K⁻¹.\n- Adding 273 to a **temperature difference**.\n- Forgetting the **melting** step, or the **warming of melted ice**, in ice numericals.\n- Mixing up **heat capacity** (J K⁻¹) and **specific heat capacity** (J kg⁻¹ K⁻¹).\n- Writing the unit of latent heat as **J kg⁻¹ K⁻¹**.\n- Thinking heat flows from the body with **more heat**, not the **hotter** one.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Define specific heat capacity and give its SI unit.",
+              "a": "The heat needed to raise **1 kg** of a substance by **1 °C**. Unit **J kg⁻¹ K⁻¹**."
+            },
+            {
+              "q": "2. How much heat warms 0.4 kg of water by 25 °C?",
+              "a": "Q = 0.4 × 4200 × 25 = **42 000 J**."
+            },
+            {
+              "q": "3. State the principle of method of mixtures.",
+              "a": "**Heat lost** by the hot body = **heat gained** by the cold body, if none is lost to the surroundings."
+            },
+            {
+              "q": "4. How much heat melts 30 g of ice at 0 °C? (L = 336 J g⁻¹)",
+              "a": "30 × 336 = **10 080 J**."
+            },
+            {
+              "q": "5. Why is water used in car radiators?",
+              "a": "Its **high specific heat** lets it take away a lot of heat with a **small rise** in temperature."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}
