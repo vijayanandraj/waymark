@@ -1,0 +1,1336 @@
+{
+  "title": "ICSE Class 10 Chemistry, Chapter 1: Periodic Table, Periodic Properties and Variations of Properties, Step by Step",
+  "subtitle": "For students who find chemistry hard. The modern periodic table, groups and periods, valency and formulas, periodicity, atomic size, metallic and non-metallic character, ionisation energy, electron affinity and electronegativity, and the alkali metals and halogens, all explained by one tug of war, in small steps with labelled diagrams, balanced equations, quick checks, an exam toolkit and a last-minute revision sheet. Follows the ICSE Class 10 syllabus, Chapter 1 (Periodic Table, Periodic Properties and Variations of Properties), in the order of Selina Concise Chemistry.",
+  "updated": "2026-11-23",
+  "changelog": [
+    {
+      "date": "2026-11-23",
+      "text": "First version: the whole chapter in small steps, with original worked examples, quick checks, a last-minute revision sheet, a self-test and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** be sure of the parts of an atom, how electrons fill shells, and how atoms become ions. The whole chapter is built on these.",
+      "links": [
+        {
+          "label": "PhET simulation: Build an Atom (free)",
+          "url": "https://phet.colorado.edu/en/simulations/build-an-atom"
+        }
+      ],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Always ask two questions.** How many shells does the atom have? How many protons pull on them? Those two answers decide every trend in this chapter.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: it is a tug of war between the nucleus and the outer electrons.** Across a period the shells stay the same and the protons go up, so the pull gets **stronger**. Down a group a shell is added each time, so the pull gets **weaker**.",
+          "links": [
+            {
+              "label": "Ptable: interactive periodic table (free)",
+              "url": "https://ptable.com/"
+            },
+            {
+              "label": "Last-minute revision sheet for this chapter",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-chemistry-periodic-table#revision-sheet"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 1, *Periodic Table, Periodic Properties and Variations of Properties*, of the ICSE Class 10 Chemistry syllabus. It follows the order of *Selina Concise Chemistry* for Class 10.\n\n**Who it is for.** Class 10 students who find chemistry hard, and want to understand this chapter and score decent marks in it. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** It is a tug of war between the nucleus and the outer electrons. Across a period the shells stay the same and the protons go up, so the pull gets stronger. Down a group a shell is added each time, so the pull gets weaker.\n\n**How it is different from the textbook.** The textbook gives six periodic properties one after another, each with the same paragraph on atomic size and nuclear charge. Here that paragraph becomes **one idea**, the tug of war, taught once and used for every trend. Position questions get one repeatable drill (atomic number to configuration, period, group, valency, nature and formula), and the equations a chemistry examiner looks for (ionisation, electron affinity, sodium with water, halogen displacement, the oxides) are written out and balanced.\n\n**What is inside.**\n- 11 milestones and 56 small steps. The 45 solid steps are the core path. The dashed ones are optional.\n- 50 practice questions with hidden answers, and 8 pictures.\n- 28 click-to-check questions that say right or wrong, and why: a quick check after each of the 6 main milestones, and a 10-question self-test.\n- A **last-minute revision sheet**: every trend, rule, equation, unit and key point on one page.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the challenge questions, and a section for teachers and parents with a 10-period lesson plan, the mistakes to watch for and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from their textbook. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the ICSE syllabus but is not made or endorsed by CISCE or by any publisher. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. A neutral atom has atomic number 11. How many protons and electrons does it have?",
+              "a": "**11 protons** and **11 electrons**. Wrong? Do *Inside the atom*."
+            },
+            {
+              "q": "2. Write the electronic configuration of the element with atomic number 13.",
+              "a": "**2, 8, 3.** Wrong? Do *Filling the shells: 2, 8, 8*."
+            },
+            {
+              "q": "3. Magnesium is 2, 8, 2. What ion does it form?",
+              "a": "It loses 2 electrons: **Mg²⁺**. Wrong? Do *Ions: losing and gaining electrons*."
+            },
+            {
+              "q": "4. Two nuclei hold an electron at the same distance. One has 3 protons, one has 9. Which pulls harder?",
+              "a": "The one with **9 protons**. Wrong? Do *Opposite charges pull*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "atom-parts",
+          "label": "Inside the atom",
+          "type": "core",
+          "desc": "- The **nucleus** is at the centre. It holds **protons** (+) and **neutrons** (no charge).\n- **Electrons** (−) move round the nucleus in **shells**.\n- **Atomic number (Z)** = number of **protons**.\n- In a neutral atom, **electrons = protons**.\n- **Mass number (A)** = protons + neutrons.\n\nChemistry happens at the **outside** of the atom. It is all about the **outer electrons**.\n\n**Worked example:** carbon has Z = 6. A neutral carbon atom has **6 protons** and **6 electrons**.",
+          "links": [
+            {
+              "label": "PhET simulation: Build an Atom (free)",
+              "url": "https://phet.colorado.edu/en/simulations/build-an-atom"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: an oxygen atom has Z = 8 and A = 16. How many protons, electrons and neutrons?",
+              "a": "**8 protons**, **8 electrons**, and 16 − 8 = **8 neutrons**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "filling-shells",
+          "label": "Filling the shells: 2, 8, 8",
+          "type": "core",
+          "desc": "Electrons fill shells from the **inside out**.\n\n- 1st shell (K): up to **2** electrons.\n- 2nd shell (L): up to **8**.\n- 3rd shell (M): **8** for the first 20 elements.\n- Then the 4th shell (N) starts.\n\nThe last shell with electrons is the **outer shell**. Its electrons are the **valence electrons**.\n\n**Worked example:** magnesium, Z = 12.\n\nFirst shell: 2. Second shell: 8. That makes 10.\n\n12 − 10 = 2 left for the third shell: **2, 8, 2**.",
+          "links": [
+            {
+              "label": "Wikipedia: electron shell",
+              "url": "https://en.wikipedia.org/wiki/Electron_shell"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: write the configuration for Z = 7 and for Z = 19.",
+              "a": "Z = 7: **2, 5**. Z = 19: 2, 8, 8, then 1 more: **2, 8, 8, 1**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/shells-sodium-chlorine.png",
+              "caption": "Sodium has 1 outer electron; chlorine has 7"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ions",
+          "label": "Ions: losing and gaining electrons",
+          "type": "core",
+          "desc": "Atoms are most stable with a **full outer shell** of 8 (an **octet**), or 2 for the first shell.\n\n- Atoms with **1, 2 or 3** outer electrons **lose** them. They become **positive ions** (cations).\n- Atoms with **5, 6 or 7** outer electrons **gain** electrons. They become **negative ions** (anions).\n\nNa → Na⁺ + e⁻ (2, 8, 1 becomes 2, 8)\n\nCl + e⁻ → Cl⁻ (2, 8, 7 becomes 2, 8, 8)\n\n**Worked example:** oxygen is 2, 6. It gains **2** electrons: O + 2e⁻ → **O²⁻** (2, 8).",
+          "links": [
+            {
+              "label": "Wikipedia: ion",
+              "url": "https://en.wikipedia.org/wiki/Ion"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: aluminium is 2, 8, 3. What ion does it form?",
+              "a": "It loses 3 electrons: **Al³⁺**, with configuration 2, 8."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "pull",
+          "label": "Opposite charges pull",
+          "type": "core",
+          "desc": "The nucleus is **positive**. Electrons are **negative**. Opposite charges **attract**.\n\nHow hard the nucleus pulls on an outer electron depends on two things:\n\n- **More protons** in the nucleus: a **stronger** pull.\n- **Farther away** (more shells in between): a **weaker** pull. The inner shells also **shield** the outer electrons.\n\nThink of a magnet and a paper clip. A stronger magnet pulls harder. A clip farther away feels less pull.\n\n**Worked example:** sodium (11 protons, 3 shells) and potassium (19 protons, 4 shells). Potassium has more protons, but its outer electron is a **whole shell farther out**. Its pull is **weaker**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: lithium and fluorine both have 2 shells. Lithium has 3 protons, fluorine 9. Which pulls its outer electrons harder?",
+              "a": "**Fluorine**: same distance, **more protons**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "the-table",
+      "label": "The periodic table and its layout",
+      "desc": "**Goal:** state the modern periodic law, and find your way round groups, periods and family names. Practise with the Intext Questions after section 1.4.",
+      "links": [],
+      "children": [
+        {
+          "id": "mendeleev-moseley",
+          "label": "From Mendeleev to Moseley",
+          "type": "core",
+          "desc": "Scientists tried for a long time to sort the elements.\n\n- **Dobereiner** put similar elements in threes (**triads**).\n- **Newlands** saw that every **eighth** element was like the first (**octaves**).\n- **Mendeleev** made the first real periodic table. His law: properties are periodic functions of **atomic masses**. He left **gaps** and predicted elements not yet found.\n\nMendeleev's table had problems. **Isotopes** of one element have different masses. Some pairs were in the wrong order by mass.\n\n**Moseley** fixed this. **Modern periodic law: the physical and chemical properties of elements are periodic functions of their atomic numbers.**\n\n**Worked example:** argon (mass 40) and potassium (mass 39). By mass, potassium would come first. By atomic number, **argon (18)** comes before **potassium (19)**. Then argon sits with the noble gases, where it belongs.",
+          "links": [
+            {
+              "label": "Wikipedia: Dmitri Mendeleev",
+              "url": "https://en.wikipedia.org/wiki/Dmitri_Mendeleev"
+            },
+            {
+              "label": "Wikipedia: Henry Moseley",
+              "url": "https://en.wikipedia.org/wiki/Henry_Moseley"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why is atomic number a better basis than atomic mass?",
+              "a": "Every element has its **own atomic number**. Isotopes of one element have **different masses** but the **same atomic number**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "groups-periods",
+          "label": "Groups and periods",
+          "type": "core",
+          "desc": "**A periodic table is an arrangement of elements in groups and periods, showing the regular trends in their properties.**\n\n- **Groups** are the **vertical** columns. There are **18**.\n- **Periods** are the **horizontal** rows. There are **7**.\n- Elements are in order of **increasing atomic number**.\n- Period 1 has **2** elements. Periods 2 and 3 have **8** each. Periods 4 and 5 have 18, period 6 has 32, and period 7 is incomplete.\n- Older books number groups **IA to VIIA and 0**. The exam accepts both.\n- **Lanthanides** and **actinides** sit in two rows at the bottom, so the table is not too wide.\n\nYour exam asks about elements only **up to argon** (period 3).\n\n**Worked example:** periods 1, 2 and 3 hold 2 + 8 + 8 = **18** elements: hydrogen (1) to argon (18).",
+          "links": [
+            {
+              "label": "Ptable: interactive periodic table (free)",
+              "url": "https://ptable.com/"
+            },
+            {
+              "label": "Wikipedia: periodic table",
+              "url": "https://en.wikipedia.org/wiki/Periodic_table"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: name the first and last elements of period 2.",
+              "a": "**Lithium** (Z = 3) and **neon** (Z = 10)."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/table-periods-1-3.png",
+              "caption": "The first 18 elements by group and period"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "group-names",
+          "label": "Group names to know",
+          "type": "core",
+          "desc": "- Group **1**: **alkali metals** (Li, Na, K). They make strong alkalis with water. Hydrogen sits here but is a non-metal.\n- Group **2**: **alkaline earth metals** (Be, Mg, Ca).\n- Groups **3 to 12**: **transition elements**. Their **two** outer shells are incomplete.\n- Group **13**: boron family. Group **14**: carbon family. Group **15**: nitrogen family.\n- Group **16**: oxygen family, also called **chalcogens** (ore formers).\n- Group **17**: **halogens** (salt formers): F, Cl, Br, I.\n- Group **18**: **noble gases** (inert gases): He, Ne, Ar. Their outer shell is **full**.\n\nGroups 1, 2 and 13 to 17 are the **normal** or **representative** elements. The period 3 elements, Na to Cl, are called **typical elements**: they show the properties of their groups.\n\n**Worked example:** calcium is in group 2. It is an **alkaline earth metal**.",
+          "links": [
+            {
+              "label": "Wikipedia: group (periodic table)",
+              "url": "https://en.wikipedia.org/wiki/Group_(periodic_table)"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what is the family name of group 17? Name two members.",
+              "a": "**Halogens.** Any two of fluorine, chlorine, bromine, iodine."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-the-table",
+          "label": "Quick check: the periodic table",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "The modern periodic law says that the properties of elements are periodic functions of their:",
+              "options": [
+                "atomic masses",
+                "numbers of neutrons",
+                "mass numbers",
+                "atomic numbers"
+              ],
+              "answer": 3,
+              "why": "**Atomic numbers** (Moseley). Atomic **masses** was Mendeleev's older law. See *From Mendeleev to Moseley*."
+            },
+            {
+              "q": "How many groups and periods does the modern periodic table have?",
+              "options": [
+                "18 groups and 7 periods",
+                "7 groups and 18 periods",
+                "8 groups and 7 periods",
+                "18 groups and 9 periods"
+              ],
+              "answer": 0,
+              "why": "**18** vertical groups, **7** horizontal periods. Groups go down, periods go across. See *Groups and periods*."
+            },
+            {
+              "q": "The elements of group 17 are called:",
+              "options": [
+                "alkali metals",
+                "noble gases",
+                "halogens",
+                "chalcogens"
+              ],
+              "answer": 2,
+              "why": "**Halogens**, the salt formers. Chalcogens are group **16**. See *Group names to know*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "address",
+      "label": "Shells, valency and periodicity",
+      "desc": "**Goal:** find any element's period, group and valency from its atomic number, write formulas, and explain periodicity. Practise with the Intext Questions after section 1.4.",
+      "links": [],
+      "children": [
+        {
+          "id": "period-shells",
+          "label": "Period = number of shells",
+          "type": "core",
+          "desc": "**The number of shells in an atom tells you its period.**\n\n- 1 shell: period 1. 2 shells: period 2. 3 shells: period 3.\n- **Across** a period, the number of shells **stays the same**.\n- **Down** a group, each element has **one more shell** than the one above.\n\n**Worked example:** magnesium is 2, 8, 2. That is **3 shells**, so magnesium is in **period 3**.",
+          "links": [
+            {
+              "label": "Wikipedia: electron shell",
+              "url": "https://en.wikipedia.org/wiki/Electron_shell"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: nitrogen has Z = 7. Which period is it in?",
+              "a": "2, 5: **2 shells**, so **period 2**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "group-outer",
+          "label": "Group = outer electrons",
+          "type": "core",
+          "desc": "**The number of outer electrons tells you the group.**\n\n- **1 or 2** outer electrons: group **1** or **2**.\n- **3 to 7** outer electrons: **add 10**. So 3 gives group 13, and 7 gives group 17.\n- A **full** outer shell: group **18**.\n\nThe **+10** is because groups 3 to 12 (transition elements) sit in between.\n\n- **Down** a group, the number of outer electrons **stays the same**.\n- **Across** a period, it goes up **by one** each step.\n\n**Worked example:** silicon, Z = 14, is 2, 8, 4. Four outer electrons, plus 10: **group 14**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: fluorine has Z = 9. Which group is it in?",
+              "a": "2, 7: **7** outer electrons, plus 10: **group 17**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "valency-step",
+          "label": "Valency from outer electrons",
+          "type": "core",
+          "desc": "**Valency is the combining capacity of an atom. It is the number of electrons an atom loses, gains or shares.**\n\n- **1, 2, 3 or 4** outer electrons: valency is **the same number**.\n- **5, 6 or 7** outer electrons: valency is **8 minus** that number (3, 2, 1).\n- **8** outer electrons (full): valency **0**.\n\nAcross period 3 the valencies go **1, 2, 3, 4, 3, 2, 1, 0**. They rise to group 14, then fall.\n\nDown a group the valency **stays the same**.\n\n**Worked example:** chlorine is 2, 8, 7. It needs **1** more electron. Valency = 8 − 7 = **1**.",
+          "links": [
+            {
+              "label": "Wikipedia: valence (chemistry)",
+              "url": "https://en.wikipedia.org/wiki/Valence_(chemistry)"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what is the valency of oxygen (2, 6)?",
+              "a": "8 − 6 = **2**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "formulas",
+          "label": "Writing formulas from valency",
+          "type": "core",
+          "desc": "To write a formula, **swap the valencies** and cancel if you can.\n\n- Write each symbol with its valency.\n- Each valency becomes the **other** element's small number.\n- Cancel down if both numbers share a factor. Leave out a 1.\n\nHydrides of period 2: LiH, BeH₂, BH₃, CH₄, NH₃, H₂O, HF.\n\n**Worked example:** aluminium (valency 3) and oxygen (valency 2).\n\nSwap: Al gets **2**, O gets **3**.\n\nFormula: **Al₂O₃**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: write the formula of calcium (valency 2) chloride (chlorine valency 1).",
+              "a": "Swap: Ca gets 1, Cl gets 2: **CaCl₂**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "z-drill",
+          "label": "Putting it together: the Z drill",
+          "type": "core",
+          "desc": "Given an atomic number, you can find everything. Write **six lines**:\n\n1. **Configuration** (2, 8, 8 rule).\n2. **Period** = number of shells.\n3. **Group** = outer electrons (add 10 for 3 to 7).\n4. **Valency** (1 to 4 as they are; 5 to 7, 8 minus).\n5. **Metal or non-metal** (1 to 3 outer: metal; 5 to 7: non-metal).\n6. **Formula** with chlorine, hydrogen or oxygen.\n\n**Worked example:** Z = 15.\n\nConfiguration: **2, 8, 5**\n\nPeriod: 3 shells, **period 3**\n\nGroup: 5 outer, plus 10, **group 15**\n\nValency: 8 − 5 = **3**\n\nNature: gains electrons, a **non-metal** (phosphorus)\n\nFormula with chlorine: **PCl₃**; with hydrogen: **PH₃**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: do the Z drill for Z = 19.",
+              "a": "**2, 8, 8, 1**; period **4**; group **1**; valency **1**; a **metal** (potassium); chloride **KCl**."
+            },
+            {
+              "q": "Your turn: do the Z drill for Z = 6.",
+              "a": "**2, 4**; period **2**; group **14**; valency **4**; a **non-metal** (carbon); **CCl₄** and **CH₄**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "periodicity",
+          "label": "Periodicity: why the pattern repeats",
+          "type": "core",
+          "desc": "**Periodicity is the repeating of similar properties at regular intervals, when elements are arranged by atomic number.**\n\n**Cause:** the same number of **outer electrons** comes back again and again. Chemistry depends on the outer electrons, so the properties come back too.\n\n- Li (2, 1), Na (2, 8, 1) and K (2, 8, 8, 1) each have **1** outer electron. All are soft, very reactive metals.\n- F, Cl, Br and I each have **7** outer electrons. All are **coloured non-metals**, form **ions with one negative charge** (such as Cl⁻), are very **reactive**, and are good **oxidising agents**.\n\n**Worked example:** potassium (2, 8, 8, 1) reacts with water just like sodium (2, 8, 1), only faster. Both have **one** outer electron.",
+          "links": [
+            {
+              "label": "Wikipedia: periodic trends",
+              "url": "https://en.wikipedia.org/wiki/Periodic_trends"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: name two elements that behave like magnesium. Why?",
+              "a": "**Beryllium** and **calcium**. Like magnesium, each has **2 outer electrons**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "light-elements",
+          "label": "Atomic number and mass number in light elements",
+          "type": "core",
+          "desc": "**Atomic number** is the key number of an element:\n\n- It equals the number of **protons** (and electrons in the atom).\n- No two elements have the same atomic number.\n- It gives the **configuration**, and so the **position** in the table.\n\nFor **light** elements, the mass number is about **twice** the atomic number:\n\n- **Even** Z: **A = 2Z**. Exceptions: beryllium (9) and argon (40).\n- **Odd** Z: **A = 2Z + 1**. Exceptions: hydrogen (1) and nitrogen (14).\n\nSo light atoms have about **as many neutrons as protons**. Such nuclei are **stable**. Heavy atoms like uranium have far more neutrons, and are **radioactive**.\n\n**Worked example:** magnesium, Z = 12 (even). A = 2 × 12 = **24**. Neutrons = 24 − 12 = **12**.",
+          "links": [
+            {
+              "label": "Wikipedia: mass number",
+              "url": "https://en.wikipedia.org/wiki/Mass_number"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: aluminium has Z = 13 (odd). Find A and the number of neutrons.",
+              "a": "A = 2 × 13 + 1 = **27**. Neutrons = 27 − 13 = **14**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-address",
+          "label": "Quick check: shells and valency",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "An element has atomic number 13. Its period and group are:",
+              "options": [
+                "period 3, group 13",
+                "period 13, group 3",
+                "period 3, group 3",
+                "period 2, group 13"
+              ],
+              "answer": 0,
+              "why": "2, 8, 3: **3 shells** gives period 3. **3 outer electrons**, plus 10, gives group **13**. See *Group = outer electrons*."
+            },
+            {
+              "q": "What is the valency of an element with the configuration 2, 8, 6?",
+              "options": [
+                "2",
+                "6",
+                "8",
+                "3"
+              ],
+              "answer": 0,
+              "why": "Six outer electrons: it **gains 2**, so valency = 8 − 6 = **2**. See *Valency from outer electrons*."
+            },
+            {
+              "q": "Elements in the same group behave alike because they have the same:",
+              "options": [
+                "mass number",
+                "atomic number",
+                "number of outer electrons",
+                "number of shells"
+              ],
+              "answer": 2,
+              "why": "Same **outer electrons**, same chemistry. That is the cause of periodicity. See *Periodicity: why the pattern repeats*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "atomic-size",
+      "label": "The tug of war and atomic size",
+      "desc": "**Goal:** use the tug of war to explain atomic size across a period, down a group, and for ions. Practise with the Intext Questions after section 1.5.3.",
+      "links": [],
+      "children": [
+        {
+          "id": "tug-of-war",
+          "label": "The tug of war",
+          "type": "core",
+          "desc": "**Periodic properties** are properties that change in a regular way across a period or down a group, because of the electronic configuration.\n\nAll of them come from **one tug of war**: the nucleus pulling on the outer electrons.\n\n- **Across a period:** the shells **stay the same**, but **nuclear charge** (protons) goes **up**. The pull gets **stronger**.\n- **Down a group:** nuclear charge goes up too, but a **new shell** is added each time. Distance wins. The pull gets **weaker**.\n\nA **strong pull** means a **small** atom that **holds** its electrons and **grabs** new ones: a non-metal.\n\nA **weak pull** means a **big** atom that **loses** electrons easily: a metal.\n\n**Worked example:** lithium and fluorine both have 2 shells. Fluorine has **9 protons** against lithium's **3**. Fluorine pulls much harder, so it is the **smaller** atom.",
+          "links": [
+            {
+              "label": "Wikipedia: periodic trends",
+              "url": "https://en.wikipedia.org/wiki/Periodic_trends"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: sodium (11 protons, 3 shells) or potassium (19 protons, 4 shells): which has the weaker pull on its outer electron?",
+              "a": "**Potassium.** Its outer electron is a whole **shell farther** out."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/tug-of-war.png",
+              "caption": "Across: stronger pull, smaller atom. Down: weaker pull, bigger atom"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "size-defined",
+          "label": "Atomic size: what it means",
+          "type": "core",
+          "desc": "**Atomic size (atomic radius) is the distance between the centre of the nucleus and the outermost shell of an atom.**\n\nWe can also take **half the distance** between the nuclei of two joined atoms.\n\nAtoms are tiny, so we use tiny units:\n\n- **1 ångström (Å) = 10⁻¹⁰ m**\n- **1 picometre (pm) = 10⁻¹² m**\n- So **1 Å = 100 pm**.\n\nAtomic size depends on the **number of shells** (bigger) and the **nuclear charge** (smaller).\n\n**Worked example:** a chlorine atom has radius 99 pm.\n\n99 ÷ 100 = **0.99 Å**",
+          "links": [
+            {
+              "label": "Wikipedia: atomic radius",
+              "url": "https://en.wikipedia.org/wiki/Atomic_radius"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a sodium atom has radius 186 pm. What is that in ångströms?",
+              "a": "186 ÷ 100 = **1.86 Å**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "size-across",
+          "label": "Size across a period",
+          "type": "core",
+          "desc": "**Atomic size decreases from left to right across a period.**\n\nWhy: the shells stay the same, but each step adds **one more proton**. The stronger pull draws the outer shell **closer**.\n\nIn period 3: Na (186 pm) > Mg (160 pm) > Al (143 pm) > Si (117 pm) > P (110 pm) > S (104 pm) > Cl (99 pm).\n\n**Worked example:** in period 3, **sodium** is the largest atom and **chlorine** the smallest (leaving out argon).",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: arrange C, Li, F and N in increasing atomic size.",
+              "a": "All are in period 2. More protons, smaller atom: **F < N < C < Li**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/radius-period-3.png",
+              "caption": "Period 3: each step to the right, a smaller atom"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "size-down",
+          "label": "Size down a group",
+          "type": "core",
+          "desc": "**Atomic size increases from top to bottom in a group.**\n\nWhy: each step down adds a **new shell**. This outweighs the extra protons.\n\n- Group 1: Li (152 pm) < Na (186) < K (231) < Rb < Cs.\n- Group 17: F (64 pm) < Cl (99) < Br (114) < I (133).\n\n**Worked example:** potassium has **8 more protons** than sodium, yet it is **bigger**. It has **4 shells** against sodium's 3.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which is the smallest halogen atom?",
+              "a": "**Fluorine**, at the top of group 17: fewest shells."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "noble-size",
+          "label": "The noble gas exception",
+          "type": "core",
+          "desc": "In the textbook, a **noble gas** atom is **bigger** than the halogen just before it. Argon is bigger than chlorine; neon is bigger than fluorine.\n\n**Exam answer:** the noble gas has a **complete outer shell**. With the most electrons in that shell, the **repulsion** between them is greatest, so the shell **spreads out**.\n\nA truer reason: noble gas atoms do not join up, so their size is measured differently. It is fine to give the exam answer.\n\n**Worked example:** argon (2, 8, 8) is bigger than chlorine (2, 8, 7). Argon's outer shell is **full**.",
+          "links": [
+            {
+              "label": "Wikipedia: noble gas",
+              "url": "https://en.wikipedia.org/wiki/Noble_gas"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: which is bigger, a fluorine atom or a neon atom?",
+              "a": "**Neon.** It is a noble gas with a **full** outer shell."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ion-size",
+          "label": "Ions: smaller cations, bigger anions",
+          "type": "core",
+          "desc": "- **A cation is always smaller than its atom.** Sodium 2, 8, 1 loses one electron and becomes Na⁺, 2, 8. It loses a **whole shell**, and 11 protons now pull only 10 electrons.\n- **An anion is always bigger than its atom.** Chlorine 2, 8, 7 gains one electron and becomes Cl⁻, 2, 8, 8. Now 18 electrons **repel** each other, and only 17 protons pull them.\n\n**Ions with the same number of electrons:** the one with **more protons** is **smaller**.\n\n**Worked example:** S²⁻, Cl⁻, K⁺ and Ca²⁺ all have **18 electrons**. Their protons are 16, 17, 19 and 20. So the sizes are **S²⁻ > Cl⁻ > K⁺ > Ca²⁺**.",
+          "links": [
+            {
+              "label": "Wikipedia: ion",
+              "url": "https://en.wikipedia.org/wiki/Ion"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: which is bigger, a calcium atom or a Ca²⁺ ion?",
+              "a": "The **calcium atom**. Ca²⁺ has lost its outer shell."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/atoms-and-ions.png",
+              "caption": "Na⁺ is smaller than Na; Cl⁻ is bigger than Cl"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-atomic-size",
+          "label": "Quick check: atomic size",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which of these atoms is the largest?",
+              "options": [
+                "silicon",
+                "sodium",
+                "magnesium",
+                "chlorine"
+              ],
+              "answer": 1,
+              "why": "All have 3 shells. Sodium has the **fewest protons**, so the weakest pull. See *Size across a period*."
+            },
+            {
+              "q": "On going down a group, atomic size:",
+              "options": [
+                "increases",
+                "first increases, then decreases",
+                "stays the same",
+                "decreases"
+              ],
+              "answer": 0,
+              "why": "A **new shell** is added each time, so the atom gets **bigger**. See *Size down a group*."
+            },
+            {
+              "q": "Compare a chlorine atom (Cl) and a chloride ion (Cl⁻).",
+              "options": [
+                "They are the same size",
+                "Cl⁻ is bigger",
+                "It depends on the temperature",
+                "Cl is bigger"
+              ],
+              "answer": 1,
+              "why": "Cl⁻ has **one extra electron** but the same 17 protons, so the cloud spreads out. See *Ions: smaller cations, bigger anions*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "metallic",
+      "label": "Metals, non-metals and reactivity",
+      "desc": "**Goal:** explain the trends in metallic and non-metallic character, the oxides of period 3, and reactivity, with equations. Practise with the Intext Questions after section 1.5.3.",
+      "links": [],
+      "children": [
+        {
+          "id": "metallic-char",
+          "label": "Metallic character",
+          "type": "core",
+          "desc": "**Metallic character is the tendency of an atom to lose its valence electrons and form a positive ion.**\n\nNa → Na⁺ + e⁻\n\n- A **weak pull** (big atom, few protons) makes electrons **easy to lose**: very metallic.\n- **Down a group**, metallic character **increases**.\n- **Across a period**, it **decreases**.\n\nMetals **give** electrons away, so they are **reducing agents**. The easier they lose electrons, the **stronger** the reducing agent.\n\n**Worked example:** in period 2, lithium and beryllium are **metals**, boron is a **metalloid**, and carbon to fluorine are **non-metals**. Lithium is the most metallic.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which is more metallic, magnesium or aluminium?",
+              "a": "**Magnesium.** It is to the left, with fewer protons and a weaker pull."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "non-metallic-char",
+          "label": "Non-metallic character",
+          "type": "core",
+          "desc": "**Non-metallic character is the tendency of an atom to gain electrons and form a negative ion.**\n\nNon-metals have **5, 6 or 7** outer electrons. They gain **3, 2 or 1** to complete the octet.\n\nCl + e⁻ → Cl⁻\n\n- A **strong pull** (small atom, many protons) grabs electrons easily.\n- **Across a period**, non-metallic character **increases**.\n- **Down a group**, it **decreases**. In group 14, carbon is a **non-metal**, silicon and germanium are **metalloids**, and tin and lead are **metals**.\n\nNon-metals **take** electrons, so they are **oxidising agents**.\n\n**Worked example:** in period 3, non-metallic character goes Na < Mg < Al < Si < P < S < **Cl**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which is more non-metallic, nitrogen or phosphorus?",
+              "a": "**Nitrogen.** It is higher in group 15: fewer shells, a stronger pull."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "oxides-step",
+          "label": "Oxides: from basic to acidic",
+          "type": "core",
+          "desc": "The oxides of period 3 change steadily across the period.\n\n- Metal oxides are **basic**: Na₂O + H₂O → 2NaOH.\n- Non-metal oxides are **acidic**: SO₃ + H₂O → H₂SO₄.\n- **Aluminium oxide** is **amphoteric**: it reacts with **both** acids and bases.\n\nDown a group, metal oxides become **more basic**.\n\n**Worked example:** aluminium oxide with an acid and with a base.\n\nAl₂O₃ + 6HCl → 2AlCl₃ + 3H₂O\n\nAl₂O₃ + 2NaOH → 2NaAlO₂ + H₂O",
+          "links": [
+            {
+              "label": "Wikipedia: amphoterism",
+              "url": "https://en.wikipedia.org/wiki/Amphoterism"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: is magnesium oxide basic or acidic? Write its reaction with water.",
+              "a": "**Basic**: MgO + H₂O → Mg(OH)₂."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/oxides-period-3.png",
+              "caption": "Period 3 oxides: basic on the left, amphoteric in the middle, acidic on the right"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "reactivity-step",
+          "label": "Chemical reactivity",
+          "type": "core",
+          "desc": "**Metals:** the easier an atom **loses** electrons, the more reactive it is. So reactivity **increases down** group 1.\n\n2Li + 2H₂O → 2LiOH + H₂ (gentle)\n\n2Na + 2H₂O → 2NaOH + H₂ (fast)\n\n2K + 2H₂O → 2KOH + H₂ (so fast the hydrogen catches fire)\n\n**Test for hydrogen:** bring a **burning splint** to the gas. It burns with a **pop**.\n\n**Non-metals:** the easier an atom **gains** electrons, the more reactive it is. So reactivity **decreases down** group 17. **Fluorine** is the most reactive non-metal.\n\n**Across a period**, reactivity first **falls** and then **rises**. In period 3, sodium is the most reactive metal, **silicon** the least reactive, and chlorine the most reactive non-metal.\n\n**Worked example:** chlorine water added to potassium bromide solution turns it **orange-brown**:\n\nCl₂ + 2KBr → 2KCl + Br₂\n\nChlorine is **more reactive**, so it pushes bromine out.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: will bromine push chlorine out of potassium chloride?",
+              "a": "**No.** Bromine is **lower** in group 17, so it is **less** reactive than chlorine."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "physical-trends",
+          "label": "Melting points, boiling points and density",
+          "type": "optional",
+          "desc": "- **Group 1:** melting and boiling points **decrease** down the group. The metals get softer.\n- **Group 17:** melting and boiling points **increase** down the group. Fluorine and chlorine are **gases**, bromine a **liquid**, iodine a **solid**.\n- **Across a period:** melting points usually **rise** to group 14, then **fall**.\n- **Density** increases down a group.\n\n**Worked example:** at room temperature, chlorine is a gas but iodine is a solid. Iodine is **lower** in group 17.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which has the lower melting point, sodium or potassium?",
+              "a": "**Potassium.** Melting points fall down group 1."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-metallic",
+          "label": "Quick check: metals and non-metals",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Across a period from left to right, metallic character:",
+              "options": [
+                "increases",
+                "stays the same",
+                "decreases",
+                "first increases, then decreases"
+              ],
+              "answer": 2,
+              "why": "The pull gets **stronger**, so electrons are **harder to lose**. See *Metallic character*."
+            },
+            {
+              "q": "Which of these oxides is amphoteric?",
+              "options": [
+                "Na₂O",
+                "MgO",
+                "SO₃",
+                "Al₂O₃"
+              ],
+              "answer": 3,
+              "why": "**Aluminium oxide** reacts with both acids and bases. See *Oxides: from basic to acidic*."
+            },
+            {
+              "q": "Which of these metals reacts most violently with water?",
+              "options": [
+                "potassium",
+                "sodium",
+                "all three equally",
+                "lithium"
+              ],
+              "answer": 0,
+              "why": "Potassium is **lowest** in group 1 of the three: weakest pull, loses its electron **most easily**. See *Chemical reactivity*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "energies",
+      "label": "Ionisation energy and electron affinity",
+      "desc": "**Goal:** define ionisation energy and electron affinity, write their equations, and state their trends. Practise with the Intext Questions after section 1.5.6.",
+      "links": [],
+      "children": [
+        {
+          "id": "ie-defined",
+          "label": "Ionisation energy: taking an electron away",
+          "type": "core",
+          "desc": "To pull an electron out of an atom, you must **supply energy**.\n\n**Ionisation energy (ionisation potential) is the energy required to remove an electron from a neutral isolated gaseous atom and convert it into a positively charged gaseous ion.**\n\nM(g) + I.E. → M⁺(g) + e⁻\n\n- Units: **electron volts per atom** (eV/atom), or **kJ/mol** (the SI unit).\n- A **big** atom (weak pull) has a **low** I.E.\n- **More** nuclear charge (strong pull) gives a **high** I.E.\n\n**Worked example:** Na(g) + 496 kJ/mol → Na⁺(g) + e⁻",
+          "links": [
+            {
+              "label": "Wikipedia: ionization energy",
+              "url": "https://en.wikipedia.org/wiki/Ionization_energy"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: write the ionisation equation for potassium.",
+              "a": "**K(g) + I.E. → K⁺(g) + e⁻**"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ie-trends",
+          "label": "Ionisation energy trends",
+          "type": "core",
+          "desc": "- **Across a period**, ionisation energy **increases**: the atom is smaller and the pull stronger.\n- **Down a group**, it **decreases**: the outer electron is farther away.\n- **Helium** has the highest of all (2372 kJ/mol). **Caesium** has the lowest among stable elements (376 kJ/mol).\n- **Metals** have **low** I.E. **Non-metals** have **high** I.E.\n\n**Worked example:** group 1: Li 520, Na 496, K 419 kJ/mol. The energy falls as the atoms get **bigger**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: arrange Mg, Na, Cl and Si in increasing ionisation energy.",
+              "a": "Same period, left to right: **Na < Mg < Si < Cl**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/ionisation-energy-1-20.png",
+              "caption": "Ionisation energy climbs across each period, then drops at the next alkali metal"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ie-dips",
+          "label": "Small dips in the pattern",
+          "type": "optional",
+          "desc": "Look at the chart in the last step. The line does not rise smoothly. It **dips** a little:\n\n- **beryllium** (900) is higher than **boron** (801);\n- **nitrogen** (1402) is higher than **oxygen** (1314);\n- the same happens at Mg and Al, and at P and S.\n\nThe reason needs **orbitals**, which are not in your syllabus. In the exam, write that ionisation energy **increases** across a period, and learn these dips as **exceptions**.\n\n**Worked example:** if asked which has the higher I.E., nitrogen or oxygen, answer **nitrogen**: it is an exception.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "ea-defined",
+          "label": "Electron affinity: adding an electron",
+          "type": "core",
+          "desc": "When an atom **gains** an electron, energy is **released**.\n\n**Electron affinity is the amount of energy released when a neutral isolated gaseous atom accepts an electron to form a negatively charged gaseous ion.**\n\nX(g) + e⁻ → X⁻(g) + E.A.\n\n- Units: eV/atom or **kJ/mol**.\n- Because energy is **given out**, books often write E.A. with a **minus sign**.\n- Don't let the sign confuse you. **Compare the sizes**: a bigger number means the atom is **keener** to take an electron.\n\n**Worked example:** F(g) + e⁻ → F⁻(g) + 328 kJ/mol. The electron affinity of fluorine is written **−328 kJ/mol**.",
+          "links": [
+            {
+              "label": "Wikipedia: electron affinity",
+              "url": "https://en.wikipedia.org/wiki/Electron_affinity"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what is the difference between ionisation energy and electron affinity?",
+              "a": "I.E. is energy **needed** to **remove** an electron, making a **cation**. E.A. is energy **released** when an electron is **added**, making an **anion**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ea-trends",
+          "label": "Electron affinity trends",
+          "type": "core",
+          "desc": "- **Across a period**, electron affinity **increases**: the smaller atom with more protons pulls the new electron harder.\n- **Halogens** have the **highest** E.A. in their period. **Alkali metals** have the lowest.\n- **Noble gases** have **zero** E.A.: their outer shell is already full.\n- **Down a group**, E.A. **decreases**: the new electron would sit farther out.\n\n**Exceptions:** chlorine (349) has a higher E.A. than fluorine (328), and sulphur higher than oxygen. Fluorine and oxygen are **so small** that their own electrons **repel** the newcomer.\n\n**Worked example:** in period 2 the highest E.A. is **fluorine**. In the whole table it is **chlorine**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why is the electron affinity of neon zero?",
+              "a": "Neon's outer shell is **already full** (2, 8). It has no room for, and no pull on, an extra electron."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-energies",
+          "label": "Quick check: the two energies",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Ionisation energy is the energy needed to:",
+              "options": [
+                "remove an electron from a neutral isolated gaseous atom",
+                "add an electron to a neutral atom",
+                "attract a shared pair of electrons",
+                "break a molecule into atoms"
+              ],
+              "answer": 0,
+              "why": "**Remove** an electron, from a **gaseous** atom. Adding one is electron affinity. See *Ionisation energy: taking an electron away*."
+            },
+            {
+              "q": "Which of these has the highest ionisation energy?",
+              "options": [
+                "lithium",
+                "helium",
+                "fluorine",
+                "neon"
+              ],
+              "answer": 1,
+              "why": "Helium's two electrons sit in **one small shell**, very close to the nucleus. It has the highest I.E. of all. See *Ionisation energy trends*."
+            },
+            {
+              "q": "Of all the elements, which has the highest electron affinity?",
+              "options": [
+                "sodium",
+                "fluorine",
+                "neon",
+                "chlorine"
+              ],
+              "answer": 3,
+              "why": "**Chlorine.** Fluorine is so small that its own electrons crowd the newcomer. Neon's is zero. See *Electron affinity trends*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "families",
+      "label": "Electronegativity and the two families",
+      "desc": "**Goal:** define electronegativity, and know the alkali metals and halogens well. Practise with the Intext Questions after section 1.5.6 and the chapter Exercise.",
+      "links": [],
+      "children": [
+        {
+          "id": "en-step",
+          "label": "Electronegativity",
+          "type": "core",
+          "desc": "**Electronegativity is the tendency of an atom in a molecule to attract the shared pair of electrons towards itself.**\n\n- It is only a **tendency**, so it has **no unit**.\n- On **Pauling's scale**, **fluorine** is highest (4.0) and **caesium** lowest (0.7).\n- **Across a period** it **increases**. **Down a group** it **decreases**.\n- Metals have **low** electronegativity (they are **electropositive**). Non-metals have **high** electronegativity.\n\nPeriod 3: Na 0.9, Mg 1.2, Al 1.5, Si 1.8, P 2.1, S 2.5, Cl 3.0.\n\n**Electron affinity or electronegativity?** E.A. is about a **single gaseous atom** and is an **energy**. E.N. is about an atom **in a molecule** and is a **tendency** with no unit.\n\n**Bridge elements:** Li and Mg, Be and Al, and B and Si sit **diagonally** and behave alike (a **diagonal relationship**).\n\n**Worked example:** in a molecule of HCl, chlorine (3.0) pulls the shared pair harder than hydrogen (2.1). The shared pair sits **nearer chlorine**.",
+          "links": [
+            {
+              "label": "Wikipedia: electronegativity",
+              "url": "https://en.wikipedia.org/wiki/Electronegativity"
+            },
+            {
+              "label": "Wikipedia: diagonal relationship",
+              "url": "https://en.wikipedia.org/wiki/Diagonal_relationship"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: arrange Na, Cl, Al and P in increasing electronegativity.",
+              "a": "Same period, left to right: **Na < Al < P < Cl**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "alkali-metals",
+          "label": "Alkali metals up close",
+          "type": "core",
+          "desc": "Group 1 (leaving out hydrogen): **Li, Na, K, Rb, Cs, Fr**.\n\n- **One** outer electron each, so similar properties.\n- **Largest** atoms in their period; size **increases** down the group.\n- **Lowest** ionisation energy in their period; it **decreases** down.\n- **Low** electron affinity and **lowest** electronegativity in their period.\n- **Soft**, shiny when cut, then quickly dull in air. **Good conductors**.\n- **Very reactive**: found only **combined** in nature, and stored under **kerosene**.\n- React with water to give an **alkali** and **hydrogen**. Reactivity **increases** down.\n- **Strong reducing agents**. They form **ionic** compounds, such as NaCl and KBr.\n\n**Worked example:** sodium is kept under kerosene. In air it would react with **oxygen and moisture**.",
+          "links": [
+            {
+              "label": "Wikipedia: alkali metal",
+              "url": "https://en.wikipedia.org/wiki/Alkali_metal"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why are alkali metals strong reducing agents?",
+              "a": "They have **one** outer electron, held **weakly**. They **give it away** very easily, and a reducing agent is an electron giver."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "halogens",
+          "label": "Halogens up close",
+          "type": "core",
+          "desc": "Group 17: **F, Cl, Br, I, At**.\n\n- **Seven** outer electrons each, so similar properties.\n- **Smallest** atoms in their period (leaving out noble gases).\n- **High** ionisation energy, **high** electron affinity, **highest** electronegativity in their period.\n- Non-metals made of **two-atom molecules**: F₂, Cl₂, Br₂, I₂.\n- Fluorine: **pale yellow** gas. Chlorine: **greenish-yellow** gas. Bromine: **red-brown** liquid. Iodine: **dark grey** solid.\n- **Very reactive**, so found **combined**, as salts.\n- Reactivity **decreases** down: fluorine most, iodine least.\n- **Strong oxidising agents**. They form **ionic** compounds with metals (KCl) and **covalent** ones with non-metals (HCl).\n\n**Worked example:** chlorine pushes iodine out of potassium iodide solution, because chlorine is **higher** in the group.",
+          "links": [
+            {
+              "label": "Wikipedia: halogen",
+              "url": "https://en.wikipedia.org/wiki/Halogen"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why is fluorine the strongest oxidising agent?",
+              "a": "It is the **smallest** halogen, with the **strongest pull**. It **takes** an electron most easily, and an oxidising agent is an electron taker."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "all-trends",
+          "label": "All the trends on one page",
+          "type": "core",
+          "desc": "Every trend comes from the tug of war.\n\n**Across a period (left to right): stronger pull.**\n\n- Atomic size **decreases**. Ionisation energy **increases**.\n- Electron affinity **increases**. Electronegativity **increases**.\n- Non-metallic character **increases**. Metallic character **decreases**.\n- Oxides go from **basic** to **acidic**. Valency rises to 4, then falls.\n\n**Down a group (top to bottom): weaker pull.**\n\n- Atomic size **increases**. Ionisation energy **decreases**.\n- Electron affinity **decreases**. Electronegativity **decreases**.\n- Metallic character **increases**. Valency **stays the same**.\n\n**Worked example:** compare rubidium with sodium. Rubidium is **lower** in group 1. It is **bigger**, has a **lower** I.E., and is **more metallic** and more reactive.",
+          "links": [
+            {
+              "label": "Wikipedia: periodic trends",
+              "url": "https://en.wikipedia.org/wiki/Periodic_trends"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: an element is at the top right of the table (not a noble gas). Is it big or small? High or low I.E.? Metal or non-metal?",
+              "a": "**Small**, **high** I.E., a **non-metal**: the strongest pull. That is fluorine."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/trends-summary.png",
+              "caption": "Across: stronger pull. Down: weaker pull"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-families",
+          "label": "Quick check: the two families",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Electronegativity is:",
+              "options": [
+                "the energy released when an atom gains an electron",
+                "the tendency of an atom in a molecule to attract the shared pair of electrons",
+                "the distance from the nucleus to the outer shell",
+                "the energy needed to remove an electron"
+              ],
+              "answer": 1,
+              "why": "**In a molecule**, the pull on a **shared pair**. It has **no unit**. See *Electronegativity*."
+            },
+            {
+              "q": "Alkali metals are strong reducing agents because they:",
+              "options": [
+                "lose their one outer electron easily",
+                "gain electrons easily",
+                "are the smallest atoms in their period",
+                "have a full outer shell"
+              ],
+              "answer": 0,
+              "why": "A reducing agent **gives** electrons. Alkali metals give theirs away **most easily**. See *Alkali metals up close*."
+            },
+            {
+              "q": "Which halogen is the most reactive?",
+              "options": [
+                "iodine",
+                "chlorine",
+                "fluorine",
+                "bromine"
+              ],
+              "answer": 2,
+              "why": "The **top** of group 17 has the **strongest pull** on an incoming electron. See *Halogens up close*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "exam-toolkit",
+      "label": "Exam toolkit: words, drills and reasons",
+      "desc": "**Goal:** collect the marks that come from definitions, position questions, arranging in order and 'give reasons'.",
+      "links": [],
+      "children": [
+        {
+          "id": "definitions",
+          "label": "Definitions to learn word for word",
+          "type": "core",
+          "desc": "- **Modern periodic law:** the physical and chemical properties of elements are periodic functions of their atomic numbers.\n- **Periodicity:** the repeating of similar properties at regular intervals, when elements are arranged by atomic number.\n- **Valency:** the combining capacity of an atom; the number of electrons it loses, gains or shares.\n- **Atomic size:** the distance between the centre of the nucleus and the outermost shell of an atom.\n- **Ionisation energy:** the energy required to remove an electron from a neutral isolated gaseous atom and convert it into a positively charged gaseous ion.\n- **Electron affinity:** the energy released when a neutral isolated gaseous atom accepts an electron to form a negatively charged gaseous ion.\n- **Electronegativity:** the tendency of an atom in a molecule to attract the shared pair of electrons towards itself.\n- **Metallic character:** the tendency of an atom to lose electrons and form a positive ion.\n- **Non-metallic character:** the tendency of an atom to gain electrons and form a negative ion.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: cover the list. Define electron affinity.",
+              "a": "The **energy released** when a **neutral isolated gaseous atom accepts an electron** to form a **negatively charged gaseous ion**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "two-drills",
+          "label": "Two drills for exam questions",
+          "type": "core",
+          "desc": "**1. Position questions: the Z drill.** Configuration, period, group, valency, metal or non-metal, formula.\n\n**Worked example:** an element has Z = 20.\n\nConfiguration: **2, 8, 8, 2**. Period **4**, group **2**.\n\nValency **2**; a **metal** (calcium). Chloride **CaCl₂**, oxide **CaO**.\n\n**2. 'Arrange in order' questions: three lines.**\n\n1. Same **period** or same **group**?\n2. Which way is the pull **stronger**?\n3. Write the order with < signs. Check for an **exception** (noble gases, Cl and F in E.A.).\n\n**Worked example:** arrange Rb, Li, K and Na in increasing ionisation energy.\n\nSame group. Higher up, stronger pull, higher I.E.\n\n**Rb < K < Na < Li**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: arrange O, Li, N, B and F in increasing electronegativity.",
+              "a": "Same period. Left to right, stronger pull: **Li < B < N < O < F**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "give-reasons",
+          "label": "Give reasons: model answers",
+          "type": "core",
+          "desc": "Many questions ask *give a reason*. Try these before opening the answers.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Elements in the same group have similar chemical properties.",
+              "a": "They have the **same number of valence electrons**, and chemical properties depend on the valence electrons."
+            },
+            {
+              "q": "Atomic size decreases across a period.",
+              "a": "The number of shells stays the same, but the **nuclear charge increases**. The outer shell is **pulled closer** to the nucleus."
+            },
+            {
+              "q": "A chloride ion is bigger than a chlorine atom.",
+              "a": "Cl⁻ has **one more electron** but the same 17 protons. The electrons **repel** each other more and the **pull per electron** is less, so the ion is bigger."
+            },
+            {
+              "q": "Ionisation energy decreases down a group.",
+              "a": "A **new shell** is added each time. The outer electron is **farther** from the nucleus and **shielded** more, so it is **easier** to remove."
+            },
+            {
+              "q": "Halogens are strong oxidising agents.",
+              "a": "They have **7 valence electrons** and a **strong pull**. They **gain** one electron very easily, and an oxidising agent **accepts** electrons."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "diagrams-practise",
+          "label": "Diagrams to practise",
+          "type": "optional",
+          "desc": "- The first 18 elements in their **groups and periods**.\n- **Shell diagrams** of an atom and its ion: Na and Na⁺, Cl and Cl⁻.\n- The **trend arrows**: across, stronger pull; down, weaker pull.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: last-minute revision and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Read the sheet the night before the exam and again on the morning.",
+      "links": [],
+      "children": [
+        {
+          "id": "revision-sheet",
+          "label": "Last-minute revision sheet",
+          "type": "core",
+          "desc": "**The one idea:** a **tug of war** between the nucleus and the outer electrons. **Across** a period: same shells, more protons, **stronger pull**. **Down** a group: one more shell each time, **weaker pull**.\n\n**Rules and equations**\n- **Period = number of shells. Group = outer electrons** (1 or 2 as they are; 3 to 7, add 10; a full shell, group 18).\n- **Valency:** outer electrons 1 to 4, the same number; 5, 6, 7, then **8 minus** it; a full shell, **0**.\n- **Formula:** swap the valencies and cancel. Al (3) and O (2) give **Al₂O₃**.\n- **Light elements:** even Z, **A = 2Z** (not Be, Ar); odd Z, **A = 2Z + 1** (not H, N).\n- **Ionisation:** M(g) + I.E. → M⁺(g) + e⁻. **Electron affinity:** X(g) + e⁻ → X⁻(g) + E.A.\n- 2Na + 2H₂O → 2NaOH + H₂ (a burning splint gives a **pop**). Cl₂ + 2KBr → 2KCl + Br₂.\n\n**Units**\n- Atomic size: **1 Å = 10⁻¹⁰ m**, **1 pm = 10⁻¹² m**, so **1 Å = 100 pm**.\n- I.E. and E.A.: **eV per atom** or **kJ/mol** (SI). Electronegativity: **no unit**.\n\n**Key points**\n- **Modern periodic law:** the properties of elements are periodic functions of their **atomic numbers** (Moseley). 18 groups, 7 periods.\n- Groups: 1 **alkali metals**, 2 **alkaline earth metals**, 3 to 12 **transition elements**, 17 **halogens**, 18 **noble gases**. Period 3 (Na to Cl): **typical elements**.\n- **Periodicity** is caused by the same number of **outer electrons** coming back at regular intervals.\n- **Across:** size **↓**, I.E. **↑**, E.A. **↑**, E.N. **↑**, non-metallic **↑**, metallic **↓**, oxides **basic → acidic**.\n- **Down:** size **↑**, I.E. **↓**, E.A. **↓**, E.N. **↓**, metallic **↑**, reactivity of metals **↑**, of non-metals **↓**.\n- **Cation smaller** than its atom; **anion bigger**. Same electrons? More protons, **smaller** ion.\n- Highest I.E.: **helium**. Lowest: **caesium**. Highest E.N.: **fluorine** (4.0). Highest E.A.: **chlorine**. Noble gases: E.A. **zero**.\n- Metals **lose** electrons: **reducing agents**. Non-metals **gain** electrons: **oxidising agents**.\n- **Al₂O₃** is amphoteric. In period 3, **silicon** is the least reactive.\n\n**Traps:** group number is **not** the number of outer electrons for groups 13 to 17 (add 10). **More protons down a group does not make the atom smaller**: the new shell wins. E.A. is energy **released** on **adding** an electron; I.E. is energy **needed** to **remove** one. **Fluorine** has the highest E.N., but **chlorine** the highest E.A.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Who stated the modern periodic law?",
+              "options": [
+                "Dmitri Mendeleev",
+                "Johann Dobereiner",
+                "Henry Moseley",
+                "John Newlands"
+              ],
+              "answer": 2,
+              "why": "**Moseley** showed that **atomic number**, not atomic mass, decides the order."
+            },
+            {
+              "q": "Potassium has atomic number 19. Where is it in the periodic table?",
+              "options": [
+                "period 4, group 1",
+                "period 3, group 1",
+                "period 1, group 4",
+                "period 4, group 19"
+              ],
+              "answer": 0,
+              "why": "2, 8, 8, 1: **4 shells**, **1 outer electron**."
+            },
+            {
+              "q": "Magnesium has valency 2. What is the formula of magnesium chloride?",
+              "options": [
+                "MgCl",
+                "MgCl₂",
+                "Mg₂Cl",
+                "Mg₂Cl₃"
+              ],
+              "answer": 1,
+              "why": "Swap the valencies: Mg **1**, Cl **2**: **MgCl₂**."
+            },
+            {
+              "q": "Arrange C, N, O and F in increasing atomic size.",
+              "options": [
+                "F < O < N < C",
+                "F < C < N < O",
+                "N < C < F < O",
+                "C < N < O < F"
+              ],
+              "answer": 0,
+              "why": "Same period: more protons, **smaller** atom. Fluorine is smallest, carbon largest."
+            },
+            {
+              "q": "A sodium ion (Na⁺) is smaller than a sodium atom because it:",
+              "options": [
+                "has gained an electron",
+                "has fewer protons",
+                "has lost its whole outer shell",
+                "has more electrons than protons"
+              ],
+              "answer": 2,
+              "why": "2, 8, 1 becomes **2, 8**: one **shell fewer**, and 11 protons now pull only 10 electrons."
+            },
+            {
+              "q": "Across period 3, the oxides of the elements change from:",
+              "options": [
+                "neutral to basic",
+                "acidic to basic",
+                "basic to acidic",
+                "basic to basic"
+              ],
+              "answer": 2,
+              "why": "**Na₂O** strongly basic, **Al₂O₃** amphoteric, **Cl₂O₇** most acidic."
+            },
+            {
+              "q": "Down group 1, the ionisation energy:",
+              "options": [
+                "increases, then decreases",
+                "decreases",
+                "stays the same",
+                "increases"
+              ],
+              "answer": 1,
+              "why": "The outer electron is **farther** away each time, so it is **easier** to remove."
+            },
+            {
+              "q": "Which of these has an electron affinity of about zero?",
+              "options": [
+                "sulphur",
+                "argon",
+                "chlorine",
+                "oxygen"
+              ],
+              "answer": 1,
+              "why": "**Noble gases** already have a full outer shell. They do not take an extra electron."
+            },
+            {
+              "q": "The most electronegative element is:",
+              "options": [
+                "oxygen",
+                "fluorine",
+                "chlorine",
+                "caesium"
+              ],
+              "answer": 1,
+              "why": "**Fluorine**, 4.0 on Pauling's scale. Caesium is the least, 0.7."
+            },
+            {
+              "q": "Sodium reacts with water. How can you show the gas given off is hydrogen?",
+              "options": [
+                "Lime water turns milky",
+                "Moist blue litmus turns red",
+                "A burning splint makes a pop",
+                "A glowing splint relights"
+              ],
+              "answer": 2,
+              "why": "**Hydrogen** burns with a **pop**. Lime water is for carbon dioxide; a glowing splint is for oxygen."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These are like the harder questions at the end of the chapter. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "mystery-letters",
+          "label": "Mystery letters",
+          "type": "optional",
+          "desc": "Letters stand for elements, not their usual symbols. Their positions:\n\n- **P:** period 2, group 1. **Q:** period 2, group 14. **R:** period 2, group 17.\n- **S:** period 3, group 1. **T:** period 3, group 14. **U:** period 3, group 17. **V:** period 3, group 18.\n\nWhich letter is the most electronegative? Which is an alkali metal in period 3? Which two have valency 4? Which has the lowest ionisation energy? Which is the smallest atom in period 3?\n\n- Most electronegative: **R** (fluorine, top right).\n- Alkali metal in period 3: **S** (sodium).\n- Valency 4: **Q** and **T** (carbon and silicon).\n- Lowest ionisation energy: **S**: lower than P, and farthest left.\n- Smallest atom in period 3: **U** (chlorine). V is a noble gas, the exception.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "ion-sizes",
+          "label": "Three ions, one family",
+          "type": "optional",
+          "desc": "Three halogen ions have radii X⁻ 220 pm, Y⁻ 196 pm and W⁻ 181 pm. Arrange them in increasing atomic number.\n\nIn a group, size grows as you go **down**, and so does atomic number.\n\nSmallest ion, top of the group: **W⁻ < Y⁻ < X⁻**.\n\n(They are chloride, bromide and iodide.)",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "chloride-clue",
+          "label": "A clue from a chloride",
+          "type": "optional",
+          "desc": "A metal M is in period 3. Its chloride is **MCl₂**. Find its atomic number, its group and the formula of its oxide.\n\nMCl₂ means M has **valency 2**: two outer electrons.\n\nPeriod 3, two outer electrons: **2, 8, 2**.\n\nAtomic number **12** (magnesium), group **2**. Oxide: **MgO**.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThis chapter looks like six separate properties, each with its own rules. It is really **one idea**: how hard the nucleus pulls on the outer electrons. A struggling student who can say *same shells, more protons* and *one more shell* can work out every trend, instead of memorising 12 arrows.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- Teach the **tug of war** first, with a magnet and paper clips: a stronger magnet, or a clip farther away.\n- Drill the **Z drill** daily: one atomic number, six lines, two minutes.\n- Build a **class periodic table** for Z = 1 to 20 on the wall. Students add a card each lesson.\n- For every trend, ask *why* before *which way*. The why is always the same two causes.\n- Use **Ptable** or **PhET Build an Atom** to show shells filling and atoms growing.\n- Collect definitions in one place and test them **word for word**; they are easy marks.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 10-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** prerequisites: the atom, filling shells, ions, opposite charges. Activity: PhET Build an Atom.\n- **Period 2:** Mendeleev to Moseley; the modern periodic law; groups, periods and family names.\n- **Period 3:** period = shells, group = outer electrons, valency, formulas. Intext Questions after 1.4.\n- **Period 4:** the Z drill; periodicity; atomic number and mass number. Activity: build the wall table for Z = 1 to 20.\n- **Period 5:** the tug of war; atomic size across, down, noble gases and ions. Activity: magnet and paper clips.\n- **Period 6:** metallic and non-metallic character; oxides of period 3; reactivity with water and halogen displacement. Intext Questions after 1.5.3.\n- **Period 7:** ionisation energy and its trends; electron affinity and its trends.\n- **Period 8:** electronegativity; alkali metals and halogens up close. Intext Questions after 1.5.6.\n- **Period 9:** all the trends on one page; arrange-in-order practice; give-reasons practice.\n- **Period 10:** the chapter Exercise and past ICSE questions; self-test and exit ticket.",
+          "links": [
+            {
+              "label": "PhET simulation: Build an Atom (free)",
+              "url": "https://phet.colorado.edu/en/simulations/build-an-atom"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Adding 10 to the group for elements with **1 or 2** outer electrons, or **forgetting** to add 10 for 3 to 7.\n- Thinking **more protons always means smaller**, even down a group.\n- Mixing up **ionisation energy** (remove, needed) and **electron affinity** (add, released).\n- Saying **fluorine** has the highest electron affinity.\n- Giving **valency 5, 6 or 7** for non-metals instead of 3, 2 or 1.\n- Writing that atomic size **increases** across a period because Z increases.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Give the period and group of the element with Z = 17.",
+              "a": "2, 8, 7: **period 3**, **group 17**."
+            },
+            {
+              "q": "2. State the modern periodic law.",
+              "a": "The properties of elements are **periodic functions of their atomic numbers**."
+            },
+            {
+              "q": "3. Which is bigger, Mg or Mg²⁺? Why?",
+              "a": "**Mg.** Mg²⁺ has lost its **outer shell**."
+            },
+            {
+              "q": "4. How does electronegativity change down a group?",
+              "a": "It **decreases**: the atoms get **bigger**, with a weaker pull."
+            },
+            {
+              "q": "5. Write the equation for sodium reacting with water.",
+              "a": "**2Na + 2H₂O → 2NaOH + H₂**"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}
