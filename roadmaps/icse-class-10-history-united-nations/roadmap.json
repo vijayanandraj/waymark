@@ -1,0 +1,956 @@
+{
+  "title": "ICSE Class 10 History, Chapter 13: The United Nations, Step by Step",
+  "subtitle": "For students who find history hard. Why the UN was born, its objectives and principles, and the composition and functions of the General Assembly, the Security Council (with the veto) and the International Court of Justice, held together by one idea (talk, act, judge), in small steps with model answers, quick checks, an exam toolkit and a last-minute revision sheet. Follows the ICSE Class 10 syllabus, Chapter 13 (The United Nations), in the order of Total History & Civics.",
+  "updated": "2026-11-24",
+  "changelog": [
+    {
+      "date": "2026-11-24",
+      "text": "First version: the whole chapter in small steps, with model answers, quick checks, a last-minute revision sheet, a self-test and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** know the key words and dates this chapter uses, and the answer shape. Then the rest is easy.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea and the model answer, then do **Your turn**.\n- **Every answer is a point plus one fact:** a name, a number or a place. One point earns one mark.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: talk, act, judge.** The UN works like a **world parliament** (the **General Assembly**: every country talks), a **world fire brigade** (the **Security Council**: acts to keep peace) and a **world court** (the **International Court of Justice**: judges disputes).",
+          "links": [
+            {
+              "label": "Simple Wikipedia: United Nations (free, easy English)",
+              "url": "https://simple.wikipedia.org/wiki/United_Nations"
+            },
+            {
+              "label": "Last-minute revision sheet for this chapter",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-history-united-nations#revision-sheet"
+            },
+            {
+              "label": "Previous chapter: 12. The Second World War",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-history-second-world-war"
+            },
+            {
+              "label": "Next chapter: 15. Non-Aligned Movement",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-history-non-aligned-movement"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 13, *The United Nations*, of the History part of the ICSE Class 10 History and Civics syllabus. It follows the order of *Total History & Civics* for Class 10.\n\n**Who it is for.** Class 10 students who find history hard, and want to understand this chapter and score decent marks in it. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** Talk, act, judge. The UN works like a world parliament (the General Assembly, where every country talks), a world fire brigade (the Security Council, which acts to keep peace) and a world court (the International Court of Justice, which judges disputes).\n\n**How it is different from the textbook.** The textbook gives long lists of powers and functions. Here one picture, **talk, act, judge**, gives each of the three organs a clear job, and their numbers are gathered on one card. Every answer is a **point plus one fact**, with fresh model answers. A textbook slip about who led India at San Francisco is corrected gently.\n\n**What is inside.**\n- 10 milestones and 38 small steps. The 30 solid steps are the core path. The dashed ones are optional.\n- 37 practice questions with hidden answers.\n- 25 click-to-check questions that say right or wrong, and why: a quick check after each of the 5 main milestones, and a 10-question self-test.\n- A **last-minute revision sheet**: every date, key term, name and trap on one page.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: picture study and two structured challenge questions, and a section for teachers and parents with a 5-period lesson plan, the mistakes to watch for and a 5-minute exit ticket.\n\n**Can you trust it?** Dates, names and places follow the textbook, and the few slips found in it are pointed out gently. A computer program checks that every date sits in the right order and every click-to-check answer is marked right. All the model answers are written fresh, so students still get fresh practice from their textbook. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the ICSE syllabus but is not made or endorsed by CISCE or by any publisher. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. What is a veto?",
+              "a": "A 'no' from a **permanent member** that **blocks** a decision. Wrong? Do *Key words in this chapter*."
+            },
+            {
+              "q": "2. Which organ 'talks'?",
+              "a": "The **General Assembly**. Wrong? Do *Talk, act, judge*."
+            },
+            {
+              "q": "3. Which organ 'judges'?",
+              "a": "The **International Court of Justice**. Wrong? Do *Talk, act, judge*."
+            },
+            {
+              "q": "4. How many points for a 2-mark answer?",
+              "a": "**Two**, each with **one fact**. Wrong? Do *How ICSE asks, and the answer shape*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "whos-who",
+          "label": "Key words in this chapter",
+          "type": "core",
+          "desc": "- **UN (United Nations):** the world body set up in 1945 to keep peace.\n- **Charter:** the UN's founding rule book.\n- **Organ:** a main part of the UN. There are **six**.\n- **Member state:** a country that belongs to the UN.\n- **P5:** the five **permanent** members of the Security Council.\n- **Veto:** a 'no' from one of the P5 that **blocks** a decision.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is the Charter?",
+              "a": "The UN's **founding document**: its rules, aims and principles."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "talk-act-judge",
+          "label": "Talk, act, judge",
+          "type": "core",
+          "desc": "This chapter has **one idea**. Think of how a big school keeps order.\n\n- The **assembly hall**, where **every class** has a say: the **General Assembly** (every country, one vote). **Talk.**\n- The **discipline committee** of a few senior people who can **act** fast when there is a fight: the **Security Council** (15 members; 5 with a veto). **Act.**\n- The **inquiry panel** that hears both sides and gives a ruling: the **International Court of Justice**. **Judge.**\n\nThe syllabus asks for the UN's **objectives**, and the **composition and functions** of these **three** organs.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which UN organ is like the discipline committee?",
+              "a": "The **Security Council**: a few members who can **act** quickly to keep peace."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "answer-shape",
+          "label": "How ICSE asks, and the answer shape",
+          "type": "core",
+          "desc": "ICSE asks history in three ways.\n\n- **Multiple choice:** 1 mark. Pick one option.\n- **Short answer:** usually 2 marks. Write **two points**.\n- **Structured question:** parts (a), (b), (c), worth 3 or 4 marks each. Write **one point per mark**.\n\nEach point has **one fact**: a name, a date or a place. A point without a fact looks vague and loses marks.\n\n**Model answer.** *State two objectives of the United Nations.*\n\n- To maintain **international peace and security**, by collective action against threats and aggression.\n- To develop **friendly relations** among nations, based on **equal rights** and **self-determination** of peoples.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is wrong with this answer? 'The UN wants a better world.'",
+              "a": "It has **no fact**. Add one: for example, *'The UN aims to maintain international peace and security.'*"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "why",
+      "label": "Why the UN was born",
+      "desc": "**Goal:** explain why the world needed a new organisation in 1945, and how it was set up.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on the reasons for setting up the UN.",
+      "links": [],
+      "children": [
+        {
+          "id": "lessons",
+          "label": "Lessons from two wars",
+          "type": "core",
+          "desc": "- **Two world wars** in about 25 years killed **millions** and ruined economies.\n- The **League of Nations** (from 1920) **failed** to stop the second.\n- People feared a **third world war**, which could end human civilisation.\n- The world was splitting into **two blocs**, USA and USSR; a neutral meeting place was needed.\n- **Atom bombs** showed the danger of new weapons.",
+          "links": [
+            {
+              "label": "Wikipedia: United Nations",
+              "url": "https://en.wikipedia.org/wiki/United_Nations"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: give two reasons why the UN was set up.",
+              "a": "The **failure of the League of Nations**, and the fear that a **third world war** with **atom bombs** could destroy the world."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "yalta-sf",
+          "label": "From Yalta to San Francisco",
+          "type": "core",
+          "desc": "- At **Yalta** (February 1945), **Roosevelt, Churchill and Stalin** agreed to set up a new world body.\n- At the **San Francisco Conference** (June 1945), **50** nations drew up and signed the **UN Charter**.\n- The UN came into being on **24 October 1945**: **UN Day**.\n- **India** signed the Charter at San Francisco and is an **original member**. (Your textbook says Nehru led India there; in fact the delegation was led by **Sir A. Ramaswami Mudaliar**.)",
+          "links": [
+            {
+              "label": "Wikipedia: San Francisco Conference",
+              "url": "https://en.wikipedia.org/wiki/United_Nations_Conference_on_International_Organization"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: when did the UN come into existence?",
+              "a": "On **24 October 1945**, celebrated as **UN Day**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-why",
+          "label": "Quick check: why the UN was born",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which earlier body did the UN replace?",
+              "options": [
+                "The Allied Powers",
+                "The Commonwealth",
+                "The Axis",
+                "The League of Nations"
+              ],
+              "answer": 3,
+              "why": "See *Lessons from two wars*."
+            },
+            {
+              "q": "When did the UN formally come into existence?",
+              "options": [
+                "24 October 1945",
+                "20 October 1947",
+                "June 1945",
+                "January 1920"
+              ],
+              "answer": 0,
+              "why": "Now celebrated as **UN Day**. See *From Yalta to San Francisco*."
+            },
+            {
+              "q": "Where was the UN Charter drawn up?",
+              "options": [
+                "New York",
+                "Yalta",
+                "Geneva",
+                "San Francisco"
+              ],
+              "answer": 3,
+              "why": "See *From Yalta to San Francisco*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "aims",
+      "label": "Objectives and principles",
+      "desc": "**Goal:** state the objectives and principles of the UN, and its basic facts.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on the objectives and principles of the UN.",
+      "links": [],
+      "children": [
+        {
+          "id": "objectives",
+          "label": "Four objectives",
+          "type": "core",
+          "desc": "The **Charter** gives four objectives:\n\n- **Peace and security:** take **collective action** to prevent threats and stop **aggression**.\n- **Friendly relations** among nations, based on **equal rights** and **self-determination**.\n- **Cooperation** to solve **economic, social, cultural and humanitarian** problems, and respect for **human rights**.\n- Be a **centre** where nations harmonise their actions for these aims.\n\nIn short: **disarm, decolonise, develop**.\n\n**Model answer.** *State the main objective of the UN, and one other.*\n\n- To maintain **international peace and security**.\n- To achieve **international cooperation** on economic, social and humanitarian problems, and respect for **human rights**.",
+          "links": [
+            {
+              "label": "Wikipedia: Charter of the United Nations",
+              "url": "https://en.wikipedia.org/wiki/Charter_of_the_United_Nations"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what are the UN's three 'D's?",
+              "a": "**Disarm, decolonise, develop.**"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "principles",
+          "label": "Seven principles",
+          "type": "core",
+          "desc": "- **Sovereign equality** of all members.\n- Fulfil Charter duties **in good faith**.\n- Settle disputes **by peaceful means**.\n- Do not **threaten or use force** against any state.\n- **Help** the UN in any action it takes.\n- See that **non-members** also follow these principles where needed for peace.\n- The UN will **not interfere** in the **internal affairs** of any state.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: give two principles of the UN.",
+              "a": "Members must settle disputes **peacefully**, and must not **threaten or use force** against other states."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "basics",
+          "label": "Headquarters, flag, languages and members",
+          "type": "core",
+          "desc": "- **Headquarters:** **New York**. (The World Court sits at **The Hague**.)\n- **Six organs:** General Assembly, Security Council, International Court of Justice, Economic and Social Council, Trusteeship Council, Secretariat.\n- **Flag:** light **blue**, with the UN emblem in white: a **world map** held by two **olive branches** (adopted 20 October 1947).\n- **Official languages:** Arabic, Chinese, English, French, Russian, Spanish. **Working** languages: English and French.\n- **Members:** **193**; the newest is **South Sudan** (2011). New members are admitted by the General Assembly on the Security Council's **recommendation**.\n- **Money:** members pay **contributions** fixed by the General Assembly.",
+          "links": [
+            {
+              "label": "Wikipedia: Flag of the United Nations",
+              "url": "https://en.wikipedia.org/wiki/Flag_of_the_United_Nations"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: name the six principal organs of the UN.",
+              "a": "**General Assembly**, **Security Council**, **International Court of Justice**, **Economic and Social Council**, **Trusteeship Council**, **Secretariat**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-aims",
+          "label": "Quick check: objectives and principles",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which is an objective of the UN?",
+              "options": [
+                "To maintain international peace and security",
+                "To rule weaker countries",
+                "To end all trade",
+                "To build one world army under the USA"
+              ],
+              "answer": 0,
+              "why": "See *Four objectives*."
+            },
+            {
+              "q": "Which is a principle of the UN?",
+              "options": [
+                "Big members have more equal rights",
+                "The UN may interfere in any country's internal affairs",
+                "Members may use force freely",
+                "Members must settle disputes by peaceful means"
+              ],
+              "answer": 3,
+              "why": "The UN does **not** interfere in internal affairs. See *Seven principles*."
+            },
+            {
+              "q": "Where is the UN headquarters?",
+              "options": [
+                "The Hague",
+                "New York",
+                "Geneva",
+                "London"
+              ],
+              "answer": 1,
+              "why": "The **World Court** is at **The Hague**. See *Headquarters, flag, languages and members*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "ga",
+      "label": "The General Assembly: the world's parliament",
+      "desc": "**Goal:** describe the composition and functions of the General Assembly.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on the General Assembly.",
+      "links": [],
+      "children": [
+        {
+          "id": "ga-who",
+          "label": "Who sits in the General Assembly",
+          "type": "core",
+          "desc": "- **Every** member of the UN belongs to it.\n- Each member may send up to **five** representatives, but has **one vote**: big or small, rich or poor.\n- Its regular session opens each **September** and usually runs to **December**.\n- It elects a **President** and **21 Vice-Presidents**. The presidency **rotates** among five regional groups.\n- **Special sessions** can be called by the Secretary-General at the request of the Security Council or most members.",
+          "links": [
+            {
+              "label": "Wikipedia: United Nations General Assembly",
+              "url": "https://en.wikipedia.org/wiki/United_Nations_General_Assembly"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: how many votes does India have in the General Assembly?",
+              "a": "**One**, like every other member."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ga-votes",
+          "label": "How the General Assembly votes",
+          "type": "core",
+          "desc": "- **Important matters** need a **two-thirds majority** of members present and voting: recommendations on **peace and security**, electing **non-permanent members** of the Security Council, **admitting, suspending or expelling** members, and the **budget**.\n- **Other matters:** a **simple majority**.\n\nIts decisions are **recommendations**: not legally binding, but they carry the **weight of world opinion**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which decisions need a two-thirds majority? Name two.",
+              "a": "**Admitting new members**, and electing the **non-permanent members** of the Security Council."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ga-does",
+          "label": "What the General Assembly does",
+          "type": "core",
+          "desc": "- **Discusses** any question about **peace and security** and makes recommendations (unless the Security Council is dealing with it).\n- Starts **studies** to promote political, economic and social **cooperation**.\n- Receives **reports** from the Security Council and other organs.\n- **Approves the budget** and fixes members' contributions.\n- **Elects** the non-permanent members of the Security Council, members of **ECOSOC**, and (with the Council) the **judges** of the World Court.\n- **Appoints** the **Secretary-General** on the Security Council's recommendation.\n- Under the **'Uniting for Peace'** resolution (1950), it can act if the Security Council is **blocked** by a veto.\n\n**Model answer.** *State two functions of the General Assembly.*\n\n- It **approves the UN budget** and fixes members' contributions.\n- It **elects** the non-permanent members of the **Security Council**.",
+          "links": [
+            {
+              "label": "Wikipedia: Uniting for Peace resolution",
+              "url": "https://en.wikipedia.org/wiki/Uniting_for_Peace_resolution"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what is the 'Uniting for Peace' resolution?",
+              "a": "A 1950 resolution letting the **General Assembly** recommend action, even force, if the **Security Council** is **blocked by a veto**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-ga",
+          "label": "Quick check: the General Assembly",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "How many votes does each member have in the General Assembly?",
+              "options": [
+                "One",
+                "Five",
+                "Depends on population",
+                "Depends on wealth"
+              ],
+              "answer": 0,
+              "why": "Every member, big or small, has **one vote**. See *Who sits in the General Assembly*."
+            },
+            {
+              "q": "Important decisions of the General Assembly need:",
+              "options": [
+                "a simple majority",
+                "the five permanent members",
+                "a two-thirds majority",
+                "all members to agree"
+              ],
+              "answer": 2,
+              "why": "Other matters need a **simple majority**. See *How the General Assembly votes*."
+            },
+            {
+              "q": "Which is a function of the General Assembly?",
+              "options": [
+                "Commanding UN troops",
+                "Using the veto",
+                "Judging disputes between states",
+                "Approving the UN budget"
+              ],
+              "answer": 3,
+              "why": "See *What the General Assembly does*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "sc",
+      "label": "The Security Council: the world's fire brigade",
+      "desc": "**Goal:** describe the composition, voting and functions of the Security Council.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on the Security Council and the veto.",
+      "links": [],
+      "children": [
+        {
+          "id": "sc-members",
+          "label": "Fifteen members, five permanent",
+          "type": "core",
+          "desc": "The Security Council is the **executive** body, with the main responsibility for **peace and security**. It works **all the time**.\n\n- **15 members.**\n- **5 permanent:** China, France, Russia, the United Kingdom, the United States.\n- **10 non-permanent**, elected by the General Assembly (two-thirds) for **2 years**; not eligible for **immediate** re-election. Seats by region: Afro-Asian 5, Latin American 2, Western European and others 2, Eastern European 1.\n- The **presidency** rotates **every month**, in English alphabetical order.",
+          "links": [
+            {
+              "label": "Wikipedia: United Nations Security Council",
+              "url": "https://en.wikipedia.org/wiki/United_Nations_Security_Council"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: name the five permanent members.",
+              "a": "**China**, **France**, **Russia**, **the United Kingdom**, **the United States**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "sc-veto",
+          "label": "Voting and the veto",
+          "type": "core",
+          "desc": "- Each member has **one vote**.\n- **Procedural** matters: any **9** votes.\n- **Important** matters: **9** votes, **including all five** permanent members.\n- So a 'no' from **any one** permanent member **blocks** a decision: the **veto**.\n- **Abstaining** (not voting) is **not** a veto.\n\nThe veto lets the great powers protect their interests; it can also leave the Council **powerless**.",
+          "links": [
+            {
+              "label": "Wikipedia: veto power in the Security Council",
+              "url": "https://en.wikipedia.org/wiki/United_Nations_Security_Council_veto_power"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what is the veto? Does abstaining count as one?",
+              "a": "A **negative vote** by a **permanent member** that blocks a decision. **No**: abstaining is **not** a veto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "sc-does",
+          "label": "What the Security Council does",
+          "type": "core",
+          "desc": "- **Keeps** international peace and security.\n- **Investigates** any dispute that could cause friction.\n- **Recommends** ways to settle disputes.\n- Plans a system to **regulate armaments**.\n- Decides if there is a **threat to peace** or **aggression**, and what to do.\n- Asks members to apply **sanctions** (economic pressure) on an aggressor.\n- Takes **military action** against an aggressor.\n- Recommends **new members**, and the **Secretary-General**; with the Assembly, elects the World Court's **judges**.\n\n**Model answer.** *State two functions of the Security Council.*\n\n- To **investigate** disputes that could lead to international friction.\n- To take **military action** or apply **sanctions** against an **aggressor**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: how is the Security Council different from the General Assembly?",
+              "a": "The Security Council can **act** (sanctions, military action); the General Assembly mostly **discusses and recommends**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-sc",
+          "label": "Quick check: the Security Council",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "How many permanent members does the Security Council have?",
+              "options": [
+                "15",
+                "7",
+                "10",
+                "5"
+              ],
+              "answer": 3,
+              "why": "China, France, Russia, the United Kingdom, the United States. See *Fifteen members, five permanent*."
+            },
+            {
+              "q": "What is the veto?",
+              "options": [
+                "An abstention",
+                "A General Assembly resolution",
+                "A permanent member's negative vote, which blocks a decision",
+                "Any member's vote"
+              ],
+              "answer": 2,
+              "why": "An **abstention** is **not** a veto. See *Voting and the veto*."
+            },
+            {
+              "q": "For how long are non-permanent members elected?",
+              "options": [
+                "1 year",
+                "2 years",
+                "For life",
+                "5 years"
+              ],
+              "answer": 1,
+              "why": "They cannot be re-elected **at once**. See *Fifteen members, five permanent*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "icj",
+      "label": "The International Court of Justice: the world's court",
+      "desc": "**Goal:** describe the composition and functions of the International Court of Justice.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on the International Court of Justice.",
+      "links": [],
+      "children": [
+        {
+          "id": "icj-judges",
+          "label": "Fifteen judges at The Hague",
+          "type": "core",
+          "desc": "- The **International Court of Justice** (World Court) is the UN's **judicial** organ. It sits at **The Hague**, Netherlands, since **1946**.\n- **15 judges**, elected by the **General Assembly and Security Council** together, for **9 years**.\n- **One-third** are elected every **3 years**; they can be **re-elected**.\n- **No two** judges from the **same country**. Together they should represent the world's main **legal systems**.\n- Judges act **independently**, not for their governments.\n- The Court elects its **President** and **Vice-President** for **3 years**.",
+          "links": [
+            {
+              "label": "Wikipedia: International Court of Justice",
+              "url": "https://en.wikipedia.org/wiki/International_Court_of_Justice"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: how are the judges of the World Court elected, and for how long?",
+              "a": "By the **General Assembly and Security Council** together, for **9 years**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "icj-cases",
+          "label": "How cases reach the Court",
+          "type": "core",
+          "desc": "- Only **states** can be parties to a case. Individuals cannot.\n- **Voluntary jurisdiction:** the Court hears a dispute if the states **agree** to bring it.\n- **Compulsory jurisdiction:** some **treaties** say disputes **must** go to the Court; it covers questions of **international law** and **compensation** for broken obligations.\n- It decides by **international law**: **treaties**, **custom**, general **principles** of law, and earlier judgments and learned writings.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is voluntary jurisdiction?",
+              "a": "The Court hears a dispute when **both states agree** to take it there."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "icj-advice",
+          "label": "Advisory opinions",
+          "type": "core",
+          "desc": "- The Court also gives **advisory opinions**: legal **advice**, not a judgment.\n- Only **5 UN organs** and **16 specialised agencies** can ask for them.\n- Examples: compensation for people **injured in UN service**; the status of **South-West Africa** (Namibia) and **Western Sahara**.\n\n**Model answer.** *State two functions of the International Court of Justice.*\n\n- To **settle legal disputes** between **states** according to international law.\n- To give **advisory opinions** on legal questions asked by UN **organs and agencies**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: who can ask the Court for an advisory opinion?",
+              "a": "Only **UN organs** and **specialised agencies** (5 organs and 16 agencies), not states or individuals."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-icj",
+          "label": "Quick check: the World Court",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Where is the International Court of Justice?",
+              "options": [
+                "The Hague, Netherlands",
+                "Geneva",
+                "Paris",
+                "New York"
+              ],
+              "answer": 0,
+              "why": "See *Fifteen judges at The Hague*."
+            },
+            {
+              "q": "How many judges does the Court have, and for how long?",
+              "options": [
+                "15 judges, 9 years",
+                "15 judges, 2 years",
+                "5 judges, for life",
+                "9 judges, 15 years"
+              ],
+              "answer": 0,
+              "why": "See *Fifteen judges at The Hague*."
+            },
+            {
+              "q": "Who can bring a case before the Court?",
+              "options": [
+                "Any individual",
+                "Any company",
+                "Only the Secretary-General",
+                "Only member states"
+              ],
+              "answer": 3,
+              "why": "Advisory opinions can be asked by UN **organs and agencies**. See *How cases reach the Court*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "exam-toolkit",
+      "label": "Exam toolkit: words and reasons",
+      "desc": "**Goal:** collect the easy marks: key terms, answers in the right shape, 'why' questions and dates.",
+      "links": [],
+      "children": [
+        {
+          "id": "key-terms",
+          "label": "Key terms to learn word for word",
+          "type": "core",
+          "desc": "- **United Nations:** the world organisation founded on 24 October 1945 to keep international peace and promote cooperation.\n- **General Assembly:** the UN organ where all members meet, each with one vote, to discuss and recommend.\n- **Security Council:** the UN organ of 15 members (5 permanent) chiefly responsible for international peace and security.\n- **Veto:** the power of a permanent member to block a Security Council decision by voting against it.\n- **International Court of Justice:** the UN's court at The Hague, with 15 judges, which settles disputes between states and gives advisory opinions.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: cover the list. What is the veto?",
+              "a": "The power of a **permanent member** of the Security Council to **block** a decision by voting **against** it."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "right-shape",
+          "label": "Answers in the right shape",
+          "type": "core",
+          "desc": "**Short answer (2 marks):** two points, each with **one fact**.\n\n**Structured part (3 or 4 marks):** one point per mark. Start each point on a **new line**. Keep each to **one or two sentences**.\n\n**Model answer.** *Describe the composition of the Security Council. (3 marks)*\n\n- It has **15** members, of which **5** are **permanent**: China, France, Russia, the United Kingdom, the United States.\n- The other **10** are **elected** by the General Assembly for **2 years**.\n- Its **presidency** rotates **monthly** in English alphabetical order.\n\n**Three things that lose marks:** saying the UN headquarters is at **The Hague** (that is the **Court**); calling an **abstention** a veto; giving the Court's judges a **2-year** term (that is the Council's elected members).",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: write a 2-mark answer. 'Give two reasons for the failure of the League that led to the UN.'",
+              "a": "The League had **no army** to enforce decisions, and it **could not prevent** the Second World War, so a stronger body was needed."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "why-questions",
+          "label": "'Why' questions: model answers",
+          "type": "core",
+          "desc": "Try each one in your notebook before you open it.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Why does each country have one vote in the General Assembly?",
+              "a": "The UN is based on the **sovereign equality** of all members."
+            },
+            {
+              "q": "Why is the Security Council sometimes powerless?",
+              "a": "Any **one permanent member** can **veto** a decision."
+            },
+            {
+              "q": "Why was the 'Uniting for Peace' resolution passed?",
+              "a": "So the **General Assembly** could act when the **Security Council** was **blocked by a veto**."
+            },
+            {
+              "q": "Why can individuals not take cases to the World Court?",
+              "a": "Only **states** can be parties; it settles disputes **between states**."
+            },
+            {
+              "q": "Why do the World Court's judges come from different countries?",
+              "a": "So that the world's main **legal systems** are represented and no country **dominates**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "timeline",
+          "label": "Dates to learn",
+          "type": "core",
+          "desc": "Read it top to bottom. Say each line aloud once.\n\n- **February 1945:** Yalta: the Big Three plan the UN.\n- **June 1945:** UN Charter signed at San Francisco by 50 nations.\n- **24 October 1945:** UN comes into existence (UN Day).\n- **1946:** International Court of Justice begins at The Hague.\n- **20 October 1947:** UN flag adopted.\n- **1950:** Uniting for Peace resolution.\n- **2011:** South Sudan becomes the 193rd member.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which came first, the Charter or the UN's founding day?",
+              "a": "The **Charter** (June 1945); the UN came into being on **24 October 1945**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "picture-study",
+          "label": "Picture study: who is this?",
+          "type": "optional",
+          "desc": "The exam may show a **picture** and ask who it is. Then it asks two or three facts. For each person, learn **who** and **two facts**.\n\n- **The UN emblem:** a **world map** held by two **olive branches**: peace for the whole world.\n- **The Big Three at Yalta:** **Roosevelt, Churchill, Stalin**; agreed to set up the UN.\n- **The UN building, New York:** **headquarters** of the UN.\n- **The Peace Palace, The Hague:** seat of the **International Court of Justice**.\n- **The Security Council chamber:** **15** members; **five** hold a veto.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a picture of the UN emblem. What does it show?",
+              "a": "A **map of the world** held by two **olive branches**, a symbol of **peace**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: last-minute revision and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Read the sheet the night before the exam and again on the morning.",
+      "links": [],
+      "children": [
+        {
+          "id": "revision-sheet",
+          "label": "Last-minute revision sheet",
+          "type": "core",
+          "desc": "**The one idea:** the UN works like a **world parliament** (General Assembly: everyone talks), a **world fire brigade** (Security Council: acts to keep peace) and a **world court** (International Court of Justice: judges disputes). **Talk, act, judge.**\n\n**Dates to know**\n- **February 1945** Yalta: the Big Three plan a new world body. **June 1945** Charter signed at **San Francisco** by **50** nations.\n- **24 October 1945** UN comes into being (**UN Day**). **1946** World Court begins. **20 October 1947** UN flag adopted.\n\n**Key terms**\n- **UN Charter:** the UN's founding document.\n- **Veto:** a **permanent member's** negative vote, which blocks a Security Council decision.\n- **Permanent members (P5):** China, France, Russia, the United Kingdom, the United States.\n- **Advisory opinion:** the World Court's legal advice to UN organs and agencies.\n\n**Key points**\n- **Why:** two **world wars**; **League** failed; fear of a **third** war; world split into **two blocs**; **atom bombs**.\n- **Objectives:** keep **peace and security**; **friendly relations** based on equal rights and self-determination; **cooperation** on economic, social and humanitarian problems and **human rights**; be a **centre** for harmonising nations' actions.\n- **Principles:** **sovereign equality**; fulfil duties **in good faith**; settle disputes **peacefully**; **no threat or use of force**; **help** the UN; non-members to follow the principles too; **no interference** in internal affairs.\n- **Basics:** HQ **New York**; **6** organs; **6** official languages (Arabic, Chinese, English, French, Russian, Spanish); **193** members (newest: **South Sudan**, 2011). India is an **original member**.\n- **General Assembly:** **all** members, **one vote** each; meets from **September**; President and **21** Vice-Presidents; **two-thirds** for important matters. Functions: discuss and **recommend** on peace; **budget**; **elect** non-permanent Security Council members, ECOSOC, judges (with the Council); **appoint** the Secretary-General on the Council's advice; **admit** members.\n- **Security Council:** **15** members: **5** permanent, **10** elected for **2 years** (5 Afro-Asian, 2 Latin American, 2 Western European and others, 1 Eastern European). Decisions need **9** votes, with **all five** permanent members agreeing on important matters (**veto**). Functions: keep **peace**; **investigate** disputes; recommend settlements; **sanctions**; **military action** against aggressors; recommend new members and the Secretary-General.\n- **World Court:** at **The Hague**; **15** judges, **9-year** terms, one-third elected every **3** years, no two from one country. Settles disputes between **states**; gives **advisory opinions**.\n\n**Traps:** HQ is **New York**; the Court is at **The Hague**. **Abstaining** is not a veto. Only **states** go to the World Court. The General Assembly **recommends**; the Security Council can **act**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Who were the Big Three at Yalta?",
+              "options": [
+                "Roosevelt, Churchill and Stalin",
+                "Hitler, Mussolini and Hirohito",
+                "Nehru, Tito and Nasser",
+                "Truman, Attlee and De Gaulle"
+              ],
+              "answer": 0,
+              "why": "See *From Yalta to San Francisco*."
+            },
+            {
+              "q": "Which is NOT one of the UN's six principal organs?",
+              "options": [
+                "The Secretariat",
+                "The League Council",
+                "The Economic and Social Council",
+                "The Trusteeship Council"
+              ],
+              "answer": 1,
+              "why": "See *Headquarters, flag, languages and members*."
+            },
+            {
+              "q": "How many official languages does the UN have?",
+              "options": [
+                "6",
+                "4",
+                "2",
+                "193"
+              ],
+              "answer": 0,
+              "why": "English and French are the **working** languages. See *Headquarters, flag, languages and members*."
+            },
+            {
+              "q": "What is on the UN emblem?",
+              "options": [
+                "A dove and a sword",
+                "Five rings",
+                "A map of the world held by two olive branches",
+                "A globe with a crown"
+              ],
+              "answer": 2,
+              "why": "See *Headquarters, flag, languages and members*."
+            },
+            {
+              "q": "Which of these needs a two-thirds majority in the General Assembly?",
+              "options": [
+                "Choosing the lunch menu",
+                "A routine procedural matter",
+                "Admitting a new member",
+                "Any matter at all"
+              ],
+              "answer": 2,
+              "why": "See *How the General Assembly votes*."
+            },
+            {
+              "q": "What does the 'Uniting for Peace' resolution allow?",
+              "options": [
+                "The Security Council to expel the General Assembly",
+                "Any member to use the veto",
+                "The General Assembly to act if the Security Council is blocked by a veto",
+                "The Court to declare war"
+              ],
+              "answer": 2,
+              "why": "Passed in **1950**. See *What the General Assembly does*."
+            },
+            {
+              "q": "Which country is a permanent member of the Security Council?",
+              "options": [
+                "Germany",
+                "India",
+                "France",
+                "Japan"
+              ],
+              "answer": 2,
+              "why": "See *Fifteen members, five permanent*."
+            },
+            {
+              "q": "Which body has the main responsibility for keeping world peace?",
+              "options": [
+                "The World Court",
+                "The Security Council",
+                "The Secretariat",
+                "The General Assembly"
+              ],
+              "answer": 1,
+              "why": "See *What the Security Council does*."
+            },
+            {
+              "q": "How often are a third of the World Court's judges elected?",
+              "options": [
+                "Every year",
+                "Every 9 years",
+                "Every 3 years",
+                "Every 2 years"
+              ],
+              "answer": 2,
+              "why": "See *Fifteen judges at The Hague*."
+            },
+            {
+              "q": "When can the World Court hear a case under 'voluntary jurisdiction'?",
+              "options": [
+                "When both states agree to take the dispute to it",
+                "Whenever one state asks",
+                "Never",
+                "Only when the Security Council orders it"
+              ],
+              "answer": 0,
+              "why": "See *How cases reach the Court*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These are like the harder questions at the end of the chapter. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "structured-ga-sc",
+          "label": "Structured question: two organs",
+          "type": "optional",
+          "desc": "A structured question in three parts. Write your answer first, then open the box.\n\n- (a) The composition of the General Assembly. (3 marks)\n- (b) Three functions of the Security Council. (3 marks)\n- (c) The voting system of the Security Council. (4 marks)",
+          "links": [],
+          "faq": [
+            {
+              "q": "Model answer",
+              "a": "(a) **All** members; each sends up to five delegates but has **one vote**; it elects a President and **21** Vice-Presidents and meets from **September**.\n\n(b) Keep **peace and security**; **investigate** disputes; take **military action** or apply **sanctions** against an aggressor.\n\n(c) One vote each; procedural matters need **9** votes; important matters need **9** votes **including all five** permanent members, so any one can **veto**; abstaining is **not** a veto."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "structured-icj",
+          "label": "Structured question: the World Court",
+          "type": "optional",
+          "desc": "A structured question in three parts. Write your answer first, then open the box.\n\n- (a) Where is it, and how many judges does it have? (3 marks)\n- (b) How are the judges elected? (3 marks)\n- (c) Two kinds of jurisdiction, and advisory opinions. (4 marks)",
+          "links": [],
+          "faq": [
+            {
+              "q": "Model answer",
+              "a": "(a) At **The Hague**, Netherlands; **15** judges.\n\n(b) By the **General Assembly and Security Council**, for **9 years**; one-third every **3** years; no two from one country.\n\n(c) **Voluntary:** when states **agree** to bring a case. **Compulsory:** where **treaties** require it. **Advisory opinions:** legal advice to UN **organs and agencies**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThe syllabus asks for the objectives of the UN and the composition and functions of the General Assembly, the Security Council and the International Court of Justice. (The first page of this chapter was missing from the scanned textbook; the roadmap covers the syllabus fully from the UN Charter and standard sources.)",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- Use the **school** picture: assembly hall (talk), discipline committee (act), inquiry panel (judge).\n- Make a **three-column** chart: General Assembly, Security Council, World Court, with rows for **members, term, voting, functions**.\n- Role-play a Security Council vote and let one permanent member **veto** it.\n- Keep numbers on one card: **193, 15, 5, 10, 2, 9, 15, 9, 3**.\n- Gently correct the textbook on who led India at San Francisco.\n- Insist on **one fact per point**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 5-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** Talk, act, judge; why the UN was born; Yalta to San Francisco.\n- **Period 2:** Objectives, principles, basic facts.\n- **Period 3:** The General Assembly. Activity: a mock vote with one vote per 'country'.\n- **Period 4:** The Security Council and the veto. Activity: veto role-play.\n- **Period 5:** The World Court; revision sheet, self-test and exit ticket.",
+          "links": [
+            {
+              "label": "Simple Wikipedia: United Nations (free, easy English)",
+              "url": "https://simple.wikipedia.org/wiki/United_Nations"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Placing the UN headquarters at **The Hague** or **Geneva**.\n- Calling an **abstention** a veto.\n- Mixing the Council's **2-year** terms with the judges' **9-year** terms.\n- Saying the General Assembly's decisions are **binding**.\n- Listing **India** as a permanent member.\n- Writing functions with **no example**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. When was the UN founded?",
+              "a": "**24 October 1945**."
+            },
+            {
+              "q": "2. Give one objective of the UN.",
+              "a": "To maintain **international peace and security**."
+            },
+            {
+              "q": "3. How many members does the Security Council have?",
+              "a": "**15**: **5** permanent and **10** elected."
+            },
+            {
+              "q": "4. What is the veto?",
+              "a": "A **permanent member's** 'no' that **blocks** a decision."
+            },
+            {
+              "q": "5. Where is the World Court?",
+              "a": "**The Hague**, Netherlands."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

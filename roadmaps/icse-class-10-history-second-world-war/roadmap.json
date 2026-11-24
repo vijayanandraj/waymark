@@ -1,0 +1,975 @@
+{
+  "title": "ICSE Class 10 History, Chapter 12: The Second World War, Step by Step",
+  "subtitle": "For students who find history hard. The causes (the Treaty of Versailles, Fascism and Nazism, appeasement, Japan's invasion of China, the failure of the League, the invasion of Poland), Pearl Harbor and Hiroshima and Nagasaki in brief, and the consequences (defeat of the Axis, the United Nations, the Cold War), held together by one idea (a bad peace, bullies fed, no referee), in small steps with model answers, quick checks, an exam toolkit and a last-minute revision sheet. Follows the ICSE Class 10 syllabus, Chapter 12 (The Second World War), in the order of Total History & Civics.",
+  "updated": "2026-11-24",
+  "changelog": [
+    {
+      "date": "2026-11-24",
+      "text": "First version: the whole chapter in small steps, with model answers, quick checks, a last-minute revision sheet, a self-test and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** know the key words and dates this chapter uses, and the answer shape. Then the rest is easy.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea and the model answer, then do **Your turn**.\n- **Every answer is a point plus one fact:** a name, a date or a place. One point earns one mark.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: a bad peace, bullies fed, no referee.** **Versailles** left Germany bitter; **dictators** grabbed land; **appeasement** fed them; the **League** could not stop them; **Poland** (1 September 1939) was the last straw. After the war: the Axis **defeated**, a new referee (the **UN**) and a new quarrel (the **Cold War**).",
+          "links": [
+            {
+              "label": "Simple Wikipedia: World War II (free, easy English)",
+              "url": "https://simple.wikipedia.org/wiki/World_War_II"
+            },
+            {
+              "label": "Last-minute revision sheet for this chapter",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-history-second-world-war#revision-sheet"
+            },
+            {
+              "label": "Previous chapter: 9. Independence and Partition of India",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-history-independence-partition"
+            },
+            {
+              "label": "Next chapter: 13. The United Nations",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-history-united-nations"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 12, *The Second World War*, of the History part of the ICSE Class 10 History and Civics syllabus. It follows the order of *Total History & Civics* for Class 10.\n\n**Who it is for.** Class 10 students who find history hard, and want to understand this chapter and score decent marks in it. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** A bad peace, bullies fed, no referee. Versailles left Germany bitter; dictators grabbed land; appeasement fed them; the League could not stop them; Poland was the last straw. After the war came the defeat of the Axis, a new referee (the UN) and a new quarrel (the Cold War).\n\n**How it is different from the textbook.** The textbook tells the causes, the war and the consequences at length. Here one picture, **a bad peace, bullies fed, no referee**, links the six causes into a chain, the war itself is kept short as the syllabus asks, and the consequences are three clear blocks. Every answer is a **point plus one fact**, with fresh model answers.\n\n**What is inside.**\n- 10 milestones and 38 small steps. The 30 solid steps are the core path. The dashed ones are optional.\n- 37 practice questions with hidden answers.\n- 25 click-to-check questions that say right or wrong, and why: a quick check after each of the 5 main milestones, and a 10-question self-test.\n- A **last-minute revision sheet**: every date, key term, name and trap on one page.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: picture study and two structured challenge questions, and a section for teachers and parents with a 5-period lesson plan, the mistakes to watch for and a 5-minute exit ticket.\n\n**Can you trust it?** Dates, names and places follow the textbook, and the few slips found in it are pointed out gently. A computer program checks that every date sits in the right order and every click-to-check answer is marked right. All the model answers are written fresh, so students still get fresh practice from their textbook. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the ICSE syllabus but is not made or endorsed by CISCE or by any publisher. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Name the three Axis powers.",
+              "a": "**Germany, Italy, Japan**. Wrong? Do *Who's who in this chapter*."
+            },
+            {
+              "q": "2. What is the 'bad peace' in this chapter?",
+              "a": "The **Treaty of Versailles**. Wrong? Do *A bad peace, bullies fed, no referee*."
+            },
+            {
+              "q": "3. What was the 'last straw'?",
+              "a": "Germany's **invasion of Poland**. Wrong? Do *A bad peace, bullies fed, no referee*."
+            },
+            {
+              "q": "4. How many points for a 2-mark answer?",
+              "a": "**Two**, each with **one fact**. Wrong? Do *How ICSE asks, and the answer shape*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "whos-who",
+          "label": "Who's who in this chapter",
+          "type": "core",
+          "desc": "- **Adolf Hitler:** Nazi dictator of **Germany**.\n- **Benito Mussolini:** Fascist dictator of **Italy**.\n- **Japan:** ruled by militarists under **Emperor Hirohito**.\n- **Axis:** Germany, Italy, Japan. **Allies:** Britain, France, the Soviet Union, the USA.\n- **The Big Three** of the Allies: **Roosevelt** (USA), **Churchill** (Britain), **Stalin** (USSR).\n- **Neville Chamberlain:** British Prime Minister who followed **appeasement**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: name the three Axis powers.",
+              "a": "**Germany, Italy, Japan**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "bad-peace",
+          "label": "A bad peace, bullies fed, no referee",
+          "type": "core",
+          "desc": "This chapter has **one idea**. Picture a school playground.\n\n- **A bad peace:** after a fight, one boy is **humiliated and punished** too harshly. He wants **revenge**. (The **Treaty of Versailles**.)\n- **Bullies:** a few boys start grabbing others' things. (**Hitler, Mussolini, militarist Japan**.)\n- **Fed:** the big boys say, 'Let them have it, as long as they stop.' They never stop. (**Appeasement**.)\n- **No referee:** the teacher on duty has **no power**. (The **League of Nations**.)\n- **Last straw:** a bully grabs one more boy, **Poland** (1 September 1939). The fight begins.\n\n**Afterwards:** the bullies are **defeated**; a new, stronger referee is appointed (the **UN**); but the two biggest winners start a **cold quarrel** (the **Cold War**).",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: in the story, what is the 'referee with no power'?",
+              "a": "The **League of Nations**, which could not stop the aggressors."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "answer-shape",
+          "label": "How ICSE asks, and the answer shape",
+          "type": "core",
+          "desc": "ICSE asks history in three ways.\n\n- **Multiple choice:** 1 mark. Pick one option.\n- **Short answer:** usually 2 marks. Write **two points**.\n- **Structured question:** parts (a), (b), (c), worth 3 or 4 marks each. Write **one point per mark**.\n\nEach point has **one fact**: a name, a date or a place. A point without a fact looks vague and loses marks.\n\n**Model answer.** *State two causes of the Second World War.*\n\n- **Dissatisfaction with the Treaty of Versailles:** Germany lost land and colonies and paid huge reparations, so it wanted **revenge**.\n- The **policy of appeasement:** Britain and France let Hitler take **Austria** and **Czechoslovakia** without a fight.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is wrong with this answer? 'Countries were angry with each other.'",
+              "a": "It has **no fact**. Add one: for example, *'Britain and France let Hitler take Czechoslovakia at Munich in 1938.'*"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "versailles",
+      "label": "A bad peace: the Treaty of Versailles",
+      "desc": "**Goal:** explain how the Treaty of Versailles sowed the seeds of the Second World War.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I (short answers) on Versailles and the Germany-Poland issue, and Exercise II (structured) question 2.",
+      "links": [],
+      "children": [
+        {
+          "id": "versailles-germany",
+          "label": "What Versailles did to Germany",
+          "type": "core",
+          "desc": "The **Treaty of Versailles** (1919) ended the First World War. Germany was **forced** to sign it.\n\n- Germany lost **all its colonies** and some of its land.\n- The **Polish Corridor** gave Poland a way to the sea, but cut Germany into **two parts**.\n- Germany had to pay huge **reparations** (war damages) it could never pay.\n- Its **army** was cut to a small size.",
+          "links": [
+            {
+              "label": "Wikipedia: Treaty of Versailles",
+              "url": "https://en.wikipedia.org/wiki/Treaty_of_Versailles"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: give two ways Versailles punished Germany.",
+              "a": "It took away all Germany's **colonies**, and made it pay huge **reparations**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "why-revenge",
+          "label": "Why a bad peace led to war",
+          "type": "core",
+          "desc": "The treaty was based on **revenge**, not fairness.\n\n- Germans felt **humiliated**.\n- They wanted to **tear up** the treaty and win back what they had lost.\n- That needed **weapons** and an **aggressive** leader. Hitler promised both.\n\n**Model answer.** *How was the Treaty of Versailles responsible for the Second World War?*\n\n- It **humiliated** Germany: land, colonies and army were taken away, and huge reparations imposed.\n- This created a desire for **revenge**, which **Hitler** used to rearm and expand.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why is Versailles called a 'treaty of revenge'?",
+              "a": "It was meant to **punish** Germany harshly, not to make a fair peace, so Germany wanted **revenge**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-versailles",
+          "label": "Quick check: the Treaty of Versailles",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Why did Germans hate the Treaty of Versailles?",
+              "options": [
+                "It took their land and colonies, cut their army and made them pay huge reparations",
+                "It made Germany bigger",
+                "It gave Germany new colonies",
+                "It was signed by Hitler"
+              ],
+              "answer": 0,
+              "why": "A treaty of **revenge**. See *What Versailles did to Germany*."
+            },
+            {
+              "q": "How did the Polish Corridor affect Germany?",
+              "options": [
+                "It gave Germany a sea port",
+                "It cut Germany into two parts",
+                "It ended reparations",
+                "It joined Germany to Austria"
+              ],
+              "answer": 1,
+              "why": "East Prussia was **cut off**. See *What Versailles did to Germany*."
+            },
+            {
+              "q": "How did Versailles lead to another war?",
+              "options": [
+                "It created the UN",
+                "It made Germany too rich",
+                "Germany's humiliation bred a wish for revenge",
+                "It ended all armies"
+              ],
+              "answer": 2,
+              "why": "See *Why a bad peace led to war*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "aggressors",
+      "label": "The bullies: Fascism, Nazism and Japan",
+      "desc": "**Goal:** explain how Fascist Italy, Nazi Germany and militarist Japan pushed the world to war.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I on Fascism, Nazism and the Axis, and Exercise II question 3(a).",
+      "links": [],
+      "children": [
+        {
+          "id": "mussolini",
+          "label": "Mussolini and Fascism",
+          "type": "core",
+          "desc": "- **Fascism** = **extreme nationalism** and a **one-party dictatorship**. **Mussolini** took power in Italy in **1922**.\n- He dreamed of reviving the old **Roman Empire**, and opposed the Treaty of Versailles.\n- In **1935** Italy attacked **Abyssinia** (Ethiopia). The League did nothing effective.\n- Italy joined the **Anti-Comintern Pact** (1937) and allied with Germany (1939).",
+          "links": [
+            {
+              "label": "Wikipedia: Italian fascism",
+              "url": "https://en.wikipedia.org/wiki/Italian_fascism"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: how did Italy show its aggressive aims?",
+              "a": "It attacked **Abyssinia** in 1935, and the League of Nations could not stop it."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "hitler",
+          "label": "Hitler and Nazism",
+          "type": "core",
+          "desc": "- **Nazism** = Hitler's form of fascism, with **racism** at its heart. Hitler took power in Germany in **1933**.\n- He broke Versailles: **rearmed** Germany and sent troops into the **Rhineland** (1936).\n- **1938:** he annexed **Austria**, and took the **Sudetenland** from Czechoslovakia.\n- **1939:** he took the rest of **Czechoslovakia**.\n- Germany, Italy and Japan formed the **Axis**.",
+          "links": [
+            {
+              "label": "Wikipedia: Nazism",
+              "url": "https://en.wikipedia.org/wiki/Nazism"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: give two ways Hitler broke the Treaty of Versailles.",
+              "a": "He **rearmed** Germany, and he **annexed Austria** in 1938."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "japan-china",
+          "label": "Japan invades China",
+          "type": "core",
+          "desc": "- Japan wanted an **empire** in Asia, for land and raw materials.\n- In **1931** it seized **Manchuria** in China. The League only **condemned** it; Japan **left** the League.\n- In **1937** Japan launched a full **invasion of China**.\n\nThis showed that **aggression paid**, and that the League could not stop it.",
+          "links": [
+            {
+              "label": "Wikipedia: Second Sino-Japanese War",
+              "url": "https://en.wikipedia.org/wiki/Second_Sino-Japanese_War"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: how was the Japanese invasion of China connected to the war?",
+              "a": "It showed **aggression went unpunished**; Japan seized **Manchuria** (1931) and invaded **China** (1937), and the League could do nothing."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-aggressors",
+          "label": "Quick check: the aggressors",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which country did Mussolini's Italy attack in 1935?",
+              "options": [
+                "Poland",
+                "France",
+                "China",
+                "Abyssinia (Ethiopia)"
+              ],
+              "answer": 3,
+              "why": "The League did **nothing** effective. See *Mussolini and Fascism*."
+            },
+            {
+              "q": "What did Hitler do in 1938?",
+              "options": [
+                "Joined the League",
+                "Annexed Austria and took the Sudetenland from Czechoslovakia",
+                "Invaded Russia",
+                "Bombed Pearl Harbor"
+              ],
+              "answer": 1,
+              "why": "See *Hitler and Nazism*."
+            },
+            {
+              "q": "Which three countries formed the Axis?",
+              "options": [
+                "Germany, Russia and Poland",
+                "Germany, Italy, Japan",
+                "Italy, Japan and China",
+                "Britain, France and the USA"
+              ],
+              "answer": 1,
+              "why": "See *Hitler and Nazism*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "nobody-stopped",
+      "label": "Nobody stopped them: appeasement and the League",
+      "desc": "**Goal:** explain the policy of appeasement and why the League of Nations failed.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise II questions 1(a), 1(c) and 2(c).",
+      "links": [],
+      "children": [
+        {
+          "id": "appeasement",
+          "label": "Appeasement and Munich",
+          "type": "core",
+          "desc": "**Appeasement** means giving an aggressor what he wants, **hoping he will stop**.\n\n- **Britain** (Prime Minister **Chamberlain**) and **France** followed it.\n- They feared another war, and some saw Hitler as a shield against **communist Russia**.\n- At **Munich (1938)**, they let Hitler take the **Sudetenland**. He promised that was all. Six months later he took the **rest** of Czechoslovakia.\n\nEach give-away made Hitler **bolder**.",
+          "links": [
+            {
+              "label": "Wikipedia: Appeasement",
+              "url": "https://en.wikipedia.org/wiki/Appeasement"
+            },
+            {
+              "label": "Wikipedia: Munich Agreement",
+              "url": "https://en.wikipedia.org/wiki/Munich_Agreement"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what was the policy of appeasement?",
+              "a": "Giving in to the **demands of an aggressor** (Hitler) to **keep the peace**, followed by **Britain and France**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "league-failed",
+          "label": "Why the League failed",
+          "type": "core",
+          "desc": "The **League of Nations** was set up after the First World War to **keep peace**. It failed because:\n\n- it had **no army** of its own to enforce decisions;\n- the **USA** never joined;\n- aggressors simply **walked out**: Japan and Germany left in 1933, Italy later;\n- it could not stop **Japan** (Manchuria), **Italy** (Abyssinia) or **Germany**.",
+          "links": [
+            {
+              "label": "Wikipedia: League of Nations",
+              "url": "https://en.wikipedia.org/wiki/League_of_Nations"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: give two reasons the League of Nations failed.",
+              "a": "It had **no army** to enforce its decisions, and big powers like the **USA** were not members."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-nobody-stopped",
+          "label": "Quick check: appeasement and the League",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "What is appeasement?",
+              "options": [
+                "Giving in to an aggressor's demands to keep the peace",
+                "Attacking an aggressor at once",
+                "Paying reparations",
+                "Forming a military alliance"
+              ],
+              "answer": 0,
+              "why": "See *Appeasement and Munich*."
+            },
+            {
+              "q": "Which two countries followed appeasement?",
+              "options": [
+                "Japan and China",
+                "USA and USSR",
+                "Britain and France",
+                "Germany and Italy"
+              ],
+              "answer": 2,
+              "why": "See *Appeasement and Munich*."
+            },
+            {
+              "q": "Why did the League of Nations fail?",
+              "options": [
+                "It had too many members from Asia",
+                "It had no army of its own and the big powers ignored it",
+                "Hitler was its president",
+                "It was too strong"
+              ],
+              "answer": 1,
+              "why": "The **USA** never joined. See *Why the League failed*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "war",
+      "label": "The war, in short",
+      "desc": "**Goal:** know the immediate cause, how the USA came in, and how the war ended. The syllabus asks only for a brief mention of Pearl Harbor and Hiroshima and Nagasaki.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I on the immediate cause, Pearl Harbor and the atom bombs, and Exercise III (picture study).",
+      "links": [],
+      "children": [
+        {
+          "id": "poland",
+          "label": "Poland: the immediate cause",
+          "type": "core",
+          "desc": "- Hitler demanded **Danzig** and a route through the **Polish Corridor**. Poland refused.\n- He signed a pact with the **Soviet Union** (1939) so he would not fight on two fronts.\n- **1 September 1939:** Germany **invaded Poland**.\n- **3 September 1939:** **Britain and France** declared war on Germany. The Second World War had begun.",
+          "links": [
+            {
+              "label": "Wikipedia: Invasion of Poland",
+              "url": "https://en.wikipedia.org/wiki/Invasion_of_Poland"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what was the immediate cause of the Second World War?",
+              "a": "**Germany's invasion of Poland** on **1 September 1939**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "blitzkrieg-pearl",
+          "label": "From lightning war to Pearl Harbor",
+          "type": "core",
+          "desc": "- Germany struck with **blitzkrieg** ('lightning war'): Norway, Holland, Belgium and **France** fell fast.\n- **22 June 1941:** Hitler **invaded the Soviet Union**.\n- **7 December 1941:** Japan bombed the US naval base at **Pearl Harbor** (Hawaii). The **USA** joined the war the next day.\n- From late 1942 the tide **turned** against the Axis. **Germany** surrendered on **7 May 1945**.",
+          "links": [
+            {
+              "label": "Wikipedia: Attack on Pearl Harbor",
+              "url": "https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: which incident brought the USA into the war?",
+              "a": "Japan's attack on **Pearl Harbor** on **7 December 1941**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "hiroshima-nagasaki",
+          "label": "The end: Hiroshima and Nagasaki",
+          "type": "core",
+          "desc": "- Japan **refused** to surrender. Its soldiers, even its **kamikaze** pilots, fought to the end; invading Japan would cost huge numbers of lives.\n- **6 August 1945:** the USA dropped an **atom bomb** on **Hiroshima**.\n- **9 August 1945:** a second bomb on **Nagasaki**.\n- **2 September 1945:** Japan **surrendered**. The war was over after **six** years.\n\nAbout **50 million** people died in the war, more than half of them **civilians**.",
+          "links": [
+            {
+              "label": "Wikipedia: Atomic bombings of Hiroshima and Nagasaki",
+              "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why did the USA drop the atom bombs?",
+              "a": "Japan **refused to surrender**, and a land invasion of Japan would have cost **huge numbers of lives**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-war",
+          "label": "Quick check: the war",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "What was the immediate cause of the Second World War?",
+              "options": [
+                "The Munich Agreement",
+                "The bombing of Hiroshima",
+                "Germany's invasion of Poland (1 September 1939)",
+                "The Treaty of Versailles"
+              ],
+              "answer": 2,
+              "why": "See *Poland: the immediate cause*."
+            },
+            {
+              "q": "What brought the USA into the war?",
+              "options": [
+                "The fall of France",
+                "The bombing of London",
+                "Germany's invasion of Poland",
+                "Japan's attack on Pearl Harbor (7 December 1941)"
+              ],
+              "answer": 3,
+              "why": "See *From lightning war to Pearl Harbor*."
+            },
+            {
+              "q": "Why did the USA drop atom bombs on Japan?",
+              "options": [
+                "Germany asked it to",
+                "To test the bombs on an empty island",
+                "Japan had attacked Hiroshima",
+                "Japan refused to surrender, and invading Japan would cost many lives"
+              ],
+              "answer": 3,
+              "why": "See *The end: Hiroshima and Nagasaki*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "consequences",
+      "label": "Consequences of the war",
+      "desc": "**Goal:** explain three consequences: the defeat of the Axis, the United Nations and the Cold War.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I on consequences and the Cold War, and Exercise II questions 4 and 5.",
+      "links": [],
+      "children": [
+        {
+          "id": "axis-defeated",
+          "label": "The Axis defeated",
+          "type": "core",
+          "desc": "- **Germany** was divided into **four zones** (American, British, French, Soviet). In 1949 these became two states:\n- **West Germany** (Federal Republic), run by the USA, Britain and France; capital **Bonn**; **capitalist**.\n- **East Germany** (Democratic Republic), run by the USSR; capital **East Berlin**; **communist**.\n- **Japan** was occupied by the **USA** until **1952**; **Hirohito** stayed only as a constitutional monarch; Japan lost its conquests.\n- **Italy** was greatly **weakened**.",
+          "links": [
+            {
+              "label": "Wikipedia: Allied-occupied Germany",
+              "url": "https://en.wikipedia.org/wiki/Allied-occupied_Germany"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what happened to Germany after the war?",
+              "a": "It was divided into **4 zones**, which became **West Germany** (capital **Bonn**) and **East Germany** (capital **East Berlin**)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "un-born",
+          "label": "The United Nations is born",
+          "type": "core",
+          "desc": "Two world wars and a **failed League** taught a lesson.\n\n- At **Yalta** (February 1945), the **Big Three**, Roosevelt, Churchill and Stalin, agreed to set up a new world body.\n- A conference at **San Francisco** drew up the **UN Charter**.\n- The **United Nations** came into being on **24 October 1945**, to **keep peace** and stop another world war.",
+          "links": [
+            {
+              "label": "Wikipedia: Yalta Conference",
+              "url": "https://en.wikipedia.org/wiki/Yalta_Conference"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: how did the war lead to the UN?",
+              "a": "The horrors of **two world wars** and the **failure of the League** led the Big Three to plan the **UN**, founded in 1945."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "cold-war",
+          "label": "The Cold War begins",
+          "type": "core",
+          "desc": "The USA and the USSR fought **together** in the war. Afterwards, old **suspicions** and different **ideas** returned.\n\n- **Cold War** = extreme **tension** between them, but **no direct fighting**. They kept diplomatic ties, yet treated each other as enemies.\n- **Causes:** opposite ideologies (**capitalism vs communism**); Soviet control of **eastern Europe**; mutual distrust.\n- **Features:** an **arms race** (nuclear weapons), **military alliances**, **propaganda**, trade embargoes, and **proxy wars** in other countries.",
+          "links": [
+            {
+              "label": "Wikipedia: Cold War",
+              "url": "https://en.wikipedia.org/wiki/Cold_War"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what is meant by the 'Cold War'?",
+              "a": "A state of **extreme tension** between the **USA and the USSR** after 1945, with **no direct war** between them."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "two-blocs",
+          "label": "Two blocs, and the end of empires",
+          "type": "core",
+          "desc": "- **Capitalist (Western) bloc**, led by the **USA**: Britain, France, Canada, Italy, the Netherlands, Turkey, Pakistan and others. It saw communism as a threat to **freedom**.\n- **Communist (Eastern) bloc**, led by the **USSR**: Poland, Hungary, Romania, Bulgaria, Czechoslovakia. It called Western democracy a **show for the rich**.\n\n**Empires end:** weakened colonial powers let go. **India, Myanmar and Sri Lanka** became free; other Asian and African countries followed.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: name two countries in each bloc.",
+              "a": "**Capitalist:** Britain, France. **Communist:** Poland, Hungary."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-consequences",
+          "label": "Quick check: consequences",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Into how many zones was Germany divided after the war?",
+              "options": [
+                "4",
+                "3",
+                "6",
+                "2"
+              ],
+              "answer": 0,
+              "why": "Later it became **two** states: West and East Germany. See *The Axis defeated*."
+            },
+            {
+              "q": "What is the Cold War?",
+              "options": [
+                "The war in the Arctic",
+                "A war fought in winter",
+                "Tension and rivalry between the USA and the USSR without direct fighting",
+                "A war between Britain and Germany"
+              ],
+              "answer": 2,
+              "why": "See *The Cold War begins*."
+            },
+            {
+              "q": "When was the United Nations established?",
+              "options": [
+                "1919",
+                "2 September 1945",
+                "1955",
+                "24 October 1945"
+              ],
+              "answer": 3,
+              "why": "See *The United Nations is born*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "exam-toolkit",
+      "label": "Exam toolkit: words and reasons",
+      "desc": "**Goal:** collect the easy marks: key terms, answers in the right shape, 'why' questions and dates.",
+      "links": [],
+      "children": [
+        {
+          "id": "key-terms",
+          "label": "Key terms to learn word for word",
+          "type": "core",
+          "desc": "- **Treaty of Versailles (1919):** the peace treaty that ended the First World War and punished Germany harshly.\n- **Fascism:** extreme nationalism with one-party dictatorship, as under Mussolini in Italy.\n- **Nazism:** Hitler's form of fascism in Germany, based on racism and aggressive expansion.\n- **Appeasement:** giving in to an aggressor's demands in the hope of keeping peace.\n- **Axis powers:** Germany, Italy, Japan.\n- **Cold War:** a state of extreme tension between the USA and the USSR without direct armed conflict.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: cover the list. Define appeasement.",
+              "a": "Giving in to the **demands of an aggressor** in the hope of keeping the **peace**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "right-shape",
+          "label": "Answers in the right shape",
+          "type": "core",
+          "desc": "**Short answer (2 marks):** two points, each with **one fact**.\n\n**Structured part (3 or 4 marks):** one point per mark. Start each point on a **new line**. Keep each to **one or two sentences**.\n\n**Model answer.** *State three consequences of the Second World War. (3 marks)*\n\n- **Germany was divided** into zones, and later into West and East Germany.\n- The **United Nations** was founded (24 October 1945).\n- The **Cold War** began between the USA and the USSR.\n\n**Three things that lose marks:** giving **Versailles** as the **immediate** cause (it was **Poland**); saying the USA joined after **Poland** (it was **Pearl Harbor**); describing the Cold War as a **real war**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: write a 2-mark answer. 'Give two causes of the Cold War.'",
+              "a": "The **opposite ideologies** of the USA (capitalism) and the USSR (communism), and Soviet **control of eastern Europe**, which the West distrusted."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "why-questions",
+          "label": "'Why' questions: model answers",
+          "type": "core",
+          "desc": "Try each one in your notebook before you open it.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Why did Germany want to tear up the Treaty of Versailles?",
+              "a": "It had **humiliated** Germany: lost land and colonies, huge reparations, a tiny army."
+            },
+            {
+              "q": "Why did appeasement fail?",
+              "a": "Each give-away made Hitler **bolder**; he took more and more."
+            },
+            {
+              "q": "Why did Hitler sign a pact with the USSR before invading Poland?",
+              "a": "To avoid fighting on **two fronts** at once."
+            },
+            {
+              "q": "Why did Japan attack Pearl Harbor?",
+              "a": "To cripple the **US fleet** so it could expand in **Asia** without American interference."
+            },
+            {
+              "q": "Why was the UN set up?",
+              "a": "The **League** had failed, and the world wanted a stronger body to **prevent another world war**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "timeline",
+          "label": "The war's timeline to learn",
+          "type": "core",
+          "desc": "Read it top to bottom. Say each line aloud once.\n\n- **1919:** Treaty of Versailles.\n- **1931:** Japan seizes Manchuria.\n- **1933:** Hitler comes to power.\n- **1935:** Italy attacks Abyssinia.\n- **1937:** Japan invades China.\n- **1938:** Austria annexed; Munich Agreement.\n- **1 September 1939:** Germany invades Poland.\n- **3 September 1939:** Britain and France declare war.\n- **22 June 1941:** Germany invades the USSR.\n- **7 December 1941:** Pearl Harbor.\n- **7 May 1945:** Germany surrenders.\n- **6 August 1945:** Atom bomb on Hiroshima.\n- **9 August 1945:** Atom bomb on Nagasaki.\n- **2 September 1945:** Japan surrenders.\n- **24 October 1945:** United Nations founded.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: how long after Hiroshima was Nagasaki bombed?",
+              "a": "**Three days** later."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "picture-study",
+          "label": "Picture study: who is this?",
+          "type": "optional",
+          "desc": "The exam may show a **picture** and ask who it is. Then it asks two or three facts. For each person, learn **who** and **two facts**.\n\n- **Adolf Hitler:** Nazi dictator; invaded **Poland**, the immediate cause.\n- **Benito Mussolini:** Fascist dictator; attacked **Abyssinia**.\n- **Neville Chamberlain:** British PM; **appeasement** at Munich.\n- **The Big Three at Yalta:** **Roosevelt, Churchill, Stalin**; planned the UN.\n- **A mushroom cloud:** atom bomb, **Hiroshima** (6 August 1945) or **Nagasaki** (9 August 1945).\n- **A map of divided Germany:** **4 zones**; West and East Germany.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a picture of Hitler. How did he become the immediate cause of the war?",
+              "a": "He **invaded Poland** on **1 September 1939**, so Britain and France declared war."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: last-minute revision and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Read the sheet the night before the exam and again on the morning.",
+      "links": [],
+      "children": [
+        {
+          "id": "revision-sheet",
+          "label": "Last-minute revision sheet",
+          "type": "core",
+          "desc": "**The one idea:** **a bad peace, bullies fed, no referee.** **Versailles** left Germany bitter; **dictators** (Hitler, Mussolini, militarist Japan) grabbed land; **appeasement** fed them; the **League** could not stop them. **Poland** was the last straw. After the war: aggressors **defeated**, a new referee (the **UN**), and a new quarrel (the **Cold War**).\n\n**Dates to know**\n- **1919** Treaty of Versailles. **1931** Japan takes Manchuria. **1935** Italy attacks Abyssinia. **1937** Japan invades China.\n- **1938** Hitler takes Austria; **Munich**: the Sudetenland given away. **1939** rest of Czechoslovakia.\n- **1 September 1939** Germany invades **Poland**. **3 September 1939** Britain and France declare war.\n- **22 June 1941** Germany invades the USSR. **7 December 1941** **Pearl Harbor**; USA joins.\n- **7 May 1945** Germany surrenders. **6 August 1945** **Hiroshima**; **9 August 1945** **Nagasaki**. **2 September 1945** Japan surrenders. **24 October 1945** UN founded.\n\n**Key terms**\n- **Fascism:** Mussolini's **extreme nationalism** and one-party dictatorship in Italy. **Nazism:** Hitler's version in Germany, with **racism** at its core.\n- **Appeasement:** giving in to an aggressor's demands to **keep the peace**.\n- **Axis:** Germany, Italy, Japan. **Allies:** Britain, France, the Soviet Union, the USA.\n- **Blitzkrieg:** 'lightning war': fast, massive attacks.\n- **Cold War:** hostility between the **USA and USSR** without direct war: arms race, alliances, propaganda, **proxy wars**.\n\n**Key points**\n- **Versailles:** Germany lost **colonies** and land; **Polish Corridor** split it; huge **reparations**; tiny army. Result: **revenge**.\n- **Aggressors:** Mussolini (Abyssinia); Hitler (rearmament, Rhineland, **Austria**, **Czechoslovakia**); Japan (**Manchuria, China**).\n- **Appeasement:** Britain and France let Hitler take more and more (**Munich, 1938**).\n- **League failed:** no **army**; **USA** never joined; Japan, Germany, Italy **walked out** or ignored it.\n- **Consequences:** Germany split into **four zones**, then **West** (FRG, capital **Bonn**) and **East** (GDR, East Berlin); Japan occupied till **1952**; **UN** (24 October 1945); **Cold War** and **two blocs**; empires end (India, Myanmar, Sri Lanka free). About **50 million** died.\n\n**Traps:** the **immediate** cause is **Poland**, not Versailles. The USA joined after **Pearl Harbor**, not Poland. Hiroshima **before** Nagasaki. The Cold War had **no direct fighting** between the USA and USSR.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which treaty ended the First World War with Germany?",
+              "options": [
+                "The Yalta Agreement",
+                "The Treaty of Versailles",
+                "The Potsdam Declaration",
+                "The Munich Agreement"
+              ],
+              "answer": 1,
+              "why": "See *What Versailles did to Germany*."
+            },
+            {
+              "q": "Who founded Fascism in Italy?",
+              "options": [
+                "Hirohito",
+                "Mussolini",
+                "Hitler",
+                "Stalin"
+              ],
+              "answer": 1,
+              "why": "See *Mussolini and Fascism*."
+            },
+            {
+              "q": "When did Japan invade China?",
+              "options": [
+                "1937",
+                "1945",
+                "1931",
+                "1941"
+              ],
+              "answer": 0,
+              "why": "It had taken **Manchuria** in 1931. See *Japan invades China*."
+            },
+            {
+              "q": "What happened at Munich in 1938?",
+              "options": [
+                "Germany surrendered",
+                "The UN was founded",
+                "Hitler invaded Poland",
+                "Britain and France let Hitler take the Sudetenland"
+              ],
+              "answer": 3,
+              "why": "The high point of **appeasement**. See *Appeasement and Munich*."
+            },
+            {
+              "q": "Which big country never joined the League of Nations?",
+              "options": [
+                "The USA",
+                "Italy",
+                "Britain",
+                "France"
+              ],
+              "answer": 0,
+              "why": "See *Why the League failed*."
+            },
+            {
+              "q": "What is 'blitzkrieg'?",
+              "options": [
+                "A naval blockade",
+                "A lightning war of fast, massive attacks",
+                "A peace treaty",
+                "A cold war"
+              ],
+              "answer": 1,
+              "why": "See *From lightning war to Pearl Harbor*."
+            },
+            {
+              "q": "On which date was the atom bomb dropped on Hiroshima?",
+              "options": [
+                "2 September 1945",
+                "6 August 1945",
+                "9 August 1945",
+                "7 December 1941"
+              ],
+              "answer": 1,
+              "why": "See *The end: Hiroshima and Nagasaki*."
+            },
+            {
+              "q": "Which three leaders met at Yalta in 1945?",
+              "options": [
+                "Truman, Attlee and Stalin",
+                "Hitler, Mussolini and Hirohito",
+                "Nehru, Nasser and Tito",
+                "Roosevelt, Churchill and Stalin"
+              ],
+              "answer": 3,
+              "why": "They planned the **UN**. See *The United Nations is born*."
+            },
+            {
+              "q": "What was the capital of West Germany?",
+              "options": [
+                "Bonn",
+                "East Berlin",
+                "Munich",
+                "Hamburg"
+              ],
+              "answer": 0,
+              "why": "See *The Axis defeated*."
+            },
+            {
+              "q": "Which of these is a feature of the Cold War?",
+              "options": [
+                "Both blocs joining the Axis",
+                "Direct war between the USA and USSR",
+                "The end of all alliances",
+                "An arms race between the two blocs"
+              ],
+              "answer": 3,
+              "why": "See *The Cold War begins*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These are like the harder questions at the end of the chapter. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "structured-causes",
+          "label": "Structured question: three causes",
+          "type": "optional",
+          "desc": "A structured question in three parts. Write your answer first, then open the box.\n\n- (a) The failure of the League of Nations. (3 marks)\n- (b) The aggressive nationalism of Germany. (3 marks)\n- (c) The policy of appeasement. (4 marks)",
+          "links": [],
+          "faq": [
+            {
+              "q": "Model answer",
+              "a": "(a) It had **no army** and the **USA** never joined; it could not stop Japan in **Manchuria** or Italy in **Abyssinia**.\n\n(b) Hitler **rearmed**, annexed **Austria** (1938), seized **Czechoslovakia**, and invaded **Poland**.\n\n(c) Britain and France gave in to Hitler (**Munich**, 1938) hoping for peace; it made him **bolder**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "structured-consequences",
+          "label": "Structured question: after the war",
+          "type": "optional",
+          "desc": "A structured question in three parts. Write your answer first, then open the box.\n\n- (a) The effect of the war on Japan. (3 marks)\n- (b) The division of Germany. (3 marks)\n- (c) The division of the world into two blocs. (4 marks)",
+          "links": [],
+          "faq": [
+            {
+              "q": "Model answer",
+              "a": "(a) Occupied by the **USA** until **1952**; **Hirohito** kept as a constitutional monarch; Japan lost its conquests.\n\n(b) **Four zones**, then **West Germany** (Bonn, capitalist) and **East Germany** (East Berlin, communist).\n\n(c) A **capitalist** bloc led by the **USA** and a **communist** bloc led by the **USSR**; tension without war: the **Cold War**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThe syllabus asks for six causes, a brief mention of Pearl Harbor and Hiroshima and Nagasaki, and three consequences. (A page of the scanned textbook was hard to read; this roadmap covers the syllabus fully from standard sources.)",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- Use the **playground** story: bad peace, bullies fed, no referee, last straw.\n- Draw a **cause chain** on the board: Versailles, dictators, appeasement, weak League, Poland.\n- Keep the war itself **short**: the syllabus wants causes and consequences.\n- Use a **map** of Europe in 1939 and of divided Germany.\n- Hiroshima and Nagasaki deserve a quiet moment; link to Gandhi's ideas on peace (the picture study).\n- Insist on **one fact per point**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 5-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** The one idea; Versailles. Exercise I on Versailles.\n- **Period 2:** Fascism, Nazism, Japan. Activity: mark the aggressors' grabs on a map.\n- **Period 3:** Appeasement and the League; Poland; the war in short.\n- **Period 4:** Consequences: Axis defeated, UN, Cold War, two blocs. Exercise II.\n- **Period 5:** Revision sheet, self-test, exit ticket; picture study.",
+          "links": [
+            {
+              "label": "Simple Wikipedia: World War II (free, easy English)",
+              "url": "https://simple.wikipedia.org/wiki/World_War_II"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Giving **Versailles** as the **immediate** cause.\n- Saying the USA joined in **1939**.\n- Putting **Nagasaki** before **Hiroshima**.\n- Calling the Cold War a **real war** between the USA and USSR.\n- Mixing up **Fascism** (Italy) and **Nazism** (Germany).\n- Forgetting the **USA never joined** the League.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. What was the immediate cause of the war?",
+              "a": "Germany's **invasion of Poland** (1 September 1939)."
+            },
+            {
+              "q": "2. Define appeasement.",
+              "a": "Giving in to an aggressor to **keep the peace**."
+            },
+            {
+              "q": "3. What brought the USA into the war?",
+              "a": "**Pearl Harbor.**"
+            },
+            {
+              "q": "4. When was the UN founded?",
+              "a": "**24 October 1945**."
+            },
+            {
+              "q": "5. What is the Cold War?",
+              "a": "Tension between the **USA and USSR** without **direct war**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

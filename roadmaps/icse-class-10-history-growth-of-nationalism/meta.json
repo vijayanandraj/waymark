@@ -1,0 +1,25 @@
+{
+  "stages": [
+    "school"
+  ],
+  "level": "beginner",
+  "lang": "en",
+  "authors": [
+    {
+      "name": "vijayanandraj",
+      "url": "https://github.com/vijayanandraj"
+    }
+  ],
+  "license": "CC-BY-SA-4.0",
+  "audience": "ICSE Class 10 students who find history hard, and their teachers and parents: Chapter 2, Growth of Nationalism",
+  "subject": "humanities",
+  "follows": "ICSE Class 10 History (Total History & Civics, Chapter 2: Growth of Nationalism)",
+  "tags": [
+    "history",
+    "icse",
+    "class 10",
+    "nationalism",
+    "indian national congress",
+    "step by step"
+  ]
+}

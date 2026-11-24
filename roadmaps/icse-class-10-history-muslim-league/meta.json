@@ -1,0 +1,25 @@
+{
+  "stages": [
+    "school"
+  ],
+  "level": "beginner",
+  "lang": "en",
+  "authors": [
+    {
+      "name": "vijayanandraj",
+      "url": "https://github.com/vijayanandraj"
+    }
+  ],
+  "license": "CC-BY-SA-4.0",
+  "audience": "ICSE Class 10 students who find history hard, and their teachers and parents: Chapter 5, The Muslim League",
+  "subject": "humanities",
+  "follows": "ICSE Class 10 History (Total History & Civics, Chapter 5: The Muslim League)",
+  "tags": [
+    "history",
+    "icse",
+    "class 10",
+    "muslim league",
+    "lucknow pact",
+    "step by step"
+  ]
+}

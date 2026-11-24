@@ -1,0 +1,1144 @@
+{
+  "title": "ICSE Class 10 History, Chapter 6: Mahatma Gandhi and the National Movement, Step by Step",
+  "subtitle": "For students who find history hard. Gandhi's satyagraha and early struggles, the Rowlatt Act, Jallianwala Bagh and the Khilafat movement, Non-Cooperation and Chauri Chaura, the Simon Commission, Nehru Report and Poorna Swaraj, the Dandi March, Civil Disobedience, the Round Tables and the Gandhi-Irwin Pact, held together by one idea (two waves: refuse, then defy), in small steps with model answers, quick checks, an exam toolkit and a last-minute revision sheet. Follows the ICSE Class 10 syllabus, Chapter 6 (Mahatma Gandhi and the National Movement), in the order of Total History & Civics.",
+  "updated": "2026-11-24",
+  "changelog": [
+    {
+      "date": "2026-11-24",
+      "text": "First version: the whole chapter in small steps, with model answers, quick checks, a last-minute revision sheet, a self-test and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** know the key words and dates this chapter uses, and the answer shape. Then the rest is easy.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea and the model answer, then do **Your turn**.\n- **Every answer is a point plus one fact:** a name, a date or a place. One point earns one mark.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: two waves: refuse, then defy.** Gandhi made the struggle a **mass movement** with one weapon, **satyagraha**. **Non-Cooperation (1920 to 1922)**: do not help the government. **Civil Disobedience (1930 to 1934)**: break unjust laws. Each wave **grew, paused, and left India stronger**.",
+          "links": [
+            {
+              "label": "Simple Wikipedia: Mahatma Gandhi (free, easy English)",
+              "url": "https://simple.wikipedia.org/wiki/Mahatma_Gandhi"
+            },
+            {
+              "label": "Last-minute revision sheet for this chapter",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-history-gandhi-national-movement#revision-sheet"
+            },
+            {
+              "label": "Previous chapter: 5. The Muslim League",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-history-muslim-league"
+            },
+            {
+              "label": "Next chapter: 7. Quit India Movement",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-history-quit-india-movement"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 6, *Mahatma Gandhi and the National Movement*, of the History part of the ICSE Class 10 History and Civics syllabus. It follows the order of *Total History & Civics* for Class 10.\n\n**Who it is for.** Class 10 students who find history hard, and want to understand this chapter and score decent marks in it. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** Two waves: refuse, then defy. Gandhi made the freedom struggle a mass movement with one weapon, satyagraha. Non-Cooperation (1920 to 1922) refused to help the government; Civil Disobedience (1930 to 1934) broke unjust laws. Each wave grew, paused, and left India stronger.\n\n**How it is different from the textbook.** The textbook is long and detailed. Here one picture, **two waves: refuse, then defy**, holds the chapter together, and each wave is studied with the same four questions: why, what, how it ended, what it achieved. Every answer is a **point plus one fact**, with fresh model answers. A textbook slip on Dr Ambedkar's conversion year is corrected gently.\n\n**What is inside.**\n- 11 milestones and 46 small steps. The 37 solid steps are the core path. The dashed ones are optional.\n- 44 practice questions with hidden answers.\n- 28 click-to-check questions that say right or wrong, and why: a quick check after each of the 6 main milestones, and a 10-question self-test.\n- A **last-minute revision sheet**: every date, key term, name and trap on one page.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: Dr Ambedkar, picture study and two structured challenge questions, and a section for teachers and parents with a 9-period lesson plan, the mistakes to watch for and a 5-minute exit ticket.\n\n**Can you trust it?** Dates, names and places follow the textbook, and the few slips found in it are pointed out gently. A computer program checks that every date sits in the right order and every click-to-check answer is marked right. All the model answers are written fresh, so students still get fresh practice from their textbook. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the ICSE syllabus but is not made or endorsed by CISCE or by any publisher. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Which Nehru presided at Lahore in 1929?",
+              "a": "**Jawaharlal.** Wrong? Do *Who's who in this chapter*."
+            },
+            {
+              "q": "2. Which wave meant 'do not help the government'?",
+              "a": "**Non-Cooperation** (1920 to 1922). Wrong? Do *Two waves: refuse, then defy*."
+            },
+            {
+              "q": "3. Which wave included breaking the salt law?",
+              "a": "**Civil Disobedience** (1930). Wrong? Do *Two waves: refuse, then defy*."
+            },
+            {
+              "q": "4. How many points for a 2-mark answer?",
+              "a": "**Two**, each with **one fact**. Wrong? Do *How ICSE asks, and the answer shape*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "whos-who",
+          "label": "Who's who in this chapter",
+          "type": "core",
+          "desc": "- **Mahatma Gandhi** (Bapu): leader of the national movement from **1919** onwards.\n- **Sardar Vallabhbhai Patel:** joined Gandhi at Kheda.\n- **Motilal Nehru** (father): wrote the **Nehru Report**. **Jawaharlal Nehru** (son): president at **Lahore, 1929**.\n- **The Ali brothers** (Mohammed Ali, Shaukat Ali): led the **Khilafat** movement.\n- **Khan Abdul Ghaffar Khan:** the **Frontier Gandhi**.\n- **Dr B.R. Ambedkar:** leader of the depressed classes.\n- **British side:** **General Dyer** (Jallianwala Bagh), **Sir John Simon**, **Lord Irwin** (Viceroy).",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which Nehru wrote the Nehru Report, and which presided at Lahore?",
+              "a": "**Motilal** wrote the report; **Jawaharlal** presided at Lahore (1929)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "two-waves",
+          "label": "Two waves: refuse, then defy",
+          "type": "core",
+          "desc": "This chapter has **one idea**. Gandhi had one weapon, **satyagraha**: truth and **non-violence**. He used it in **two big waves**.\n\n- **Non-Cooperation (1920 to 1922):** do not help the government.\n- **Civil Disobedience (1930 to 1934):** break unjust laws.\n\nThink of a factory where workers are treated unfairly.\n- **Wave 1:** the workers simply **stop helping**: no work, no shopping at the company store.\n- **Wave 2:** they **break** the unfair rules openly, and stop paying the company's **fees**.\n\nEach wave **grew**, was **paused**, and left the movement **stronger**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which wave included breaking the salt law?",
+              "a": "**Civil Disobedience** (1930): deliberately **breaking unjust laws**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "answer-shape",
+          "label": "How ICSE asks, and the answer shape",
+          "type": "core",
+          "desc": "ICSE asks history in three ways.\n\n- **Multiple choice:** 1 mark. Pick one option.\n- **Short answer:** usually 2 marks. Write **two points**.\n- **Structured question:** parts (a), (b), (c), worth 3 or 4 marks each. Write **one point per mark**.\n\nEach point has **one fact**: a name, a date or a place. A point without a fact looks vague and loses marks.\n\n**Model answer.** *State two causes of the Non-Cooperation Movement.*\n\n- The **Rowlatt Act** (March 1919): it let the government **jail people without trial**.\n- The **Jallianwala Bagh** massacre at Amritsar on **13 April 1919**, ordered by **General Dyer**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is wrong with this answer? 'The British were cruel to Indians.'",
+              "a": "It has **no fact**. Add one: for example, *'General Dyer ordered firing on a peaceful crowd at Jallianwala Bagh on 13 April 1919.'*"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "methods",
+      "label": "Gandhi and his methods",
+      "desc": "**Goal:** explain where Gandhi's ideas came from, and what satyagraha, non-violence and Swadeshi meant to him.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I (short answers) on the Gandhian era and satyagraha, Exercise II (structured) question 1, and Exercise III (picture study).",
+      "links": [],
+      "children": [
+        {
+          "id": "south-africa",
+          "label": "From South Africa to India",
+          "type": "core",
+          "desc": "- Born **1869** at **Porbandar**, Gujarat. Studied **law** in England.\n- **1893 to 1914:** a lawyer in **South Africa**. He was **thrown off a train** from a first-class compartment because he was Indian.\n- He led Indians against **racial discrimination**, formed the **Natal Indian Congress**, and went to jail. Here he developed **satyagraha**.\n- **January 1915:** back in India. He spent time **studying the country**.\n\nHe led the movement from **1919 to 1947**, so this is called the **Gandhian era**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why is 1919 to 1947 called the Gandhian era?",
+              "a": "**Gandhi dominated** the national movement in this period, and led its mass struggles."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "satyagraha",
+          "label": "Satyagraha and non-violence",
+          "type": "core",
+          "desc": "- **Satyagraha** = *satya* (truth) + *agraha* (holding fast). Be **fearless and truthful**, suffer willingly, but **never submit** to wrong, and **never hate** the wrongdoer.\n- It was aimed at the British **system**, not British **people**.\n- **Not the same as passive resistance:** passive resistance may use **force** if needed; satyagraha **never** does.\n- **Non-violence (ahimsa):** no injury by **thought, word or deed**. For Gandhi it was the virtue of the **strong**, an **active** force.\n\n**Model answer.** *Define satyagraha. How is it different from passive resistance?*\n\n- Satyagraha means **holding fast to truth**: resisting wrong **without violence** and without hatred.\n- **Passive resistance** does **not** rule out force; satyagraha rules out **all violence**.",
+          "links": [
+            {
+              "label": "Wikipedia: Satyagraha",
+              "url": "https://en.wikipedia.org/wiki/Satyagraha"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what did non-violence mean for Gandhi?",
+              "a": "Avoiding injury to anyone by **thought, word or deed**; an **active** force of the **strong**, not weakness."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "swadeshi-mass",
+          "label": "Swadeshi, khadi and the masses",
+          "type": "core",
+          "desc": "- **Swadeshi:** use goods made **in India**, so India becomes **self-sufficient**.\n- The **charkha** (spinning wheel) and **khadi** became symbols of the movement: **self-reliance** and **dignity of labour**.\n- **The masses:** South Africa taught Gandhi to lead people of all **religions, regions and classes**. He brought **peasants, workers and women** into the struggle.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what did the charkha and khadi stand for?",
+              "a": "**Swadeshi** and **self-reliance**: Indians making their own cloth instead of buying British cloth."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-methods",
+          "label": "Quick check: Gandhi's methods",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "What does 'satyagraha' mean?",
+              "options": [
+                "Holding fast to truth",
+                "Self-government",
+                "Boycott of British goods",
+                "Passive resistance with force allowed"
+              ],
+              "answer": 0,
+              "why": "Satya (truth) + agraha (holding fast). See *Satyagraha and non-violence*."
+            },
+            {
+              "q": "How is satyagraha different from passive resistance?",
+              "options": [
+                "They are exactly the same",
+                "Passive resistance means doing nothing",
+                "Satyagraha allows force when needed",
+                "Satyagraha rules out all violence"
+              ],
+              "answer": 3,
+              "why": "Passive resistance **does not exclude** force. See *Satyagraha and non-violence*."
+            },
+            {
+              "q": "Where did Gandhi first develop satyagraha?",
+              "options": [
+                "Champaran",
+                "England",
+                "South Africa",
+                "Ahmedabad"
+              ],
+              "answer": 2,
+              "why": "Fighting **racial discrimination**, 1893 to 1914. See *From South Africa to India*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "experiments",
+      "label": "First experiments in India",
+      "desc": "**Goal:** describe Gandhi's three early struggles: Champaran, Ahmedabad and Kheda (1917 to 1918).\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I on Gandhi's first satyagraha and the Ahmedabad struggle.",
+      "links": [],
+      "children": [
+        {
+          "id": "champaran",
+          "label": "Champaran: the indigo farmers",
+          "type": "core",
+          "desc": "In **Champaran** (Bihar), farmers had to grow **indigo** on **3/20** of their land (the **tinkathia** system) and sell it to **European planters** at fixed prices.\n\n- In **1917** Gandhi went there. Officials **banned** him; he offered **satyagraha**.\n- An **inquiry** followed, and the farmers got **relief**.\n\nThis was his **first** satyagraha in India.",
+          "links": [
+            {
+              "label": "Wikipedia: Champaran Satyagraha",
+              "url": "https://en.wikipedia.org/wiki/Champaran_Satyagraha"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: where was Gandhi's first satyagraha in India, and why?",
+              "a": "At **Champaran** (1917), for **indigo farmers** forced to grow indigo for European planters."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ahmedabad-kheda",
+          "label": "Ahmedabad and Kheda",
+          "type": "core",
+          "desc": "- **Ahmedabad (1918):** mill-owners refused higher wages. Gandhi led a **strike** and went on a **fast**. The owners gave a **35 per cent** rise.\n- **Kheda (1918):** crops **failed**, but the government demanded **land revenue**. Gandhi led peasants to **refuse** to pay; the government **settled**. **Sardar Patel** joined Gandhi here.\n\nThese struggles brought Gandhi close to both **peasants** and **workers**.",
+          "links": [
+            {
+              "label": "Wikipedia: Kheda Satyagraha",
+              "url": "https://en.wikipedia.org/wiki/Kheda_Satyagraha"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what was the outcome of the Ahmedabad satyagraha?",
+              "a": "The mill-owners agreed to a **35 per cent** wage rise after Gandhi's **fast**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-experiments",
+          "label": "Quick check: the first experiments",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Gandhi's first satyagraha in India was at:",
+              "options": [
+                "Champaran (1917)",
+                "Dandi (1930)",
+                "Kheda (1918)",
+                "Ahmedabad (1918)"
+              ],
+              "answer": 0,
+              "why": "For **indigo** farmers in Bihar. See *Champaran: the indigo farmers*."
+            },
+            {
+              "q": "What did the Ahmedabad mill workers win?",
+              "options": [
+                "A 35 per cent wage rise",
+                "Free housing",
+                "Land of their own",
+                "A cut in land revenue"
+              ],
+              "answer": 0,
+              "why": "Gandhi **fasted** to support them. See *Ahmedabad and Kheda*."
+            },
+            {
+              "q": "Which leader became Gandhi's follower during the Kheda satyagraha?",
+              "options": [
+                "Jawaharlal Nehru",
+                "Subhas Chandra Bose",
+                "Abul Kalam Azad",
+                "Sardar Vallabhbhai Patel"
+              ],
+              "answer": 3,
+              "why": "See *Ahmedabad and Kheda*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "1919",
+      "label": "The events of 1919: why Gandhi turned",
+      "desc": "**Goal:** explain the three events that turned Gandhi from a cooperator into a non-cooperator.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I on the Rowlatt Act, the Khilafat leaders and the three events of 1919.",
+      "links": [],
+      "children": [
+        {
+          "id": "rowlatt-act",
+          "label": "The Rowlatt Act: no appeal, no lawyer",
+          "type": "core",
+          "desc": "In the war, Indians had **helped** Britain and hoped for **self-rule**. Instead, in **March 1919**, came the **Rowlatt Act**. It allowed:\n\n- **arrest without warrant**;\n- trial **in secret** (in camera);\n- limits on people's **movement**;\n- suspension of **habeas corpus** (the right to be brought before a court).\n\nGandhi led the **Rowlatt Satyagraha**: the **first all-India** struggle, with strong **Hindu-Muslim unity**.",
+          "links": [
+            {
+              "label": "Wikipedia: Rowlatt Act",
+              "url": "https://en.wikipedia.org/wiki/Rowlatt_Act"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what was the Rowlatt Act?",
+              "a": "A law of 1919 that let the government **jail people without trial**, arrest without warrant, and hold secret trials."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "jallianwala",
+          "label": "Jallianwala Bagh",
+          "type": "core",
+          "desc": "On **13 April 1919**, a **peaceful crowd** met at **Jallianwala Bagh, Amritsar**, to protest the arrest of leaders **Dr Saifuddin Kitchlew** and **Dr Satyapal**.\n\n- The Bagh had only **one narrow exit**.\n- **General Dyer** blocked it with soldiers and ordered them to **fire** until the bullets ran out.\n- **Hundreds** were killed (the official count was 379; Indian estimates were over a thousand).\n\nThe nation was **shaken**. **Rabindranath Tagore** gave up his **knighthood** in protest.",
+          "links": [
+            {
+              "label": "Wikipedia: Jallianwala Bagh massacre",
+              "url": "https://en.wikipedia.org/wiki/Jallianwala_Bagh_massacre"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: how did Tagore protest against the massacre?",
+              "a": "He **gave up his knighthood**, a title given by the British Crown."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "khilafat",
+          "label": "The Khilafat movement",
+          "type": "core",
+          "desc": "- In the **First World War**, Britain defeated **Turkey**. The Sultan, the **Caliph** (religious head of many Muslims), lost power and his empire was broken up.\n- Indian Muslims started the **Khilafat movement**, led by the **Ali brothers** (Mohammed Ali and Shaukat Ali), **Maulana Azad**, **Hakim Ajmal Khan** and **Hasrat Mohani**.\n- **Khilafat Day** was held on **17 October 1919**.\n- Gandhi backed it: a chance to **unite Hindus and Muslims**. He headed the Khilafat Conference and advised **non-cooperation**.",
+          "links": [
+            {
+              "label": "Wikipedia: Khilafat movement",
+              "url": "https://en.wikipedia.org/wiki/Khilafat_movement"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why did Gandhi support the Khilafat movement?",
+              "a": "He saw it as a chance to **unite Hindus and Muslims** against the British."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-1919",
+          "label": "Quick check: the events of 1919",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "What power did the Rowlatt Act give the government?",
+              "options": [
+                "To ban the Congress",
+                "To jail people without trial",
+                "To tax salt",
+                "To divide Bengal"
+              ],
+              "answer": 1,
+              "why": "No warrant, no open trial, no **habeas corpus**. See *The Rowlatt Act: no appeal, no lawyer*."
+            },
+            {
+              "q": "Who ordered the firing at Jallianwala Bagh?",
+              "options": [
+                "Lord Irwin",
+                "Sir John Simon",
+                "General Dyer",
+                "Lord Chelmsford"
+              ],
+              "answer": 2,
+              "why": "Amritsar, **13 April 1919**. See *Jallianwala Bagh*."
+            },
+            {
+              "q": "What was the Khilafat movement about?",
+              "options": [
+                "Ending untouchability",
+                "Protecting the position of the Sultan of Turkey as Caliph",
+                "Getting a separate Muslim state",
+                "Boycotting the Simon Commission"
+              ],
+              "answer": 1,
+              "why": "Led by the **Ali brothers**. See *The Khilafat movement*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "nco",
+      "label": "The Non-Cooperation Movement, 1920 to 1922",
+      "desc": "**Goal:** give the aims, programme, suspension and impact of the Non-Cooperation Movement.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I on the movement and its suspension, and Exercise II question 1(c).",
+      "links": [],
+      "children": [
+        {
+          "id": "nco-aims",
+          "label": "Aims and programme",
+          "type": "core",
+          "desc": "The Congress accepted Non-Cooperation at a special session in **Calcutta** (September 1920); the **Nagpur** session (December 1920) confirmed it.\n\n**Aims:** **Swaraj**, within the empire if possible, outside if necessary; right the **Punjab wrong**; right the **Khilafat wrong**.\n\n**Boycott:** government **schools, colleges, courts**; **foreign goods**; council **elections**; **titles**.\n\n**Build:** **Swadeshi and khadi**; **national schools** and panchayat courts; **Hindu-Muslim unity**; end of **untouchability**; rights of **women**.",
+          "links": [
+            {
+              "label": "Wikipedia: Non-cooperation movement",
+              "url": "https://en.wikipedia.org/wiki/Non-cooperation_movement"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: state two items of the boycott programme.",
+              "a": "Boycott of government **schools, colleges and courts**, and of **foreign goods**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "nco-activities",
+          "label": "What people did",
+          "type": "core",
+          "desc": "- Lawyers like **C.R. Das, Motilal Nehru, Rajendra Prasad** gave up practice.\n- **Students** left government schools. National institutions like **Jamia Millia Islamia** and the **Gujarat** and **Bihar Vidyapiths** were set up.\n- **Foreign cloth** was burnt; liquor shops **picketed**; people **spun** on the charkha.\n- Titles were **returned**; Gandhi returned his South African medals.\n- When the **Prince of Wales** visited in 1921, he was met with **hartals**.\n\nThe government **jailed** leaders and banned meetings, but jail **lost its terror**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: name one national university founded during the movement.",
+              "a": "**Jamia Millia Islamia** (or the Gujarat Vidyapith)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "chauri-chaura",
+          "label": "Chauri Chaura: the movement stops",
+          "type": "core",
+          "desc": "- **5 February 1922:** at **Chauri Chaura** (Gorakhpur, UP), police fired on a procession. The angry crowd **set the police station on fire**, killing **22 policemen**.\n- Shocked by the **violence**, Gandhi **called off** the movement on **12 February 1922**.\n- **Motilal Nehru** and **Lajpat Rai** objected; **Subhas Chandra Bose** called it a **national calamity**.\n- Gandhi turned to the **constructive programme** (khadi, unity, untouchability). In March 1922 he was **jailed** for six years, and freed after two.",
+          "links": [
+            {
+              "label": "Wikipedia: Chauri Chaura incident",
+              "url": "https://en.wikipedia.org/wiki/Chauri_Chaura_incident"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why did Gandhi suspend the Non-Cooperation Movement?",
+              "a": "Because of the **violence at Chauri Chaura** (5 February 1922), where a mob killed **22 policemen**. He believed in **non-violence**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "nco-impact",
+          "label": "What Non-Cooperation achieved",
+          "type": "core",
+          "desc": "It **failed** to get Swaraj, the Punjab apology or the Khilafat. But it changed the movement:\n\n- It became a **mass movement**: peasants, workers, students, women.\n- People gained **self-confidence** to defy British rule.\n- The Congress became an organisation for **action**, reaching **villages**; membership cost just **four annas**.\n- **Hindu-Muslim unity**, through the Khilafat link.\n- **Swadeshi**, khadi and national schools spread.\n\n**Model answer.** *State two results of the Non-Cooperation Movement.*\n\n- The national movement became a **mass movement**, with peasants, workers and women.\n- The **Congress** turned into an organisation for **action**, reaching the **villages**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: did Non-Cooperation achieve its aims? What did it achieve?",
+              "a": "**No**, not its three aims. But it made the struggle a **mass movement** and gave people **self-confidence**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-nco",
+          "label": "Quick check: Non-Cooperation",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which was a demand of the Non-Cooperation Movement?",
+              "options": [
+                "Separate electorates",
+                "Dominion status by 1929",
+                "Righting the Punjab and Khilafat wrongs",
+                "Repeal of the salt law"
+              ],
+              "answer": 2,
+              "why": "And **Swaraj** within a year. See *Aims and programme*."
+            },
+            {
+              "q": "Why did Gandhi call off the Non-Cooperation Movement?",
+              "options": [
+                "He was arrested",
+                "The British granted Swaraj",
+                "The Khilafat was restored",
+                "A mob burnt a police station at Chauri Chaura, killing 22 policemen"
+              ],
+              "answer": 3,
+              "why": "**5 February 1922**. He stopped it on **12 February 1922**. See *Chauri Chaura: the movement stops*."
+            },
+            {
+              "q": "Which was an impact of the Non-Cooperation Movement?",
+              "options": [
+                "The Muslim League joined the Congress",
+                "The freedom struggle became a mass movement",
+                "India won dominion status",
+                "The salt tax was abolished"
+              ],
+              "answer": 1,
+              "why": "See *What Non-Cooperation achieved*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "road-1930",
+      "label": "The road to 1930",
+      "desc": "**Goal:** explain how the Simon Commission, the Nehru Report and the Lahore session led to Civil Disobedience.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I on the Simon Commission and the Lahore session, and Exercise II question 2(a).",
+      "links": [],
+      "children": [
+        {
+          "id": "simon-commission",
+          "label": "The Simon Commission: 'Simon, go back'",
+          "type": "core",
+          "desc": "- In **November 1927**, Britain sent the **Simon Commission** to suggest reforms. Its **7** members were all **British**: **no Indian**.\n- Indians saw this as an **insult**. The Congress (Madras session, 1927) decided to **boycott** it 'at every stage and in every form'. The Muslim League and Hindu Mahasabha agreed.\n- When it landed at Bombay on **3 February 1928**, there was an all-India **hartal**. Everywhere it went: **black flags** and **'Simon, go back'**.\n- At **Lahore**, **Lala Lajpat Rai** was struck in a **lathi charge** and died soon after.",
+          "links": [
+            {
+              "label": "Wikipedia: Simon Commission",
+              "url": "https://en.wikipedia.org/wiki/Simon_Commission"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why was the Simon Commission boycotted?",
+              "a": "It had **7 British members** and **no Indian**, which Indians saw as an **insult**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "nehru-report",
+          "label": "The Nehru Report",
+          "type": "core",
+          "desc": "The British minister Lord Birkenhead said Indians could not **agree** on any plan.\n\nAn **All Parties Conference** answered him. A committee under **Motilal Nehru** wrote the **Nehru Report (1928)**:\n- **Dominion status** for India;\n- **joint electorates**, with reserved seats for minorities;\n- provinces on a **language** basis;\n- **nineteen fundamental rights**, including the vote.\n\nThe Congress told Britain: accept it **within a year**, or face a mass movement.",
+          "links": [
+            {
+              "label": "Wikipedia: Nehru Report",
+              "url": "https://en.wikipedia.org/wiki/Nehru_Report"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what was the Nehru Report's main demand?",
+              "a": "**Dominion status** for India (with joint electorates and fundamental rights)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "poorna-swaraj",
+          "label": "Poorna Swaraj at Lahore",
+          "type": "core",
+          "desc": "Britain did not accept the report. At **Lahore (December 1929)**, under **Jawaharlal Nehru**:\n\n- the Congress declared **Poorna Swaraj** (**complete independence**) its goal;\n- Nehru hoisted the **tricolour** on the bank of the **Ravi** at midnight;\n- **26 January 1930** was kept as **Independence Day**;\n- **Gandhi** was given power to start **Civil Disobedience**.\n\nThat is why **26 January** later became **Republic Day**.",
+          "links": [
+            {
+              "label": "Wikipedia: Purna Swaraj",
+              "url": "https://en.wikipedia.org/wiki/Purna_Swaraj"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why is the Lahore session of 1929 important?",
+              "a": "It declared **Poorna Swaraj** (complete independence) as the goal, and decided to launch **Civil Disobedience**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-road-1930",
+          "label": "Quick check: the road to 1930",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Why was the Simon Commission boycotted?",
+              "options": [
+                "It had no Indian member",
+                "It met in London",
+                "It wanted to end British rule",
+                "It was led by Gandhi"
+              ],
+              "answer": 0,
+              "why": "**7** British MPs, **no Indians**. See *The Simon Commission: 'Simon, go back'*."
+            },
+            {
+              "q": "Who chaired the committee that wrote the Nehru Report?",
+              "options": [
+                "Gandhi",
+                "Motilal Nehru",
+                "Tej Bahadur Sapru",
+                "Jawaharlal Nehru"
+              ],
+              "answer": 1,
+              "why": "**Motilal**, the father. See *The Nehru Report*."
+            },
+            {
+              "q": "What did the Lahore session of 1929 declare?",
+              "options": [
+                "The Lucknow Pact",
+                "Poorna Swaraj (complete independence)",
+                "Non-Cooperation",
+                "Dominion status"
+              ],
+              "answer": 1,
+              "why": "Under **Jawaharlal Nehru**; **26 January 1930** became Independence Day. See *Poorna Swaraj at Lahore*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "cdm",
+      "label": "Civil Disobedience, 1930 to 1934",
+      "desc": "**Goal:** describe the Dandi March, the programme and spread of Civil Disobedience, the Round Tables and Gandhi-Irwin Pact, and its impact.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I on the programme, the Frontier Gandhi and the Gandhi-Irwin Pact, Exercise II question 2, and Exercise III.",
+      "links": [],
+      "children": [
+        {
+          "id": "dandi",
+          "label": "The Dandi March",
+          "type": "core",
+          "desc": "Gandhi first sent the Viceroy an **eleven-point** demand. It was ignored.\n\n- **12 March 1930:** he set out from **Sabarmati Ashram** with followers, walking to **Dandi** on the Gujarat coast.\n- **6 April 1930:** he picked up a handful of **salt** from the shore: **breaking the salt law**.\n\n**Why salt?** The government had a **monopoly** on making salt, and the **salt tax** hit **everyone**, above all the **poor**. Every Indian could understand it.",
+          "links": [
+            {
+              "label": "Wikipedia: Salt March",
+              "url": "https://en.wikipedia.org/wiki/Salt_March"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why did Gandhi choose to break the salt law?",
+              "a": "The **salt tax** hurt **every** Indian, especially the **poor**, so it united the whole country."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "cdm-spread",
+          "label": "How the movement spread",
+          "type": "core",
+          "desc": "**Programme:** break the **salt law**; boycott **liquor** and **foreign cloth**; **refuse taxes** and land revenue.\n\n- Forest laws were defied in Maharashtra; hartals everywhere.\n- In the north-west, **Khan Abdul Ghaffar Khan** (the **Frontier Gandhi**) led the **Khudai Khidmatgars** (**Red Shirts**).\n- In the north-east, **Rani Gaidinliu** of the Nagas rose at **13**.\n- At **Peshawar**, **Garhwali soldiers** refused to fire on protesters.\n\nThe government struck back: **90,000** people were jailed, the Congress was **banned**.",
+          "links": [
+            {
+              "label": "Wikipedia: Abdul Ghaffar Khan",
+              "url": "https://en.wikipedia.org/wiki/Abdul_Ghaffar_Khan"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: who led the movement in the north-west, and what was his organisation?",
+              "a": "**Khan Abdul Ghaffar Khan**, the **Frontier Gandhi**. He led the **Khudai Khidmatgars** (Red Shirts)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "round-tables",
+          "label": "Round tables and the Gandhi-Irwin Pact",
+          "type": "core",
+          "desc": "- **First Round Table (1930 to 1931), London:** the Congress **boycotted** it.\n- **Gandhi-Irwin Pact (March 1931):** the government freed **non-violent prisoners**, let coastal people **make salt**, allowed **peaceful picketing**. The Congress **suspended** the movement and agreed to attend the next conference.\n- **Second Round Table (1931):** **Gandhi** went as the **only** Congress delegate. It broke down over **separate electorates** for minorities. He came back **disappointed**.\n- **Third Round Table (1932):** only **46** delegates; the Congress stayed away.",
+          "links": [
+            {
+              "label": "Wikipedia: Gandhi-Irwin Pact",
+              "url": "https://en.wikipedia.org/wiki/Gandhi%E2%80%93Irwin_Pact"
+            },
+            {
+              "label": "Wikipedia: Round Table Conferences",
+              "url": "https://en.wikipedia.org/wiki/Round_Table_Conferences_(India)"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: give two terms of the Gandhi-Irwin Pact.",
+              "a": "The government **released** non-violent prisoners and let coastal people **make salt**. The Congress **suspended** Civil Disobedience."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "communal-award",
+          "label": "The Communal Award and the Poona Pact",
+          "type": "core",
+          "desc": "- In **1932**, the British Prime Minister, **Ramsay MacDonald**, announced the **Communal Award**: **separate electorates** even for the **depressed classes**.\n- Gandhi feared it would **split Hindu society**, and began a **fast** in protest.\n- **Dr Ambedkar** and the Congress then signed the **Poona Pact (1932)**: **reserved seats** for the depressed classes, but within **joint** electorates, and **more** seats than the Award gave.\n\nCivil Disobedience was **renewed** in 1932, met harsh repression, and was **called off in 1934**.",
+          "links": [
+            {
+              "label": "Wikipedia: Poona Pact",
+              "url": "https://en.wikipedia.org/wiki/Poona_Pact"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what did the Poona Pact provide?",
+              "a": "**Reserved seats** for the depressed classes within **joint electorates**, instead of separate electorates."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "cdm-impact",
+          "label": "What Civil Disobedience achieved",
+          "type": "core",
+          "desc": "- It **widened** the struggle: **merchants, peasants, tribals, workers** and above all **women** joined.\n- It taught the power of **non-violence**.\n- New ways to spread the word: **prabhat pheris** (morning songs), handwritten news-sheets, children's **Vanar Sena**.\n- Social change: temples and wells opened to the depressed classes (Harijan Sevak Sangh).\n- Britain saw reform was needed: the **Government of India Act, 1935**; the Congress then won the **1937** elections.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: state two results of Civil Disobedience.",
+              "a": "It brought **women** and many new groups into the struggle, and pushed Britain to the **Government of India Act, 1935**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ambedkar",
+          "label": "Dr B.R. Ambedkar",
+          "type": "optional",
+          "desc": "- Born **1891** at **Mhow**. Faced **caste discrimination** from childhood, yet studied at **Columbia** and **London**.\n- Fought for **dalits**: the **Bahishkrit Hitakarini Sabha**; papers ***Mook Nayak*** and ***Bahishkrit Bharat***.\n- Signed the **Poona Pact** with the Congress.\n- Independent India's first **Law Minister**; chairman of the **Constitution Drafting Committee**.\n- In **1956** he embraced **Buddhism** with lakhs of followers. (Your textbook prints 1950.) Awarded the **Bharat Ratna** after his death.",
+          "links": [
+            {
+              "label": "Wikipedia: B. R. Ambedkar",
+              "url": "https://en.wikipedia.org/wiki/B._R._Ambedkar"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: give two contributions of Dr Ambedkar.",
+              "a": "He fought for the rights of **dalits** (for example through *Mook Nayak*), and chaired the **Constitution Drafting Committee**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-cdm",
+          "label": "Quick check: Civil Disobedience",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Why did Gandhi choose salt to start Civil Disobedience?",
+              "options": [
+                "The salt tax hurt everyone, especially the poor",
+                "The British did not tax salt",
+                "Salt was made only in Gujarat",
+                "Salt was a luxury"
+              ],
+              "answer": 0,
+              "why": "Everyone needs salt. See *The Dandi March*."
+            },
+            {
+              "q": "Who was called the Frontier Gandhi?",
+              "options": [
+                "Chandra Singh Garhwali",
+                "Rani Gaidinliu",
+                "Khan Abdul Ghaffar Khan",
+                "Maulana Azad"
+              ],
+              "answer": 2,
+              "why": "He led the **Khudai Khidmatgars** (Red Shirts). See *How the movement spread*."
+            },
+            {
+              "q": "Under the Gandhi-Irwin Pact, the Congress agreed to:",
+              "options": [
+                "accept the Simon Commission",
+                "boycott all conferences",
+                "accept the Communal Award",
+                "suspend Civil Disobedience and attend the Second Round Table Conference"
+              ],
+              "answer": 3,
+              "why": "See *Round tables and the Gandhi-Irwin Pact*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "exam-toolkit",
+      "label": "Exam toolkit: words and reasons",
+      "desc": "**Goal:** collect the easy marks: key terms, answers in the right shape, 'why' questions and dates.",
+      "links": [],
+      "children": [
+        {
+          "id": "key-terms",
+          "label": "Key terms to learn word for word",
+          "type": "core",
+          "desc": "- **Satyagraha:** holding fast to truth: resisting injustice by non-violent means, without hatred for the wrongdoer.\n- **Non-Cooperation:** refusing to help the government: boycott of its schools, courts, councils, titles and foreign goods.\n- **Civil Disobedience:** deliberately breaking unjust laws, like the salt law, and refusing to pay taxes.\n- **Rowlatt Act (1919):** a law that let the government arrest without warrant and jail people without trial.\n- **Poorna Swaraj:** complete independence, declared the Congress goal at Lahore in 1929.\n- **Gandhi-Irwin Pact (1931):** agreement that freed non-violent prisoners and allowed salt-making, in return for suspending the movement.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: cover the list. Define civil disobedience.",
+              "a": "Deliberately **breaking unjust laws** (like the **salt law**) and **refusing taxes**, non-violently."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "right-shape",
+          "label": "Answers in the right shape",
+          "type": "core",
+          "desc": "**Short answer (2 marks):** two points, each with **one fact**.\n\n**Structured part (3 or 4 marks):** one point per mark. Start each point on a **new line**. Keep each to **one or two sentences**.\n\n**Model answer.** *Describe the programme of the Non-Cooperation Movement. (3 marks)*\n\n- Boycott of government **schools, colleges and courts**.\n- Boycott of **foreign goods**; spread of **Swadeshi and khadi**.\n- Surrender of **titles**, and boycott of council **elections**.\n\n**Three things that lose marks:** mixing up **NCO** (do not help) and **CDM** (break laws, refuse taxes); writing **Jawaharlal** for the Nehru Report; telling the Dandi story with **no dates or places**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: write a 2-mark answer. 'How was Civil Disobedience different from Non-Cooperation?'",
+              "a": "Non-Cooperation **refused to help** the government; Civil Disobedience **broke specific laws** (like the **salt law**) and **refused taxes**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "why-questions",
+          "label": "'Why' questions: model answers",
+          "type": "core",
+          "desc": "Try each one in your notebook before you open it.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Why did Gandhi turn from a cooperator into a non-cooperator?",
+              "a": "The **Rowlatt Act**, the **Jallianwala Bagh** massacre and the **Khilafat** wrong (1919) showed the British would not be fair."
+            },
+            {
+              "q": "Why did Gandhi join the Khilafat movement to Non-Cooperation?",
+              "a": "To build **Hindu-Muslim unity** against the British."
+            },
+            {
+              "q": "Why did Gandhi call off the movement after Chauri Chaura?",
+              "a": "The movement had turned **violent**; he believed only **non-violence** was right."
+            },
+            {
+              "q": "Why did Gandhi suspend Civil Disobedience in 1931?",
+              "a": "Under the **Gandhi-Irwin Pact**, the government met some demands and the Congress agreed to attend the **Second Round Table**."
+            },
+            {
+              "q": "Why was Gandhi against the Communal Award?",
+              "a": "Separate electorates for the depressed classes would **split Hindu society**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "timeline",
+          "label": "Dates to learn",
+          "type": "core",
+          "desc": "Read it top to bottom. Say each line aloud once.\n\n- **1893 to 1914:** Gandhi in South Africa.\n- **1917:** Champaran satyagraha.\n- **1918:** Ahmedabad and Kheda.\n- **March 1919:** Rowlatt Act.\n- **13 April 1919:** Jallianwala Bagh.\n- **September 1920:** Non-Cooperation adopted at Calcutta.\n- **5 February 1922:** Chauri Chaura.\n- **12 February 1922:** Non-Cooperation called off.\n- **November 1927:** Simon Commission appointed.\n- **1928:** Nehru Report.\n- **December 1929:** Poorna Swaraj at Lahore.\n- **26 January 1930:** Independence Day observed.\n- **12 March 1930 to 6 April 1930:** Dandi March.\n- **March 1931:** Gandhi-Irwin Pact.\n- **1931:** Second Round Table.\n- **1932:** Communal Award and Poona Pact.\n- **1934:** Civil Disobedience called off.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: how many days did the Dandi March take, roughly?",
+              "a": "About **25 days**: 12 March to 6 April 1930."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "picture-study",
+          "label": "Picture study: who is this?",
+          "type": "optional",
+          "desc": "The exam may show a **picture** and ask who it is. Then it asks two or three facts. For each person, learn **who** and **two facts**.\n\n- **Gandhi with the charkha:** **Swadeshi** and **self-reliance**; khadi as the uniform of freedom.\n- **Gandhi on the Dandi March:** Sabarmati to Dandi, **12 March 1930 to 6 April 1930**; broke the **salt law**.\n- **Khan Abdul Ghaffar Khan:** **Frontier Gandhi**; Khudai Khidmatgars (Red Shirts).\n- **Jawaharlal Nehru:** president at **Lahore (1929)**; Poorna Swaraj.\n- **The Ali brothers:** led the **Khilafat** movement.\n- **Dr B.R. Ambedkar:** **Poona Pact**; Constitution Drafting Committee.\n- **Jallianwala Bagh:** Amritsar, **13 April 1919**; General **Dyer**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a picture of Gandhi spinning. What did the charkha symbolise?",
+              "a": "**Swadeshi** and **self-reliance**: making cloth at home instead of buying British cloth."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: last-minute revision and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Read the sheet the night before the exam and again on the morning.",
+      "links": [],
+      "children": [
+        {
+          "id": "revision-sheet",
+          "label": "Last-minute revision sheet",
+          "type": "core",
+          "desc": "**The one idea:** Gandhi turned the struggle into a **mass movement** with one weapon, **satyagraha** (truth and non-violence), in two big waves: **Non-Cooperation (1920 to 1922): do not help the government**; **Civil Disobedience (1930 to 1934): break unjust laws**. Each wave grew, paused, and left India **stronger**.\n\n**Dates to know**\n- **1893 to 1914** South Africa. **1915** returns to India. **1917** Champaran. **1918** Ahmedabad and Kheda.\n- **March 1919** Rowlatt Act. **13 April 1919** Jallianwala Bagh. **17 October 1919** Khilafat Day.\n- **1920** Non-Cooperation (Calcutta, September; Nagpur, December). **5 February 1922** Chauri Chaura; called off **12 February 1922**.\n- **1927** Simon Commission appointed. **1928** Nehru Report. **December 1929** Lahore: **Poorna Swaraj**. **26 January 1930** Independence Day.\n- **12 March 1930 to 6 April 1930** Dandi March. **1931** Gandhi-Irwin Pact; Second Round Table. **1932** Communal Award; Poona Pact. **1934** movement called off.\n\n**Key terms**\n- **Satyagraha:** holding fast to **truth**; resisting wrong **without violence** and without hatred.\n- **Non-violence (ahimsa):** avoiding injury by **thought, word or deed**.\n- **Non-Cooperation:** refusing to help the government: boycott of **schools, courts, councils, titles, foreign goods**.\n- **Civil Disobedience:** deliberately **breaking unjust laws**, like the **salt law**, and refusing taxes.\n- **Poorna Swaraj:** **complete independence**.\n\n**Key points**\n- **Experiments:** Champaran (indigo, **tinkathia**: 3/20 of land); Ahmedabad (fast, **35%** wage rise); Kheda (land revenue; **Patel** joins).\n- **Causes of NCO:** **Rowlatt Act** (jail without trial); **Jallianwala Bagh** (General **Dyer**); **Khilafat** (Ali brothers; Gandhi saw a chance for Hindu-Muslim unity).\n- **NCO programme:** boycott schools, courts, councils, titles, foreign cloth; **Swadeshi and khadi**; national schools (**Jamia Millia**); Hindu-Muslim unity; end of untouchability.\n- **NCO impact:** **mass movement**; **self-confidence**; Congress became a body for **action**; Hindu-Muslim **unity**; social reform.\n- **Causes of CDM:** **Simon Commission** (no Indians); Nehru Report ignored; **Poorna Swaraj** at Lahore.\n- **CDM programme:** break the **salt law**; boycott **liquor** and **foreign cloth**; **no taxes**. Spread: **Ghaffar Khan's** Red Shirts; **Rani Gaidinliu**; Garhwal soldiers refused to fire.\n- **Gandhi-Irwin Pact (1931):** prisoners freed, **salt** for coastal people, peaceful picketing; Congress suspends the movement and attends the **Second Round Table**.\n- **CDM impact:** wider **social base** (women, merchants, tribals); new **propaganda** (prabhat pheris, Vanar Sena); led to the **Government of India Act, 1935**.\n\n**Traps:** **NCO** = do not help; **CDM** = break laws and stop taxes. **Motilal** wrote the Nehru Report; **Jawaharlal** presided at Lahore. The Dandi March began at **Sabarmati**. Gandhi went **only** to the **Second** Round Table.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Why is 1919 to 1947 called the Gandhian era?",
+              "options": [
+                "Gandhi was Viceroy",
+                "The Congress was founded then",
+                "Gandhi dominated the national movement",
+                "Gandhi ruled India"
+              ],
+              "answer": 2,
+              "why": "See *From South Africa to India*."
+            },
+            {
+              "q": "What was the tinkathia system?",
+              "options": [
+                "Farmers had to grow indigo on 3/20 of their land",
+                "A system of separate electorates",
+                "A tax on salt",
+                "A rule on sepoys' pay"
+              ],
+              "answer": 0,
+              "why": "See *Champaran: the indigo farmers*."
+            },
+            {
+              "q": "Who gave up his knighthood after Jallianwala Bagh?",
+              "options": [
+                "Rabindranath Tagore",
+                "Gandhi",
+                "Jinnah",
+                "Motilal Nehru"
+              ],
+              "answer": 0,
+              "why": "See *Jallianwala Bagh*."
+            },
+            {
+              "q": "Which national university began during Non-Cooperation?",
+              "options": [
+                "Calcutta University",
+                "Aligarh Muslim University",
+                "Jamia Millia Islamia",
+                "Banaras Hindu University"
+              ],
+              "answer": 2,
+              "why": "See *What people did*."
+            },
+            {
+              "q": "Who called the suspension of Non-Cooperation a 'national calamity'?",
+              "options": [
+                "Sardar Patel",
+                "Subhas Chandra Bose",
+                "Lord Reading",
+                "Jawaharlal Nehru"
+              ],
+              "answer": 1,
+              "why": "See *Chauri Chaura: the movement stops*."
+            },
+            {
+              "q": "Which leader died after a lathi charge in a protest against the Simon Commission?",
+              "options": [
+                "Lala Lajpat Rai",
+                "Bhagat Singh",
+                "C.R. Das",
+                "Motilal Nehru"
+              ],
+              "answer": 0,
+              "why": "Lahore, 1928. See *The Simon Commission: 'Simon, go back'*."
+            },
+            {
+              "q": "How was Civil Disobedience different from Non-Cooperation?",
+              "options": [
+                "It was only in Bengal",
+                "It had no mass support",
+                "It used violence",
+                "It broke specific laws and refused taxes"
+              ],
+              "answer": 3,
+              "why": "See *Two waves: refuse, then defy*."
+            },
+            {
+              "q": "Who attended the Second Round Table Conference for the Congress?",
+              "options": [
+                "Motilal Nehru",
+                "Gandhi alone",
+                "Nobody: the Congress boycotted it",
+                "Jawaharlal Nehru"
+              ],
+              "answer": 1,
+              "why": "The Congress boycotted the **first** and **third**. See *Round tables and the Gandhi-Irwin Pact*."
+            },
+            {
+              "q": "What did the Poona Pact settle?",
+              "options": [
+                "Dominion status",
+                "Separate electorates for all",
+                "Reserved seats for the depressed classes within joint electorates",
+                "The end of the salt tax"
+              ],
+              "answer": 2,
+              "why": "Between **Gandhi** and **Ambedkar**. See *The Communal Award and the Poona Pact*."
+            },
+            {
+              "q": "Which was an impact of Civil Disobedience?",
+              "options": [
+                "It led to the Government of India Act, 1935",
+                "The Simon Commission was cancelled",
+                "India became independent",
+                "The Muslim League dissolved"
+              ],
+              "answer": 0,
+              "why": "See *What Civil Disobedience achieved*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These are like the harder questions at the end of the chapter. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "structured-nco",
+          "label": "Structured question: Non-Cooperation",
+          "type": "optional",
+          "desc": "A structured question in three parts. Write your answer first, then open the box.\n\n- (a) Name three events of 1919 that turned Gandhi into a non-cooperator. (3 marks)\n- (b) Give three items of the programme. (3 marks)\n- (c) Why was it suspended, and what did it achieve? (4 marks)",
+          "links": [],
+          "faq": [
+            {
+              "q": "Model answer",
+              "a": "(a) The **Rowlatt Act**; the **Jallianwala Bagh** massacre (13 April 1919); the **Khilafat** wrong.\n\n(b) Boycott of government **schools and courts**; boycott of **foreign goods**; surrender of **titles**.\n\n(c) Suspended after the **Chauri Chaura** violence (5 February 1922). It made the struggle a **mass movement** and gave people **self-confidence**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "structured-cdm",
+          "label": "Structured question: Civil Disobedience",
+          "type": "optional",
+          "desc": "A structured question in three parts. Write your answer first, then open the box.\n\n- (a) Why was the Simon Commission boycotted? (3 marks)\n- (b) Describe the Dandi March. (3 marks)\n- (c) Give three terms of the Gandhi-Irwin Pact. (4 marks)",
+          "links": [],
+          "faq": [
+            {
+              "q": "Model answer",
+              "a": "(a) It had **7 British members** and **no Indian**, an **insult** to Indians.\n\n(b) From **Sabarmati** to **Dandi** (12 March 1930 to 6 April 1930); Gandhi picked up **salt** to **break the salt law**, starting Civil Disobedience.\n\n(c) **Release** of non-violent prisoners; salt-making allowed on the **coast**; Congress to **suspend** the movement and attend the **Second Round Table**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThis is the biggest history chapter. The syllabus asks for Non-Cooperation (causes, programme, suspension, impact) and Civil Disobedience (causes, Dandi, programme, impact, Gandhi-Irwin Pact, Second Round Table). Quit India is the next chapter.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- Draw **two waves** on the board: Non-Cooperation (1920 to 1922) and Civil Disobedience (1930 to 1934). Hang every fact on one of them.\n- For each wave, ask the same four questions: **why, what, how it ended, what it achieved**.\n- Act out the difference: 'not helping' (NCO) versus 'breaking a rule openly' (CDM).\n- Keep a **Nehru card**: Motilal (report), Jawaharlal (Lahore).\n- Jallianwala Bagh is distressing; keep to facts and Tagore's protest, without graphic detail.\n- Insist on **one fact per point**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 9-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** Two waves; Gandhi in South Africa; satyagraha and non-violence.\n- **Period 2:** Champaran, Ahmedabad, Kheda. Exercise I.\n- **Period 3:** Rowlatt Act, Jallianwala Bagh, Khilafat.\n- **Period 4:** Non-Cooperation: aims, programme, activities.\n- **Period 5:** Chauri Chaura; impact of Non-Cooperation. Exercise II question 1.\n- **Period 6:** Simon Commission, Nehru Report, Lahore. Activity: write a 'Simon, go back' placard with a reason.\n- **Period 7:** Dandi March; programme and spread of Civil Disobedience.\n- **Period 8:** Round Tables, Gandhi-Irwin Pact, Poona Pact; impact. Exercise II question 2.\n- **Period 9:** Revision sheet, self-test, exit ticket; picture study.",
+          "links": [
+            {
+              "label": "Simple Wikipedia: Mahatma Gandhi (free, easy English)",
+              "url": "https://simple.wikipedia.org/wiki/Mahatma_Gandhi"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Mixing up **Non-Cooperation** and **Civil Disobedience**.\n- Writing **Jawaharlal** for the Nehru Report.\n- Saying Gandhi attended **all** Round Tables (only the **Second**).\n- Naming the wrong officer at Jallianwala Bagh (it was **General Dyer**).\n- Forgetting **why** salt was chosen.\n- Giving the suspension date of NCO as the **Chauri Chaura** date (5 vs 12 February 1922).",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Define satyagraha.",
+              "a": "Holding fast to **truth**: resisting wrong **without violence**."
+            },
+            {
+              "q": "2. Name the three causes of Non-Cooperation.",
+              "a": "**Rowlatt Act**, **Jallianwala Bagh**, **Khilafat**."
+            },
+            {
+              "q": "3. Why was Non-Cooperation called off?",
+              "a": "**Chauri Chaura** violence (5 February 1922)."
+            },
+            {
+              "q": "4. What did the Lahore session declare?",
+              "a": "**Poorna Swaraj** (complete independence)."
+            },
+            {
+              "q": "5. Where did the Dandi March begin and end?",
+              "a": "From **Sabarmati Ashram** to **Dandi**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

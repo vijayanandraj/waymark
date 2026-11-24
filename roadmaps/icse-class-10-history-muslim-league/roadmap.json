@@ -1,0 +1,948 @@
+{
+  "title": "ICSE Class 10 History, Chapter 5: The Muslim League, Step by Step",
+  "subtitle": "For students who find history hard. British divide and rule, the concerns of the Muslim community and Sir Sayyid Ahmad Khan, the Hindi-Urdu controversy and the Simla deputation, the founding of the League and its objectives, its change of heart, and the Lucknow Pact, held together by one idea (a wedge, then a handshake), in small steps with model answers, quick checks, an exam toolkit and a last-minute revision sheet. Follows the ICSE Class 10 syllabus, Chapter 5 (The Muslim League), in the order of Total History & Civics.",
+  "updated": "2026-11-24",
+  "changelog": [
+    {
+      "date": "2026-11-24",
+      "text": "First version: the whole chapter in small steps, with model answers, quick checks, a last-minute revision sheet, a self-test and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** know the key words and dates this chapter uses, and the answer shape. Then the rest is easy.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea and the model answer, then do **Your turn**.\n- **Every answer is a point plus one fact:** a name, a date or a place. One point earns one mark.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: a wedge, then a handshake.** British **divide and rule**, and real Muslim **fears**, drove a **wedge** between Hindus and Muslims; the **Muslim League (1906)** grew out of it. The **Lucknow Pact (1916)** was a **handshake** across the wedge, but **separate electorates** kept it there.",
+          "links": [
+            {
+              "label": "Wikipedia: All-India Muslim League",
+              "url": "https://en.wikipedia.org/wiki/All-India_Muslim_League"
+            },
+            {
+              "label": "Last-minute revision sheet for this chapter",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-history-muslim-league#revision-sheet"
+            },
+            {
+              "label": "Previous chapter: 4. Second Phase of the Indian National Movement",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-history-second-phase-national-movement"
+            },
+            {
+              "label": "Next chapter: 6. Mahatma Gandhi and the National Movement",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-history-gandhi-national-movement"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 5, *The Muslim League*, of the History part of the ICSE Class 10 History and Civics syllabus. It follows the order of *Total History & Civics* for Class 10.\n\n**Who it is for.** Class 10 students who find history hard, and want to understand this chapter and score decent marks in it. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** A wedge, then a handshake. British divide and rule, and real Muslim fears, drove a wedge between Hindus and Muslims, and the Muslim League (1906) grew out of it. The Lucknow Pact (1916) was a handshake across the wedge, but separate electorates kept it there.\n\n**How it is different from the textbook.** The textbook mixes causes, events and later history together. Here one idea, **a wedge, then a handshake**, separates **British policy**, **Muslim concerns**, the **events of 1900 to 1906**, and the **Lucknow Pact**, in neutral language. Two textbook slips are flagged gently. Every answer is a **point plus one fact**, with fresh model answers.\n\n**What is inside.**\n- 10 milestones and 38 small steps. The 30 solid steps are the core path. The dashed ones are optional.\n- 37 practice questions with hidden answers.\n- 25 click-to-check questions that say right or wrong, and why: a quick check after each of the 5 main milestones, and a 10-question self-test.\n- A **last-minute revision sheet**: every date, key term, name and trap on one page.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: picture study and two structured challenge questions, and a section for teachers and parents with a 6-period lesson plan, the mistakes to watch for and a 5-minute exit ticket.\n\n**Can you trust it?** Dates, names and places follow the textbook, and the few slips found in it are pointed out gently. A computer program checks that every date sits in the right order and every click-to-check answer is marked right. All the model answers are written fresh, so students still get fresh practice from their textbook. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the ICSE syllabus but is not made or endorsed by CISCE or by any publisher. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Who led the 1906 deputation to Lord Minto?",
+              "a": "**The Aga Khan.** Wrong? Do *Who's who in this chapter*."
+            },
+            {
+              "q": "2. What is the 'wedge' in this chapter?",
+              "a": "**Divide and rule** and Muslim fears, which led to a **separate** Muslim party. Wrong? Do *A wedge, then a handshake*."
+            },
+            {
+              "q": "3. What is the 'handshake'?",
+              "a": "The **Lucknow Pact** (1916). Wrong? Do *A wedge, then a handshake*."
+            },
+            {
+              "q": "4. How many points for a 2-mark answer?",
+              "a": "**Two**, each with **one fact**. Wrong? Do *How ICSE asks, and the answer shape*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "whos-who",
+          "label": "Who's who in this chapter",
+          "type": "core",
+          "desc": "- **Sir Sayyid Ahmad Khan:** educationist; founded the college at **Aligarh**.\n- **Theodore Beck:** British principal of the Aligarh college.\n- **The Aga Khan:** led the Muslim deputation of 1906; permanent president of the League.\n- **Nawab Salimullah of Dacca:** took the lead in founding the League.\n- **Lord Minto:** Viceroy from 1905. **Lord Morley:** Secretary of State.\n- **Tilak, Annie Besant** and **M.A. Jinnah:** brought the Congress and the League together in 1916.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: who led the Muslim deputation to Lord Minto?",
+              "a": "**The Aga Khan.**"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "wedge-handshake",
+          "label": "A wedge, then a handshake",
+          "type": "core",
+          "desc": "This chapter has **one idea**. Picture two neighbours who once fought a common bully together (in **1857**).\n\n- The bully then **drove a wedge** between them: favours to one, fears planted in both.\n- One neighbour also had **real worries**: he was behind in school and jobs, and feared being outvoted.\n- So he formed **his own group**: the **Muslim League (1906)**.\n- Ten years later they **shook hands**: the **Lucknow Pact (1916)**.\n- But the wedge stayed: **separate electorates**.\n\nRemember: **wedge** (causes and founding), then **handshake** (the pact).",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: in the story, what was the 'wedge' that stayed even after the handshake?",
+              "a": "**Separate electorates** for Muslims, accepted by the Congress in the Lucknow Pact."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "answer-shape",
+          "label": "How ICSE asks, and the answer shape",
+          "type": "core",
+          "desc": "ICSE asks history in three ways.\n\n- **Multiple choice:** 1 mark. Pick one option.\n- **Short answer:** usually 2 marks. Write **two points**.\n- **Structured question:** parts (a), (b), (c), worth 3 or 4 marks each. Write **one point per mark**.\n\nEach point has **one fact**: a name, a date or a place. A point without a fact looks vague and loses marks.\n\n**Model answer.** *State two factors that led to the formation of the Muslim League.*\n\n- **Divide and rule:** after the 1870s the British favoured Muslims to weaken the national movement, for example by selling the **Partition of Bengal** as a Muslim-majority province.\n- **Sir Sayyid Ahmad Khan's** turn against the Congress: he said Muslims' interests lay with the British.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is wrong with this answer? 'The British wanted to divide people.'",
+              "a": "It has **no fact**. Add one: for example, *'The British sold the Partition of Bengal to Muslims as a new Muslim-majority province.'*"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "british-policy",
+      "label": "The wedge, part 1: British policy",
+      "desc": "**Goal:** explain how British policy pushed Muslims away from the national movement.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise II (short answers) on why the British treated Muslims harshly and then changed.",
+      "links": [],
+      "children": [
+        {
+          "id": "suspicion-to-favour",
+          "label": "From suspicion to favour",
+          "type": "core",
+          "desc": "- The British took power from the **Mughals**, who were Muslim rulers. Many Muslims **resented** them; some joined the **Wahabi** movement and **1857**.\n- **After 1857**, the British **blamed** Muslims for the revolt and **kept them out** of jobs.\n- **After the 1870s**, the policy flipped. To weaken the growing national movement, they began to **favour** Muslims and keep them away from it.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why did the British first treat Muslims harshly, then change?",
+              "a": "They **blamed** Muslims for **1857**. Later they **favoured** them to **split** the national movement."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "divide-rule-practice",
+          "label": "Divide and rule in practice",
+          "type": "core",
+          "desc": "- **1871:** Lord Mayo's government made **Urdu** the medium for Muslim schools and raised aid to Muslim institutions.\n- History was taught as **Hindu vs Muslim**: Muslim rulers as plunderers, Hindu rulers as cruel.\n- Hindus, Muslims and Sikhs were treated as **separate communities**, each with its own 'leaders'.\n- The **Partition of Bengal** was sold to Muslims as a **new Muslim-majority province**.\n- Communal hatred was spread through the **press, posters and books**.",
+          "links": [
+            {
+              "label": "Wikipedia: divide and rule",
+              "url": "https://en.wikipedia.org/wiki/Divide_and_rule"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: give two ways the British used divide and rule.",
+              "a": "They taught history as **Hindu vs Muslim**, and sold the **Partition of Bengal** to Muslims as a **Muslim-majority** province."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-british-policy",
+          "label": "Quick check: British policy",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "How did the British treat Muslims just after 1857?",
+              "options": [
+                "As equal partners",
+                "With suspicion: they blamed them for the revolt",
+                "With special favours",
+                "As rulers of India"
+              ],
+              "answer": 1,
+              "why": "The attitude changed only after the **1870s**. See *From suspicion to favour*."
+            },
+            {
+              "q": "What was the aim of 'divide and rule'?",
+              "options": [
+                "To share power with Indians",
+                "To divide India into states",
+                "To stop Hindus and Muslims uniting against British rule",
+                "To end the Congress"
+              ],
+              "answer": 2,
+              "why": "See *Divide and rule in practice*."
+            },
+            {
+              "q": "How did the British sell the Partition of Bengal to Muslims?",
+              "options": [
+                "As creating a new Muslim-majority province",
+                "As a famine relief plan",
+                "As ending British rule in the east",
+                "As a gift to the Congress"
+              ],
+              "answer": 0,
+              "why": "Nawab **Salimullah** of Dacca welcomed it. See *Divide and rule in practice*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "muslim-concerns",
+      "label": "The wedge, part 2: Muslim concerns",
+      "desc": "**Goal:** explain the real worries among Muslims that the British could exploit.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I (multiple choice) on Sir Sayyid, and Exercise II on backwardness, the Hindi-Urdu issue and communal history.",
+      "links": [],
+      "children": [
+        {
+          "id": "behind-education",
+          "label": "Behind in education and jobs",
+          "type": "core",
+          "desc": "- Many **upper-class Muslims** (zamindars, nobles) were **anti-British** and slow to take up **Western education** for most of the 1800s.\n- Government jobs needed **modern education**, so Muslims fell **behind** Hindus there.\n- Few Muslims were in **industry and trade**.\n- Jobs were scarce for **everyone**, so rivalry for them turned **communal**.\n\nBeing behind made many Muslims fear that in a **democracy** they would be **outvoted** by the Hindu majority.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: how did economic and educational backwardness feed communal feeling?",
+              "a": "Muslims were behind in **education and jobs**, so they feared being **left out**; British officials used this to set them against Hindus."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "sayyid-ahmad",
+          "label": "Sir Sayyid Ahmad Khan and Aligarh",
+          "type": "core",
+          "desc": "- A great **educationist** and reformer. He founded the **Mohammedan Anglo-Oriental (MAO) College** at **Aligarh** (1875), with Hindu and Muslim patrons.\n- **At first** he called Hindus and Muslims **one quam** (nation).\n- In the **1880s**, under the influence of **Theodore Beck**, he said their **political interests were different**.\n- He **opposed the Congress** and set up the **United Indian Patriotic Association** (1888).\n- He believed British rule **protected** Muslims, and loyal Muslims would be rewarded with **jobs**.\n\nAfter him, the British-backed **MAO Defence Association** (1893) kept Muslims away from politics.",
+          "links": [
+            {
+              "label": "Wikipedia: Syed Ahmad Khan",
+              "url": "https://en.wikipedia.org/wiki/Syed_Ahmad_Khan"
+            },
+            {
+              "label": "Wikipedia: Aligarh Muslim University",
+              "url": "https://en.wikipedia.org/wiki/Aligarh_Muslim_University"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: how did Sir Sayyid's view of Hindu-Muslim unity change?",
+              "a": "At first he called them **one nation**; in the **1880s** he said their **political interests were different** and opposed the Congress."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "history-symbols",
+          "label": "History and symbols that divided",
+          "type": "core",
+          "desc": "- Some historians split India's past into a **'Hindu period'** and a **'Muslim period'**, ignoring its **shared** culture.\n- Some **Assertive Nationalists** used **Hindu** symbols: Tilak's **Ganapati and Shivaji** festivals, the dips in the **Ganga** on partition day. These did not appeal to many Muslims.\n\nGandhi later said harmony was impossible while **distorted history** was taught in schools.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: how did the way history was taught help communalism?",
+              "a": "It divided India's past into **Hindu and Muslim periods**, painting the other side as **enemies**, and ignored the **shared** culture."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-muslim-concerns",
+          "label": "Quick check: Muslim concerns",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which college did Sir Sayyid Ahmad Khan found?",
+              "options": [
+                "The Mohammedan Anglo-Oriental College, Aligarh",
+                "Bengal National College",
+                "Deoband school",
+                "Fergusson College, Pune"
+              ],
+              "answer": 0,
+              "why": "It later became **Aligarh Muslim University**. See *Sir Sayyid Ahmad Khan and Aligarh*."
+            },
+            {
+              "q": "What were Sir Sayyid's early views on Hindus and Muslims?",
+              "options": [
+                "Muslims should rule India",
+                "Their interests were always different",
+                "They were one quam (nation)",
+                "They were two nations"
+              ],
+              "answer": 2,
+              "why": "He **changed** his views later, in the **1880s**. See *Sir Sayyid Ahmad Khan and Aligarh*."
+            },
+            {
+              "q": "Why did many Muslims lag behind in government jobs?",
+              "options": [
+                "They preferred the army",
+                "Fewer had taken up modern Western education",
+                "They did not live in cities",
+                "They were banned by law"
+              ],
+              "answer": 1,
+              "why": "Modern education was the **key** to government jobs. See *Behind in education and jobs*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "founding",
+      "label": "How the League was born, 1900 to 1906",
+      "desc": "**Goal:** trace the events that led to the founding of the Muslim League, and its objectives.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I on the deputation and first president, and Exercise II on the Hindi-Urdu controversy and the League's aims.",
+      "links": [],
+      "children": [
+        {
+          "id": "hindi-urdu",
+          "label": "The Hindi-Urdu controversy",
+          "type": "core",
+          "desc": "In the **United Provinces** (now Uttar Pradesh), **Urdu** was the language of the courts.\n\n- In **April 1900**, the government ordered that petitions could also be in **Hindi** (Devanagari), and notices issued in **both**.\n- Many Muslims saw this as a blow to **Urdu**.\n- **Nawab Mohsin-ul-Mulk** of Aligarh protested, and was told to stop or resign.\n- Muslim leaders began to say they needed **their own political body**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: how did the Hindi-Urdu controversy lead towards the League?",
+              "a": "Muslims saw the 1900 order as an attack on **Urdu**; when leaders were **pressed** to stop protesting, they felt they needed a **separate political organisation**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "simla-deputation",
+          "label": "The Simla deputation, 1906",
+          "type": "core",
+          "desc": "The British began planning **bigger councils** with elections. Some Muslim leaders feared being **outvoted**.\n\nOn **1 October 1906**, **35** Muslim leaders led by the **Aga Khan** met **Lord Minto** at **Simla**. They asked for:\n- seats by **political importance**, not just numbers;\n- **separate electorates** for Muslims;\n- **reserved** posts in government service, and aid for a **Muslim university**.\n\nMinto was **sympathetic**: he promised to protect their rights as a community.",
+          "links": [
+            {
+              "label": "Wikipedia: Simla Deputation",
+              "url": "https://en.wikipedia.org/wiki/Simla_Deputation"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: give two demands of the Simla deputation.",
+              "a": "**Separate electorates** for Muslims, and seats by **political importance**, not just numbers."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "league-born",
+          "label": "The League is born",
+          "type": "core",
+          "desc": "Encouraged by Minto, **Nawab Salimullah of Dacca** called a meeting at **Dacca**. On **30 December 1906**, the **All-India Muslim League** was founded. The **Aga Khan** became its **permanent president**.\n\n**Its objectives:**\n- promote **loyalty to the British** among Muslims;\n- **protect and advance** Muslims' political rights and interests;\n- put Muslim needs to the government in **moderate** language;\n- prevent **hostility** between Muslims and other communities.\n\n**Model answer.** *State two objectives of the Muslim League.*\n\n- To promote **loyalty to the British** government among Muslims.\n- To **protect and advance** the political rights and interests of Muslims.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: when and where was the Muslim League founded?",
+              "a": "At **Dacca**, on **30 December 1906**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-founding",
+          "label": "Quick check: how the League was born",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Who led the Muslim deputation to Lord Minto at Simla in 1906?",
+              "options": [
+                "M.A. Jinnah",
+                "Nawab Salimullah",
+                "Sir Sayyid Ahmad Khan",
+                "The Aga Khan"
+              ],
+              "answer": 3,
+              "why": "**35** Muslim leaders, led by the **Aga Khan**. See *The Simla deputation, 1906*."
+            },
+            {
+              "q": "What was the deputation's key demand?",
+              "options": [
+                "Separate electorates for Muslims",
+                "Abolition of the Congress",
+                "Full independence",
+                "Return of the Mughal emperor"
+              ],
+              "answer": 0,
+              "why": "Muslims to elect **Muslim** members **separately**. See *The Simla deputation, 1906*."
+            },
+            {
+              "q": "Where was the Muslim League founded?",
+              "options": [
+                "Dacca",
+                "Aligarh",
+                "Lahore",
+                "Lucknow"
+              ],
+              "answer": 0,
+              "why": "At **Dacca**, 30 December 1906. Its office moved to **Lucknow** in 1910. See *The League is born*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "early-league",
+      "label": "The early League, and its change of heart",
+      "desc": "**Goal:** describe what the League did at first, and why it moved closer to the Congress by 1913.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I on the League's early politics, and Exercise II on its change of attitude.",
+      "links": [],
+      "children": [
+        {
+          "id": "league-at-first",
+          "label": "What the League did at first",
+          "type": "core",
+          "desc": "- It stood **apart** from the national movement; it opposed the **anti-partition**, Swadeshi and boycott movements.\n- Its politics were aimed more at the **Congress** than at the British.\n- Its leaders were **upper-class**; it did little for ordinary Muslims.\n- With Minto's help it won **separate electorates** in the **Morley-Minto Reforms (1909)**: seats where only Muslims voted, for Muslim candidates.\n\nSeparate electorates were the **wedge** made into law.",
+          "links": [
+            {
+              "label": "Wikipedia: Indian Councils Act 1909 (Morley-Minto Reforms)",
+              "url": "https://en.wikipedia.org/wiki/Indian_Councils_Act_1909"
+            },
+            {
+              "label": "Wikipedia: separate electorates",
+              "url": "https://en.wikipedia.org/wiki/Separate_electorate"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what were separate electorates?",
+              "a": "Seats reserved for Muslims, where **only Muslims voted** for **Muslim candidates**. They came with the **Morley-Minto Reforms** (1909)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "moving-closer",
+          "label": "Why the League moved closer",
+          "type": "core",
+          "desc": "Between **1911 and 1913**, things changed:\n\n- Britain was **hostile to Turkey** in the Turko-Italian and **Balkan wars**. The Sultan of Turkey was the **Caliph**, the religious head of Muslims.\n- The **annulment** of the Partition of Bengal (1911) upset many Muslims.\n- **Younger leaders** disliked the loyalist Nawabs: **Maulana Abul Kalam Azad**, the **Ali brothers**, Hakim Ajmal Khan.\n- In **1913**, the League made **self-government under the British Crown** its goal: the **same** as the Congress.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: give two reasons the League moved closer to the Congress.",
+              "a": "Britain's **hostility to Turkey**, whose Sultan was the Caliph; and in 1913 the League took up **self-government**, like the Congress."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-early-league",
+          "label": "Quick check: the early League",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which statement is true of the early Muslim League?",
+              "options": [
+                "It wanted complete independence",
+                "Its politics were aimed more against the Congress than the British",
+                "It led the Swadeshi movement",
+                "It was led by peasants"
+              ],
+              "answer": 1,
+              "why": "It began as a **loyal** body. See *What the League did at first*."
+            },
+            {
+              "q": "Which reform of 1909 gave Muslims separate electorates?",
+              "options": [
+                "The Indian Councils Act, 1892",
+                "The Morley-Minto Reforms",
+                "The Government of India Act, 1858",
+                "The Lucknow Pact"
+              ],
+              "answer": 1,
+              "why": "See *What the League did at first*."
+            },
+            {
+              "q": "Which made League leaders want to work with the Congress?",
+              "options": [
+                "Britain's hostility to Turkey",
+                "Separate electorates",
+                "The drain theory",
+                "The two-nation theory"
+              ],
+              "answer": 0,
+              "why": "The Sultan of Turkey was the **Caliph**. See *Why the League moved closer*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "lucknow",
+      "label": "The handshake: the Lucknow Pact, 1916",
+      "desc": "**Goal:** explain how the Lucknow Pact came about, its main clauses, why it mattered and its weaknesses.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I on the pact, Exercise II on its significance, and Exercise III (structured).",
+      "links": [],
+      "children": [
+        {
+          "id": "pact-came-about",
+          "label": "How the pact came about",
+          "type": "core",
+          "desc": "- **1914:** Tilak was **released** from Mandalay.\n- **Annie Besant** and **Tilak** worked to unite the Early and Assertive Nationalists, and the Congress and the League. **M.A. Jinnah**, then in both parties, helped.\n- **1915:** both parties met at **Bombay** and drew up a **joint plan** of reforms.\n- **1916:** at **Lucknow**, both adopted it: the **Lucknow Pact**.\n\n(Your textbook links the pact to the Khilafat movement, but Khilafat came **later**, in 1919 to 1920.)",
+          "links": [
+            {
+              "label": "Wikipedia: Lucknow Pact",
+              "url": "https://en.wikipedia.org/wiki/Lucknow_Pact"
+            },
+            {
+              "label": "Wikipedia: Annie Besant",
+              "url": "https://en.wikipedia.org/wiki/Annie_Besant"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: which two leaders played a big role in the Lucknow Pact?",
+              "a": "**Bal Gangadhar Tilak** and **Annie Besant**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "pact-clauses",
+          "label": "What the pact said",
+          "type": "core",
+          "desc": "- Abolish the **India Council** in London.\n- Councils with **four-fifths elected** members.\n- **Separate electorates** for Muslims, with a large share: **50%** in Punjab, **40%** in Bengal, **30%** in UP.\n- An Imperial Council of **150**; **one-third** of the elected members to be Muslims.\n- **Half** of the Viceroy's Executive Council to be **Indians**.\n- **Communal veto:** no bill if **three-fourths** of a community's members opposed it.\n- **Autonomy** for the provinces; **separate** the judiciary from the executive.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: name two clauses of the Lucknow Pact.",
+              "a": "**Separate electorates** for Muslims, and **half** of the Viceroy's Executive Council to be **Indians**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "pact-mattered",
+          "label": "Why the pact mattered",
+          "type": "core",
+          "desc": "- **Hindu-Muslim unity:** both sides gave something. The Congress accepted **separate electorates**; the League accepted **elections and majority rule**.\n- **Congress reunited:** the Early and Assertive Nationalists came back together. The president, Ambica Charan Majumdar, said the Congress **buried at Surat** was **reborn at Lucknow**.\n- **Pressure worked:** the British promised **gradual self-government** on **20 August 1917**.\n\n**Model answer.** *State two points of significance of the Lucknow Pact.*\n\n- It brought **Hindu-Muslim unity** for a time: the Congress and the League made a **joint** demand.\n- It **reunited** the Early and Assertive Nationalists, and pushed the British to promise **self-government** (20 August 1917).",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why was the Congress 'reborn at Lucknow'?",
+              "a": "The **Early and Assertive Nationalists**, split since **Surat (1907)**, came **together** again."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "pact-weaknesses",
+          "label": "The pact's weaknesses",
+          "type": "core",
+          "desc": "- It involved only the **educated and rich**, not the **masses**.\n- It stressed **separate** Hindu and Muslim interests.\n- By accepting **separate electorates**, the Congress gave up part of its **secular** stand; it paved the way for later **communal** trouble.\n- Muslims got **more** seats than their share of the population in some places.\n- The **communal veto** could block laws.\n- It was only a **truce**: the League stayed a **separate** body.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: give two weaknesses of the Lucknow Pact.",
+              "a": "It **did not involve the masses**, and by accepting **separate electorates** the Congress weakened its **secular** character."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-lucknow",
+          "label": "Quick check: the Lucknow Pact",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which two leaders did most to bring about the Lucknow Pact?",
+              "options": [
+                "Sayyid Ahmad and Beck",
+                "Salimullah and Minto",
+                "Gokhale and Naoroji",
+                "Tilak and Annie Besant"
+              ],
+              "answer": 3,
+              "why": "(With **Jinnah** on the League side.) See *How the pact came about*."
+            },
+            {
+              "q": "What did the Congress accept in the Lucknow Pact?",
+              "options": [
+                "The two-nation theory",
+                "Separate electorates for Muslims",
+                "British rule forever",
+                "The Partition of Bengal"
+              ],
+              "answer": 1,
+              "why": "This weakened its **secular** stand. See *What the pact said*."
+            },
+            {
+              "q": "Which was a weakness of the Lucknow Pact?",
+              "options": [
+                "It united the two wings of the Congress",
+                "It brought Hindus and Muslims together",
+                "It did not involve the masses",
+                "It pressed the British for reforms"
+              ],
+              "answer": 2,
+              "why": "The other three are its **strengths**. See *The pact's weaknesses*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "exam-toolkit",
+      "label": "Exam toolkit: words and reasons",
+      "desc": "**Goal:** collect the easy marks: key terms, answers in the right shape, 'why' questions and dates.",
+      "links": [],
+      "children": [
+        {
+          "id": "key-terms",
+          "label": "Key terms to learn word for word",
+          "type": "core",
+          "desc": "- **Divide and rule:** the British policy of setting communities against each other to keep their own power.\n- **Communalism:** putting the interests of one's own religious community above those of the nation.\n- **Separate electorate:** a system where seats are reserved for a community and only its members vote for its candidates.\n- **Simla deputation (1906):** 35 Muslim leaders, led by the Aga Khan, who asked Lord Minto for separate electorates.\n- **Lucknow Pact (1916):** the joint scheme of reforms agreed by the Congress and the Muslim League at Lucknow.\n- **Communal veto:** the rule that a bill could not proceed if three-fourths of a community's members opposed it.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: cover the list. What is a separate electorate?",
+              "a": "A system in which seats are **reserved** for a community and **only its members vote** for its candidates."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "right-shape",
+          "label": "Answers in the right shape",
+          "type": "core",
+          "desc": "**Short answer (2 marks):** two points, each with **one fact**.\n\n**Structured part (3 or 4 marks):** one point per mark. Start each point on a **new line**. Keep each to **one or two sentences**.\n\n**Model answer.** *Describe three clauses of the Lucknow Pact. (3 marks)*\n\n- **Separate electorates** for Muslims in the councils.\n- **Half** of the members of the Viceroy's Executive Council to be **Indians**.\n- The **India Council** of the Secretary of State to be **abolished**.\n\n**Three things that lose marks:** saying the League was founded at **Aligarh** (it was **Dacca**); giving **Jinnah** as the leader of the Simla deputation (it was the **Aga Khan**); writing about 'unity' with **no clause or example**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: write a 2-mark answer. 'Why did the Muslim League change its attitude towards the British after 1911?'",
+              "a": "Britain was **hostile to Turkey**, whose Sultan was the **Caliph**, and the **annulment** of the Partition of Bengal in 1911 upset many Muslims."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "why-questions",
+          "label": "'Why' questions: model answers",
+          "type": "core",
+          "desc": "Try each one in your notebook before you open it.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Why did the British favour Muslims after the 1870s?",
+              "a": "To keep them **away** from the national movement and **weaken** it."
+            },
+            {
+              "q": "Why did many Muslims welcome the Partition of Bengal?",
+              "a": "They were told it created a **Muslim-majority** province in the east."
+            },
+            {
+              "q": "Why did the Simla deputation ask for separate electorates?",
+              "a": "They feared that in general elections Muslims, a **minority**, would be **outvoted**."
+            },
+            {
+              "q": "Why was the Lucknow Pact called a temporary truce?",
+              "a": "The League stayed a **separate** body that saw Muslim interests as **apart** from Hindu ones."
+            },
+            {
+              "q": "Why did the Congress accept separate electorates in 1916?",
+              "a": "It wanted **unity** with the League to put stronger **pressure** on the British."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "timeline",
+          "label": "Dates to learn",
+          "type": "core",
+          "desc": "Read it top to bottom. Say each line aloud once.\n\n- **1871:** Lord Mayo's resolution on Muslim education.\n- **1875:** MAO College, Aligarh.\n- **1888:** United Indian Patriotic Association.\n- **1893:** MAO Defence Association.\n- **April 1900:** Hindi-Urdu order, United Provinces.\n- **1905:** Partition of Bengal.\n- **1 October 1906:** Simla deputation to Lord Minto.\n- **30 December 1906:** Muslim League founded at Dacca.\n- **1909:** Morley-Minto Reforms: separate electorates.\n- **1911:** Partition of Bengal annulled.\n- **1913:** League adopts self-government as its goal.\n- **1916:** Lucknow Pact.\n- **20 August 1917:** British promise of gradual self-government.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which came first, separate electorates or the Lucknow Pact?",
+              "a": "**Separate electorates** (1909); the Congress **accepted** them in the pact (1916)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "picture-study",
+          "label": "Picture study: who is this?",
+          "type": "optional",
+          "desc": "The exam may show a **picture** and ask who it is. Then it asks two or three facts. For each person, learn **who** and **two facts**.\n\n- **Sir Sayyid Ahmad Khan:** **MAO College**, Aligarh; turned against the Congress.\n- **The Aga Khan:** led the **Simla deputation**; permanent president of the League.\n- **Nawab Salimullah:** took the lead in founding the League at **Dacca**.\n- **Lord Minto:** Viceroy who received the deputation; **Morley-Minto Reforms**.\n- **Annie Besant:** helped bring about the **Lucknow Pact**.\n- **M.A. Jinnah:** then a member of both parties; helped make the pact.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a picture of Sir Sayyid Ahmad Khan. Name the college he founded.",
+              "a": "The **Mohammedan Anglo-Oriental College** at **Aligarh**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: last-minute revision and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Read the sheet the night before the exam and again on the morning.",
+      "links": [],
+      "children": [
+        {
+          "id": "revision-sheet",
+          "label": "Last-minute revision sheet",
+          "type": "core",
+          "desc": "**The one idea:** **a wedge, then a handshake.** British **divide and rule**, and real Muslim fears, drove a **wedge** between Hindus and Muslims; the **Muslim League (1906)** grew out of it. The **Lucknow Pact (1916)** was a **handshake** across the wedge, but **separate electorates** kept it there.\n\n**Dates to know**\n- **1875** MAO College, Aligarh (Sir Sayyid). **1888** United Indian Patriotic Association. **1893** MAO Defence Association.\n- **April 1900** Hindi-Urdu order in the United Provinces. **1905** Partition of Bengal.\n- **1 October 1906** Simla deputation to **Lord Minto**, led by the **Aga Khan**. **30 December 1906** Muslim League founded at **Dacca**.\n- **1909** Morley-Minto Reforms: **separate electorates**. **1911** Partition annulled. **1913** League adopts **self-government**.\n- **1916** Lucknow Pact. **20 August 1917** British promise of **gradual self-government**.\n\n**Key terms**\n- **Divide and rule:** British policy of setting communities against each other to keep power.\n- **Communalism:** putting one's religious community's interests above the nation's.\n- **Separate electorate:** seats where only **Muslims vote**, for **Muslim** candidates.\n- **Lucknow Pact (1916):** joint Congress-League scheme of reforms.\n- **Communal veto:** a bill stops if **three-fourths** of a community's members oppose it.\n\n**Key points**\n- **British policy:** suspicion after 1857, **favour** after the 1870s; Urdu and aid (1871); history taught as **Hindu vs Muslim**; Partition of Bengal sold as a **Muslim-majority** province.\n- **Muslim concerns:** behind in **education, trade, jobs**; fear of a **Hindu majority**; **Sir Sayyid** turned against the Congress (influenced by **Theodore Beck**); religious symbols of some Assertives (festivals, Ganga dips); jobs scarce for all.\n- **Events:** Hindi-Urdu order; Partition of Bengal; Simla deputation; founding at Dacca under **Nawab Salimullah**'s lead; **Aga Khan** permanent president.\n- **Objectives:** loyalty to the British; protect Muslim **rights and interests**; present Muslim needs politely; prevent **hostility** with other communities.\n- **Change of heart (1911 to 1913):** Britain against **Turkey**; partition **annulled**; younger leaders (**Abul Kalam Azad**, Ali brothers); self-government goal (1913).\n- **Pact clauses:** abolish India Council; **4/5 elected** councils; **separate electorates**, Muslims 50% in Punjab, 40% in Bengal, 30% in UP; Imperial Council of **150**, **1/3** of elected Muslims; **half** of the Viceroy's Council Indian; **communal veto**; provincial **autonomy**.\n- **Significance:** Hindu-Muslim **unity**; Early and Assertive **reunited**; pushed Britain to the **20 August 1917** promise.\n- **Weaknesses:** **no masses**; stressed **separate** interests; Congress gave up its **secular** stand; communal veto; only a **truce**.\n\n**Traps:** the deputation was led by the **Aga Khan**, received by **Lord Minto**; the League was founded at **Dacca**, not Aligarh. Separate electorates came by **Morley-Minto (1909)**, and the Congress **accepted** them at **Lucknow (1916)**. Tilak and **Annie Besant** brought the two together.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "After the 1870s, the British policy towards Muslims became one of:",
+              "options": [
+                "open punishment",
+                "equal treatment for all",
+                "appeasement and favour",
+                "total neglect"
+              ],
+              "answer": 2,
+              "why": "To **weaken** the national movement. See *From suspicion to favour*."
+            },
+            {
+              "q": "Who influenced Sir Sayyid Ahmad Khan to oppose the Congress?",
+              "options": [
+                "A.O. Hume",
+                "Lord Curzon",
+                "Theodore Beck",
+                "Annie Besant"
+              ],
+              "answer": 2,
+              "why": "Beck was the British principal of the **MAO College**. See *Sir Sayyid Ahmad Khan and Aligarh*."
+            },
+            {
+              "q": "What did the government order in the United Provinces in 1900?",
+              "options": [
+                "Urdu to be banned",
+                "Petitions could be in Hindi (Devanagari) as well as Urdu",
+                "Separate courts for Muslims",
+                "Only English in courts"
+              ],
+              "answer": 1,
+              "why": "Many Muslims **resented** it. See *The Hindi-Urdu controversy*."
+            },
+            {
+              "q": "How many Muslim leaders went to Simla in 1906?",
+              "options": [
+                "35",
+                "150",
+                "72",
+                "15"
+              ],
+              "answer": 0,
+              "why": "72 was the number at the **first Congress**. See *The Simla deputation, 1906*."
+            },
+            {
+              "q": "Which was an objective of the Muslim League at its birth?",
+              "options": [
+                "To start a boycott",
+                "To promote loyalty to the British among Muslims",
+                "To end separate electorates",
+                "To win complete independence"
+              ],
+              "answer": 1,
+              "why": "See *The League is born*."
+            },
+            {
+              "q": "Who was made permanent president of the Muslim League?",
+              "options": [
+                "M.A. Jinnah",
+                "Nawab Salimullah",
+                "Sir Sayyid Ahmad Khan",
+                "The Aga Khan"
+              ],
+              "answer": 3,
+              "why": "Salimullah of Dacca **took the lead** in founding it. See *The League is born*."
+            },
+            {
+              "q": "In 1913, the League changed its goal to:",
+              "options": [
+                "a separate state",
+                "rule by Turkey",
+                "self-government under the British Crown",
+                "complete independence"
+              ],
+              "answer": 2,
+              "why": "This matched the **Congress** goal. See *Why the League moved closer*."
+            },
+            {
+              "q": "Under the Lucknow Pact, what share of the elected seats in Punjab were to go to Muslims?",
+              "options": [
+                "50%",
+                "One-third",
+                "40%",
+                "30%"
+              ],
+              "answer": 0,
+              "why": "See *What the pact said*."
+            },
+            {
+              "q": "'If the united Congress was buried at Surat, it is reborn at Lucknow.' Why?",
+              "options": [
+                "Tilak became Viceroy",
+                "The British accepted Swaraj",
+                "The League joined the Congress",
+                "The Early and Assertive Nationalists came together again"
+              ],
+              "answer": 3,
+              "why": "See *Why the pact mattered*."
+            },
+            {
+              "q": "What was the 'communal veto'?",
+              "options": [
+                "The Viceroy could reject any bill",
+                "Each province could leave India",
+                "A bill could not proceed if three-fourths of a community's members opposed it",
+                "Muslims could veto Congress resolutions"
+              ],
+              "answer": 2,
+              "why": "See *The pact's weaknesses*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These are like the harder questions at the end of the chapter. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "structured-formation",
+          "label": "Structured question: the formation of the League",
+          "type": "optional",
+          "desc": "A structured question in three parts. Write your answer first, then open the box.\n\n- (a) How did British policy towards Muslims change after 1857? (3 marks)\n- (b) What did the Simla deputation ask for? (3 marks)\n- (c) State the League's objectives. (4 marks)",
+          "links": [],
+          "faq": [
+            {
+              "q": "Model answer",
+              "a": "(a) At first the British **blamed** Muslims for 1857 and kept them out of jobs; after the 1870s they **favoured** them to weaken the national movement.\n\n(b) **Separate electorates**; seats by **political importance**; **reserved** government posts (1 October 1906, led by the **Aga Khan**).\n\n(c) **Loyalty** to the British; protecting Muslims' **rights and interests**; presenting their needs **moderately**; preventing **hostility** with other communities."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "structured-lucknow",
+          "label": "Structured question: the Lucknow Pact",
+          "type": "optional",
+          "desc": "A structured question in three parts. Write your answer first, then open the box.\n\n- (a) What led the League and the Congress to come together? (3 marks)\n- (b) Name three clauses of the pact. (3 marks)\n- (c) Give its significance and two weaknesses. (4 marks)",
+          "links": [],
+          "faq": [
+            {
+              "q": "Model answer",
+              "a": "(a) Britain's **hostility to Turkey**; the **annulment** of the partition; the League's new goal of **self-government** (1913); the efforts of **Tilak and Annie Besant**.\n\n(b) **Separate electorates**; **half** the Viceroy's Council to be Indians; **abolition** of the India Council.\n\n(c) It brought **Hindu-Muslim unity** and **reunited** the Congress. But it **left out the masses** and accepted **separate electorates**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThe syllabus asks for the factors behind the League's formation, its objectives, and a brief mention of the Lucknow Pact's significance. This is a sensitive topic: the roadmap keeps to causes and facts and avoids blaming any community.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- Use the **wedge and handshake** story; it keeps the chapter from becoming a list.\n- Separate **British policy** (what was done to people) from **Muslim concerns** (real worries); students need both.\n- Keep the language **neutral**: talk about policies and fears, not about who was 'good' or 'bad'.\n- Make one **timeline card**: 1875, 1888, 1900, 1905, 1906, 1909, 1913, 1916.\n- Note two textbook slips if asked: the pact came **before** Khilafat, and the Aga Khan was the League's **permanent president** while Salimullah took the lead in founding it.\n- Insist on **one fact per point**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 6-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** The wedge and handshake; British policy from suspicion to favour; divide and rule.\n- **Period 2:** Muslim concerns; Sir Sayyid and Aligarh; history and symbols. Exercise II.\n- **Period 3:** Hindi-Urdu order; Simla deputation; founding and objectives. Exercise I.\n- **Period 4:** The early League; separate electorates; change of heart.\n- **Period 5:** The Lucknow Pact: how, what, why it mattered, weaknesses. Activity: debate 'Was the pact a success?'\n- **Period 6:** Revision sheet, self-test, exit ticket; Exercise III.",
+          "links": [
+            {
+              "label": "Wikipedia: All-India Muslim League",
+              "url": "https://en.wikipedia.org/wiki/All-India_Muslim_League"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Saying the League was founded at **Aligarh** or **Lucknow** (it was **Dacca**).\n- Naming **Jinnah** as leader of the Simla deputation.\n- Saying separate electorates came **with** the Lucknow Pact (they came in **1909**; the Congress accepted them in 1916).\n- Putting the pact **after** the Khilafat movement.\n- Writing a one-sided, blaming answer instead of **causes with facts**.\n- Listing pact clauses with **no numbers or names**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. When and where was the League founded?",
+              "a": "**30 December 1906**, at **Dacca**."
+            },
+            {
+              "q": "2. Who led the Simla deputation?",
+              "a": "**The Aga Khan.**"
+            },
+            {
+              "q": "3. Which reforms gave separate electorates?",
+              "a": "The **Morley-Minto Reforms** (1909)."
+            },
+            {
+              "q": "4. Name one clause of the Lucknow Pact.",
+              "a": "**Separate electorates** for Muslims (or half the Viceroy's Council to be Indians)."
+            },
+            {
+              "q": "5. Give one weakness of the pact.",
+              "a": "It **did not involve the masses**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "stages": [
+    "school"
+  ],
+  "level": "beginner",
+  "lang": "en",
+  "authors": [
+    {
+      "name": "vijayanandraj",
+      "url": "https://github.com/vijayanandraj"
+    }
+  ],
+  "license": "CC-BY-SA-4.0",
+  "audience": "ICSE Class 10 students who find history hard, and their teachers and parents: Chapter 13, The United Nations",
+  "subject": "humanities",
+  "follows": "ICSE Class 10 History (Total History & Civics, Chapter 13: The United Nations)",
+  "tags": [
+    "history",
+    "icse",
+    "class 10",
+    "united nations",
+    "security council",
+    "step by step"
+  ]
+}

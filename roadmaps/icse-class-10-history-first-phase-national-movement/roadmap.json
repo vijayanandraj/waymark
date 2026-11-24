@@ -1,0 +1,973 @@
+{
+  "title": "ICSE Class 10 History, Chapter 3: First Phase of the Indian National Movement, Step by Step",
+  "subtitle": "For students who find history hard. Who the Early Nationalists were, their demands, their methods (the three Ps), what they achieved and where they fell short, and the contributions of Dadabhai Naoroji, Surendranath Banerjee and Gopal Krishna Gokhale, held together by one idea (ask politely, inside the law), in small steps with model answers, quick checks, an exam toolkit and a last-minute revision sheet. Follows the ICSE Class 10 syllabus, Chapter 3 (First Phase of the Indian National Movement), in the order of Total History & Civics.",
+  "updated": "2026-11-24",
+  "changelog": [
+    {
+      "date": "2026-11-24",
+      "text": "First version: the whole chapter in small steps, with model answers, quick checks, a last-minute revision sheet, a self-test and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** know the key words and dates this chapter uses, and the answer shape. Then the rest is easy.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea and the model answer, then do **Your turn**.\n- **Every answer is a point plus one fact:** a name, a date or a place. One point earns one mark.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: ask politely, inside the law.** The Early Nationalists trusted British **fair play**, used the **three Ps** (petitions, prayers, protests), and wanted a **bigger share** in government **step by step**. They won little, but they **woke India up** and **exposed the drain**.",
+          "links": [
+            {
+              "label": "Simple Wikipedia: Indian National Congress (free, easy English)",
+              "url": "https://simple.wikipedia.org/wiki/Indian_National_Congress"
+            },
+            {
+              "label": "Last-minute revision sheet for this chapter",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-history-first-phase-national-movement#revision-sheet"
+            },
+            {
+              "label": "Previous chapter: 2. Growth of Nationalism",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-history-growth-of-nationalism"
+            },
+            {
+              "label": "Next chapter: 4. Second Phase of the Indian National Movement",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-history-second-phase-national-movement"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 3, *First Phase of the Indian National Movement*, of the History part of the ICSE Class 10 History and Civics syllabus. It follows the order of *Total History & Civics* for Class 10.\n\n**Who it is for.** Class 10 students who find history hard, and want to understand this chapter and score decent marks in it. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** The Early Nationalists (1885 to 1907) asked politely, inside the law. They trusted British fair play, used petitions, prayers and protests, and wanted a bigger share in government step by step. They won little, but they woke India up and exposed the drain of wealth.\n\n**How it is different from the textbook.** The textbook gives long lists of demands, methods and biographies. Here they hang on one idea, **ask politely, inside the law**: demands are sorted into four boxes, methods into two aims, and each leader gets a short card with two contributions. Every answer is a **point plus one fact**, with fresh model answers.\n\n**What is inside.**\n- 10 milestones and 40 small steps. The 32 solid steps are the core path. The dashed ones are optional.\n- 39 practice questions with hidden answers.\n- 25 click-to-check questions that say right or wrong, and why: a quick check after each of the 5 main milestones, and a 10-question self-test.\n- A **last-minute revision sheet**: every date, key term, name and trap on one page.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: picture study and two structured challenge questions, and a section for teachers and parents with a 6-period lesson plan, the mistakes to watch for and a 5-minute exit ticket.\n\n**Can you trust it?** Dates, names and places follow the textbook, and the few slips found in it are pointed out gently. A computer program checks that every date sits in the right order and every click-to-check answer is marked right. All the model answers are written fresh, so students still get fresh practice from their textbook. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the ICSE syllabus but is not made or endorsed by CISCE or by any publisher. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Who were the Early Nationalists?",
+              "a": "The **first leaders** of the Congress (1885 to 1907). Wrong? Do *Who's who in this chapter*."
+            },
+            {
+              "q": "2. Did they want freedom at once?",
+              "a": "**No**: more **share in government, step by step**. Wrong? Do *Ask politely, inside the law*."
+            },
+            {
+              "q": "3. Name one of the three Ps.",
+              "a": "**Petitions** (or prayers, or protests). Wrong? Do *Ask politely, inside the law*."
+            },
+            {
+              "q": "4. How many points for a 2-mark answer?",
+              "a": "**Two**, each with **one fact**. Wrong? Do *How ICSE asks, and the answer shape*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "whos-who",
+          "label": "Who's who in this chapter",
+          "type": "core",
+          "desc": "- **Early Nationalists** (also called **Moderates**): the first leaders of the Congress.\n- **Three big names:** **Dadabhai Naoroji**, **Surendranath Banerjee** and **Gopal Krishna Gokhale**.\n- Others: W.C. Bonnerjee, Pherozeshah Mehta, Justice **M.G. Ranade**, R.C. Dutt, Madan Mohan Malaviya.\n- **Viceroys:** **Lord Dufferin** (when the Congress began), **Lord Curzon** (who partitioned Bengal in 1905).\n- **ICS:** the Indian Civil Service, the top government jobs.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: name three Early Nationalist leaders.",
+              "a": "**Dadabhai Naoroji**, **Surendranath Banerjee** and **Gopal Krishna Gokhale**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ask-politely",
+          "label": "Ask politely, inside the law",
+          "type": "core",
+          "desc": "This chapter has **one idea**. Imagine students who want a longer lunch break.\n\n- They trust the principal is **fair**.\n- They write a polite **letter** with facts, ask **again**, and complain **politely** if refused.\n- They never break rules or walk out.\n\nThat is the Early Nationalists. They trusted British **fair play** and used the **three Ps: petitions, prayers, protests**. They wanted a **bigger share** in government **step by step**, not freedom at once. They won only **small** reforms. But they **woke India up**, and showed how British rule **drained** India.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: would an Early Nationalist lead a boycott of British goods? Why or why not?",
+              "a": "**No.** They used only **polite, legal** methods (petitions, prayers, protests). Boycott came in the **next phase**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "answer-shape",
+          "label": "How ICSE asks, and the answer shape",
+          "type": "core",
+          "desc": "ICSE asks history in three ways.\n\n- **Multiple choice:** 1 mark. Pick one option.\n- **Short answer:** usually 2 marks. Write **two points**.\n- **Structured question:** parts (a), (b), (c), worth 3 or 4 marks each. Write **one point per mark**.\n\nEach point has **one fact**: a name, a date or a place. A point without a fact looks vague and loses marks.\n\n**Model answer.** *Mention two methods of the Early Nationalists.*\n\n- **Petitions:** carefully drafted petitions with facts were sent to the government and the British Parliament.\n- **Propaganda in Britain:** a British Committee of the Congress was set up in London (1889) with a weekly, *India*.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is wrong with this answer? 'They used peaceful methods.'",
+              "a": "It has **no fact**. Add one: for example, *'They sent petitions to the British Parliament.'*"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "who",
+      "label": "Who the Early Nationalists were",
+      "desc": "**Goal:** say who led the Congress from 1885 to 1907, and what they believed.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I (multiple choice) on their aims and beliefs, and Exercise II (short answers) on the period and its leaders.",
+      "links": [],
+      "children": [
+        {
+          "id": "three-phases",
+          "label": "Three phases of the national movement",
+          "type": "core",
+          "desc": "The freedom struggle is split into **three phases**:\n\n- **Early Nationalist phase:** 1885 to 1907.\n- **Assertive phase:** 1907 to 1916.\n- **Gandhian era:** 1915 to 1947.\n\nThis chapter is the **first** phase. Remember it as **1885 to 1907**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which phase came between the Early Nationalists and Gandhi?",
+              "a": "The **Assertive phase** (1907 to 1916)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "who-were-they",
+          "label": "The educated middle class",
+          "type": "core",
+          "desc": "- They were from the **educated middle class**: **lawyers, teachers, journalists, officials**.\n- Many studied in **England** and admired **Western** ideas of liberty and democracy.\n- They came from **all over India**: Bengal, Bombay, Madras, the United Provinces.\n- Some **liberal Englishmen** helped too, like **Hume** and **Wedderburn**.\n\nThey were **loyal to the British Crown**. They wanted Indians to have their **proper share** in government.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: to which section of society did the Early Nationalists belong?",
+              "a": "The **educated middle class**: lawyers, teachers, journalists and officials, many educated in **England**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "their-beliefs",
+          "label": "What they believed about British rule",
+          "type": "core",
+          "desc": "- The British had a strong sense of **justice and fair play**. They simply **did not know** the real state of India.\n- British rule had **benefits**: it helped remove evils like **sati and child marriage**.\n- India's real obstacle was its own **social and economic backwardness**, not British rule.\n- Britain would help India learn to **govern itself** the Western way.\n- So: be **patient**, use **peaceful** methods, avoid **confrontation**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: give two reasons for the Early Nationalists' faith in the British.",
+              "a": "They believed the British had a strong sense of **justice and fair play**. They thought British rule had brought **benefits**, like ending sati."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-who",
+          "label": "Quick check: who they were",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which period is called the period of the Early Nationalists?",
+              "options": [
+                "1885 to 1907",
+                "1907 to 1916",
+                "1915 to 1947",
+                "1857 to 1885"
+              ],
+              "answer": 0,
+              "why": "1907 to 1916 is the **Assertive** phase; 1915 onwards the **Gandhian** era. See *Three phases of the national movement*."
+            },
+            {
+              "q": "Which group did most Early Nationalists come from?",
+              "options": [
+                "Peasants and labourers",
+                "The educated middle class: lawyers, teachers, officials",
+                "Princes and zamindars",
+                "Soldiers of the British army"
+              ],
+              "answer": 1,
+              "why": "Mostly **English-educated** professionals. See *The educated middle class*."
+            },
+            {
+              "q": "What did the Early Nationalists believe about the British?",
+              "options": [
+                "They were basically just, but did not know the real state of India",
+                "They had to be driven out at once",
+                "They had no right to rule anywhere",
+                "They should be fought with arms"
+              ],
+              "answer": 0,
+              "why": "They trusted **British fair play**. See *What they believed about British rule*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "demands",
+      "label": "Their demands",
+      "desc": "**Goal:** list the political, economic and administrative demands, and the civil rights they defended.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I on their demands, and Exercise II on constitutional, economic and peasant demands.",
+      "links": [],
+      "children": [
+        {
+          "id": "political-demands",
+          "label": "Political demands: a bigger share in government",
+          "type": "core",
+          "desc": "They wanted **self-government in stages**, not at once.\n\n- Abolish the **India Council** in London.\n- **Expand** the legislative councils, with **elected Indians** and more powers.\n- Indians in the **Executive Councils** of the Viceroy and Governors.\n- **Indian control of the public purse**. Their slogan: ***No taxation without representation***.\n- By the 1900s: **self-government within the British empire**, like **Canada and Australia**.\n\n**Model answer.** *Mention two constitutional demands of the Early Nationalists.*\n\n- **Expansion** of the legislative councils, with more **elected Indian** members.\n- **Abolition of the India Council** in London.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what kind of self-government did they want?",
+              "a": "Self-government **within the British empire**, like **Canada and Australia**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "economic-demands",
+          "label": "Economic demands",
+          "type": "core",
+          "desc": "They saw clearly that India was **poor because of British policy**.\n\n- **Lower land revenue**, and protect peasants from **zamindars**.\n- **Cheap credit** for peasants through **agricultural banks**.\n- **Cut army spending**; spend the money on **health and education**.\n- An **enquiry** into India's **poverty and famines**.\n- **Protect Indian industry** with taxes on imports; loans for **iron, coal, paper and sugar**.\n- **Abolish the salt tax**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: give two demands that would help peasants.",
+              "a": "**Lower land revenue**, and **cheap credit** through agricultural banks."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "admin-civil",
+          "label": "Administrative demands and civil rights",
+          "type": "core",
+          "desc": "**Administration:**\n- **Indianise** the services: hold the **ICS exam in India and England at the same time**.\n- **Separate** the **executive** (police, officials) from the **judiciary** (judges), to protect Indians from unfair acts.\n- More power for **local bodies**; spread **primary education**; an honest **police**; repeal the **Arms Act**.\n\n**Civil rights:**\n- **Freedom of speech** and of the **press**.\n- The right to **meet** and form **associations**.\n- End to **detention without trial**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: state two civil rights the Early Nationalists defended.",
+              "a": "**Freedom of speech and the press**, and the right to **assemble** and form **associations**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-demands",
+          "label": "Quick check: their demands",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which was a political demand of the Early Nationalists?",
+              "options": [
+                "More Indians in larger legislative councils",
+                "Abolition of the Congress",
+                "Immediate full independence",
+                "A separate army for each province"
+              ],
+              "answer": 0,
+              "why": "They asked for a **bigger share**, step by step. See *Political demands: a bigger share in government*."
+            },
+            {
+              "q": "Their slogan on the public purse was:",
+              "options": [
+                "No taxation without representation",
+                "Swaraj is my birthright",
+                "Quit India",
+                "Do or die"
+              ],
+              "answer": 0,
+              "why": "'Swaraj is my birthright' is **Tilak** (next chapter); the others are later. See *Political demands: a bigger share in government*."
+            },
+            {
+              "q": "Which was an administrative demand?",
+              "options": [
+                "More British officers in the services",
+                "More official control over local bodies",
+                "Joining the executive and the judiciary",
+                "Holding the ICS exam in India and England at the same time"
+              ],
+              "answer": 3,
+              "why": "They wanted **Indianisation** of the services, and **separation** of executive and judiciary. See *Administrative demands and civil rights*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "methods",
+      "label": "Their methods: constitutional agitation",
+      "desc": "**Goal:** explain the two aims of their methods: to educate Indians, and to persuade the British.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I on the three Ps, and Exercise II on their methods.",
+      "links": [],
+      "children": [
+        {
+          "id": "educate-indians",
+          "label": "Educating Indians at home",
+          "type": "core",
+          "desc": "Their methods are called **constitutional agitation**: working **within the law**, slowly and in order.\n\n**Aim 1: educate Indians** in modern politics and build **united public opinion**.\n- **Meetings** with speeches and **resolutions**.\n- The **press**, to criticise government policy.\n- **Petitions** packed with facts. They were addressed to the government, but their **real aim** was to teach Indians.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is 'constitutional agitation'?",
+              "a": "Struggling for reforms **within the law**, by peaceful means like meetings, the press and petitions."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "three-ps",
+          "label": "Persuading the British: the three Ps",
+          "type": "core",
+          "desc": "**Aim 2: persuade the British government and public.**\n\n- The **three Ps: Petitions, Prayers, Protests**: requests and letters of protest to the government.\n- A **British Committee** of the Congress in **London** (1889), with a weekly called ***India***.\n- **Deputations** of leaders to Britain. **Naoroji** spent much of his life there.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what were the three Ps?",
+              "a": "**Petitions, Prayers, Protests**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-methods",
+          "label": "Quick check: their methods",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "What were the 'three Ps' of the Early Nationalists?",
+              "options": [
+                "Petitions, Prayers, Protests",
+                "Protests, Petitions and Process",
+                "Purpose, Persistence and Prayers",
+                "Petitions, Protests and Passion"
+              ],
+              "answer": 0,
+              "why": "**Petitions, prayers and protests**: all polite and legal. See *Persuading the British: the three Ps*."
+            },
+            {
+              "q": "Their method is called:",
+              "options": [
+                "boycott and swadeshi",
+                "passive resistance",
+                "armed revolt",
+                "constitutional agitation"
+              ],
+              "answer": 3,
+              "why": "Working **within the law**. Boycott and passive resistance belong to the **next** phase. See *Educating Indians at home*."
+            },
+            {
+              "q": "What was set up in London in 1889 to present India's case?",
+              "options": [
+                "The East India Company",
+                "The Servants of India Society",
+                "A British Committee of the Congress, with a weekly called *India*",
+                "The India Office"
+              ],
+              "answer": 2,
+              "why": "To reach the **British public**. See *Persuading the British: the three Ps*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "results",
+      "label": "What they achieved, and where they fell short",
+      "desc": "**Goal:** weigh up their achievements, their weaknesses, and how the British treated them.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I on their achievements, Exercise II on achievements and shortcomings, and Exercise III question 2.",
+      "links": [],
+      "children": [
+        {
+          "id": "achievements",
+          "label": "What they achieved",
+          "type": "core",
+          "desc": "- They created the feeling that Indians belong to **one country**.\n- They **trained** people in politics: democracy, civil liberties, secularism.\n- They **exposed** the economic truth of British rule (the **drain**). This weakened its moral base.\n- They set the principle: India must be ruled **for Indians**.\n\n**Model answer.** *Mention two achievements of the Early Nationalists.*\n\n- They created a feeling of **one nation** among Indians.\n- They **exposed** British economic exploitation, for example through Naoroji's **drain theory**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: how did they help the growth of nationalism?",
+              "a": "They made Indians feel they belonged to **one country**, and **trained** them in politics through meetings and the press."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "reforms-won",
+          "label": "What they won",
+          "type": "core",
+          "desc": "Their polite pressure won a few **reforms**:\n\n- **1886:** a **Public Service Commission**.\n- **1892:** the **Indian Councils Act**: slightly bigger councils.\n- **1893:** the House of Commons agreed to **simultaneous ICS exams** in London and India.\n- **1895:** the **Welby Commission** on Indian spending.\n\nSmall gains, but they became a **base** for later struggle.",
+          "links": [
+            {
+              "label": "Wikipedia: Indian Councils Act 1892",
+              "url": "https://en.wikipedia.org/wiki/Indian_Councils_Act_1892"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: name one reform won by the Early Nationalists.",
+              "a": "The **Indian Councils Act** of 1892. (Or: the 1893 resolution for simultaneous ICS exams.)"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "shortcomings",
+          "label": "Where they fell short",
+          "type": "core",
+          "desc": "- **No masses:** they stayed with the **urban educated**. Peasants and workers were left out.\n- **Too much trust:** they relied on British **generosity**, not their own strength. They missed that British and Indian interests **clashed**.\n- **Weak methods:** critics mocked petitions and prayers as **'political mendicancy'** (begging).\n\nThese weaknesses led to the **Assertive** Nationalists of the next chapter.",
+          "links": [
+            {
+              "label": "Wikipedia: Moderates and extremists in the Congress",
+              "url": "https://en.wikipedia.org/wiki/Indian_National_Congress#Moderates_and_extremists"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: give two shortcomings of the Early Nationalists.",
+              "a": "They **failed to involve the masses**. They had too much **faith in the British**, so their methods won little."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "british-reaction",
+          "label": "How the British treated the Congress",
+          "type": "core",
+          "desc": "- **At first, friendly:** Lord Dufferin gave delegates a **garden party** in Calcutta (1886).\n- **Soon, hostile:** in **1887** Dufferin mocked the Congress as **'a microscopic minority'**.\n- In **1890**, government employees were **forbidden** to attend its meetings.\n- The British pushed **divide and rule**, encouraging **anti-Congress** movements.\n\nThe hostility only made the Congress **stronger**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: how did the British attitude to the Congress change?",
+              "a": "It turned from **friendly** (a garden party) to **hostile**: Dufferin called it a **'microscopic minority'** in 1887."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-results",
+          "label": "Quick check: results and shortcomings",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which reform did the Early Nationalists help win?",
+              "options": [
+                "Withdrawal of the Partition of Bengal",
+                "Full self-government",
+                "The Indian Councils Act, 1892",
+                "Abolition of the salt tax"
+              ],
+              "answer": 2,
+              "why": "Bengal's partition was undone only in **1911**, after the next phase. See *What they won*."
+            },
+            {
+              "q": "A main shortcoming of the Early Nationalists was that they:",
+              "options": [
+                "refused to talk to the British",
+                "did not bring the masses into the movement",
+                "ignored the economy",
+                "used too much violence"
+              ],
+              "answer": 1,
+              "why": "They stayed with the **urban educated**. See *Where they fell short*."
+            },
+            {
+              "q": "In 1887, Lord Dufferin mocked the Congress as representing:",
+              "options": [
+                "only the princes",
+                "a dangerous majority",
+                "the whole of India",
+                "a microscopic minority"
+              ],
+              "answer": 3,
+              "why": "The British turned **hostile** quickly. See *How the British treated the Congress*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "leaders",
+      "label": "Three leaders: Naoroji, Banerjee and Gokhale",
+      "desc": "**Goal:** give two contributions each of Naoroji, Banerjee and Gokhale.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I on the leaders, Exercise II on the leaders, Exercise III questions 3 and 4, and Exercise IV (picture study).",
+      "links": [],
+      "children": [
+        {
+          "id": "naoroji",
+          "label": "Dadabhai Naoroji: Grand Old Man of India",
+          "type": "core",
+          "desc": "- A **Parsi** from Bombay; once a **maths professor**.\n- Founded the **East India Association** (London, 1866) and edited ***Rast Goftar***.\n- **First Indian member** of the British **House of Commons** (1892). Called **India's unofficial ambassador**.\n- His efforts led to the **1893** resolution for **simultaneous ICS exams**.\n- **Congress president three times:** 1886, 1893, 1906. In **1906** he first demanded **Swaraj** from the Congress platform.",
+          "links": [
+            {
+              "label": "Wikipedia: Dadabhai Naoroji",
+              "url": "https://en.wikipedia.org/wiki/Dadabhai_Naoroji"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why is Naoroji called India's unofficial ambassador?",
+              "a": "He spent much of his life in **England**, and as an **MP** he raised India's problems in **Parliament**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "drain-theory",
+          "label": "Dadabhai Naoroji: the drain theory",
+          "type": "core",
+          "desc": "Naoroji was a great **economic thinker**.\n\n- In his book ***Poverty and Un-British Rule in India*** he asked: why is India so poor?\n- His answer, the **drain theory**: India's wealth was being **drained to England**, through salaries, pensions, profits and interest, with **nothing in return**.\n- So British rule itself was the **root cause** of India's poverty.\n\nThis idea became a strong weapon of the national movement.",
+          "links": [
+            {
+              "label": "Wikipedia: Poverty and Un-British Rule in India (Naoroji's drain theory)",
+              "url": "https://en.wikipedia.org/wiki/Poverty_and_Un-British_Rule_in_India"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what, according to Naoroji, caused India's poverty?",
+              "a": "The **drain of wealth** to England: salaries, pensions and profits flowed out **with nothing in return**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "banerjee",
+          "label": "Surendranath Banerjee: the voice of Bengal",
+          "type": "core",
+          "desc": "- One of the **first Indians** to pass the **ICS**. (Your textbook calls him the first; most historians give that honour to **Satyendranath Tagore**.) He was **dismissed** on a minor charge.\n- Founded the **Indian Association** (1876) and called the **Indian National Conference** (1883).\n- Edited ***The Bengalee***; wrote ***A Nation in Making***. Congress president in **1895 and 1902**.\n- Fought the **Arms Act**, **Press Act**, the **ICS age cut**, and the **Partition of Bengal**.\n- Motto: ***'Opposition where necessary, co-operation where possible.'***",
+          "links": [
+            {
+              "label": "Wikipedia: Surendranath Banerjee",
+              "url": "https://en.wikipedia.org/wiki/Surendranath_Banerjee"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: against which two Acts did Banerjee lead agitations?",
+              "a": "The **Arms Act** and the **Vernacular Press Act**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "gokhale",
+          "label": "Gopal Krishna Gokhale: Gandhi's political guru",
+          "type": "core",
+          "desc": "- A **professor** at **Fergusson College**, Pune; a follower of **Justice Ranade**.\n- Congress president at **Benares (1905)**. Founded the **Servants of India Society (1905)** to train dedicated workers for India.\n- In the **Imperial Legislative Council** (1902): pressed to cut the **salt duty**; won a cut in **toll tax**; his bill for **compulsory primary education** failed.\n- Opposed big **army spending** and **racial** bias in jobs.\n- Helped **Gandhi** in South Africa and urged him to return. Gandhi called him his **political guru**.",
+          "links": [
+            {
+              "label": "Wikipedia: Gopal Krishna Gokhale",
+              "url": "https://en.wikipedia.org/wiki/Gopal_Krishna_Gokhale"
+            },
+            {
+              "label": "Wikipedia: Servants of India Society",
+              "url": "https://en.wikipedia.org/wiki/Servants_of_India_Society"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what role did Gokhale play in the Imperial Legislative Council?",
+              "a": "He pressed for a cut in the **salt duty** and won a cut in **toll tax**. He tried to make **primary education compulsory**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-leaders",
+          "label": "Quick check: the three leaders",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Who wrote 'Poverty and Un-British Rule in India'?",
+              "options": [
+                "R.C. Dutt",
+                "Surendranath Banerjee",
+                "Gopal Krishna Gokhale",
+                "Dadabhai Naoroji"
+              ],
+              "answer": 3,
+              "why": "It sets out his **drain theory**. See *Dadabhai Naoroji: the drain theory*."
+            },
+            {
+              "q": "Who founded the Servants of India Society in 1905?",
+              "options": [
+                "Dadabhai Naoroji",
+                "Gopal Krishna Gokhale",
+                "Surendranath Banerjee",
+                "Pherozeshah Mehta"
+              ],
+              "answer": 1,
+              "why": "To train **dedicated workers** for India. See *Gopal Krishna Gokhale: Gandhi's political guru*."
+            },
+            {
+              "q": "Whose motto was 'Opposition where necessary, co-operation where possible'?",
+              "options": [
+                "Dadabhai Naoroji",
+                "Surendranath Banerjee",
+                "Gopal Krishna Gokhale",
+                "A.O. Hume"
+              ],
+              "answer": 1,
+              "why": "See *Surendranath Banerjee: the voice of Bengal*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "exam-toolkit",
+      "label": "Exam toolkit: words and reasons",
+      "desc": "**Goal:** collect the easy marks: key terms, answers in the right shape, 'why' questions and dates.",
+      "links": [],
+      "children": [
+        {
+          "id": "key-terms",
+          "label": "Key terms to learn word for word",
+          "type": "core",
+          "desc": "- **Early Nationalists (Moderates):** the first leaders of the Congress (1885 to 1907), from the educated middle class, who sought reforms within British rule by peaceful, legal means.\n- **Constitutional agitation:** struggle for reforms within the law, through meetings, the press and petitions.\n- **Three Ps:** Petitions, Prayers, Protests: the polite methods of the Early Nationalists.\n- **Drain theory:** Dadabhai Naoroji's idea that India's wealth was drained to England without any return.\n- **Political mendicancy:** a critics' name for the Early Nationalists' methods, meaning political begging.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: cover the list. Explain the drain theory in one sentence.",
+              "a": "Naoroji's idea that India's **wealth was drained to England** (salaries, profits, pensions) **without any return**, causing India's poverty."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "right-shape",
+          "label": "Answers in the right shape",
+          "type": "core",
+          "desc": "**Short answer (2 marks):** two points, each with **one fact**.\n\n**Structured part (3 or 4 marks):** one point per mark. Start each point on a **new line**. Keep each to **one or two sentences**.\n\n**Model answer.** *Describe three methods of the Early Nationalists. (3 marks)*\n\n- **Meetings** with speeches and resolutions, to build public opinion.\n- **Petitions** with facts and figures, sent to the government and Parliament.\n- **Propaganda in Britain**: a British Committee of the Congress and its weekly *India* (1889).\n\n**Three things that lose marks:** mixing up the **three Ps**; giving **boycott** or **swadeshi** as their methods (that is the next phase); writing 'they were moderate' with **no example**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: write a 2-mark answer. 'Give two shortcomings of the Early Nationalists.'",
+              "a": "They **did not involve the masses**: only the urban educated. They had too much **faith in British justice**, so their petitions won little."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "why-questions",
+          "label": "'Why' questions: model answers",
+          "type": "core",
+          "desc": "Try each one in your notebook before you open it.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Why did the Early Nationalists not ask for freedom at once?",
+              "a": "They believed in a **gradual** process, and feared the government would **crush** them if they asked for too much."
+            },
+            {
+              "q": "Why were their petitions said to educate Indians?",
+              "a": "They were full of **facts and arguments** about British rule, so they **taught** Indian readers."
+            },
+            {
+              "q": "Why did they want the executive and judiciary separated?",
+              "a": "To protect Indians from **unfair acts** of the police and officials."
+            },
+            {
+              "q": "Why did their methods partly fail?",
+              "a": "The British ignored **polite** requests, and the movement had **no mass support** behind it."
+            },
+            {
+              "q": "Why is Naoroji's drain theory important?",
+              "a": "It proved that British rule itself was the **cause of India's poverty**, which turned people against it."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "timeline",
+          "label": "Dates to learn",
+          "type": "core",
+          "desc": "Read it top to bottom. Say each line aloud once.\n\n- **1885:** Congress founded; the Early Nationalist phase begins.\n- **1886:** Public Service Commission; Naoroji presides over the Congress.\n- **1887:** Dufferin calls the Congress 'a microscopic minority'.\n- **1889:** British Committee of the Congress, London.\n- **1890:** Government employees barred from the Congress.\n- **1892:** Indian Councils Act; Naoroji elected to the Commons.\n- **1893:** Commons resolution for simultaneous ICS exams.\n- **1895:** Welby Commission.\n- **1902:** Gokhale joins the Imperial Legislative Council.\n- **1905:** Servants of India Society; Partition of Bengal.\n- **1906:** Naoroji demands Swaraj.\n- **1907:** The phase ends with the Surat split.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: in which year did Naoroji first demand Swaraj?",
+              "a": "**1906**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "picture-study",
+          "label": "Picture study: who is this?",
+          "type": "optional",
+          "desc": "The exam may show a **picture** and ask who it is. Then it asks two or three facts. For each person, learn **who** and **two facts**.\n\n- **Dadabhai Naoroji:** **Grand Old Man of India**; **drain theory**; first Indian MP in Britain.\n- **Surendranath Banerjee:** **Indian Association**; *The Bengalee*; opposed the Partition of Bengal.\n- **Gopal Krishna Gokhale:** **Servants of India Society**; **Gandhi's political guru**.\n- **Justice M.G. Ranade:** Gokhale's guide; an Early Nationalist from Maharashtra.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a picture of Naoroji. What is he known as, and what were his views on India's poverty?",
+              "a": "The **Grand Old Man of India**. He said India was poor because of the **drain of wealth** to England."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: last-minute revision and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Read the sheet the night before the exam and again on the morning.",
+      "links": [],
+      "children": [
+        {
+          "id": "revision-sheet",
+          "label": "Last-minute revision sheet",
+          "type": "core",
+          "desc": "**The one idea:** the Early Nationalists (1885 to 1907) **asked politely, inside the law**. They trusted British **fair play**, used **petitions, prayers and protests**, and wanted a **bigger share** in government step by step. They won little, but they **woke India up** and **exposed the drain**.\n\n**Dates to know**\n- **1885 to 1907** Early Nationalist phase. Then **1907 to 1916** Assertive phase.\n- **1886** Public Service Commission. **1892** Indian Councils Act. **1893** Commons resolution for **simultaneous ICS exams**. **1895** Welby Commission.\n- **1905** Servants of India Society (Gokhale). **1906** Naoroji first asks for **Swaraj** from the Congress platform.\n\n**Key terms**\n- **Early Nationalists (Moderates):** educated middle-class leaders who sought reforms **within** British rule by peaceful, legal means.\n- **Constitutional agitation:** working **within the law**: meetings, press, petitions.\n- **Three Ps:** **Petitions, Prayers, Protests**.\n- **Drain theory:** Naoroji's idea that India's wealth was being **drained to England**.\n- **Simultaneous examination:** holding the ICS exam in **India and England** at the same time.\n\n**Key points**\n- **Belief:** British were **just**; British rule had **benefits**; India's real obstacle was its own **backwardness**.\n- **Political demands:** abolish the India Council; bigger councils with **elected Indians**; Indians in the Executive Councils; later **self-government like Canada and Australia**. Slogan: **No taxation without representation**.\n- **Economic demands:** lower **land revenue**, less army spending, an enquiry into **poverty and famines**, cheap credit, **protection for Indian industry**, end of the **salt tax**.\n- **Administrative and civil:** **Indianisation** of services, **separate the executive and judiciary**, stronger local bodies, **free speech and press**, right to **assemble**.\n- **Achievements:** feeling of **one nation**; **political training**; **exposed** British rule; won small reforms.\n- **Shortcomings:** **no masses**; too much **faith in the British**; methods called **'political mendicancy'** (begging).\n- **Naoroji:** Grand Old Man; East India Association; **first Indian MP** in Britain; drain theory; president **1886, 1893, 1906**.\n- **Banerjee:** Indian Association; *The Bengalee*; *A Nation in Making*; president **1895 and 1902**.\n- **Gokhale:** Servants of India Society; Imperial Legislative Council (1902); salt duty and **toll tax**; **Gandhi's political guru**.\n\n**Traps:** the 3 Ps are **petitions, prayers, protests**. Naoroji = **drain theory** and **Swaraj (1906)**; Gokhale = **Servants of India**; Banerjee = **Indian Association**. Early Nationalists wanted **self-rule in stages**, not instant freedom.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "What kind of self-government did the Early Nationalists finally ask for?",
+              "options": [
+                "Self-government within the empire, like Canada and Australia",
+                "Complete independence outside the empire",
+                "Rule by the Mughal emperor",
+                "Rule by the princes"
+              ],
+              "answer": 0,
+              "why": "Within the **British empire**. See *Political demands: a bigger share in government*."
+            },
+            {
+              "q": "What did the Early Nationalists see as the main obstacle to India's progress?",
+              "options": [
+                "The princes",
+                "The Muslim League",
+                "India's own social and economic backwardness",
+                "British colonial rule"
+              ],
+              "answer": 2,
+              "why": "They did **not** blame British rule at first. See *What they believed about British rule*."
+            },
+            {
+              "q": "Which demand would help peasants?",
+              "options": [
+                "More British officers",
+                "More army spending",
+                "Lower land revenue",
+                "Higher salt tax"
+              ],
+              "answer": 2,
+              "why": "See *Economic demands*."
+            },
+            {
+              "q": "Why did the Early Nationalists want the executive and judiciary separated?",
+              "options": [
+                "To give the Viceroy more power",
+                "To save money",
+                "To make courts faster",
+                "To protect Indians from unfair acts of the police and officials"
+              ],
+              "answer": 3,
+              "why": "See *Administrative demands and civil rights*."
+            },
+            {
+              "q": "The real aim of petitions sent from India was often to:",
+              "options": [
+                "raise money",
+                "please the Viceroy",
+                "start a revolt",
+                "educate the Indian people"
+              ],
+              "answer": 3,
+              "why": "Drafted with facts, they **taught** Indians. See *Educating Indians at home*."
+            },
+            {
+              "q": "Who called the Early Nationalists' methods 'political mendicancy'?",
+              "options": [
+                "Gokhale",
+                "Their critics, the Assertive Nationalists",
+                "Naoroji",
+                "Lord Curzon"
+              ],
+              "answer": 1,
+              "why": "Mendicancy means **begging**. See *Where they fell short*."
+            },
+            {
+              "q": "What happened in 1890?",
+              "options": [
+                "The Welby Commission was set up",
+                "The Congress was banned",
+                "Government employees were forbidden to attend the Congress",
+                "Naoroji became an MP"
+              ],
+              "answer": 2,
+              "why": "See *How the British treated the Congress*."
+            },
+            {
+              "q": "Who is called India's unofficial ambassador in England?",
+              "options": [
+                "Gokhale",
+                "W.C. Bonnerjee",
+                "Banerjee",
+                "Dadabhai Naoroji"
+              ],
+              "answer": 3,
+              "why": "He spent most of his life in **Britain** pleading India's case. See *Dadabhai Naoroji: Grand Old Man of India*."
+            },
+            {
+              "q": "Gokhale's efforts in the Imperial Legislative Council led to:",
+              "options": [
+                "a reduction in toll tax",
+                "a cut in land revenue to zero",
+                "abolition of the salt tax",
+                "compulsory primary education"
+              ],
+              "answer": 0,
+              "why": "His **education bill failed**. See *Gopal Krishna Gokhale: Gandhi's political guru*."
+            },
+            {
+              "q": "Surendranath Banerjee opposed which of these?",
+              "options": [
+                "The Partition of Bengal",
+                "Simultaneous ICS exams",
+                "The Indian National Conference",
+                "The Indian Association"
+              ],
+              "answer": 0,
+              "why": "He founded the other two. See *Surendranath Banerjee: the voice of Bengal*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These are like the harder questions at the end of the chapter. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "structured-early",
+          "label": "Structured question: the Early Nationalists",
+          "type": "optional",
+          "desc": "A structured question in three parts. Write your answer first, then open the box.\n\n- (a) To which section did they belong, and what did they demand? (3 marks)\n- (b) What methods did they use? (3 marks)\n- (c) How did they help nationalism grow? (4 marks)",
+          "links": [],
+          "faq": [
+            {
+              "q": "Model answer",
+              "a": "(a) The **educated middle class**. They demanded **bigger councils** with elected Indians, **lower land revenue**, and **Indianisation** of services.\n\n(b) **Constitutional** methods: meetings, the press, the **three Ps** (petitions, prayers, protests), and propaganda in **Britain**.\n\n(c) They built a feeling of **one nation**; **trained** people in politics; **exposed** British exploitation (drain theory); won small reforms like the **Indian Councils Act**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "structured-gokhale",
+          "label": "Structured question: Gokhale",
+          "type": "optional",
+          "desc": "A structured question in three parts. Write your answer first, then open the box.\n\n- (a) Three British policies Gokhale opposed. (3 marks)\n- (b) His role in the Imperial Legislative Council. (3 marks)\n- (c) How he built national awakening. (4 marks)",
+          "links": [],
+          "faq": [
+            {
+              "q": "Model answer",
+              "a": "(a) Huge **army spending**; **racial** bias in high jobs; the **excise tax on cotton**.\n\n(b) He pressed for a cut in **salt duty**, won a cut in **toll tax**, and moved a bill for **compulsory primary education**.\n\n(c) He founded the **Servants of India Society** (1905) to train workers for the nation, and guided **Gandhi**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThe syllabus asks for the objectives and methods of the Early Nationalists, and two contributions each of Naoroji, Banerjee and Gokhale.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- Use the **polite letter to the principal** analogy before any facts.\n- Sort demands into **four boxes**: political, economic, administrative, civil rights.\n- Make a **leader card** for each of the three: two contributions, one book or paper, one organisation.\n- Ask: 'Did their methods work?' Let students argue both sides; it sets up the next chapter.\n- Keep the **dates of the small reforms** in one short list; don't let them crowd out the ideas.\n- Insist on **one fact per point**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 6-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** Three phases; who the Early Nationalists were; what they believed.\n- **Period 2:** Their demands in four boxes. Exercise II on demands.\n- **Period 3:** Methods: constitutional agitation and the three Ps. Activity: write a polite petition about a local problem.\n- **Period 4:** Achievements, reforms won, shortcomings, British reaction. Exercise II.\n- **Period 5:** Naoroji, Banerjee and Gokhale; picture study. Exercise III.\n- **Period 6:** Revision sheet, self-test, exit ticket; Exercise I (multiple choice).",
+          "links": [
+            {
+              "label": "Simple Wikipedia: Indian National Congress (free, easy English)",
+              "url": "https://simple.wikipedia.org/wiki/Indian_National_Congress"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Writing that the Early Nationalists wanted **immediate independence**.\n- Giving **boycott** as one of their methods.\n- Swapping **Naoroji** (drain theory) and **Gokhale** (Servants of India Society).\n- Getting the **three Ps** wrong.\n- Listing achievements with **no example**.\n- Forgetting the **masses were not involved**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Give the period of the Early Nationalists.",
+              "a": "**1885 to 1907**."
+            },
+            {
+              "q": "2. What were the three Ps?",
+              "a": "**Petitions, Prayers, Protests**."
+            },
+            {
+              "q": "3. Who wrote 'Poverty and Un-British Rule in India'?",
+              "a": "**Dadabhai Naoroji.**"
+            },
+            {
+              "q": "4. Who founded the Servants of India Society?",
+              "a": "**Gopal Krishna Gokhale.**"
+            },
+            {
+              "q": "5. Give one shortcoming of the Early Nationalists.",
+              "a": "They **did not involve the masses**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

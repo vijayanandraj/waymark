@@ -1,0 +1,993 @@
+{
+  "title": "ICSE Class 10 History, Chapter 9: Independence and Partition of India, Step by Step",
+  "subtitle": "For students who find history hard. Why Britain decided to leave, the Cabinet Mission Plan and its clauses, the deadlock of 1946, Attlee's deadline, the Mountbatten Plan and why it was accepted, and the Indian Independence Act, held together by one idea (share the house, split the house, sign the papers), in small steps with model answers, quick checks, an exam toolkit and a last-minute revision sheet. Follows the ICSE Class 10 syllabus, Chapter 9 (Independence and Partition of India), in the order of Total History & Civics.",
+  "updated": "2026-11-24",
+  "changelog": [
+    {
+      "date": "2026-11-24",
+      "text": "First version: the whole chapter in small steps, with model answers, quick checks, a last-minute revision sheet, a self-test and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** know the key words and dates this chapter uses, and the answer shape. Then the rest is easy.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea and the model answer, then do **Your turn**.\n- **Every answer is a point plus one fact:** a name, a date or a place. One point earns one mark.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: share the house, split the house, sign the papers.** After 1945 freedom was **certain**; the question was **how**. The **Cabinet Mission (1946)** tried one India with **groups**; the **Mountbatten Plan (3 June 1947)** split it into **two**; the **Indian Independence Act (July 1947)** made it **law**.",
+          "links": [
+            {
+              "label": "Simple Wikipedia: Partition of India (free, easy English)",
+              "url": "https://simple.wikipedia.org/wiki/Partition_of_India"
+            },
+            {
+              "label": "Last-minute revision sheet for this chapter",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-history-independence-partition#revision-sheet"
+            },
+            {
+              "label": "Previous chapter: 7. Quit India Movement",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-history-quit-india-movement"
+            },
+            {
+              "label": "Next chapter: 12. The Second World War",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-history-second-world-war"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 9, *Independence and Partition of India*, of the History part of the ICSE Class 10 History and Civics syllabus. It follows the order of *Total History & Civics* for Class 10.\n\n**Who it is for.** Class 10 students who find history hard, and want to understand this chapter and score decent marks in it. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** Share the house, split the house, sign the papers. After 1945 freedom was certain; the question was how. The Cabinet Mission (1946) tried to keep one India with groups; the Mountbatten Plan (3 June 1947) split it into two; the Indian Independence Act (July 1947) made it law.\n\n**How it is different from the textbook.** The textbook lists many clauses one after another. Here one picture, **share the house, split the house, sign the papers**, keeps the three documents apart, and the events between them are kept short. Every answer is a **point plus one fact**, with fresh model answers.\n\n**What is inside.**\n- 10 milestones and 41 small steps. The 33 solid steps are the core path. The dashed ones are optional.\n- 40 practice questions with hidden answers.\n- 25 click-to-check questions that say right or wrong, and why: a quick check after each of the 5 main milestones, and a 10-question self-test.\n- A **last-minute revision sheet**: every date, key term, name and trap on one page.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: picture study and two structured challenge questions, and a section for teachers and parents with a 6-period lesson plan, the mistakes to watch for and a 5-minute exit ticket.\n\n**Can you trust it?** Dates, names and places follow the textbook, and the few slips found in it are pointed out gently. A computer program checks that every date sits in the right order and every click-to-check answer is marked right. All the model answers are written fresh, so students still get fresh practice from their textbook. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the ICSE syllabus but is not made or endorsed by CISCE or by any publisher. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Who was the last Viceroy?",
+              "a": "**Lord Mountbatten.** Wrong? Do *Who's who in this chapter*."
+            },
+            {
+              "q": "2. Which plan tried to keep India united?",
+              "a": "The **Cabinet Mission Plan**. Wrong? Do *Share the house, split the house, sign the papers*."
+            },
+            {
+              "q": "3. Which plan divided India?",
+              "a": "The **Mountbatten Plan**. Wrong? Do *Share the house, split the house, sign the papers*."
+            },
+            {
+              "q": "4. How many points for a 2-mark answer?",
+              "a": "**Two**, each with **one fact**. Wrong? Do *How ICSE asks, and the answer shape*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "whos-who",
+          "label": "Who's who in this chapter",
+          "type": "core",
+          "desc": "- **Lord Wavell:** Viceroy from 1943 to early 1947.\n- **Clement Attlee:** British **Labour** Prime Minister from 1945.\n- **The Cabinet Mission:** Lord Pethick-Lawrence (Secretary of State), Sir Stafford Cripps, A.V. Alexander.\n- **Lord Mountbatten:** the **last Viceroy** (1947), and first Governor-General of free India.\n- **Indian leaders:** Nehru, Patel, Jinnah, Liaquat Ali Khan, Baldev Singh.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: who was the last Viceroy of India?",
+              "a": "**Lord Mountbatten.**"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "share-split-sign",
+          "label": "Share the house, split the house, sign the papers",
+          "type": "core",
+          "desc": "This chapter has **one idea**. After the Second World War, India's freedom was **certain**. The only question was **how** to hand over power. Think of one big family house.\n\n- **Share the house (Cabinet Mission, 1946):** one house, but separate **wings** (groups) with their own rooms.\n- **Split the house (Mountbatten Plan, 3 June 1947):** sharing failed, so draw a **wall** and make **two houses**: India and Pakistan.\n- **Sign the papers (Indian Independence Act, July 1947):** the British Parliament made it **law**. Freedom came on **15 August 1947**.\n\nThe syllabus asks only for the **clauses** of these three, and why the Mountbatten Plan was **accepted**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which plan tried to keep India united?",
+              "a": "The **Cabinet Mission Plan** (1946): one Union with **groups** of provinces."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "answer-shape",
+          "label": "How ICSE asks, and the answer shape",
+          "type": "core",
+          "desc": "ICSE asks history in three ways.\n\n- **Multiple choice:** 1 mark. Pick one option.\n- **Short answer:** usually 2 marks. Write **two points**.\n- **Structured question:** parts (a), (b), (c), worth 3 or 4 marks each. Write **one point per mark**.\n\nEach point has **one fact**: a name, a date or a place. A point without a fact looks vague and loses marks.\n\n**Model answer.** *Mention two clauses of the Cabinet Mission Plan.*\n\n- A **Union** of British provinces and princely states, dealing with **foreign affairs, defence and communications**.\n- A **Constituent Assembly** of **389** members to frame the constitution.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is wrong with this answer? 'It said India would be one country.'",
+              "a": "It has **no fact**. Add one: for example, *'It proposed a Union handling foreign affairs, defence and communications.'*"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "why-leave",
+      "label": "Why Britain decided to leave",
+      "desc": "**Goal:** explain why the British were ready to leave India after 1945.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I (short answers) on why the British withdrew and how the war helped India.",
+      "links": [],
+      "children": [
+        {
+          "id": "wavell-plan",
+          "label": "Wavell's attempt, 1945",
+          "type": "core",
+          "desc": "**Lord Wavell** became Viceroy in **1943**. To break the deadlock, he freed the Congress leaders and offered the **Wavell Plan** (1945): **dominion status** in the long run and a constitution by Indians.\n\n- The **League** rejected it: it fell short of **Pakistan**.\n- The **Congress** rejected it: it was not **full independence**.",
+          "links": [
+            {
+              "label": "Wikipedia: Simla Conference (Wavell Plan)",
+              "url": "https://en.wikipedia.org/wiki/Simla_Conference"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why did the Wavell Plan fail?",
+              "a": "The League wanted **Pakistan**, and the Congress wanted **full independence**; the plan gave neither."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "weaker-britain",
+          "label": "A weaker Britain in a changed world",
+          "type": "core",
+          "desc": "- The war made the **USA** and **USSR** the big powers. Both supported India's freedom.\n- Britain won the war, but its **economy and army** were shattered.\n- In 1945, the **Labour Party** replaced the Conservatives; many in it backed the Congress.\n- British soldiers were **tired** after six years of war. They did not want to stay away from home to hold India down.\n\n**Model answer.** *State two reasons that made the British leave India.*\n\n- Britain was **weakened** economically and militarily by the Second World War.\n- The **naval revolt** (February 1946) showed that Britain could no longer rely on Indian **armed forces**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: how did the war's outcome help India's demand?",
+              "a": "It left Britain **weak**, and the new powers, the **USA and USSR**, supported India's freedom."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "cracks-forces",
+          "label": "Cracks in the army, navy and police",
+          "type": "core",
+          "desc": "Britain ruled India through its **army, police and civil service**. All were cracking.\n\n- The **INA** trials showed patriotism had entered the **army**.\n- **February 1946:** Indian **naval ratings revolted** at **Bombay**, and fought for hours. Sailors elsewhere struck in sympathy.\n- Strikes in the **Royal Indian Air Force** and the signal corps at **Jabalpur**.\n- **Police** in Bihar and Delhi went on strike.",
+          "links": [
+            {
+              "label": "Wikipedia: Royal Indian Navy mutiny",
+              "url": "https://en.wikipedia.org/wiki/Royal_Indian_Navy_mutiny"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why was the naval revolt of 1946 important?",
+              "a": "It showed Britain could no longer rely on its **Indian armed forces** to hold India down."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "determined-people",
+          "label": "A determined people",
+          "type": "core",
+          "desc": "- People were **confident** and would no longer accept foreign rule.\n- Strikes, hartals and protests spread, even into princely states like **Hyderabad, Travancore** and **Kashmir**.\n- **Postal workers** struck all over India (July 1946); **railway workers** struck in the south.\n- In the **Tebhaga** struggle, Bengal's **sharecroppers** said they would give landlords only **one-third** of the crop, not half.",
+          "links": [
+            {
+              "label": "Wikipedia: Tebhaga movement",
+              "url": "https://en.wikipedia.org/wiki/Tebhaga_movement"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what was the Tebhaga struggle?",
+              "a": "A struggle of **sharecroppers in Bengal**, who would give the landlord only **one-third** of the crop instead of **half**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-why-leave",
+          "label": "Quick check: why Britain left",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which change in Britain helped India after 1945?",
+              "options": [
+                "Churchill won a new term",
+                "Britain became richer than before",
+                "British soldiers wanted to stay in India",
+                "The Labour Party, friendlier to India's demand, came to power"
+              ],
+              "answer": 3,
+              "why": "See *A weaker Britain in a changed world*."
+            },
+            {
+              "q": "What happened in the navy at Bombay in February 1946?",
+              "options": [
+                "The INA was formed",
+                "The navy left India",
+                "The navy joined Japan",
+                "Indian naval ratings revolted"
+              ],
+              "answer": 3,
+              "why": "Britain could no longer **rely** on its forces. See *Cracks in the army, navy and police*."
+            },
+            {
+              "q": "What was the Tebhaga struggle?",
+              "options": [
+                "A Muslim League campaign",
+                "Sharecroppers in Bengal demanding to give only one-third of the crop",
+                "A strike by postal workers",
+                "A naval revolt"
+              ],
+              "answer": 1,
+              "why": "See *A determined people*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "cabinet",
+      "label": "The Cabinet Mission Plan, 1946: share the house",
+      "desc": "**Goal:** state the clauses of the Cabinet Mission Plan, and why it rejected Pakistan.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I on the Cabinet Mission's clauses, and Exercise II (structured) questions 1 and 2.",
+      "links": [],
+      "children": [
+        {
+          "id": "why-cabinet",
+          "label": "Why the Cabinet Mission came",
+          "type": "core",
+          "desc": "Prime Minister **Clement Attlee** sent three British ministers, who arrived in **March 1946**:\n\n- **Lord Pethick-Lawrence (Secretary of State)**;\n- **Sir Stafford Cripps**;\n- **A.V. Alexander**;\n\n**Purpose:** help Indians agree on **how power would be handed over**, and on the form of government.",
+          "links": [
+            {
+              "label": "Wikipedia: 1946 Cabinet Mission to India",
+              "url": "https://en.wikipedia.org/wiki/1946_Cabinet_Mission_to_India"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: name the three members of the Cabinet Mission.",
+              "a": "**Lord Pethick-Lawrence**, **Sir Stafford Cripps**, **A.V. Alexander**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "union-groups",
+          "label": "One union, three groups",
+          "type": "core",
+          "desc": "A **two-tier** plan: keep India **united**, but give regions a lot of **freedom**.\n\n- **Union:** British provinces and princely states together. It would handle only **foreign affairs, defence and communications**, and raise money for them.\n- **Provinces:** full **autonomy** in everything else.\n- **Groups:** **A** (Madras, Bombay, Central Provinces, United Provinces, Bihar, Orissa: Hindu-majority); **B** (Punjab, North-West Frontier Province, Sind: Muslim-majority); **C** (Bengal and Assam).\n- A province could later **leave** its group by a vote.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what did the plan say about the Union and the provinces?",
+              "a": "The **Union** would deal only with **foreign affairs, defence and communications**; the **provinces** would have **autonomy** in all other subjects."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "assembly-interim",
+          "label": "The constituent assembly and the interim government",
+          "type": "core",
+          "desc": "- A **Constituent Assembly** of **389**: **296** from the British provinces and **93** from the princely states. Members were elected by the **provincial assemblies** (not by all voters, to save time).\n- **Minorities:** separate representation for **Muslims** and **Sikhs**.\n- An **interim government** of **14** Indians at the centre.\n- India would be free to **stay in or leave** the British **Commonwealth**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: how many members would the Constituent Assembly have, and who would elect them?",
+              "a": "**389**, elected by the **provincial legislative assemblies** (with members from the princely states)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "no-pakistan",
+          "label": "Why the mission said no to Pakistan",
+          "type": "core",
+          "desc": "- Pakistan would **not solve** the minority problem: many Muslims would stay in India, and many non-Muslims in Pakistan.\n- There was no reason to put **non-Muslim districts** of Bengal, Assam and Punjab into Pakistan.\n- The **army, railways and post** were built for **one** India.\n- **Princely states** would not know which side to join.\n- The two halves of Pakistan would be about **seven hundred miles apart**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: give two reasons the Cabinet Mission rejected Pakistan.",
+              "a": "The two parts would be **far apart**, and the **army, railways and post** were built for **one** India."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-cabinet",
+          "label": "Quick check: the Cabinet Mission Plan",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Who were the members of the Cabinet Mission?",
+              "options": [
+                "Mountbatten, Wavell and Attlee",
+                "Cripps, Linlithgow and Churchill",
+                "Lord Pethick-Lawrence, Sir Stafford Cripps, A.V. Alexander",
+                "Simon, Irwin and Wavell"
+              ],
+              "answer": 2,
+              "why": "See *Why the Cabinet Mission came*."
+            },
+            {
+              "q": "Which subjects were given to the Union under the plan?",
+              "options": [
+                "Foreign affairs, defence and communications",
+                "Everything",
+                "Land revenue and police",
+                "Education and health"
+              ],
+              "answer": 0,
+              "why": "Everything else was with the **provinces**. See *One union, three groups*."
+            },
+            {
+              "q": "Group B under the Cabinet Mission had:",
+              "options": [
+                "Madras and Bombay",
+                "Bihar and Orissa",
+                "Punjab, North-West Frontier Province, Sind",
+                "Bengal and Assam"
+              ],
+              "answer": 2,
+              "why": "The **Muslim-majority** north-west. See *One union, three groups*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "deadlock",
+      "label": "From the plan to deadlock, 1946 to 1947",
+      "desc": "**Goal:** describe how the parties reacted, the interim government and Constituent Assembly, and Attlee's deadline.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I on the reactions, and Exercise II question 2(b) and (c).",
+      "links": [],
+      "children": [
+        {
+          "id": "parties-react",
+          "label": "How the parties reacted",
+          "type": "core",
+          "desc": "- **Congress:** accepted it **with reservations**, mainly the part about making the **constitution**. It wanted grouping to be **optional** (Assam, in Group C, had a Congress government). It refused the **interim government** at first: it rejected **parity** with the League and the League's claim to name **all Muslim** members.\n- **Muslim League:** accepted it in June 1946, seeing the **grouping** of Muslim-majority provinces as a step to **Pakistan**. It later **withdrew**.\n- **Sikhs:** rejected it, as Punjab was placed in Muslim-majority **Group B**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why did the Muslim League accept the plan at first?",
+              "a": "It felt the **grouping** of Muslim-majority provinces (Groups B and C) was **almost Pakistan**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "interim-ca",
+          "label": "Interim government and the Constituent Assembly",
+          "type": "core",
+          "desc": "- **July 1946:** elections to the Constituent Assembly. The **Congress** won about **two-thirds** of the seats. The League feared being **outvoted**.\n- **2 September 1946:** **Nehru** and his colleagues took office as the **interim government**. The League kept out and observed a **day of mourning** with black flags.\n- In October the League **joined**, but its members would not work under Nehru.\n- **9 December 1946:** the **Constituent Assembly** met, **without** the League. **Dr Rajendra Prasad** became its **President**. Communal **riots** spread.",
+          "links": [
+            {
+              "label": "Wikipedia: Constituent Assembly of India",
+              "url": "https://en.wikipedia.org/wiki/Constituent_Assembly_of_India"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: who was elected President of the Constituent Assembly?",
+              "a": "**Dr Rajendra Prasad.**"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "attlee-deadline",
+          "label": "Attlee's deadline",
+          "type": "core",
+          "desc": "The interim government was not working, and riots grew. On **20 February 1947**, **Attlee** told Parliament:\n\n- Britain would hand power to Indian hands by **June 1948** at the latest.\n- If no agreed constitution was ready, Britain would decide **whom** to hand power to: one central government, or the **provinces**.\n\n**Wavell** was replaced by **Mountbatten** to carry this out.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what did Attlee announce on 20 February 1947?",
+              "a": "Britain would **transfer power** to Indians by **June 1948** at the latest."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-deadlock",
+          "label": "Quick check: deadlock",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Why did the Muslim League first accept the Cabinet Mission Plan?",
+              "options": [
+                "It saw the grouping of Muslim-majority provinces as a step towards Pakistan",
+                "It wanted to join the Congress",
+                "It liked the interim government under Nehru",
+                "It wanted a strong centre"
+              ],
+              "answer": 0,
+              "why": "See *How the parties reacted*."
+            },
+            {
+              "q": "Who was elected President of the Constituent Assembly?",
+              "options": [
+                "B.R. Ambedkar",
+                "Dr Rajendra Prasad",
+                "Jawaharlal Nehru",
+                "Sardar Patel"
+              ],
+              "answer": 1,
+              "why": "It met on **9 December 1946**. See *Interim government and the Constituent Assembly*."
+            },
+            {
+              "q": "On 20 February 1947, Attlee announced that Britain would hand over power by:",
+              "options": [
+                "December 1947",
+                "January 1950",
+                "August 1946",
+                "June 1948"
+              ],
+              "answer": 3,
+              "why": "It was then **brought forward** to August 1947. See *Attlee's deadline*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "mountbatten",
+      "label": "The Mountbatten Plan, June 1947: split the house",
+      "desc": "**Goal:** state the clauses of the Mountbatten Plan, and why it was accepted.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I on the plan and its acceptance, Exercise II question 3, and Exercise III (picture study).",
+      "links": [],
+      "children": [
+        {
+          "id": "mountbatten-arrives",
+          "label": "Mountbatten arrives",
+          "type": "core",
+          "desc": "- **Lord Mountbatten** became Viceroy in **March 1947**.\n- He found the Cabinet Mission Plan **unworkable**, and partition **unavoidable**.\n- He decided to transfer power **quickly**.\n- He put his plan before the **'big seven'**: Nehru, Patel, Kripalani, Jinnah, Liaquat Ali Khan, Abdur Rab Nishtar, Baldev Singh.\n- It was announced on **3 June 1947**. Gandhi said partition could only **harm** India's future.",
+          "links": [
+            {
+              "label": "Wikipedia: Lord Mountbatten",
+              "url": "https://en.wikipedia.org/wiki/Louis_Mountbatten,_1st_Earl_Mountbatten_of_Burma"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why was Mountbatten sent to India?",
+              "a": "To carry out the **transfer of power** by June 1948, as Attlee had announced, and to break the **deadlock**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mb-clauses",
+          "label": "The clauses of the Mountbatten Plan",
+          "type": "core",
+          "desc": "- **Partition:** two **dominions**, **India** and **Pakistan**.\n- **Bengal and Punjab** would be split if their **assemblies** voted for it.\n- **Sind's** assembly would decide for itself.\n- **NWFP:** a **plebiscite** (people's vote) to choose India or Pakistan.\n- **Sylhet** (Muslim-majority district of Assam): a **referendum** on joining East Bengal.\n- A **Boundary Commission** would draw the borders.\n- **Princely states:** treaties with Britain would **end**; they could join either dominion or stay **independent**.\n- The existing Constituent Assembly would go on, with a **separate** one for Pakistan.\n- Power would pass **before 15 August 1947**, much earlier than June 1948.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what did the plan say about Bengal and Punjab?",
+              "a": "They would be **partitioned** if their **legislative assemblies** voted for it."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "why-accepted",
+          "label": "Why the Congress accepted partition",
+          "type": "core",
+          "desc": "The Congress **disliked** partition, but saw no other way.\n\n- **Communal riots** were spreading. Patel said refusing Pakistan would divide India into **many Pakistans**.\n- The League had joined the interim government only to **obstruct** it.\n- The only other choice was a **weak** central government. A smaller India with a **strong centre** was better.\n- Delay could lead to **civil war**, and Britain was encouraging princes to stay **independent**.\n- Partition would remove **separate electorates**, so India could build a **secular** democracy.\n\n**Model answer.** *Give two reasons why the Congress accepted the Mountbatten Plan.*\n\n- **Communal riots** convinced leaders that partition was the only solution.\n- A smaller India with a **strong centre** was better than a big one with a **weak** centre.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what did Patel mean by 'many Pakistans'?",
+              "a": "If Pakistan were refused, communal conflict would **break India into many pieces**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-mountbatten",
+          "label": "Quick check: the Mountbatten Plan",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "What was the most important (and tragic) part of the Mountbatten Plan?",
+              "options": [
+                "Independence in 1950",
+                "Groups A, B and C",
+                "An interim government of 14",
+                "The partition of India into two dominions"
+              ],
+              "answer": 3,
+              "why": "See *The clauses of the Mountbatten Plan*."
+            },
+            {
+              "q": "How would the North-West Frontier Province decide its future?",
+              "options": [
+                "By its ruler",
+                "By the Congress",
+                "By a plebiscite",
+                "By the Viceroy's order"
+              ],
+              "answer": 2,
+              "why": "Sylhet held a **referendum** too. See *The clauses of the Mountbatten Plan*."
+            },
+            {
+              "q": "Why did the Congress finally accept partition?",
+              "options": [
+                "Gandhi asked for it",
+                "It wanted two countries from the start",
+                "Communal riots convinced leaders it was the only way out",
+                "Britain paid the Congress"
+              ],
+              "answer": 2,
+              "why": "See *Why the Congress accepted partition*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "act",
+      "label": "The Indian Independence Act, 1947: sign the papers",
+      "desc": "**Goal:** state the main provisions of the Indian Independence Act.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I on the Act and the Governors-General, and Exercise II question 4.",
+      "links": [],
+      "children": [
+        {
+          "id": "two-dominions",
+          "label": "Two dominions",
+          "type": "core",
+          "desc": "The British Parliament passed the **Indian Independence Act** in **July 1947**, based on the Mountbatten Plan.\n\n- From **15 August 1947**, two independent dominions: **India** and **Pakistan**.\n- **Pakistan:** Sind, British Baluchistan, NWFP, **West Punjab** and **East Bengal**. **India:** the rest of British India.\n- A **Boundary Commission** would fix the exact borders.\n- Each dominion would have a **Governor-General**, appointed by the King on the advice of that dominion's cabinet.",
+          "links": [
+            {
+              "label": "Wikipedia: Indian Independence Act 1947",
+              "url": "https://en.wikipedia.org/wiki/Indian_Independence_Act_1947"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: name two provisions of the Indian Independence Act.",
+              "a": "**Two dominions**, India and Pakistan, from **15 August 1947**; a **Governor-General** for each."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "act-provisions",
+          "label": "Other provisions of the Act",
+          "type": "core",
+          "desc": "- Each **Constituent Assembly** would act as its dominion's **legislature**, with full power to make laws.\n- The British Parliament's power over India would **end** on 15 August 1947. The King dropped the title **'Emperor of India'**.\n- Until new constitutions were made, the **Government of India Act, 1935** would apply.\n- **Princely states:** British treaties with them **lapsed**; they could join either dominion or stay independent.\n- The **army** and the **assets and debts** would be divided.\n- The office of the **Secretary of State for India** was abolished.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what did the Act say about the Constituent Assemblies?",
+              "a": "They would act as the **central legislatures** of the two dominions, with full power to make **laws**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "midnight",
+          "label": "Freedom at midnight",
+          "type": "core",
+          "desc": "- On the night of **14 August 1947**, Nehru spoke in the Constituent Assembly: *at the stroke of the midnight hour... India will awake to life and freedom.* This is the **'Tryst with Destiny'** speech.\n- **Mountbatten** stayed on as the **first Governor-General** of free India (to June 1948). **Jinnah** became Governor-General of **Pakistan**.\n- **C. Rajagopalachari** followed as the **first and last Indian** Governor-General.\n- On **26 January 1950** India became a **Republic**, with **Dr Rajendra Prasad** as President.\n\nFreedom came with the pain of **partition**: riots and the uprooting of millions.",
+          "links": [
+            {
+              "label": "Wikipedia: Tryst with Destiny",
+              "url": "https://en.wikipedia.org/wiki/Tryst_with_Destiny"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: who was the first and last Indian Governor-General?",
+              "a": "**C. Rajagopalachari.**"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-act",
+          "label": "Quick check: the Independence Act",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "When were India and Pakistan to become independent under the Act?",
+              "options": [
+                "15 August 1947",
+                "26 January 1950",
+                "June 1948",
+                "3 June 1947"
+              ],
+              "answer": 0,
+              "why": "See *Two dominions*."
+            },
+            {
+              "q": "Who was the first Governor-General of independent India?",
+              "options": [
+                "Dr Rajendra Prasad",
+                "Jawaharlal Nehru",
+                "C. Rajagopalachari",
+                "Lord Mountbatten"
+              ],
+              "answer": 3,
+              "why": "Rajagopalachari was the **first and last Indian** Governor-General. See *Freedom at midnight*."
+            },
+            {
+              "q": "What happened to the princely states under the Act?",
+              "options": [
+                "They became part of Pakistan",
+                "They stayed under Britain",
+                "British treaties with them lapsed; they could join either dominion or stay independent",
+                "They were abolished"
+              ],
+              "answer": 2,
+              "why": "See *Other provisions of the Act*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "exam-toolkit",
+      "label": "Exam toolkit: words and reasons",
+      "desc": "**Goal:** collect the easy marks: key terms, answers in the right shape, 'why' questions and dates.",
+      "links": [],
+      "children": [
+        {
+          "id": "key-terms",
+          "label": "Key terms to learn word for word",
+          "type": "core",
+          "desc": "- **Cabinet Mission Plan (1946):** a two-tier federal plan: a Union for foreign affairs, defence and communications, autonomous provinces in three groups, and a Constituent Assembly.\n- **Interim government:** a temporary Indian government at the centre until the new constitution came into force.\n- **Mountbatten Plan (1947):** the plan of 3 June 1947 to partition British India into two dominions, India and Pakistan.\n- **Indian Independence Act (1947):** the British law that created the dominions of India and Pakistan from 15 August 1947.\n- **Dominion:** a self-governing country, free to stay in or leave the Commonwealth.\n- **Plebiscite:** a direct vote of the people on one question, as in the NWFP.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: cover the list. What was the Mountbatten Plan?",
+              "a": "The plan of **3 June 1947** to **partition** British India into two dominions, **India and Pakistan**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "right-shape",
+          "label": "Answers in the right shape",
+          "type": "core",
+          "desc": "**Short answer (2 marks):** two points, each with **one fact**.\n\n**Structured part (3 or 4 marks):** one point per mark. Start each point on a **new line**. Keep each to **one or two sentences**.\n\n**Model answer.** *State three provisions of the Indian Independence Act, 1947. (3 marks)*\n\n- Two dominions, **India and Pakistan**, from **15 August 1947**.\n- A **Governor-General** for each dominion.\n- British treaties with the **princely states** would lapse; they could join either dominion.\n\n**Three things that lose marks:** mixing up the **Cabinet Mission** (one India) and the **Mountbatten Plan** (two); swapping **plebiscite** (NWFP) and **referendum** (Sylhet); naming **Rajagopalachari** as the first Governor-General of free India.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: write a 2-mark answer. 'What was the implication of Group B?'",
+              "a": "Group B (Punjab, North-West Frontier Province, Sind) brought the **Muslim-majority** provinces of the north-west together, which the League saw as a step towards **Pakistan**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "why-questions",
+          "label": "'Why' questions: model answers",
+          "type": "core",
+          "desc": "Try each one in your notebook before you open it.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Why could Britain no longer hold India after 1945?",
+              "a": "It was **weak** after the war, and its **armed forces and police** in India were no longer reliable."
+            },
+            {
+              "q": "Why did the Sikhs reject the Cabinet Mission Plan?",
+              "a": "**Punjab** was put in **Group B**, with Muslim-majority provinces."
+            },
+            {
+              "q": "Why did the Congress want grouping to be optional?",
+              "a": "Provinces like **Assam** (with a Congress government) should not be forced into a Muslim-majority group."
+            },
+            {
+              "q": "Why was the date of transfer brought forward to August 1947?",
+              "a": "**Riots** and the breakdown of the interim government made delay **dangerous**."
+            },
+            {
+              "q": "Why is the Independence Act called unique?",
+              "a": "Never before had so many people won **independence** through an act of **law**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "timeline",
+          "label": "Dates to learn",
+          "type": "core",
+          "desc": "Read it top to bottom. Say each line aloud once.\n\n- **1945:** Wavell Plan fails.\n- **February 1946:** Naval revolt at Bombay.\n- **March 1946:** Cabinet Mission arrives.\n- **July 1946:** Constituent Assembly elections.\n- **2 September 1946:** Interim government under Nehru.\n- **9 December 1946:** Constituent Assembly meets.\n- **20 February 1947:** Attlee's deadline announced.\n- **March 1947:** Mountbatten becomes Viceroy.\n- **3 June 1947:** Mountbatten Plan.\n- **July 1947:** Indian Independence Act.\n- **15 August 1947:** India and Pakistan become independent.\n- **26 January 1950:** India becomes a Republic.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: how many months passed between the Mountbatten Plan and independence?",
+              "a": "About **two and a half months** (3 June to 15 August 1947)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "picture-study",
+          "label": "Picture study: who is this?",
+          "type": "optional",
+          "desc": "The exam may show a **picture** and ask who it is. Then it asks two or three facts. For each person, learn **who** and **two facts**.\n\n- **Lord Mountbatten:** last Viceroy; **partition** plan; first Governor-General of free India.\n- **Nehru speaking on 14 August 1947:** **'Tryst with Destiny'**; the Constituent Assembly as legislature.\n- **Clement Attlee:** sent the **Cabinet Mission**; announced the **June 1948** deadline.\n- **Lord Wavell:** **Wavell Plan**, 1945.\n- **C. Rajagopalachari:** first and last **Indian** Governor-General.\n- **Dr Rajendra Prasad:** President of the **Constituent Assembly**; first President of India.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a picture of Mountbatten. How did he plan to solve the communal problem?",
+              "a": "By **partitioning** India into **two dominions**, India and Pakistan."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: last-minute revision and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Read the sheet the night before the exam and again on the morning.",
+      "links": [],
+      "children": [
+        {
+          "id": "revision-sheet",
+          "label": "Last-minute revision sheet",
+          "type": "core",
+          "desc": "**The one idea:** after 1945 the question was no longer **whether** India would be free, but **how**: **share the house** (Cabinet Mission, 1946), **split the house** (Mountbatten Plan, 3 June 1947), then **sign the papers** (Indian Independence Act, July 1947).\n\n**Dates to know**\n- **1945** Wavell Plan fails. **February 1946** naval revolt at Bombay. **March 1946** Cabinet Mission arrives.\n- **July 1946** Constituent Assembly elections. **2 September 1946** interim government under Nehru. **9 December 1946** Constituent Assembly meets.\n- **20 February 1947** Attlee: power by **June 1948**. **March 1947** Mountbatten Viceroy. **3 June 1947** Mountbatten Plan.\n- **July 1947** Indian Independence Act. **15 August 1947** India and Pakistan free. **26 January 1950** India a Republic.\n\n**Key terms**\n- **Cabinet Mission Plan:** a **two-tier** federal plan: a weak **Union** (foreign affairs, defence, communications), strong **provinces**, and **groups**.\n- **Interim government:** a temporary Indian government at the centre (14 members) until the constitution was ready.\n- **Mountbatten Plan:** the plan to **partition** India into **two dominions**.\n- **Dominion:** a self-governing country, free to stay in or leave the **Commonwealth**.\n- **Plebiscite / referendum:** a vote of the people on one question.\n\n**Key points**\n- **Why Britain left:** a **weaker** Britain; USA and USSR backed freedom; **Labour** government; weary soldiers; **INA** and **naval revolt**; police and services unreliable; strikes and the **Tebhaga** struggle.\n- **Cabinet Mission (Lord Pethick-Lawrence, Sir Stafford Cripps, A.V. Alexander):** Union of provinces and states; provinces **autonomous**; groups **A** (6 Hindu-majority), **B** (Punjab, North-West Frontier Province, Sind), **C** (Bengal, Assam); Constituent Assembly of **389** (296 provinces + 93 states), elected by provincial assemblies; interim government of **14**; free to leave the Commonwealth.\n- **Pakistan rejected because:** minorities problem stays; non-Muslim districts; army, rail and post built for **one** India; princes confused; two halves **far apart**.\n- **Mountbatten Plan:** **two dominions**; **Boundary Commission**; Bengal and Punjab split if their assemblies agreed; Sind assembly to decide; **plebiscite** in NWFP; **referendum** in Sylhet; princely states choose; power **before 15 August 1947**.\n- **Why the Congress accepted:** **riots**; League **obstructed** the interim government; a strong smaller India better than a weak big one; delay risked **civil war**; end of **separate electorates**.\n- **Independence Act:** two dominions from **15 August 1947**; a **Governor-General** for each; Constituent Assemblies act as **legislatures**; British Parliament's authority **ends**; title **Emperor of India** dropped; princely treaties **lapse**; army and assets **divided**; Secretary of State's office **abolished**.\n\n**Traps:** the Cabinet Mission **rejected** Pakistan; Mountbatten **accepted** partition. NWFP: **plebiscite**; Sylhet: **referendum**. First Governor-General of free India: **Mountbatten**; first and last **Indian** one: **Rajagopalachari**. Pakistan's: **Jinnah**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Who succeeded Linlithgow as Viceroy in 1943?",
+              "options": [
+                "Lord Curzon",
+                "Lord Irwin",
+                "Lord Mountbatten",
+                "Lord Wavell"
+              ],
+              "answer": 3,
+              "why": "See *Wavell's attempt, 1945*."
+            },
+            {
+              "q": "Who was the British Prime Minister who sent the Cabinet Mission?",
+              "options": [
+                "Winston Churchill",
+                "Neville Chamberlain",
+                "Clement Attlee",
+                "Ramsay MacDonald"
+              ],
+              "answer": 2,
+              "why": "See *Why the Cabinet Mission came*."
+            },
+            {
+              "q": "How many members was the Constituent Assembly to have under the Cabinet Mission Plan?",
+              "options": [
+                "389",
+                "150",
+                "500",
+                "296"
+              ],
+              "answer": 0,
+              "why": "296 from provinces and 93 from states. See *The constituent assembly and the interim government*."
+            },
+            {
+              "q": "Give one reason the Cabinet Mission rejected Pakistan.",
+              "options": [
+                "The two parts of Pakistan would be hundreds of miles apart",
+                "The Congress asked it to",
+                "Britain wanted to stay in India",
+                "Muslims did not want it"
+              ],
+              "answer": 0,
+              "why": "See *Why the mission said no to Pakistan*."
+            },
+            {
+              "q": "Why did the Congress refuse to join the interim government at first?",
+              "options": [
+                "Gandhi was in jail",
+                "It objected to parity with the League and the League's claim to name all Muslim members",
+                "It did not want independence",
+                "It wanted Pakistan"
+              ],
+              "answer": 1,
+              "why": "See *How the parties reacted*."
+            },
+            {
+              "q": "How did the League react when Nehru's interim government was sworn in?",
+              "options": [
+                "It dissolved itself",
+                "It joined at once",
+                "It observed a day of mourning with black flags",
+                "It celebrated"
+              ],
+              "answer": 2,
+              "why": "See *Interim government and the Constituent Assembly*."
+            },
+            {
+              "q": "Mountbatten put his plan before the 'big seven' Indian leaders. Which of these was one of them?",
+              "options": [
+                "Lord Wavell",
+                "Baldev Singh",
+                "Stafford Cripps",
+                "Clement Attlee"
+              ],
+              "answer": 1,
+              "why": "See *Mountbatten arrives*."
+            },
+            {
+              "q": "What did Sardar Patel say about refusing Pakistan?",
+              "options": [
+                "It was a settled fact",
+                "It would divide the country into many Pakistans",
+                "It was a post-dated cheque",
+                "It was a national calamity"
+              ],
+              "answer": 1,
+              "why": "See *Why the Congress accepted partition*."
+            },
+            {
+              "q": "Under the Act, until new constitutions were made, the dominions were governed by:",
+              "options": [
+                "the Cabinet Mission Plan",
+                "the Government of India Act, 1935",
+                "the Lucknow Pact",
+                "the Act of 1858"
+              ],
+              "answer": 1,
+              "why": "See *Other provisions of the Act*."
+            },
+            {
+              "q": "Who said India would 'awake to life and freedom' at midnight?",
+              "options": [
+                "Gandhi",
+                "Jawaharlal Nehru",
+                "Mountbatten",
+                "Rajendra Prasad"
+              ],
+              "answer": 1,
+              "why": "His **'Tryst with Destiny'** speech. See *Freedom at midnight*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These are like the harder questions at the end of the chapter. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "structured-cabinet",
+          "label": "Structured question: the Cabinet Mission",
+          "type": "optional",
+          "desc": "A structured question in three parts. Write your answer first, then open the box.\n\n- (a) Who were its members, and why was it sent? (3 marks)\n- (b) Describe its federal structure. (3 marks)\n- (c) What option did the princely states have? (4 marks)",
+          "links": [],
+          "faq": [
+            {
+              "q": "Model answer",
+              "a": "(a) Lord Pethick-Lawrence, Sir Stafford Cripps, A.V. Alexander; to help Indians agree on the **transfer of power** and a form of government.\n\n(b) A **Union** for foreign affairs, defence and communications; **autonomous** provinces; provinces in **Groups A, B and C**.\n\n(c) The states would be part of the **Union**, and send **93** members to the Constituent Assembly. (When Britain left, under the Act, they could join **either** dominion or stay independent.)"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "structured-mountbatten",
+          "label": "Structured question: the Mountbatten Plan",
+          "type": "optional",
+          "desc": "A structured question in three parts. Write your answer first, then open the box.\n\n- (a) On what basis was India partitioned? (3 marks)\n- (b) Three features of the plan. (3 marks)\n- (c) Why did the Congress accept it? (4 marks)",
+          "links": [],
+          "faq": [
+            {
+              "q": "Model answer",
+              "a": "(a) On a **religious** basis: Muslim-majority areas formed **Pakistan**.\n\n(b) **Two dominions**; Bengal and Punjab split if their **assemblies** agreed; **plebiscite** in the NWFP.\n\n(c) **Riots**; the League **obstructed** the interim government; a strong **smaller** India was better than a weak bigger one; delay risked **civil war**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThe syllabus asks for the clauses of the Cabinet Mission Plan, the clauses and acceptance of the Mountbatten Plan, and the clauses of the Indian Independence Act. The roadmap keeps the events between them short.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- Use the **house** picture: share (Cabinet Mission), split (Mountbatten), sign (Act).\n- Draw **Groups A, B and C** on a rough map of British India.\n- Make a **three-column** chart of the three documents and their clauses.\n- Partition is painful family history for many; keep to the facts and let students share calmly if they wish.\n- Drill the **firsts**: first Governor-General (Mountbatten), first and last Indian Governor-General (Rajagopalachari), President of the Constituent Assembly (Rajendra Prasad).\n- Insist on **one fact per point**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 6-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** Share, split, sign; why Britain left.\n- **Period 2:** The Cabinet Mission Plan and why Pakistan was rejected. Activity: draw the groups.\n- **Period 3:** Reactions; interim government; Constituent Assembly; Attlee's deadline.\n- **Period 4:** The Mountbatten Plan and its acceptance. Exercise II question 3.\n- **Period 5:** The Indian Independence Act; freedom at midnight. Exercise II question 4.\n- **Period 6:** Revision sheet, self-test, exit ticket; picture study.",
+          "links": [
+            {
+              "label": "Simple Wikipedia: Partition of India (free, easy English)",
+              "url": "https://simple.wikipedia.org/wiki/Partition_of_India"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Saying the Cabinet Mission **proposed** partition (it **rejected** Pakistan).\n- Swapping **plebiscite** (NWFP) and **referendum** (Sylhet).\n- Giving **Nehru** or **Rajagopalachari** as the first Governor-General of free India.\n- Mixing up the members of the **Cabinet Mission**.\n- Writing events when the question asks for **clauses**.\n- Forgetting the **princely states** clause.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Name the three members of the Cabinet Mission.",
+              "a": "Lord Pethick-Lawrence, Sir Stafford Cripps, A.V. Alexander."
+            },
+            {
+              "q": "2. Which subjects did the Union get?",
+              "a": "**Foreign affairs, defence and communications.**"
+            },
+            {
+              "q": "3. When was the Mountbatten Plan announced?",
+              "a": "**3 June 1947**."
+            },
+            {
+              "q": "4. Give one provision of the Independence Act.",
+              "a": "**Two dominions** from **15 August 1947**."
+            },
+            {
+              "q": "5. Who was the first Governor-General of free India?",
+              "a": "**Lord Mountbatten.**"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

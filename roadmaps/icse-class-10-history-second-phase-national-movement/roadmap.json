@@ -1,0 +1,1103 @@
+{
+  "title": "ICSE Class 10 History, Chapter 4: Second Phase of the Indian National Movement, Step by Step",
+  "subtitle": "For students who find history hard. The Partition of Bengal and the protest against it, why Assertive Nationalism rose, the Surat split, Swaraj and the four methods (Swadeshi, boycott, national education, passive resistance), what they achieved, and Tilak, Bipin Chandra Pal and Lala Lajpat Rai, held together by one idea (from asking to demanding), in small steps with model answers, quick checks, an exam toolkit and a last-minute revision sheet. Follows the ICSE Class 10 syllabus, Chapter 4 (Second Phase of the Indian National Movement), in the order of Total History & Civics.",
+  "updated": "2026-11-24",
+  "changelog": [
+    {
+      "date": "2026-11-24",
+      "text": "First version: the whole chapter in small steps, with model answers, quick checks, a last-minute revision sheet, a self-test and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** know the key words and dates this chapter uses, and the answer shape. Then the rest is easy.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea and the model answer, then do **Your turn**.\n- **Every answer is a point plus one fact:** a name, a date or a place. One point earns one mark.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: from asking to demanding.** Curzon's **Partition of Bengal (1905)** proved that polite petitions did not work. The **Assertive Nationalists** demanded **Swaraj** and used **Swadeshi, boycott, national education and passive resistance**.",
+          "links": [
+            {
+              "label": "Simple Wikipedia: Swadeshi movement (free, easy English)",
+              "url": "https://simple.wikipedia.org/wiki/Swadeshi_movement"
+            },
+            {
+              "label": "Last-minute revision sheet for this chapter",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-history-second-phase-national-movement#revision-sheet"
+            },
+            {
+              "label": "Previous chapter: 3. First Phase of the Indian National Movement",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-history-first-phase-national-movement"
+            },
+            {
+              "label": "Next chapter: 5. The Muslim League",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-history-muslim-league"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 4, *Second Phase of the Indian National Movement*, of the History part of the ICSE Class 10 History and Civics syllabus. It follows the order of *Total History & Civics* for Class 10.\n\n**Who it is for.** Class 10 students who find history hard, and want to understand this chapter and score decent marks in it. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** From asking to demanding. Curzon's Partition of Bengal (1905) proved that polite petitions did not work. The Assertive Nationalists demanded Swaraj and used Swadeshi, boycott, national education and passive resistance.\n\n**How it is different from the textbook.** The textbook covers the partition, the causes, the split, the methods and three biographies at length. Here one idea, **from asking to demanding**, links them, the two groups are compared **side by side**, and each leader gets a short card. Every answer is a **point plus one fact**, with fresh model answers.\n\n**What is inside.**\n- 11 milestones and 46 small steps. The 38 solid steps are the core path. The dashed ones are optional.\n- 44 practice questions with hidden answers.\n- 28 click-to-check questions that say right or wrong, and why: a quick check after each of the 6 main milestones, and a 10-question self-test.\n- A **last-minute revision sheet**: every date, key term, name and trap on one page.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: picture study and two structured challenge questions, and a section for teachers and parents with a 7-period lesson plan, the mistakes to watch for and a 5-minute exit ticket.\n\n**Can you trust it?** Dates, names and places follow the textbook, and the few slips found in it are pointed out gently. A computer program checks that every date sits in the right order and every click-to-check answer is marked right. All the model answers are written fresh, so students still get fresh practice from their textbook. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the ICSE syllabus but is not made or endorsed by CISCE or by any publisher. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Who are Lal, Bal and Pal?",
+              "a": "**Lajpat Rai, Tilak, Bipin Chandra Pal**. Wrong? Do *Who's who in this chapter*."
+            },
+            {
+              "q": "2. What made Indians stop 'asking politely'?",
+              "a": "Curzon's **Partition of Bengal** (1905). Wrong? Do *From asking to demanding*."
+            },
+            {
+              "q": "3. What is boycott?",
+              "a": "Refusing **British goods**. Wrong? Do *From asking to demanding*."
+            },
+            {
+              "q": "4. How many points for a 2-mark answer?",
+              "a": "**Two**, each with **one fact**. Wrong? Do *How ICSE asks, and the answer shape*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "whos-who",
+          "label": "Who's who in this chapter",
+          "type": "core",
+          "desc": "- **Lord Curzon:** Viceroy 1899 to 1905. He **partitioned Bengal**.\n- **Assertive Nationalists** (also called **Extremists**): the younger, bolder leaders.\n- **Lal-Bal-Pal:** **Lal** = Lala Lajpat Rai (Punjab), **Bal** = Bal Gangadhar Tilak (Maharashtra), **Pal** = Bipin Chandra Pal (Bengal).\n- Also **Aurobindo Ghose** in Bengal.\n- **Early Nationalists** (Moderates): Gokhale, Pherozeshah Mehta, Rashbehari Ghosh. You met them in Chapter 3.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: who are Lal, Bal and Pal?",
+              "a": "**Lala Lajpat Rai**, **Bal Gangadhar Tilak** and **Bipin Chandra Pal**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "asking-to-demanding",
+          "label": "From asking to demanding",
+          "type": "core",
+          "desc": "This chapter has **one idea**. Go back to the students who wanted a longer lunch break.\n\n- For twenty years they wrote **polite letters**. Almost nothing changed.\n- Then the principal did something **unfair** to the whole school, without asking anyone.\n- A new group of students said: **'Enough asking. We demand it.'** They stopped buying from the school canteen and ran their own.\n\nThat is this chapter. The unfair act was Curzon's **Partition of Bengal (1905)**. The new group, the **Assertive Nationalists**, demanded **Swaraj** and used **swadeshi, boycott, national education, passive resistance**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: in the story, what is the 'school canteen boycott'?",
+              "a": "**Boycott** of British goods, and running their own shop is **Swadeshi**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "answer-shape",
+          "label": "How ICSE asks, and the answer shape",
+          "type": "core",
+          "desc": "ICSE asks history in three ways.\n\n- **Multiple choice:** 1 mark. Pick one option.\n- **Short answer:** usually 2 marks. Write **two points**.\n- **Structured question:** parts (a), (b), (c), worth 3 or 4 marks each. Write **one point per mark**.\n\nEach point has **one fact**: a name, a date or a place. A point without a fact looks vague and loses marks.\n\n**Model answer.** *State two methods of the Assertive Nationalists.*\n\n- **Swadeshi:** using goods made in India; Swadeshi stores and industries like **Tata Iron and Steel**.\n- **Boycott:** refusing British goods; foreign cloth was **burnt** in public bonfires.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is wrong with this answer? 'They used strong methods.'",
+              "a": "It has **no fact**. Add one: for example, *'They burnt foreign cloth and used Swadeshi goods.'*"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "partition",
+      "label": "The Partition of Bengal, 1905",
+      "desc": "**Goal:** explain why Curzon partitioned Bengal, how Bengal protested, and what came of it.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I (multiple choice) and Exercise II (short answers) on the Partition, and Exercise III (structured) question 1.",
+      "links": [],
+      "children": [
+        {
+          "id": "what-curzon-did",
+          "label": "What Curzon did",
+          "type": "core",
+          "desc": "Bengal was the **biggest** province: Bengal, Bihar, Odisha and more, with over **80 million** people.\n\nIn **July 1905**, **Lord Curzon** announced it would be **split in two**:\n- **Bengal** (west): western Bengal, Bihar and Odisha, about **54 million**, capital **Calcutta**;\n- **Eastern Bengal and Assam**: about **31 million**, capital **Dacca**.\n\nIt came into force on **16 October 1905**.\n\n**The reason given:** Bengal was **too big** to govern well.",
+          "links": [
+            {
+              "label": "Wikipedia: Partition of Bengal (1905)",
+              "url": "https://en.wikipedia.org/wiki/Partition_of_Bengal_(1905)"
+            },
+            {
+              "label": "Wikipedia: Lord Curzon",
+              "url": "https://en.wikipedia.org/wiki/George_Curzon,_1st_Marquess_Curzon_of_Kedleston"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what reason did the British give for the partition?",
+              "a": "**Administrative convenience**: Bengal was too big to be governed well by one provincial government."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "real-motives",
+          "label": "The real motives",
+          "type": "core",
+          "desc": "Indians saw through the official reason. The real aims were:\n\n- **Weaken nationalism:** Bengal was the **nerve centre** of the national movement. A British official wrote: *Bengal united is a power; divided, it will pull in different ways.*\n- **Reduce Bengalis:** in both new provinces, **Bengali Hindus** became a **minority**.\n- **Divide by religion:** the east would be **Muslim-majority**, the west **Hindu-majority**.\n\nNationalists said: if size was the problem, split off **Hindi-speaking Bihar** and **Odia-speaking Odisha** instead.\n\n**Model answer.** *Give two real reasons for the Partition of Bengal.*\n\n- To **weaken nationalism** in Bengal, its strongest centre.\n- To **divide Hindus and Muslims**, making the east Muslim-majority and the west Hindu-majority.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why did the nationalists reject the 'too big' reason?",
+              "a": "Bengal could have been made smaller by separating **Hindi-speaking Bihar** and **Odia-speaking Odisha**, instead of splitting **Bengali-speakers**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "bengal-protests",
+          "label": "How Bengal protested",
+          "type": "core",
+          "desc": "The **Anti-Partition Movement** began at **Calcutta Town Hall** on **7 August 1905**. All sections joined: zamindars, merchants, lawyers, **students and women**.\n\nOn **16 October 1905**:\n- a day of **national mourning**: fasting, **hartal**, barefoot walks and bathing in the Ganga;\n- streets rang with ***Bande Mataram***;\n- **Rabindranath Tagore** wrote ***Amar Sonar Bangla*** for the day;\n- Hindus and Muslims tied **rakhis** on each other: **Raksha Bandhan** for Bengal's **unity**;\n- people took a **vow** to follow **Swadeshi**.",
+          "links": [
+            {
+              "label": "Wikipedia: Swadeshi movement",
+              "url": "https://en.wikipedia.org/wiki/Swadeshi_movement"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: give two ways people protested on the day of partition.",
+              "a": "They observed it as a day of **mourning**, with fasting and hartal. Hindus and Muslims tied **rakhis** on each other as a sign of **unity**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "partition-results",
+          "label": "What the partition led to",
+          "type": "core",
+          "desc": "Curzon had fired a big gun, but the **recoil** hit him.\n\n- The movement spread to the **masses**.\n- **Swadeshi and boycott** were born as weapons.\n- People **lost faith** in British fair play. Curzon called the partition a **'settled fact'**.\n- The Early Nationalists' methods lost appeal; the **Assertives** took the lead.\n\nIn **1911** the partition was **annulled**. Bengal was re-divided by **language** instead, and the capital moved from Calcutta to **Delhi**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: give two results of the Partition of Bengal.",
+              "a": "It turned the movement into a **mass movement**, and gave birth to **Swadeshi and boycott**. (It was annulled in 1911.)"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-partition",
+          "label": "Quick check: the Partition of Bengal",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "What reason did the British give for partitioning Bengal?",
+              "options": [
+                "Bengal had too many Muslims",
+                "Bengal was too poor",
+                "Bengal was too big to govern well from one place",
+                "Bengal wanted to be divided"
+              ],
+              "answer": 2,
+              "why": "That was the **official** reason. The real aim was to **weaken nationalism**. See *What Curzon did*."
+            },
+            {
+              "q": "Which was a real, hidden motive behind the partition?",
+              "options": [
+                "To give Bihar more rights",
+                "To help Bengali industry",
+                "To divide Hindus and Muslims and weaken Bengali nationalism",
+                "To build more railways"
+              ],
+              "answer": 2,
+              "why": "'Bengal united is a power; divided, it will pull in different ways.' See *The real motives*."
+            },
+            {
+              "q": "When was the Partition of Bengal annulled?",
+              "options": [
+                "1905",
+                "1911",
+                "1916",
+                "1907"
+              ],
+              "answer": 1,
+              "why": "In **1911**; the capital also moved to **Delhi**. See *What the partition led to*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "rise",
+      "label": "Why Assertive Nationalism rose",
+      "desc": "**Goal:** give the causes of the rise of the Assertive Nationalists.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I on international events, Exercise II on the causes, and Exercise III question 2.",
+      "links": [],
+      "children": [
+        {
+          "id": "polite-failed",
+          "label": "Polite asking had failed",
+          "type": "core",
+          "desc": "- The Early Nationalists had **exposed** British rule: it was the **cause** of India's poverty.\n- Yet **twenty years** of petitions won almost **nothing**. Some rights were even **taken away**.\n- Younger Congressmen mocked the old methods. They wanted **bold action** and **mass support**.\n- A bolder school already existed: **Rajnarain Bose** and **Ashwini Kumar Dutt** in Bengal, **Vishnu Shastri Chiplunkar** in Maharashtra.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why were younger leaders unhappy with the Early Nationalists?",
+              "a": "Their **petitions** had won **almost nothing**, and they kept the movement to the **educated middle class**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "hard-times",
+          "label": "Hard times and hurt pride",
+          "type": "core",
+          "desc": "- **Famines** (1896 to 1900) killed **lakhs**. The government spent heavily on Queen Victoria's **jubilee** instead.\n- **Educated unemployment:** many graduates were jobless or badly paid.\n- **Insults abroad:** in **South Africa**, Indians could not vote and were barred from 'whites only' hotels and trains.\n- Leaders taught **self-respect**. Bipin Chandra Pal: 'Self-help and self-sacrifice is the real force.'",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: how did the treatment of Indians abroad help Assertive Nationalism?",
+              "a": "In British colonies like **South Africa**, Indians faced **racial discrimination**, which made Indians at home angry at British rule."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "world-lessons",
+          "label": "Lessons from the world",
+          "type": "core",
+          "desc": "Events abroad broke the myth that **Europeans could not be beaten**.\n\n- **Japan**, an Asian country, **defeated Russia** (1905).\n- **Ethiopians (Abyssinians)** defeated **Italy**.\n- The **Boers** fought the British Empire for three years (1899 to 1902).\n- The **Irish** were fighting for **Home Rule**.",
+          "links": [
+            {
+              "label": "Wikipedia: Russo-Japanese War",
+              "url": "https://en.wikipedia.org/wiki/Russo-Japanese_War"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: name one international event that inspired the Assertive Nationalists.",
+              "a": "**Japan's victory over Russia** (1905): an **Asian** nation beat a **European** power."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "curzon-rule",
+          "label": "Lord Curzon's harsh rule",
+          "type": "core",
+          "desc": "Curzon did **not** see India as a nation. He thought the English were **destined** to rule it.\n\n- **Calcutta Corporation Act (1899):** cut the number of **elected Indians**.\n- **Official Secrets Act:** limited the press.\n- **Indian Universities Act (1904):** put universities under **official control**; he saw them as **centres of nationalism**.\n- And the biggest blow: the **Partition of Bengal**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: name two repressive measures of Lord Curzon.",
+              "a": "The **Indian Universities Act** (1904) and the **Calcutta Corporation Act**. (And the **Partition of Bengal**.)"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-rise",
+          "label": "Quick check: why they rose",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which international event inspired the Assertive Nationalists?",
+              "options": [
+                "France's victory in Ethiopia",
+                "Japan's victory over Russia (1905)",
+                "Britain's win in the Boer War",
+                "Germany's defeat in South Africa"
+              ],
+              "answer": 1,
+              "why": "An **Asian** country beat a **European** power. See *Lessons from the world*."
+            },
+            {
+              "q": "Which of these was one of Lord Curzon's measures?",
+              "options": [
+                "The Vernacular Press Act",
+                "The Indian Universities Act (1904)",
+                "The Indian Councils Act, 1892",
+                "The Ilbert Bill"
+              ],
+              "answer": 1,
+              "why": "It put universities under **official control**. The Press Act was **Lytton's**. See *Lord Curzon's harsh rule*."
+            },
+            {
+              "q": "Why did young Congressmen turn against the Early Nationalists?",
+              "options": [
+                "The Early Nationalists wanted to leave the Congress",
+                "The British had granted Swaraj",
+                "The Early Nationalists used violence",
+                "Polite petitions had won almost nothing"
+              ],
+              "answer": 3,
+              "why": "See *Polite asking had failed*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "surat",
+      "label": "The Surat split, 1907",
+      "desc": "**Goal:** explain why the Congress split at Surat, and what the split did.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise II (short answers) on the Surat split.",
+      "links": [],
+      "children": [
+        {
+          "id": "swadeshi-divides",
+          "label": "Swadeshi divides the Congress",
+          "type": "core",
+          "desc": "- **Assertives:** spread **Swadeshi and boycott** to **all India**; make it a **mass struggle** for **Swaraj**.\n- **Early Nationalists:** keep them only in **Bengal**; open boycott clashed with their **'petition and persuasion'**.\n\nAt **Calcutta (1906)**, both sides accepted **Dadabhai Naoroji** as president. He declared **Swaraj** the goal, and backed **Swadeshi, boycott and national education**. But the quarrel was only **paused**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: on what issue did the two groups differ after 1905?",
+              "a": "On spreading **Swadeshi and boycott** to **all of India** (Assertives) or keeping them to **Bengal** (Early Nationalists)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "at-surat",
+          "label": "What happened at Surat",
+          "type": "core",
+          "desc": "In **December 1907** the Congress met at **Surat**.\n\n- Assertives wanted **Lala Lajpat Rai** as president.\n- Early Nationalists wanted **Rashbehari Ghosh**.\n- The session broke up in **chaos**. The Assertive leaders were **expelled**.\n- At **Allahabad** in 1908, the split was made **formal**.",
+          "links": [
+            {
+              "label": "Wikipedia: Surat split",
+              "url": "https://en.wikipedia.org/wiki/Surat_Split"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: name the two candidates for president at Surat.",
+              "a": "**Lala Lajpat Rai** (Assertives) and **Rashbehari Ghosh** (Early Nationalists)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "split-effects",
+          "label": "What the split did",
+          "type": "core",
+          "desc": "- The Assertives stayed **out** of the Congress for about **nine years**, until **Lucknow (1916)**.\n- The British used **'concession and repression'**: favours for the Early Nationalists and Muslims, **jail** for the Assertives.\n- The national movement was **weakened** for a while.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: how did the British use the split?",
+              "a": "By **'concession and repression'**: small favours for the Early Nationalists, **harsh punishment** for the Assertives."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-surat",
+          "label": "Quick check: the Surat split",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "What was the main quarrel between the two groups after 1905?",
+              "options": [
+                "Whether to support the Partition",
+                "Whether to use English",
+                "Whether to spread Swadeshi and boycott across India",
+                "Whether to keep the Congress at all"
+              ],
+              "answer": 2,
+              "why": "Assertives wanted them **all over India**; Early Nationalists wanted them only in **Bengal**. See *Swadeshi divides the Congress*."
+            },
+            {
+              "q": "Whom did the Early Nationalists propose as president at Surat?",
+              "options": [
+                "Tilak",
+                "Dadabhai Naoroji",
+                "Rashbehari Ghosh",
+                "Lala Lajpat Rai"
+              ],
+              "answer": 2,
+              "why": "The Assertives wanted **Lajpat Rai**. See *What happened at Surat*."
+            },
+            {
+              "q": "How long were the Assertive Nationalists out of the Congress?",
+              "options": [
+                "Twenty years",
+                "About nine years",
+                "One year",
+                "Forever"
+              ],
+              "answer": 1,
+              "why": "From **1907** to the **Lucknow** session of **1916**. See *What the split did*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "methods",
+      "label": "Their aims and methods",
+      "desc": "**Goal:** state the goal of the Assertive Nationalists and their four methods, and compare them with the Early Nationalists.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I on their policy, Exercise II on aims and methods.",
+      "links": [],
+      "children": [
+        {
+          "id": "swaraj-goal",
+          "label": "Swaraj: the goal",
+          "type": "core",
+          "desc": "The Assertives wanted **Swaraj** at once, and they meant **complete independence**, not self-rule like Canada.\n\nThey believed this needed **pressure** and **direct action**. Their slogans: **non-cooperation, passive resistance, mass agitation, self-reliance**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: how was the Assertives' Swaraj different from the Early Nationalists' goal?",
+              "a": "Assertives wanted **complete independence**; Early Nationalists wanted **self-government within the empire**, like Canada."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "swadeshi-boycott",
+          "label": "Swadeshi and boycott",
+          "type": "core",
+          "desc": "- **Swadeshi:** make and use goods **made in India**. Swadeshi **stores**, **Bengal Chemical Works**, Tagore's **Swadeshi Bhandar**.\n- **Boycott:** refuse **British goods**. Foreign cloth, salt and sugar were burnt in **bonfires**; shops selling them were **picketed**.\n\nTilak: *When you accept Swadeshi, you must boycott foreign goods.* They are **two sides of one coin**: boycott hurt British trade; Swadeshi built **Indian industry** and **jobs**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why are Swadeshi and boycott called two sides of the same coin?",
+              "a": "**Boycott** stops buying British goods; **Swadeshi** supplies Indian goods instead. One **needs** the other."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "education-resistance",
+          "label": "National education and passive resistance",
+          "type": "core",
+          "desc": "- **National education:** schools free of **government control**, teaching in **Indian languages**. **Bengal National College**, Calcutta (Aurobindo as principal); the **National Council of Education (1906)**, later **Jadavpur University**; **DAV** schools in Punjab.\n- **Passive resistance:** peacefully **refuse to cooperate**: boycott government **service, courts, schools and colleges**.\n\nThey said a movement must know the difference between **begging** for rights and **claiming** them.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is passive resistance?",
+              "a": "**Peacefully refusing to cooperate** with the government: boycotting its **schools, courts and offices**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "past-pride",
+          "label": "Pride in India's past",
+          "type": "core",
+          "desc": "The Assertives drew strength from **India's past**, not from the West.\n\n- **Tilak** turned the **Ganapati festival (1893)** into a public celebration and started the **Shivaji festival (1895)**.\n- Heroes like **Chandragupta, Rana Pratap and Shivaji** were held up to inspire people.\n- They were ready for **sacrifice and suffering**, and trusted the strength of the **masses**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: how did Tilak use festivals for nationalism?",
+              "a": "He made the **Ganapati** (1893) and **Shivaji** (1895) festivals into public events with **patriotic songs and speeches**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "side-by-side",
+          "label": "Early and Assertive Nationalists side by side",
+          "type": "core",
+          "desc": "- **Goal:** Early, self-government **within the empire**; Assertive, **complete Swaraj**.\n- **Methods:** Early, **petitions, prayers, protests**; Assertive, **Swadeshi, boycott, passive resistance**.\n- **Faith in British justice:** Early, **yes**; Assertive, **no**.\n- **Support:** Early, the **educated middle class**; Assertive, the **masses**.\n- **Inspiration:** Early, **Western** thinkers; Assertive, **India's past**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: give two differences between the two groups.",
+              "a": "Early Nationalists wanted self-rule **within the empire** and used **petitions**; Assertives wanted **complete Swaraj** and used **boycott and Swadeshi**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-methods",
+          "label": "Quick check: aims and methods",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "What did the Assertive Nationalists mean by Swaraj?",
+              "options": [
+                "Complete independence",
+                "More Indians in councils",
+                "Self-government like Canada",
+                "Rule by the princes"
+              ],
+              "answer": 0,
+              "why": "Not just colonial self-rule: **full freedom**. See *Swaraj: the goal*."
+            },
+            {
+              "q": "Tilak said that when you accept Swadeshi, you must also:",
+              "options": [
+                "boycott foreign goods",
+                "join the army",
+                "obey British laws",
+                "write petitions"
+              ],
+              "answer": 0,
+              "why": "They are **two sides of one coin**. See *Swadeshi and boycott*."
+            },
+            {
+              "q": "Which college was set up under national education?",
+              "options": [
+                "Fergusson College, Pune",
+                "Bengal National College, Calcutta",
+                "Presidency College, Madras",
+                "Elphinstone College, Bombay"
+              ],
+              "answer": 1,
+              "why": "Fergusson College came from the **Deccan Education Society** (1884). See *National education and passive resistance*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "achievements",
+      "label": "What they achieved, and the price they paid",
+      "desc": "**Goal:** list the achievements of the Assertive Nationalists, and how the British hit back.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I on achievements, Exercise II on achievements.",
+      "links": [],
+      "children": [
+        {
+          "id": "assertive-achievements",
+          "label": "What they achieved",
+          "type": "core",
+          "desc": "- **National pride:** they praised India's **past** and gave people **self-confidence**.\n- **New slogans:** non-cooperation, passive resistance, mass agitation, **self-reliance**.\n- **Wider reach:** they wrote in **Indian languages**, so their message reached **ordinary people**.\n- **Swadeshi industry:** **Jamsetji Tata** started **iron and steel**; Swadeshi stores spread.\n- **National education:** new schools and colleges.\n- The movement became **all-India**, and the **Partition was annulled (1911)**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: give two achievements of the Assertive Nationalists.",
+              "a": "They made the movement **mass-based** by writing in **Indian languages**, and their struggle got the **Partition of Bengal annulled** (1911)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "repression",
+          "label": "Repression",
+          "type": "core",
+          "desc": "The British hit back hard.\n\n- **Tilak** was tried in **1908** and sent for **six years** to **Mandalay** in Burma.\n- **Lajpat Rai** was **deported** to Mandalay without trial.\n- Newspapers were **censored**, mass meetings **banned**, associations **prosecuted**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: how did the British treat Tilak?",
+              "a": "He was sentenced to **six years** in **Mandalay** prison, Burma, in 1908."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-achievements",
+          "label": "Quick check: what they achieved",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which was an achievement of the Assertive Nationalists?",
+              "options": [
+                "The Ilbert Bill was passed",
+                "The Arms Act was repealed",
+                "The Partition of Bengal was annulled (1911)",
+                "Full independence"
+              ],
+              "answer": 2,
+              "why": "See *What they achieved*."
+            },
+            {
+              "q": "Where was Tilak imprisoned after 1908?",
+              "options": [
+                "Andaman Islands",
+                "Lahore Fort",
+                "Yerwada, Pune",
+                "Mandalay, in Burma"
+              ],
+              "answer": 3,
+              "why": "Six years at **Mandalay**. See *Repression*."
+            },
+            {
+              "q": "Which industry did Jamsetji Tata start in this period?",
+              "options": [
+                "Railways",
+                "Iron and steel",
+                "Cotton textiles",
+                "Tea"
+              ],
+              "answer": 1,
+              "why": "A **Swadeshi** success. See *What they achieved*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "trio",
+      "label": "Lal, Bal and Pal",
+      "desc": "**Goal:** give two contributions each of Tilak, Bipin Chandra Pal and Lala Lajpat Rai.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise II on the leaders, Exercise III questions 3 and 4, and Exercise IV (picture study).",
+      "links": [],
+      "children": [
+        {
+          "id": "tilak",
+          "label": "Bal Gangadhar Tilak: Swaraj is my birthright",
+          "type": "core",
+          "desc": "**Lokmanya Tilak** is called the **father of Assertive Nationalism**.\n\n- His cry: ***'Swaraj is my birthright and I shall have it.'***\n- Newspapers ***Kesari*** (Marathi) and ***Mahratta*** (English).\n- **Ganapati** (1893) and **Shivaji** (1895) festivals; **akharas** and lathi clubs for courage.\n- Helped found the **Deccan Education Society**; started the **Home Rule League** at Pune (1916).\n- Wrote ***Gita Rahasya***, in Mandalay jail.\n- A **forerunner of Gandhi**: mass contact, Swadeshi, boycott, and going to **jail** for the country.",
+          "links": [
+            {
+              "label": "Wikipedia: Bal Gangadhar Tilak",
+              "url": "https://en.wikipedia.org/wiki/Bal_Gangadhar_Tilak"
+            },
+            {
+              "label": "Wikipedia: Lal Bal Pal",
+              "url": "https://en.wikipedia.org/wiki/Lal_Bal_Pal"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: give two contributions of Tilak.",
+              "a": "He spread nationalism through ***Kesari*** and ***Mahratta***, and through the **Ganapati and Shivaji festivals**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "pal",
+          "label": "Bipin Chandra Pal: voice of national education",
+          "type": "core",
+          "desc": "- Born in **Sylhet** (now in Bangladesh); began as a **Brahmo** reformer.\n- Journalist: ***New India***, *The Tribune*. Your textbook calls him the **father of revolutionary thought** in India.\n- Jailed for **six months** for refusing to give evidence against **Aurobindo Ghose**.\n- Made **national education** the base of the freedom movement.\n- Reformer: against **caste** rules, for **widow remarriage** and **women's education**; for **Swadeshi and boycott** to end poverty.",
+          "links": [
+            {
+              "label": "Wikipedia: Bipin Chandra Pal",
+              "url": "https://en.wikipedia.org/wiki/Bipin_Chandra_Pal"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: give two of Bipin Chandra Pal's ideas.",
+              "a": "**National education** as the basis of the freedom movement, and **Swadeshi and boycott** to fight poverty and unemployment."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "lajpat-rai",
+          "label": "Lala Lajpat Rai: Lion of Punjab",
+          "type": "core",
+          "desc": "**Lala Lajpat Rai** was called **'Punjab Kesari'** (Lion of Punjab).\n\n- Shaped by the **Arya Samaj**; helped build **DAV College**, Lahore.\n- **Deported** to Mandalay with Sardar Ajit Singh for leading peasants.\n- Wrote books like ***England's Debt to India***; founded the ***Punjabi*** and ***Vande Mataram*** papers.\n- Set up the **Servants of the People Society** for the poor.\n- In **1928**, leading a march against the **Simon Commission** in Lahore, he was hit in a **lathi charge** and died soon after. He said the blows would be **nails in the coffin** of the British Empire.",
+          "links": [
+            {
+              "label": "Wikipedia: Lala Lajpat Rai",
+              "url": "https://en.wikipedia.org/wiki/Lala_Lajpat_Rai"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: how did Lajpat Rai die?",
+              "a": "He was hurt in a **lathi charge** while leading a protest against the **Simon Commission** in Lahore, and died soon after (1928)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-trio",
+          "label": "Quick check: Lal, Bal and Pal",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Who said 'Swaraj is my birthright and I shall have it'?",
+              "options": [
+                "Aurobindo Ghose",
+                "Bal Gangadhar Tilak",
+                "Bipin Chandra Pal",
+                "Lala Lajpat Rai"
+              ],
+              "answer": 1,
+              "why": "See *Bal Gangadhar Tilak: Swaraj is my birthright*."
+            },
+            {
+              "q": "Who was called 'Punjab Kesari'?",
+              "options": [
+                "Bipin Chandra Pal",
+                "Tilak",
+                "Lala Lajpat Rai",
+                "Gokhale"
+              ],
+              "answer": 2,
+              "why": "Lion of Punjab. See *Lala Lajpat Rai: Lion of Punjab*."
+            },
+            {
+              "q": "Who was jailed for refusing to give evidence against Aurobindo Ghose?",
+              "options": [
+                "Tilak",
+                "Gokhale",
+                "Lajpat Rai",
+                "Bipin Chandra Pal"
+              ],
+              "answer": 3,
+              "why": "Six months in jail. See *Bipin Chandra Pal: voice of national education*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "exam-toolkit",
+      "label": "Exam toolkit: words and reasons",
+      "desc": "**Goal:** collect the easy marks: key terms, answers in the right shape, 'why' questions and dates.",
+      "links": [],
+      "children": [
+        {
+          "id": "key-terms",
+          "label": "Key terms to learn word for word",
+          "type": "core",
+          "desc": "- **Partition of Bengal (1905):** Lord Curzon's division of Bengal into Bengal and Eastern Bengal and Assam, officially for convenience, really to weaken nationalism.\n- **Assertive Nationalists:** younger leaders who demanded complete Swaraj and used Swadeshi, boycott, national education and passive resistance.\n- **Swadeshi:** making and using goods produced in one's own country.\n- **Boycott:** refusing to buy British goods or use British institutions.\n- **Passive resistance:** peaceful refusal to cooperate with unjust laws and the government.\n- **Surat split (1907):** the split of the Congress into Early and Assertive Nationalists at the Surat session.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: cover the list. What was the Surat split?",
+              "a": "The **split** of the Congress at **Surat** in 1907, when the **Assertive Nationalists** were expelled after a quarrel with the **Early Nationalists**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "right-shape",
+          "label": "Answers in the right shape",
+          "type": "core",
+          "desc": "**Short answer (2 marks):** two points, each with **one fact**.\n\n**Structured part (3 or 4 marks):** one point per mark. Start each point on a **new line**. Keep each to **one or two sentences**.\n\n**Model answer.** *State three causes of the rise of Assertive Nationalism. (3 marks)*\n\n- The **failure** of the Early Nationalists' petitions to win real reforms.\n- **International events**, such as Japan's defeat of Russia (1905).\n- **Lord Curzon's** repressive measures, above all the **Partition of Bengal** (1905).\n\n**Three things that lose marks:** mixing up **Lytton** and **Curzon**; saying Swaraj meant **self-rule like Canada** for the Assertives; listing causes with **no example**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: write a 2-mark answer. 'Why is 1905 important in the national movement?'",
+              "a": "Curzon **partitioned Bengal** in 1905. The protest gave birth to **Swadeshi and boycott** and turned the movement into a **mass movement**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "why-questions",
+          "label": "'Why' questions: model answers",
+          "type": "core",
+          "desc": "Try each one in your notebook before you open it.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Why was Bengal chosen for partition?",
+              "a": "It was the **nerve centre** of nationalism; dividing it would **weaken** the movement."
+            },
+            {
+              "q": "Why did the partition backfire on Curzon?",
+              "a": "It **united** Bengalis, spread the movement to the **masses**, and gave birth to **Swadeshi and boycott**."
+            },
+            {
+              "q": "Why did the Congress split at Surat?",
+              "a": "The two groups disagreed on spreading **Swadeshi and boycott** to all India, and on the **president**."
+            },
+            {
+              "q": "Why did the Assertives write in Indian languages?",
+              "a": "To reach **ordinary people**, not just the English-educated few."
+            },
+            {
+              "q": "Why was Japan's victory over Russia important to Indians?",
+              "a": "It showed a European power **could be beaten** by Asians, which gave Indians **confidence**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "timeline",
+          "label": "Dates to learn",
+          "type": "core",
+          "desc": "Read it top to bottom. Say each line aloud once.\n\n- **1893:** Tilak's Ganapati festival.\n- **1895:** Shivaji festival.\n- **1899:** Curzon becomes Viceroy.\n- **1904:** Indian Universities Act.\n- **July 1905:** Partition of Bengal announced.\n- **7 August 1905:** Anti-Partition Movement begins, Calcutta Town Hall.\n- **16 October 1905:** Partition in force; day of mourning.\n- **1906:** Calcutta session: Swaraj, Swadeshi, boycott.\n- **December 1907:** Surat split.\n- **1908:** Tilak sent to Mandalay.\n- **1911:** Partition annulled; capital moves to Delhi.\n- **1916:** Congress reunited at Lucknow; Home Rule League.\n- **1928:** Lajpat Rai dies after the Simon Commission protest.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: how many years did the Partition of Bengal last?",
+              "a": "About **six**: from 1905 to 1911."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "picture-study",
+          "label": "Picture study: who is this?",
+          "type": "optional",
+          "desc": "The exam may show a **picture** and ask who it is. Then it asks two or three facts. For each person, learn **who** and **two facts**.\n\n- **Lord Curzon:** Viceroy 1899 to 1905; **Partition of Bengal**; Universities Act.\n- **Bal Gangadhar Tilak:** '**Swaraj is my birthright**'; *Kesari*; Mandalay.\n- **Lala Lajpat Rai:** **Punjab Kesari**; Simon Commission lathi charge.\n- **Bipin Chandra Pal:** **national education**; *New India*.\n- **Rabindranath Tagore:** wrote ***Amar Sonar Bangla*** for the anti-partition protest.\n- **Aurobindo Ghose:** principal of **Bengal National College**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a picture of Tilak. What is he called, and what was his famous slogan?",
+              "a": "The **father of Assertive Nationalism** (Lokmanya). '**Swaraj is my birthright and I shall have it.**'"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: last-minute revision and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Read the sheet the night before the exam and again on the morning.",
+      "links": [],
+      "children": [
+        {
+          "id": "revision-sheet",
+          "label": "Last-minute revision sheet",
+          "type": "core",
+          "desc": "**The one idea:** **from asking to demanding.** Curzon's **Partition of Bengal (1905)** proved polite petitions did not work. The **Assertive Nationalists** demanded **Swaraj** and used **swadeshi, boycott, national education, passive resistance**.\n\n**Dates to know**\n- **1899 to 1905** Lord Curzon, Viceroy. **1904** Indian Universities Act.\n- **1905** Partition of Bengal: announced **July 1905**, in force **16 October 1905**. Protest begins **7 August 1905**, Calcutta Town Hall.\n- **1906** Calcutta session (Naoroji): Swaraj, Swadeshi, boycott, national education. **1906** National Council of Education.\n- **1907** Surat split. **1908** Tilak sent to **Mandalay**. **1911** Partition annulled; capital to **Delhi**. **1916** Congress reunited at Lucknow.\n\n**Key terms**\n- **Assertive Nationalists:** younger leaders who demanded **Swaraj** and used **direct action** and **mass support**.\n- **Swaraj:** **complete independence** (for the Assertives).\n- **Swadeshi:** making and using goods **made in India**.\n- **Boycott:** refusing **British goods** (and later British schools, courts and offices).\n- **Passive resistance:** **peacefully refusing** to cooperate with unjust laws.\n- **Lal-Bal-Pal:** **Lajpat Rai, Tilak, Bipin Chandra Pal**.\n\n**Key points**\n- **Partition motives (hidden):** stop **Bengali nationalism**; make Bengalis a **minority**; divide **Hindus and Muslims**.\n- **Protest:** day of **mourning**; *Bande Mataram*; Tagore's *Amar Sonar Bangla*; **Raksha Bandhan** for unity; Swadeshi vow.\n- **Causes of Assertive Nationalism:** true nature of British rule exposed; **failure** of polite methods; famines (1896 to 1900); ill-treatment **abroad**; **unemployment**; **Japan beat Russia**; **Curzon's** repression; the **Partition**.\n- **Surat (1907):** quarrel over **Swadeshi and boycott**; president **Rashbehari Ghosh** (Early) vs **Lajpat Rai** (Assertive); Assertives **expelled**.\n- **Achievements:** national **pride**; **mass** base; new slogans; **Indian-language** press; **Swadeshi** industries (Tata steel); **national schools**; Partition **annulled**.\n- **Tilak:** *Kesari* and *Mahratta*; **Ganapati (1893)** and **Shivaji (1895)** festivals; **Home Rule League (1916)**; Mandalay.\n- **Pal:** *New India*; national education; social reform; jailed for refusing to testify against Aurobindo.\n- **Lajpat Rai:** Arya Samaj; **DAV College** Lahore; deported to Mandalay; died after **Simon Commission** lathi charge (1928).\n\n**Traps:** Early Nationalists wanted self-rule **like Canada**; Assertives wanted **complete** Swaraj. Curzon **partitioned** Bengal; it was **annulled in 1911**, not by Curzon. **Lal** = Lajpat Rai, **Bal** = Tilak, **Pal** = Bipin Chandra Pal.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Who partitioned Bengal?",
+              "options": [
+                "Lord Ripon",
+                "Lord Minto",
+                "Lord Curzon",
+                "Lord Lytton"
+              ],
+              "answer": 2,
+              "why": "See *What Curzon did*."
+            },
+            {
+              "q": "What did Hindus and Muslims tie on each other's wrists on partition day?",
+              "options": [
+                "Green ribbons",
+                "Black bands",
+                "Rakhis",
+                "Saffron threads"
+              ],
+              "answer": 2,
+              "why": "**Raksha Bandhan** became a sign of Bengal's **unity**. See *How Bengal protested*."
+            },
+            {
+              "q": "Which song became the theme of the national movement in 1905?",
+              "options": [
+                "Jana Gana Mana",
+                "Vande Utkal Janani",
+                "Sare Jahan Se Achha",
+                "Bande Mataram"
+              ],
+              "answer": 3,
+              "why": "See *How Bengal protested*."
+            },
+            {
+              "q": "Which event showed that European powers could be beaten?",
+              "options": [
+                "The Surat split",
+                "The Delhi Durbar",
+                "Japan defeating Russia (1905)",
+                "The Ilbert Bill"
+              ],
+              "answer": 2,
+              "why": "See *Lessons from the world*."
+            },
+            {
+              "q": "At Surat, the Assertive Nationalists wanted as president:",
+              "options": [
+                "Lala Lajpat Rai",
+                "Rashbehari Ghosh",
+                "Gokhale",
+                "Pherozeshah Mehta"
+              ],
+              "answer": 0,
+              "why": "See *What happened at Surat*."
+            },
+            {
+              "q": "Swadeshi means:",
+              "options": [
+                "leaving the Congress",
+                "refusing to pay taxes",
+                "using British goods",
+                "using goods made in one's own country"
+              ],
+              "answer": 3,
+              "why": "See *Swadeshi and boycott*."
+            },
+            {
+              "q": "Where did the Assertive Nationalists draw their inspiration from?",
+              "options": [
+                "India's past",
+                "Western philosophers only",
+                "The British Parliament",
+                "Karl Marx"
+              ],
+              "answer": 0,
+              "why": "Festivals for **Ganapati and Shivaji**, heroes like **Rana Pratap**. See *Pride in India's past*."
+            },
+            {
+              "q": "Which of these was a difference between the two groups?",
+              "options": [
+                "Assertives drew support from the masses; Early Nationalists from the educated few",
+                "Early Nationalists wanted complete independence",
+                "Early Nationalists used boycott",
+                "Assertives trusted British justice"
+              ],
+              "answer": 0,
+              "why": "See *Early and Assertive Nationalists side by side*."
+            },
+            {
+              "q": "Which festival did Tilak start in 1895?",
+              "options": [
+                "The Shivaji festival",
+                "Durga Puja",
+                "The Ganapati festival",
+                "Raksha Bandhan"
+              ],
+              "answer": 0,
+              "why": "Ganapati came first, in **1893**. See *Bal Gangadhar Tilak: Swaraj is my birthright*."
+            },
+            {
+              "q": "Lala Lajpat Rai died after a lathi charge during a protest against:",
+              "options": [
+                "the Simon Commission",
+                "the Partition of Bengal",
+                "the Rowlatt Act",
+                "the Ilbert Bill"
+              ],
+              "answer": 0,
+              "why": "Lahore, **1928**. See *Lala Lajpat Rai: Lion of Punjab*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These are like the harder questions at the end of the chapter. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "structured-partition",
+          "label": "Structured question: the Partition of Bengal",
+          "type": "optional",
+          "desc": "A structured question in three parts. Write your answer first, then open the box.\n\n- (a) What did the partition do, and what reason was given? (3 marks)\n- (b) Give the real motives. (3 marks)\n- (c) How did the people protest, and what came of it? (4 marks)",
+          "links": [],
+          "faq": [
+            {
+              "q": "Model answer",
+              "a": "(a) It split Bengal into **Bengal** and **Eastern Bengal and Assam** (1905). The reason given was that Bengal was **too big** to govern.\n\n(b) To **weaken nationalism** in Bengal; to make Bengalis a **minority**; to **divide Hindus and Muslims**.\n\n(c) A day of **mourning**, *Bande Mataram*, **rakhis** for unity, and **Swadeshi and boycott**. The partition was **annulled in 1911**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "structured-assertive",
+          "label": "Structured question: the Assertive Nationalists",
+          "type": "optional",
+          "desc": "A structured question in three parts. Write your answer first, then open the box.\n\n- (a) What was their goal? (3 marks)\n- (b) Describe two of their methods. (3 marks)\n- (c) State two achievements. (4 marks)",
+          "links": [],
+          "faq": [
+            {
+              "q": "Model answer",
+              "a": "(a) **Complete Swaraj** (independence), won through **pressure and mass action**, not petitions.\n\n(b) **Swadeshi**: using Indian goods; **boycott**: burning and refusing British goods. (Also national education and passive resistance.)\n\n(c) They built a **mass** movement through **Indian-language** papers; and helped get the **Partition annulled** (1911)."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThe syllabus asks briefly for the Partition of Bengal and the Surat split, and fully for the aims and methods of the Assertive Nationalists, with two contributions each of Tilak, Pal and Lajpat Rai.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- Use the **canteen boycott** story before the facts: it makes Swadeshi and boycott obvious.\n- Build a **side-by-side table** on the board: Early vs Assertive (goal, methods, faith in British, support, inspiration).\n- Make **leader cards** for Lal, Bal and Pal: two contributions each, one paper, one slogan.\n- Keep two dates firm: **1905** (partition) and **1907** (Surat). Then 1911 (annulled) and 1916 (reunited).\n- Ask: 'Was Curzon's partition a mistake for the British?' Let students argue it.\n- Insist on **one fact per point**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 7-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** From asking to demanding; Curzon; the partition and its motives.\n- **Period 2:** How Bengal protested; results; annulment. Exercise II on the partition.\n- **Period 3:** Causes of Assertive Nationalism. Activity: sort causes into home and world.\n- **Period 4:** The Surat split; aims and methods. Activity: design a Swadeshi poster.\n- **Period 5:** Side by side with the Early Nationalists; achievements and repression.\n- **Period 6:** Lal, Bal and Pal; picture study. Exercise III.\n- **Period 7:** Revision sheet, self-test, exit ticket; Exercise I.",
+          "links": [
+            {
+              "label": "Simple Wikipedia: Swadeshi movement (free, easy English)",
+              "url": "https://simple.wikipedia.org/wiki/Swadeshi_movement"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Saying the Assertives wanted self-rule **like Canada** (that was the Early Nationalists).\n- Mixing up **Curzon** and **Lytton**.\n- Writing that Curzon **annulled** the partition (it was annulled in **1911**, after he left).\n- Swapping the Surat candidates.\n- Matching Lal, Bal and Pal wrongly.\n- Giving **petitions** as an Assertive method.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Who partitioned Bengal, and when?",
+              "a": "**Lord Curzon**, 1905."
+            },
+            {
+              "q": "2. Give one hidden motive.",
+              "a": "To **divide Hindus and Muslims** (or to weaken Bengali nationalism)."
+            },
+            {
+              "q": "3. What happened at Surat in 1907?",
+              "a": "The Congress **split**; the Assertives were **expelled**."
+            },
+            {
+              "q": "4. Name two Assertive methods.",
+              "a": "**Swadeshi** and **boycott**."
+            },
+            {
+              "q": "5. Who said 'Swaraj is my birthright'?",
+              "a": "**Bal Gangadhar Tilak**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

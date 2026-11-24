@@ -1,0 +1,25 @@
+{
+  "stages": [
+    "school"
+  ],
+  "level": "beginner",
+  "lang": "en",
+  "authors": [
+    {
+      "name": "vijayanandraj",
+      "url": "https://github.com/vijayanandraj"
+    }
+  ],
+  "license": "CC-BY-SA-4.0",
+  "audience": "ICSE Class 10 students who find history hard, and their teachers and parents: Chapter 9, Independence and Partition of India",
+  "subject": "humanities",
+  "follows": "ICSE Class 10 History (Total History & Civics, Chapter 9: Independence and Partition of India)",
+  "tags": [
+    "history",
+    "icse",
+    "class 10",
+    "partition",
+    "independence act",
+    "step by step"
+  ]
+}
