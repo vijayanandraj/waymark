@@ -1,0 +1,25 @@
+{
+  "stages": [
+    "school"
+  ],
+  "level": "beginner",
+  "lang": "en",
+  "authors": [
+    {
+      "name": "vijayanandraj",
+      "url": "https://github.com/vijayanandraj"
+    }
+  ],
+  "license": "CC-BY-SA-4.0",
+  "audience": "ICSE Class 10 students who find history hard, and their teachers and parents: Chapter 1, The First War of Independence, 1857",
+  "subject": "humanities",
+  "follows": "ICSE Class 10 History (Total History & Civics, Chapter 1: The First War of Independence, 1857)",
+  "tags": [
+    "history",
+    "icse",
+    "class 10",
+    "1857",
+    "first war of independence",
+    "step by step"
+  ]
+}

@@ -1,0 +1,1352 @@
+{
+  "title": "ICSE Class 10 History, Chapter 1: The First War of Independence, 1857, Step by Step",
+  "subtitle": "For students who find history hard. The political, social and religious, economic and military causes of 1857, the greased cartridges, a short story of the revolt, its consequences and why it failed, all held together by one idea (dry wood and a spark), in small steps with model answers, quick checks, an exam toolkit and a last-minute revision sheet. Follows the ICSE Class 10 syllabus, Chapter 1 (The First War of Independence, 1857), in the order of Total History & Civics.",
+  "updated": "2026-11-24",
+  "changelog": [
+    {
+      "date": "2026-11-24",
+      "text": "First version: the whole chapter in small steps, with causes in four baskets, model answers, quick checks, a last-minute revision sheet, a self-test and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** know the key words, four dates and the answer shape this chapter uses. Then the rest is easy.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea and the model answer, then do **Your turn**.\n- **Every answer is a point plus one fact:** a name, a date or a place. One point earns one mark. Two points, two marks.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: 1857 was dry wood and a spark.** British rule hurt **every group at once**: rulers, priests, peasants, artisans and sepoys. That was the dry wood. The **greased cartridge** was only the spark. The revolt failed, but it **changed how Britain ruled India**.",
+          "links": [
+            {
+              "label": "Simple Wikipedia: the Indian Rebellion of 1857 (free, easy English)",
+              "url": "https://simple.wikipedia.org/wiki/Indian_Rebellion_of_1857"
+            },
+            {
+              "label": "Last-minute revision sheet for this chapter",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-history-first-war-of-independence#revision-sheet"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 1, *The First War of Independence, 1857*, of the History part of the ICSE Class 10 History and Civics syllabus. It follows the order of *Total History & Civics* for Class 10.\n\n**Who it is for.** Class 10 students who find history hard, and want to understand this chapter and score decent marks in it. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** 1857 was dry wood and a spark. British rule hurt every group at once: rulers lost kingdoms, people feared for their religion, peasants and artisans grew poor, and sepoys were insulted. That was the dry wood. The greased cartridge was only the spark. The revolt failed, but it changed how Britain ruled India.\n\n**How it is different from the textbook.** The textbook lists 31 separate causes under four headings, then 12 consequences and 6 drawbacks: a lot to memorise. Here one picture holds it together (**dry wood and a spark**), causes sit in **four baskets** named by **who was hurt**, and consequences are sorted into **who ruled, how they ruled and what Indians felt**. Every answer is taught as **a point plus one fact**, with fresh model answers, and the story of the fighting is kept short because the syllabus tests only causes and consequences.\n\n**What is inside.**\n- 12 milestones and 57 small steps. The 47 solid steps are the core path. The dashed ones are optional.\n- 54 practice questions with hidden answers.\n- 31 click-to-check questions that say right or wrong, and why: a quick check after each of the 7 main milestones, and a 10-question self-test.\n- A **last-minute revision sheet**: every date, key term, leader and trap on one page.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the short story of how it ended, picture study and three challenge questions, and a section for teachers and parents with an 8-period lesson plan, the mistakes to watch for and a 5-minute exit ticket.\n\n**Can you trust it?** Every date, name and place was checked against the textbook and standard history references, and every answer in the click-to-check questions was checked by a computer program. All the model answers are written fresh, so students still get fresh practice from their textbook. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the ICSE syllabus but is not made or endorsed by CISCE or by any publisher. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. What happened in 1757, and why does it matter here?",
+              "a": "The **Battle of Plassey**. After it, the East India Company began to **rule** Bengal. Wrong? Do *Four dates that frame the chapter*."
+            },
+            {
+              "q": "2. What is a sepoy?",
+              "a": "An **Indian soldier** in the East India Company's army. Wrong? Do *Who's who in 1857*."
+            },
+            {
+              "q": "3. A 2-mark question asks for two causes. What do you write?",
+              "a": "**Two points**, each with **one fact** (a name, a date or a place). Wrong? Do *How ICSE asks, and the answer shape*."
+            },
+            {
+              "q": "4. Is the greased cartridge a long-term cause or the immediate cause?",
+              "a": "The **immediate cause**: the spark. Wrong? Do *Dry wood and a spark*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "whos-who",
+          "label": "Who's who in 1857",
+          "type": "core",
+          "desc": "This chapter uses a few words again and again. Learn them first.\n\n- **East India Company:** a British trading company. Slowly it began to **rule** large parts of India.\n- **Governor-General:** the Company's top official in India. Example: **Lord Dalhousie**.\n- **Sepoy:** an **Indian soldier** in the Company's army.\n- **Annex:** to take over a state and make it part of British territory.\n- **Nawab, Raja, Rani:** rulers of Indian states.\n- **Mughal emperor:** the old emperor at Delhi. By 1857 he had **no real power**.\n- **Peshwa:** the old chief minister and leader of the Marathas, at Pune.\n- **The Crown:** the British government, under **Queen Victoria**.\n\n**Worked example.** *The Company annexed Awadh.* This means the Company **took over** Awadh and ruled it itself.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: who was more powerful in 1856, the Mughal emperor or the Governor-General?",
+              "a": "The **Governor-General**. The Mughal emperor only had a title and a pension."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "four-dates",
+          "label": "Four dates that frame the chapter",
+          "type": "core",
+          "desc": "Hang the whole chapter on four dates.\n\n- **1757: Battle of Plassey.** The Company starts to rule Bengal.\n- **1856:** Awadh is taken over. A new rifle arrives.\n- **1857:** the revolt. It starts at **Meerut** on **10 May 1857**.\n- **1858:** the Company is removed. The **British Crown** rules India directly.\n\n**A trick:** 1857 is exactly **100 years** after 1757. A hundred years of Company rule led to the revolt.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which came first, the revolt or the end of the Company?",
+              "a": "The **revolt** (1857). The Company ended **because of it**, in 1858."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "answer-shape",
+          "label": "How ICSE asks, and the answer shape",
+          "type": "core",
+          "desc": "ICSE asks history in three ways.\n\n- **Multiple choice:** 1 mark. Pick one option.\n- **Short answer:** usually 2 marks. Write **two points**.\n- **Structured question:** parts (a), (b), (c), worth 3 or 4 marks each. Write **one point per mark**.\n\nEach point has **one fact**: a name, a date or a place. A point without a fact looks vague and loses marks.\n\n**Model answer.** *Mention two political causes of the revolt.*\n\n- **Doctrine of Lapse:** Lord Dalhousie took states whose rulers had no natural son, such as **Jhansi**.\n- **Annexation of Awadh (1856):** it was taken over on the excuse of misrule.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is wrong with this answer? 'The British were unfair to the rulers.'",
+              "a": "It has **no fact**. Add one: for example, *'Lord Dalhousie took Jhansi under the Doctrine of Lapse.'*"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "dry-wood",
+          "label": "Dry wood and a spark",
+          "type": "core",
+          "desc": "A forest fire needs **dry wood** and a **spark**. The revolt of 1857 was the same.\n\n**The dry wood** is the **long-term causes**. They piled up for a hundred years. They fill **four baskets**:\n\n- **Political:** rulers lost their kingdoms.\n- **Social and religious:** people feared for their customs and faith.\n- **Economic:** peasants, artisans and landlords grew poor.\n- **Military:** sepoys were badly paid and insulted.\n\n**The spark** is the **immediate cause**: the **greased cartridges** of a new rifle.\n\n**The ashes** are the **consequences**: how British rule changed after the fire.\n\n**Only the causes and the consequences are tested**, says the syllabus. The story of the fighting just connects them.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: 'Many sepoys came from Awadh, and Awadh was taken over.' Which basket?",
+              "a": "This is about **sepoys**, but the cause is a state being taken. Write it under **political**, and mention it again under **military**. Both are fine."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "political",
+      "label": "Political causes: rulers lose their kingdoms",
+      "desc": "**Goal:** explain how the British took Indian states, and why rulers turned against them.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I (multiple choice) questions 1 to 5, 7, 8 and 15, and Exercise II (short answers) 1 and 3 to 12.",
+      "links": [],
+      "children": [
+        {
+          "id": "plassey-to-1857",
+          "label": "From Plassey to 1857: how the British took India",
+          "type": "core",
+          "desc": "After **Plassey (1757)**, the Company's power grew fast. It used **four ways** to take land.\n\n- **Wars.** Buxar (1764), the Mysore wars, the Maratha wars, and the Punjab (1849).\n- **The Subsidiary Alliance.** States came under British control without a war.\n- **The Doctrine of Lapse.** States with no natural heir were taken.\n- **'Misrule'.** A ruler was called a bad ruler, and his state was taken.\n\n**Before 1857, people did rise up.** Kings, peasants, tribals and soldiers revolted, almost every year. But these revolts were **local, scattered and separate**. They never threatened British rule. They did start a **tradition of resistance**.",
+          "links": [
+            {
+              "label": "Wikipedia: Battle of Plassey",
+              "url": "https://en.wikipedia.org/wiki/Battle_of_Plassey"
+            },
+            {
+              "label": "Wikipedia: Company rule in India",
+              "url": "https://en.wikipedia.org/wiki/Company_rule_in_India"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what were revolts before 1857 like? Give two points.",
+              "a": "They were **local** (one area at a time). They were **scattered and separate**, so the British crushed them one by one."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "subsidiary-alliance",
+          "label": "The Subsidiary Alliance: protection you pay for",
+          "type": "core",
+          "desc": "**Lord Wellesley** brought in the **Subsidiary Alliance**. Think of a security guard you must pay, who then runs your house.\n\nA ruler who signed it:\n- accepted the British as the **supreme power**;\n- kept **British troops** in his state, **at his own cost**;\n- accepted a **British Resident** at his court;\n- made **no treaties or wars** with others without the British;\n- so he **lost his independence**.\n\nYour textbook names **Awadh** as the first such state (Treaty of Allahabad, 1765). Others were **Hyderabad**, **Mysore**, **Tanjore** and some **Rajput states**.\n\n**Model answer.** *What was the Subsidiary Alliance? Name two states under it.*\n\n- A system of **Lord Wellesley**: a ruler paid for **British troops** in his state and lost control of his foreign affairs.\n- Two states: **Hyderabad** and **Awadh**.",
+          "links": [
+            {
+              "label": "Wikipedia: subsidiary alliance",
+              "url": "https://en.wikipedia.org/wiki/Subsidiary_alliance"
+            },
+            {
+              "label": "Wikipedia: Lord Wellesley",
+              "url": "https://en.wikipedia.org/wiki/Richard_Wellesley,_1st_Marquess_Wellesley"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: who paid for the British soldiers kept in a state under the Subsidiary Alliance?",
+              "a": "The **Indian ruler**, from his own money."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "doctrine-of-lapse",
+          "label": "The Doctrine of Lapse: no son, no state",
+          "type": "core",
+          "desc": "**Lord Dalhousie** used the **Doctrine of Lapse**.\n\n- If a ruler died **without a natural son**, his state **'lapsed'**: it passed to the Company.\n- An **adopted son** could not become ruler.\n- States taken this way include **Satara, Jaitpur, Sambalpur, Udaipur, Nagpur** and **Jhansi**.\n- Lapse was also used to stop **titles and pensions**, as with the Nawab of the **Carnatic**.\n\n**Jhansi:** the ruler died in **1853**. The British refused to accept the adopted son. (Your textbook calls him Anand Rao, his birth name; he is better known as Damodar Rao.) The widow, **Rani Laxmi Bai**, was given a pension. She became a fierce **enemy** of the British.\n\nRulers said their states were lost not by 'lapse', but by a **'lapse of all morals'** on the British side.",
+          "links": [
+            {
+              "label": "Wikipedia: Doctrine of Lapse",
+              "url": "https://en.wikipedia.org/wiki/Doctrine_of_lapse"
+            },
+            {
+              "label": "Wikipedia: Lord Dalhousie",
+              "url": "https://en.wikipedia.org/wiki/James_Broun-Ramsay,_1st_Marquess_of_Dalhousie"
+            },
+            {
+              "label": "Simple Wikipedia: Rani Lakshmibai",
+              "url": "https://simple.wikipedia.org/wiki/Rani_Lakshmibai"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why did Rani Laxmi Bai turn against the British? Two points.",
+              "a": "Lord Dalhousie took **Jhansi** under the **Doctrine of Lapse** after her husband died (1853). The British refused to accept her **adopted son** as the heir."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "awadh",
+          "label": "Awadh: taken on the excuse of misrule",
+          "type": "core",
+          "desc": "In **1856**, Lord Dalhousie took **Awadh**. He said it was **badly governed** ('misrule'). The Nawab was removed.\n\nThis hurt almost everyone in Awadh:\n- People paid **higher land revenue**, and new taxes on food, houses and ferries.\n- The Nawab's **army and court were broken up**. Thousands of nobles, officials and soldiers **lost their jobs**.\n- The **taluqdars** (big landlords) **lost their estates**.\n- About **75,000** of the Company's **sepoys came from Awadh**. Now their own homeland was under foreign rule, and their families paid more tax.\n\nSo Awadh played a **major role** in 1857.",
+          "links": [
+            {
+              "label": "Wikipedia: Oudh State (Awadh)",
+              "url": "https://en.wikipedia.org/wiki/Oudh_State"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: give two results of the annexation of Awadh.",
+              "a": "**Thousands lost jobs** when the Nawab's army was broken up. The **sepoys from Awadh** were angry, because their families now paid **higher taxes**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "insults",
+          "label": "Insults to the Mughal emperor and Nana Saheb",
+          "type": "core",
+          "desc": "The British also **insulted** two old ruling families.\n\n**The Mughal emperor, Bahadur Shah Zafar:**\n- His name was **removed from the coins**.\n- In 1849, **Dalhousie** said his heirs must **leave the Red Fort** and live near the Qutab Minar.\n- In 1856, **Canning** said his heirs would lose the title of emperor and be called **mere princes**.\n\n**Nana Saheb:**\n- He was the **adopted son of Baji Rao II**, the last Peshwa.\n- The British **refused him** the **pension** paid to Baji Rao II.\n- He had to live at **Kanpur**, far from the family seat at **Pune**. He later led the revolt at Kanpur.\n\nSeeing this, even rulers who were not hurt began to **fear for their future**.",
+          "links": [
+            {
+              "label": "Wikipedia: Bahadur Shah Zafar",
+              "url": "https://en.wikipedia.org/wiki/Bahadur_Shah_Zafar"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: state two announcements that hurt the Mughal dynasty.",
+              "a": "**Dalhousie (1849):** the heirs must leave the **Red Fort**. **Canning (1856):** the heirs would be called **princes**, not emperors."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "absentee",
+          "label": "Absentee sovereignty: ruled from far away",
+          "type": "core",
+          "desc": "**Absentee sovereignty** means India was ruled from **England**, thousands of kilometres away.\n\n- Earlier rulers, like the Mughals, came from outside but **settled in India**. Their taxes were **spent in India**.\n- The British ruled from **London**. India's wealth was **sent to England**, not used for Indians.\n\nIndians **resented** this.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why did Indians dislike absentee sovereignty?",
+              "a": "India was ruled **from England**, and its **wealth went to England** instead of being spent on Indians."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-political",
+          "label": "Quick check: political causes",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "What did the Doctrine of Lapse say?",
+              "options": [
+                "A ruler had to keep British troops and pay for them",
+                "A state whose ruler died without a natural son passed to the Company",
+                "A ruler had to send his army to fight for the British",
+                "A ruler who governed badly lost his state"
+              ],
+              "answer": 1,
+              "why": "Lapse means **no natural son, so the state goes to the Company**. Paying for troops is the Subsidiary Alliance. See *The Doctrine of Lapse: no son, no state*."
+            },
+            {
+              "q": "Awadh was taken over in 1856. What excuse did the British give?",
+              "options": [
+                "The Doctrine of Lapse",
+                "A war with the Nawab",
+                "The Subsidiary Alliance",
+                "Misrule (bad government)"
+              ],
+              "answer": 3,
+              "why": "Dalhousie said Awadh was **badly governed**. Lapse could not be used, because the Nawab had heirs. See *Awadh: taken on the excuse of misrule*."
+            },
+            {
+              "q": "Why was Nana Saheb angry with the British?",
+              "options": [
+                "They sent him to Yangon",
+                "They removed his name from the coins",
+                "They refused him the pension paid to his adoptive father, Baji Rao II",
+                "They took over Jhansi"
+              ],
+              "answer": 2,
+              "why": "Nana Saheb was the **adopted son of Baji Rao II**, the last Peshwa. The coins were the Mughal emperor's insult. See *Insults to the Mughal emperor and Nana Saheb*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "social",
+      "label": "Social and religious causes: people fear for their faith",
+      "desc": "**Goal:** explain why ordinary people feared for their religion and customs.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I question 6, and Exercise II questions 13 to 15.",
+      "links": [],
+      "children": [
+        {
+          "id": "reforms",
+          "label": "Reforms that felt like interference",
+          "type": "core",
+          "desc": "The British passed some **social reforms**:\n\n- **Sati** was abolished (1829).\n- The **Widow Remarriage Act** was passed (1856).\n- **Schools for girls** were opened to Western education.\n\nMany of these reforms were **good**. But the British **did not ask** the people. So many Indians saw them as **interference** in their customs, and feared for their religion.\n\n**Model answer.** *Name two social reforms that hurt the religious feelings of many Indians.*\n\n- The **abolition of Sati** (1829).\n- The **Widow Remarriage Act** (1856).",
+          "links": [
+            {
+              "label": "Wikipedia: Bengal Sati Regulation, 1829",
+              "url": "https://en.wikipedia.org/wiki/Bengal_Sati_Regulation,_1829"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: were the reforms bad? Why did people resent them?",
+              "a": "Many were good. People resented them because the British made them **without asking**, and they felt like an attack on **religion and custom**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "railways-telegraph",
+          "label": "Fear of railways and the telegraph",
+          "type": "core",
+          "desc": "New inventions frightened many people.\n\n- **Railways:** people of **high and low castes** had to **sit side by side**. Orthodox Indians saw this as an attack on **caste**.\n- **Telegraph:** a rumour said the poles were put up to **hang** people who opposed the British.\n\nPeople thought these were tricks to **break their religion**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what did Indians fear about the railways?",
+              "a": "In the compartments, **higher and lower castes** had to sit together. They thought it was meant to **destroy caste**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "missionaries-schools",
+          "label": "Missionaries, schools and a new property law",
+          "type": "core",
+          "desc": "Four things made people think the British wanted them to **change their religion**.\n\n- **Missionaries:** after **1813**, more Christian missionaries came. People thought the government **supported** them.\n- **Western education:** English classes started in the **Calcutta Madrasa** and **Benaras Sanskrit College**. Pandits and maulvis feared it would turn their children into Christians.\n- **Taxing religious land:** land owned by **temples and mosques** was **taxed** for the first time.\n- **Religious Disabilities Act (1850):** a man who **changed his religion** could still **inherit** his father's property. Hindus saw this as a **reward for converting**.",
+          "links": [
+            {
+              "label": "Wikipedia: Caste Disabilities Removal Act, 1850",
+              "url": "https://en.wikipedia.org/wiki/Caste_Disabilities_Removal_Act,_1850"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why did the 1850 property law worry Hindus?",
+              "a": "A convert could now **inherit** family property. It looked like an **encouragement** to give up one's religion."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "racial-corruption",
+          "label": "Racial insults, corruption and a harsh system",
+          "type": "core",
+          "desc": "Daily life under the British was full of **insults** and **unfairness**.\n\n- **Racial discrimination:** British officers thought they were **superior**. They were rude, and some insulted and ill-treated Indians.\n- **Corruption:** the police and petty officials were **corrupt**. The rich escaped; the poor were **looted and tortured**.\n- **Harsh system:** the courts were **complex**. Peasants who could not pay rent or debt were **flogged or jailed**.\n\nSo the poor joined the revolt **hoping for a better life**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: give one example of racial discrimination before 1857.",
+              "a": "British officers treated Indians as **inferior**, and were **rude and insulting** to them."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-social",
+          "label": "Quick check: social and religious causes",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which law upset many Indians before 1857?",
+              "options": [
+                "The Queen's Proclamation",
+                "The Widow Remarriage Act, 1856",
+                "The Government of India Act, 1858",
+                "The Act that ended the East India Company"
+              ],
+              "answer": 1,
+              "why": "The 1858 Act and the Proclamation came **after** the revolt. See *Reforms that felt like interference*."
+            },
+            {
+              "q": "Why did the Religious Disabilities Act of 1850 worry Hindus?",
+              "options": [
+                "A man who changed his religion could still inherit his father's property",
+                "It made English compulsory",
+                "It taxed temple land",
+                "It closed Sanskrit colleges"
+              ],
+              "answer": 0,
+              "why": "People saw it as a **reward for changing religion**. See *Missionaries, schools and a new property law*."
+            },
+            {
+              "q": "Why did orthodox Indians distrust the railways?",
+              "options": [
+                "Tickets cost too much",
+                "Trains only ran on Sundays",
+                "People of high and low castes had to sit side by side",
+                "Only British people could travel"
+              ],
+              "answer": 2,
+              "why": "Sitting together was seen as an **attack on caste**. See *Fear of railways and the telegraph*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "economic",
+      "label": "Economic causes: India grows poor",
+      "desc": "**Goal:** explain how British rule made peasants, artisans and landlords poorer. The textbook calls this **the most important** reason for the anger.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I question 9, Exercise II questions 16 to 18, and Exercise III (structured) question 1.",
+      "links": [],
+      "children": [
+        {
+          "id": "drain",
+          "label": "The drain of wealth",
+          "type": "core",
+          "desc": "India was turned into a **supplier** for British factories.\n\n- India **sent out** raw cotton, raw silk, indigo, tea and food grains, **cheaply**.\n- India **took in** British machine-made goods.\n- Before Plassey, Europeans brought **gold** to buy Indian goods. After it, they bought them with **Indian taxes**.\n- Salaries, profits and savings of the British went **home to Britain**.\n\nMoney flowing out of India **with nothing in return** is called the **drain of wealth**.\n\n**Model answer.** *Give two examples of how the British exploited India's resources.*\n\n- India had to send **raw materials** like cotton and silk to Britain **cheaply**.\n- After **Plassey**, British trade was paid for with **Indian taxes**, not British gold.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is the 'drain of wealth'?",
+              "a": "India's money (salaries, profits, taxes) **flowing to Britain**, with **nothing coming back**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "artisans",
+          "label": "Artisans lose their work",
+          "type": "core",
+          "desc": "Indian weavers and craftsmen were **ruined**.\n\n- British **machine-made** cloth was **cheaper** than handmade Indian cloth.\n- British goods entered India with **almost no tax**.\n- Indian cloth was **taxed heavily** in Britain.\n- The old buyers of fine goods, the **princes and nobles**, had lost their power.\n\nBy the mid-1800s, India's export of cotton and silk cloth had **almost stopped**. Thousands of artisans **lost their living**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why couldn't Indian handmade cloth compete? Two points.",
+              "a": "British cloth was **machine-made**, so cheaper. It came in **almost tax-free**, while Indian cloth was **taxed heavily** in Britain."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "peasants-landlords",
+          "label": "Peasants squeezed, landlords stripped",
+          "type": "core",
+          "desc": "**Peasants** carried the heaviest load.\n\n- **Land revenue** (land tax) was very high. In Bengal it was about **double** the Mughal amount.\n- None of it was spent on farming. Peasants fell into **debt** or **sold their land**.\n- New owners, **merchants and moneylenders**, raised rents and **threw out** tenants.\n- **Indigo** farmers were forced to grow only indigo. Disobeying meant crops **destroyed**.\n- **Famines** struck again and again. The government did little.\n\n**Landlords** suffered too. The **Inam Commission (1852)** took about **20,000 estates** whose owners could not show **title deeds** (papers). The land was auctioned.",
+          "links": [
+            {
+              "label": "Wikipedia: indigo revolt",
+              "url": "https://en.wikipedia.org/wiki/Indigo_revolt"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: give two grievances of the peasants.",
+              "a": "Very **high land revenue**, which pushed them into **debt**. Moneylenders who became landlords **raised rents and evicted** them."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "jobs-patrons",
+          "label": "Jobs and patrons lost",
+          "type": "core",
+          "desc": "When the British took a state, **many people lost their jobs**.\n\n- The state's **soldiers and officials** were sent home.\n- Indians could not get **high posts** under the British.\n- **Scholars, priests, poets and artists** had been paid by the old rulers. With the rulers gone, they lost their **income**.\n\nAll these people became **bitter enemies** of British rule.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: state two results of breaking up the armies of annexed states.",
+              "a": "Thousands of **soldiers lost their jobs** and became **poor**. They turned into **enemies** of the British and joined the revolt."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-economic",
+          "label": "Quick check: economic causes",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "What does 'drain of wealth' mean?",
+              "options": [
+                "Floods washed away Indian crops",
+                "Indian gold was spent on Indian roads",
+                "India's money flowed to Britain, and nothing came back",
+                "Indians spent too much on British goods"
+              ],
+              "answer": 2,
+              "why": "Salaries, profits and savings went **to Britain**. See *The drain of wealth*."
+            },
+            {
+              "q": "Why were Indian weavers ruined?",
+              "options": [
+                "The Mughal emperor banned weaving",
+                "Cheap machine-made British cloth came in with almost no tax, while Indian cloth was taxed heavily in Britain",
+                "The weavers all joined the army",
+                "Cotton stopped growing in India"
+              ],
+              "answer": 1,
+              "why": "**Machine-made goods** plus **unfair taxes**. See *Artisans lose their work*."
+            },
+            {
+              "q": "About how many estates did the Inam Commission (1852) take away?",
+              "options": [
+                "2,000",
+                "1,857",
+                "20,000",
+                "75,000"
+              ],
+              "answer": 2,
+              "why": "**20,000** estates, when owners could not show papers. 75,000 is the number of **sepoys from Awadh**. See *Peasants squeezed, landlords stripped*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "military",
+      "label": "Military causes and the spark",
+      "desc": "**Goal:** explain why the sepoys, the Company's own soldiers, rose up, and what lit the fire.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I question 10, Exercise II questions 19 to 23, and Exercise IV (picture study) question 1.",
+      "links": [],
+      "children": [
+        {
+          "id": "sepoys-grievances",
+          "label": "Sepoys: badly paid, never promoted",
+          "type": "core",
+          "desc": "The Company **won India** with Indian soldiers. Yet the sepoys were treated badly.\n\n- **Low pay:** a British soldier earned **many times** more.\n- **No promotion:** an Indian could not rise above the rank of **Subedar**.\n- **No extra allowance:** they served far from home without the **Bhatta** (foreign service allowance).\n- **Free postage ended** with the Post Office Act (1854).\n- **Insults:** officers were rude. Caste marks, beards and turbans were **forbidden**.\n\n**Model answer.** *Mention two grievances of the Indian sepoys.*\n\n- They could not be promoted above **Subedar**, however good they were.\n- They served far from home without the **Bhatta** (extra allowance).",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what was the highest rank an Indian sepoy could reach?",
+              "a": "**Subedar.** All higher posts were kept for the British."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "gsea",
+          "label": "The General Service Enlistment Act, 1856",
+          "type": "core",
+          "desc": "In **1856**, the **General Service Enlistment Act** said sepoys could be **sent overseas** on duty.\n\n- Many believed that **crossing the sea** made a Brahmin **lose his caste**.\n- So **Brahmin sepoys** saw the Act as a danger to their **religion**.\n\nThe Act **ignored** their beliefs. It made them **angry**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what did the Act say, and why was it resented?",
+              "a": "Sepoys could be **sent overseas**. Crossing the sea was believed to **break caste**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "british-beatable",
+          "label": "The British looked beatable",
+          "type": "core",
+          "desc": "In 1857, the sepoys felt they **could win**.\n\n- **Few British troops:** Indian soldiers **far outnumbered** British soldiers. Key places like **Delhi and Allahabad** were held only by Indians.\n- **British defeats:** the **First Afghan War (1838 to 1842)**, losses in the **Punjab wars** and the **Crimean War**.\n- **The Santhal uprising (1855 to 1856):** tribals with **axes and bows** briefly drove the British out of their area.\n- **British busy elsewhere:** wars in **Persia** and **China**.\n\nThe **myth** that the British could not be beaten was **broken**.",
+          "links": [
+            {
+              "label": "Wikipedia: Santal rebellion",
+              "url": "https://en.wikipedia.org/wiki/Santal_rebellion"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: give two effects of British defeats in Afghanistan and the Punjab on the sepoys.",
+              "a": "The sepoys saw the British **could be defeated**. They felt that a **determined Indian army** could beat them."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "spark",
+          "label": "The spark: greased cartridges",
+          "type": "core",
+          "desc": "In **1856**, the old **Brown Bess** musket was replaced by the **Enfield rifle**.\n\n- To load it, a sepoy **bit off** the end of a **greased paper cartridge**.\n- In January 1857, a **rumour** spread: the grease had **cow fat and pig fat**.\n- The **cow is sacred** to Hindus. The **pig is forbidden** to Muslims.\n- So **both** Hindu and Muslim sepoys thought the British wanted to **destroy their religion**.\n\n**What happened next:**\n- **26 February 1857:** the **19th Native Infantry** at **Berhampur** refused the cartridges. It was **disbanded**.\n- **29 March 1857:** **Mangal Pandey** attacked a British officer at **Barrackpore**. He was hanged, and became a **martyr**.\n\nThis was the **immediate cause**: the spark that lit all the dry wood.",
+          "links": [
+            {
+              "label": "Wikipedia: Pattern 1853 Enfield rifle",
+              "url": "https://en.wikipedia.org/wiki/Pattern_1853_Enfield"
+            },
+            {
+              "label": "Simple Wikipedia: Mangal Pandey",
+              "url": "https://simple.wikipedia.org/wiki/Mangal_Pandey"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: who was Mangal Pandey, and what did he do?",
+              "a": "A **sepoy** of the 34th Native Infantry. On **29 March 1857** he **attacked a British officer** at **Barrackpore**, and was **hanged**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-military",
+          "label": "Quick check: military causes and the spark",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Why did the General Service Enlistment Act (1856) upset Brahmin sepoys?",
+              "options": [
+                "It ended their free postage",
+                "It banned beards and turbans",
+                "It meant they could be sent overseas, and crossing the sea was believed to break caste",
+                "It cut their pay in half"
+              ],
+              "answer": 2,
+              "why": "**Overseas service** meant **loss of caste**. Free postage ended with the Post Office Act (1854). See *The General Service Enlistment Act, 1856*."
+            },
+            {
+              "q": "What was the immediate cause of the revolt?",
+              "options": [
+                "The annexation of Awadh",
+                "The greased cartridges of the new Enfield rifle",
+                "The drain of wealth",
+                "The Doctrine of Lapse"
+              ],
+              "answer": 1,
+              "why": "The others are **long-term causes** (the dry wood). The cartridge was **the spark**. See *The spark: greased cartridges*."
+            },
+            {
+              "q": "Why did both Hindu and Muslim sepoys object to the cartridges?",
+              "options": [
+                "The paper was printed in English",
+                "The grease was said to contain cow fat and pig fat",
+                "The cartridges were too heavy",
+                "The rifles were made in England"
+              ],
+              "answer": 1,
+              "why": "The **cow** is sacred to Hindus. The **pig** is forbidden to Muslims. See *The spark: greased cartridges*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "events",
+      "label": "The story of the revolt, in short",
+      "desc": "**Goal:** know where it started, who led where, and how it ended. The syllabus does not test the events on their own, but the multiple-choice questions do ask them.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I questions 11, 13, 16 and 18.",
+      "links": [],
+      "children": [
+        {
+          "id": "meerut-delhi",
+          "label": "From Meerut to Delhi",
+          "type": "core",
+          "desc": "- **9 May 1857:** at **Meerut**, 85 sepoys refused the cartridges. They got **10 years** in jail.\n- **10 May 1857:** the Meerut sepoys **broke open the jail** and freed them. The revolt **began**.\n- **11 May 1857:** they marched to **Delhi**. They proclaimed the old **Bahadur Shah Zafar** emperor of India.\n- **September 1857:** the British **took Delhi back** after a long siege.\n- Bahadur Shah was sent to **Yangon** (Rangoon) in Myanmar. He died there in **1862**.",
+          "links": [
+            {
+              "label": "Wikipedia: Siege of Delhi",
+              "url": "https://en.wikipedia.org/wiki/Siege_of_Delhi"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: where did the revolt begin, and on what date?",
+              "a": "At **Meerut**, on **10 May 1857**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "who-led-where",
+          "label": "Who led where",
+          "type": "core",
+          "desc": "Learn these pairs. They are often asked as 'match' questions.\n\n- **Delhi:** Bahadur Shah Zafar (the old Mughal emperor).\n- **Lucknow (Awadh):** Begum Hazrat Mahal.\n- **Kanpur:** Nana Saheb, helped by Tantia Tope.\n- **Jhansi:** Rani Laxmi Bai.\n- **Bihar (Jagdishpur):** Kunwar Singh.\n- **Bareilly:** Khan Bahadur.\n- **Faizabad:** Maulvi Ahmadullah.\n\nThe revolt spread across **north and central India**. The south, **Bombay (Mumbai)** and the **Madras** army stayed quiet.",
+          "links": [
+            {
+              "label": "Wikipedia: Begum Hazrat Mahal",
+              "url": "https://en.wikipedia.org/wiki/Begum_Hazrat_Mahal"
+            },
+            {
+              "label": "Wikipedia: Kunwar Singh",
+              "url": "https://en.wikipedia.org/wiki/Kunwar_Singh"
+            },
+            {
+              "label": "Wikipedia: Tantia Tope",
+              "url": "https://en.wikipedia.org/wiki/Tantia_Tope"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: who led the revolt in Bihar?",
+              "a": "**Kunwar Singh**, the zamindar of **Jagdishpur**."
+            },
+            {
+              "q": "Your turn: which of these was not a centre of the revolt: Delhi, Lucknow, Mumbai, Jhansi?",
+              "a": "**Mumbai.** It stayed quiet."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "how-it-ended",
+          "label": "How it ended",
+          "type": "optional",
+          "desc": "Town by town, the British **won back** control.\n\n- **September 1857:** British recapture Delhi.\n- **December 1857:** British defeat Nana Saheb at Kanpur.\n- **March 1858:** British recapture Lucknow.\n- **April 1858:** Jhansi falls; the Rani escapes to Kalpi.\n- **June 1858:** Rani Laxmi Bai dies fighting at Gwalior.\n- **April 1859:** Tantia Tope hanged.\n\nBy the **end of 1858**, British rule was back everywhere. Begum Hazrat Mahal and Nana Saheb fled towards **Nepal**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "qc-events",
+          "label": "Quick check: the story",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Where did the open revolt begin on 10 May 1857?",
+              "options": [
+                "Delhi",
+                "Barrackpore",
+                "Meerut",
+                "Plassey"
+              ],
+              "answer": 2,
+              "why": "Barrackpore was **Mangal Pandey** (29 March 1857). Delhi came the **next day**. See *From Meerut to Delhi*."
+            },
+            {
+              "q": "Who led the revolt at Lucknow?",
+              "options": [
+                "Rani Laxmi Bai",
+                "Kunwar Singh",
+                "Nana Saheb",
+                "Begum Hazrat Mahal"
+              ],
+              "answer": 3,
+              "why": "**Lucknow: Begum Hazrat Mahal.** Jhansi: the Rani. Bihar: Kunwar Singh. Kanpur: Nana Saheb. See *Who led where*."
+            },
+            {
+              "q": "Whom did the sepoys proclaim emperor of India at Delhi?",
+              "options": [
+                "Tantia Tope",
+                "Khan Bahadur",
+                "Nana Saheb",
+                "Bahadur Shah Zafar"
+              ],
+              "answer": 3,
+              "why": "The old **Mughal emperor, Bahadur Shah Zafar**. See *From Meerut to Delhi*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "consequences",
+      "label": "Consequences: how 1857 changed British rule",
+      "desc": "**Goal:** explain the changes after 1857. Sort them into three: **who** ruled, **how** they ruled, and **what Indians felt**.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise I questions 12, 14 and 17, Exercise II questions 24 to 26, Exercise III questions 2 and 3, and Exercise IV question 2.",
+      "links": [],
+      "children": [
+        {
+          "id": "act-1858",
+          "label": "Company out, Crown in: the Act of 1858",
+          "type": "core",
+          "desc": "The **biggest result**: the East India Company's rule **ended**. The **Government of India Act, 1858** said:\n\n- Power to rule India passed from the **Company** to the **British Crown**.\n- The Company's **Board of Control** and **Court of Directors** were abolished.\n- A British minister, the **Secretary of State for India**, took charge. A **Council of India** advised him.\n- The **Governor-General** also became the **Viceroy**: the Queen's representative. The first was **Lord Canning**.\n- Jobs in the **Civil Service** were to be filled by **open competition**.\n\n**Model answer.** *State two consequences of 1857 for the East India Company.*\n\n- Its rule **ended**; the **British Crown** took over India by the Act of 1858.\n- Its **Board of Control** and **Court of Directors** were abolished.",
+          "links": [
+            {
+              "label": "Wikipedia: Government of India Act 1858",
+              "url": "https://en.wikipedia.org/wiki/Government_of_India_Act_1858"
+            },
+            {
+              "label": "Wikipedia: Lord Canning",
+              "url": "https://en.wikipedia.org/wiki/Charles_Canning,_1st_Earl_Canning"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: who was the first Viceroy of India?",
+              "a": "**Lord Canning.**"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "proclamation",
+          "label": "The Queen's Proclamation: promises to calm India",
+          "type": "core",
+          "desc": "On **1 November 1858**, **Lord Canning** read out **Queen Victoria's Proclamation** at **Allahabad**. It promised:\n\n- **No interference** in Indians' **religion** and customs.\n- **Equal treatment** for Indians and Europeans. Jobs by **education and ability**.\n- A **pardon** for those who fought, except those who had **killed** British people.\n- Help for Indian **industries**, and **public works** for people's welfare.\n\nIt also told the princes: **no more annexation**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what did the Proclamation promise about religion and about jobs?",
+              "a": "**No interference** in religion. Jobs for Indians on the basis of **education and ability**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mughals-peshwas-princes",
+          "label": "The Mughals and Peshwas end; the princes become partners",
+          "type": "core",
+          "desc": "- **Mughals end:** Bahadur Shah Zafar died in exile in **1862**. The Mughal dynasty **ended**.\n- **Peshwas end:** Nana Saheb fled to **Nepal**. The office of **Peshwa** ended.\n- So two old enemies of the British, the **Mughals and the Marathas**, were gone.\n\n**The princes:**\n- The **Doctrine of Lapse** and **annexation** were **dropped**.\n- Princes could now **adopt heirs**, and keep their states.\n- In return they became **loyal partners** of the British. Many had helped crush the revolt.\n- In **1876**, Queen Victoria took the title **Empress of India**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: how did the British treat the princes after 1857?",
+              "a": "They **stopped annexing** states and let princes **adopt heirs**. The princes became **loyal allies**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "new-army",
+          "label": "A new army, built so it could not rise again",
+          "type": "core",
+          "desc": "The British rebuilt the army so it **could never revolt again**.\n\n- **More European soldiers.** European to Indian was fixed at **1 : 2** in Bengal, **2 : 5** in Madras and Bombay.\n- **Europeans held key places**, like big cities and forts.\n- **Guns and artillery** were kept out of Indian hands.\n- Soldiers were **recruited by caste, region and religion**, to keep them divided.\n- **Newspapers** were kept away from soldiers, so they stayed cut off from people's feelings.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: give two changes in the army after 1857.",
+              "a": "**More European soldiers** (1 : 2 in Bengal). **Artillery** was kept only with Europeans."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "divide-rule-economy",
+          "label": "Divide and rule, racial bitterness and a poorer India",
+          "type": "core",
+          "desc": "- **Divide and rule:** the British set **Hindus against Muslims**, caste against caste, princes against people.\n- **Racial bitterness:** trust broke down. Places marked **'Europeans only'** appeared in trains, parks, hotels and clubs.\n- **Religion:** the British promised **not to interfere** in religion.\n- **Foreign policy:** India's soldiers and taxpayers paid for **British wars**, like those with Burma (Myanmar).\n- **Economy:** India became a typical **colony**, selling raw materials and buying finished goods. **Handicrafts collapsed**. Indians paid **interest and profits** on British money put into railways and plantations.",
+          "links": [
+            {
+              "label": "Wikipedia: divide and rule",
+              "url": "https://en.wikipedia.org/wiki/Divide_and_rule"
+            },
+            {
+              "label": "Wikipedia: British Raj",
+              "url": "https://en.wikipedia.org/wiki/British_Raj"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what is 'divide and rule'?",
+              "a": "Keeping Indians **divided** (Hindus against Muslims, caste against caste) so that they could **never unite** against British rule."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "nationalism",
+          "label": "A seed of nationalism",
+          "type": "core",
+          "desc": "The revolt failed. But it **planted a seed**.\n\n- It was the **first big struggle** of Indians for freedom from British rule.\n- Heroes like **Rani Laxmi Bai, Nana Saheb** and **Mangal Pandey** inspired later freedom fighters.\n- It built a **tradition of resistance**, and paved the way for the **national movement**.\n\nThere was a sad side too. In 1857 **Hindus and Muslims fought together**. After it, **divide and rule** pushed them **apart**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: how did the revolt help the rise of nationalism? Two points.",
+              "a": "Its heroes, like **Rani Laxmi Bai**, **inspired** later freedom fighters. It began a **tradition of resistance** that led to the **national movement**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-consequences",
+          "label": "Quick check: consequences",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "The Government of India Act, 1858 moved the power to rule India:",
+              "options": [
+                "from the British Crown to the East India Company",
+                "from the Mughal emperor to the East India Company",
+                "from the East India Company to the British Crown",
+                "from the Viceroy to the Indian princes"
+              ],
+              "answer": 2,
+              "why": "**Company out, Crown in.** Students often write it the wrong way round. See *Company out, Crown in: the Act of 1858*."
+            },
+            {
+              "q": "Where, and by whom, was the Queen's Proclamation read out?",
+              "options": [
+                "At Delhi, by Queen Victoria, in 1857",
+                "At Allahabad, by Lord Canning, on 1 November 1858",
+                "At Meerut, by Mangal Pandey, in 1857",
+                "At Calcutta, by Lord Dalhousie, in 1856"
+              ],
+              "answer": 1,
+              "why": "Queen Victoria **never came** to India. **Canning** read it at **Allahabad**. See *The Queen's Proclamation: promises to calm India*."
+            },
+            {
+              "q": "After 1858, how many Indian soldiers were allowed for each European soldier in the Bengal army?",
+              "options": [
+                "No more than 2",
+                "No limit",
+                "5",
+                "10"
+              ],
+              "answer": 0,
+              "why": "European to Indian was fixed at **1 : 2** in Bengal. See *A new army, built so it could not rise again*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "failure",
+      "label": "Why it failed, and what to call it",
+      "desc": "**Goal:** give reasons for the failure, and say why 1857 is called the First War of Independence.\n\nPractice: in the chapter exercises in *Total History & Civics*, Exercise II questions 2 and 27.",
+      "links": [],
+      "children": [
+        {
+          "id": "why-failed",
+          "label": "Why the revolt failed",
+          "type": "core",
+          "desc": "Remember **six 'lacks'**.\n\n- **Lack of plan and leader:** no central leader, no common plan. Each place fought **on its own**.\n- **Lack of a common goal:** they agreed only on **getting rid of the British**.\n- **Lack of spread:** the **south**, **Sind** and **Rajasthan** stayed quiet. The **Bombay and Madras** armies stayed loyal. **Nepal** helped the British.\n- **Lack of support:** some **princes**, big **zamindars**, the **merchants and moneylenders** of Bombay, Calcutta and Madras, and some **educated Indians** stayed away.\n- **Lack of resources:** the British had **more men, money and weapons**, and able officers like **Nicholson** and **Lawrence**.\n- **Lack of timing:** the cartridge affair made it start **early**. (The textbook says it was planned for **31 May 1857**.)\n\n**Model answer.** *Mention two drawbacks of the First War of Independence.*\n\n- It had **no central leadership** or common plan; each area fought separately.\n- It did **not spread** across India: the south and the **Bombay and Madras** armies stayed out.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why did the educated Indians stay away?",
+              "a": "Some thought British rule would **modernise** India, and that the rebels would take it **backward**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "why-first-war",
+          "label": "Why it is called the First War of Independence",
+          "type": "core",
+          "desc": "People have given 1857 different names: the **Sepoy Mutiny** (the British view), the **Great Uprising**, and the **First War of Independence**.\n\n- **V.D. Savarkar**, in his book *The Indian War of Independence*, called it a **planned war of national independence**.\n- Historian **S.N. Sen** said it **began as a fight for religion** and **ended as a war of independence**.\n\n**It is called the First War of Independence because:**\n- it was the **first mass rising** in which **many sections** of Indian society fought **one common enemy**;\n- it **paved the way** for the national movement, and its heroes **inspired** later fighters.",
+          "links": [
+            {
+              "label": "Wikipedia: The Indian War of Independence (Savarkar's book)",
+              "url": "https://en.wikipedia.org/wiki/The_Indian_War_of_Independence"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: give one reason it is called the First War of Independence.",
+              "a": "It was the **first time** many groups (rulers, sepoys, peasants, artisans) rose **together** against the **British**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-failure",
+          "label": "Quick check: why it failed",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which of these is a reason the revolt failed?",
+              "options": [
+                "It began exactly on the planned date",
+                "All of India joined it",
+                "The British had fewer weapons than the rebels",
+                "It had no single leader and no common plan"
+              ],
+              "answer": 3,
+              "why": "The British had **more** resources; the south stayed **quiet**; it began **early**. See *Why the revolt failed*."
+            },
+            {
+              "q": "Who called 1857 'a planned war of national independence'?",
+              "options": [
+                "V.D. Savarkar",
+                "Lord Canning",
+                "Lord Wellesley",
+                "Lord Dalhousie"
+              ],
+              "answer": 0,
+              "why": "**Savarkar**, in his book *The Indian War of Independence*. See *Why it is called the First War of Independence*."
+            },
+            {
+              "q": "Which group mostly stayed loyal to the British?",
+              "options": [
+                "Big merchants and moneylenders of Bombay, Calcutta and Madras",
+                "The peasants of Awadh",
+                "The sepoys of the Bengal army",
+                "The taluqdars of Awadh"
+              ],
+              "answer": 0,
+              "why": "Their profits came from **trade with the British**. See *Why the revolt failed*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "exam-toolkit",
+      "label": "Exam toolkit: words and reasons",
+      "desc": "**Goal:** collect the easy marks: key terms, answers in the right shape, 'why' questions, dates and pictures.",
+      "links": [],
+      "children": [
+        {
+          "id": "key-terms",
+          "label": "Key terms to learn word for word",
+          "type": "core",
+          "desc": "- **Subsidiary Alliance:** a system of **Lord Wellesley** under which an Indian ruler kept British troops at his own cost, accepted a British Resident, and gave up control of his foreign affairs.\n- **Doctrine of Lapse:** a policy of **Lord Dalhousie** under which a state whose ruler died without a natural heir passed to the Company; adopted sons were not accepted.\n- **Absentee sovereignty:** rule over India from England, so that India's wealth went to England.\n- **Drain of wealth:** the flow of India's wealth to Britain without anything in return.\n- **Annexation:** taking over a state and adding it to British territory.\n- **Divide and rule:** keeping Indians divided by religion, caste and region so they could not unite against the British.\n- **Immediate cause:** the event that started the revolt: the **greased cartridges**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: cover the list. Explain the Doctrine of Lapse in one sentence.",
+              "a": "Under **Lord Dalhousie's** policy, a state whose ruler died **without a natural heir** passed to the **Company**; **adopted sons** were not accepted."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "right-shape",
+          "label": "Answers in the right shape",
+          "type": "core",
+          "desc": "**Short answer (2 marks):** two points, each with **one fact**.\n\n**Structured part (3 or 4 marks):** one point per mark. Start each point on a **new line**. Keep each to **one or two sentences**.\n\n**Model answer.** *Describe three changes in the administration after 1857. (3 marks)*\n\n- The **Company's rule ended**; the British Crown ruled India directly (Act of 1858).\n- A **Secretary of State for India**, with a Council of India, took charge in London.\n- The Governor-General became the **Viceroy**; the first was **Lord Canning**.\n\n**Three things that lose marks:** a point with **no fact**; mixing up **Wellesley and Dalhousie**; writing the **story** when the question asks for **causes**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: write a 2-mark answer. 'Give two grievances of the sepoys.'",
+              "a": "Possible answer: They could not rise above the rank of **Subedar**. The **General Service Enlistment Act (1856)** could send them overseas, which they believed would break **caste**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "why-questions",
+          "label": "'Why' questions: model answers",
+          "type": "core",
+          "desc": "Try each one in your notebook before you open it.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Why did the sepoys from Awadh join the revolt in large numbers?",
+              "a": "Awadh, their **home**, was taken over in 1856. Their families had to pay **higher land tax**."
+            },
+            {
+              "q": "Why did the annexation of Jhansi anger people?",
+              "a": "The British used the **Doctrine of Lapse** and refused to accept the **adopted son** of the late ruler. **Rani Laxmi Bai** lost her state."
+            },
+            {
+              "q": "Why did both Hindu and Muslim sepoys refuse the new cartridges?",
+              "a": "The grease was said to contain **cow fat** (sacred to Hindus) and **pig fat** (forbidden to Muslims)."
+            },
+            {
+              "q": "Why did the British keep artillery only with European soldiers after 1857?",
+              "a": "So that Indian soldiers would **never again** have the weapons to **revolt**."
+            },
+            {
+              "q": "Why did the Queen's Proclamation promise not to interfere in religion?",
+              "a": "Fear for **religion** was a big cause of 1857. The British wanted to **calm** Indians and avoid another revolt."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "timeline",
+          "label": "The 1857 timeline to learn",
+          "type": "core",
+          "desc": "Read it top to bottom. Say each line aloud once.\n\n- **1757:** Battle of Plassey: the Company starts to rule Bengal.\n- **1764:** Battle of Buxar: the British become masters of Bengal, Bihar and Odisha.\n- **1856:** Awadh annexed on the excuse of misrule.\n- **February 1857:** 19th Native Infantry refuses the cartridges at Berhampur.\n- **29 March 1857:** Mangal Pandey attacks an officer at Barrackpore.\n- **10 May 1857:** Meerut sepoys break open the jail and rise.\n- **11 May 1857:** Sepoys reach Delhi; Bahadur Shah Zafar proclaimed emperor.\n- **September 1857:** British recapture Delhi.\n- **December 1857:** British defeat Nana Saheb at Kanpur.\n- **March 1858:** British recapture Lucknow.\n- **April 1858:** Jhansi falls; the Rani escapes to Kalpi.\n- **June 1858:** Rani Laxmi Bai dies fighting at Gwalior.\n- **1858:** Government of India Act: Company out, Crown in.\n- **1 November 1858:** Queen's Proclamation read at Allahabad by Lord Canning.\n- **April 1859:** Tantia Tope hanged.\n- **1862:** Bahadur Shah Zafar dies in exile at Yangon.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: put these in order: Act of 1858, Mangal Pandey, Meerut rises, Plassey.",
+              "a": "**Plassey** (1757), **Mangal Pandey** (March 1857), **Meerut** (May 1857), **Act of 1858**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "picture-study",
+          "label": "Picture study: who is this?",
+          "type": "optional",
+          "desc": "The exam may show a **picture** and ask who it is. Then it asks two or three facts. For each person, learn **who** and **two facts**.\n\n- **Rani Laxmi Bai:** lost **Jhansi** by Lapse; died fighting at **Gwalior**, June 1858.\n- **Mangal Pandey:** sepoy who attacked an officer at **Barrackpore**; hanged.\n- **Bahadur Shah Zafar:** last Mughal emperor; proclaimed emperor by the sepoys; exiled to **Yangon**.\n- **Nana Saheb:** adopted son of **Baji Rao II**; refused his pension; led **Kanpur**.\n- **Begum Hazrat Mahal:** led **Lucknow**; fled to Nepal.\n- **Tantia Tope:** Nana Saheb's general; joined the Rani; hanged 1859.\n- **Queen Victoria:** her **Proclamation** was read at **Allahabad** by **Lord Canning**, 1858.\n- **Sepoys in uniform:** list **three grievances**, then say how the army **changed** after 1857.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a picture of Queen Victoria. Name her proclamation, and say where it was read.",
+              "a": "The **Queen's Proclamation** of 1858. It was read at **Allahabad** by **Lord Canning**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: last-minute revision and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Read the sheet the night before the exam and again on the morning.",
+      "links": [],
+      "children": [
+        {
+          "id": "revision-sheet",
+          "label": "Last-minute revision sheet",
+          "type": "core",
+          "desc": "**The one idea:** 1857 was **dry wood and a spark**. British rule hurt **every group at once**: rulers, priests, peasants, artisans and sepoys. That was the dry wood. The **greased cartridge** was only the spark. The revolt failed, but it **changed how Britain ruled India**.\n\n**Dates to know**\n- **1757** Plassey: the Company starts to rule. **1857** is exactly **100 years later**.\n- **1856** Awadh annexed; General Service Enlistment Act; Enfield rifle.\n- **29 March 1857** Mangal Pandey, Barrackpore. **10 May 1857** Meerut rises. **11 May 1857** Delhi taken.\n- **1858** Government of India Act. **1 November 1858** Queen's Proclamation at Allahabad.\n\n**Key terms**\n- **Subsidiary Alliance** (Lord **Wellesley**): a ruler kept British troops at his own cost, took a British Resident, and gave up his foreign affairs.\n- **Doctrine of Lapse** (Lord **Dalhousie**): no natural son, so the state passes to the Company. Jhansi, Satara, Nagpur.\n- **Absentee sovereignty:** India ruled from **England**, far away; its wealth went there.\n- **Drain of wealth:** money flowing from India to Britain with **nothing in return**.\n- **Sepoy:** an Indian soldier in the Company's army.\n\n**Who led where**\n- **Delhi:** Bahadur Shah Zafar (the old Mughal emperor).\n- **Lucknow (Awadh):** Begum Hazrat Mahal.\n- **Kanpur:** Nana Saheb, helped by Tantia Tope.\n- **Jhansi:** Rani Laxmi Bai.\n- **Bihar (Jagdishpur):** Kunwar Singh.\n- **Bareilly:** Khan Bahadur.\n- **Faizabad:** Maulvi Ahmadullah.\n\n**Key points**\n- **Political (rulers):** wars, Subsidiary Alliance, Lapse, Awadh (1856), insults to the Mughal emperor and Nana Saheb, absentee sovereignty.\n- **Social and religious (everyone's faith):** reforms like the Widow Remarriage Act, fear of railways and telegraph, missionaries, Western education, taxing temple land, the 1850 property law, racial insults.\n- **Economic (peasants, artisans, landlords):** drain of wealth, ruined handicrafts, heavy land revenue, Inam Commission (20,000 estates), indigo, famines, jobs lost.\n- **Military (sepoys):** low pay, no promotion above **Subedar**, no Bhatta, General Service Enlistment Act (1856), British defeats, few British troops.\n- **Spark:** cartridges said to be greased with **cow and pig fat**, bitten open.\n- **Consequences:** **Company out, Crown in** (Secretary of State; Viceroy, first **Lord Canning**); Queen's promises; end of **Mughals and Peshwas**; princes become **allies**; army remade (1 : 2 in Bengal); **divide and rule**; racial bitterness; **nationalism** born.\n- **Why it failed:** no common leader or plan, no common goal, not all-India, some Indians stayed loyal, British had more resources, began too early.\n\n**Traps:** **Wellesley = Subsidiary Alliance, Dalhousie = Lapse.** Jhansi was taken by **Lapse**; Awadh by **misrule**. Power went **Company to Crown**, not the other way. Mangal Pandey was at **Barrackpore**; the revolt **began at Meerut**. Every point needs **one fact**: a name, a date or a place.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Who introduced the Subsidiary Alliance?",
+              "options": [
+                "Lord Cornwallis",
+                "Lord Dalhousie",
+                "Lord Wellesley",
+                "Lord Canning"
+              ],
+              "answer": 2,
+              "why": "**Wellesley = Subsidiary Alliance; Dalhousie = Lapse**; Canning = first Viceroy. See *The Subsidiary Alliance: protection you pay for*."
+            },
+            {
+              "q": "Jhansi was annexed using:",
+              "options": [
+                "the Subsidiary Alliance",
+                "the excuse of misrule",
+                "a war",
+                "the Doctrine of Lapse"
+              ],
+              "answer": 3,
+              "why": "The ruler died **without a natural son**. Misrule was the excuse for Awadh. See *The Doctrine of Lapse: no son, no state*."
+            },
+            {
+              "q": "What does 'absentee sovereignty' mean?",
+              "options": [
+                "India was ruled from England, far away",
+                "Indian rulers stopped coming to court",
+                "Nobody ruled India for a while",
+                "The Mughal emperor had left Delhi"
+              ],
+              "answer": 0,
+              "why": "Rulers who **never settled** here, so India's money went abroad. See *Absentee sovereignty: ruled from far away*."
+            },
+            {
+              "q": "Which of these is a military cause?",
+              "options": [
+                "The annexation of Awadh",
+                "Temple land was taxed",
+                "Indian sepoys could not rise above the rank of Subedar",
+                "The drain of wealth"
+              ],
+              "answer": 2,
+              "why": "**Promotion** is about soldiers. The others are religious, economic and political. See *Sepoys: badly paid, never promoted*."
+            },
+            {
+              "q": "Where did Mangal Pandey attack a British officer?",
+              "options": [
+                "Meerut",
+                "Barrackpore",
+                "Lucknow",
+                "Berhampur"
+              ],
+              "answer": 1,
+              "why": "**Barrackpore**, 29 March 1857. At Berhampur a regiment only **refused** the cartridges. See *The spark: greased cartridges*."
+            },
+            {
+              "q": "Who was the first Viceroy of India?",
+              "options": [
+                "Lord Dalhousie",
+                "Lord Wellesley",
+                "Queen Victoria",
+                "Lord Canning"
+              ],
+              "answer": 3,
+              "why": "Under the 1858 Act the Governor-General also became **Viceroy**. The first was **Canning**. See *Company out, Crown in: the Act of 1858*."
+            },
+            {
+              "q": "Which two offices came to an end because of 1857?",
+              "options": [
+                "The Mughal emperor and the Peshwa",
+                "The Governor-General and the Viceroy",
+                "The Indian princes and the zamindars",
+                "The British Parliament and the Crown"
+              ],
+              "answer": 0,
+              "why": "Bahadur Shah died in exile; Nana Saheb fled. The princes **stayed**, as allies. See *The Mughals and Peshwas end; the princes become partners*."
+            },
+            {
+              "q": "What did the Queen's Proclamation promise?",
+              "options": [
+                "Full independence for India",
+                "English as the only language of India",
+                "No interference in Indians' religion",
+                "Taking over more Indian states"
+              ],
+              "answer": 2,
+              "why": "It promised **religious freedom**, equal treatment, and **no more annexation**. See *The Queen's Proclamation: promises to calm India*."
+            },
+            {
+              "q": "Which pair is correct?",
+              "options": [
+                "Lucknow: Tantia Tope",
+                "Bihar: Kunwar Singh",
+                "Jhansi: Khan Bahadur",
+                "Kanpur: Begum Hazrat Mahal"
+              ],
+              "answer": 1,
+              "why": "**Kunwar Singh** of Jagdishpur led Bihar. See *Who led where*."
+            },
+            {
+              "q": "Why is 1857 called the First War of Independence?",
+              "options": [
+                "It was planned by the Indian National Congress",
+                "It won India its freedom",
+                "Only soldiers fought in it",
+                "It was the first time many sections of Indian society rose together against one enemy"
+              ],
+              "answer": 3,
+              "why": "It **failed**, and the Congress came only in 1885. See *Why it is called the First War of Independence*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These are like the harder questions at the end of the chapter. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "structured-economy",
+          "label": "Structured question: the economy",
+          "type": "optional",
+          "desc": "A structured question in three parts. Write your answer first, then open the box.\n\n*Economic hardship was a big cause of the revolt. Explain:*\n- (a) how Indian handicrafts were ruined (3 marks);\n- (b) how peasants were made poorer (3 marks);\n- (c) how India's economy was made to serve Britain (4 marks).",
+          "links": [],
+          "faq": [
+            {
+              "q": "Model answer",
+              "a": "(a) British **machine-made** goods were cheaper; they entered India **almost tax-free**; Indian cloth was **taxed heavily** in Britain.\n\n(b) **Land revenue** was very high; peasants fell into **debt** and lost land to **moneylenders**; **indigo** farmers were forced to grow indigo.\n\n(c) India **sent raw materials** cheaply; it **bought British goods**; trade was paid with **Indian taxes**, not British gold; salaries and profits **drained** to Britain."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "structured-after-1858",
+          "label": "Structured question: after 1858",
+          "type": "optional",
+          "desc": "*1857 changed how India was ruled. Explain:*\n- (a) the changes in the government of India (3 marks);\n- (b) the changes in the army (3 marks);\n- (c) the new policy towards the princes (4 marks).",
+          "links": [],
+          "faq": [
+            {
+              "q": "Model answer",
+              "a": "(a) **Crown** replaced the Company (1858); a **Secretary of State** took charge; the Governor-General became **Viceroy** (Lord Canning).\n\n(b) More European soldiers (**1 : 2** in Bengal); **artillery** only with Europeans; recruitment by **caste and region**.\n\n(c) **Lapse** and **annexation** dropped; princes could **adopt heirs**; their **lands were guaranteed**; they became **loyal partners** of the Crown."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "thinking-skills",
+          "label": "Thinking skills: speak as a ruler",
+          "type": "optional",
+          "desc": "*Imagine the rulers of Jhansi, Awadh and the Peshwa's family meet before 1857. Write one complaint each, as they would say it.*\n\nThis is like the book's 'thinking skills' questions. Use the facts from the political causes.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Possible answers",
+              "a": "**Rani of Jhansi:** 'They would not accept my adopted son, and took my state by **Lapse**.'\n\n**Nawab of Awadh:** 'They called me a bad ruler, removed me, and **took Awadh**.'\n\n**Nana Saheb:** 'They **stopped the pension** they paid my father, Baji Rao II.'"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThe syllabus box says **only the causes and consequences** are tested. So the roadmap spends most of its time there, and keeps the story short.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- Start with **dry wood and a spark**. Ask: 'Who was hurt by British rule?' Let the student name groups before you name the four baskets.\n- Keep a **four-column chart** on the wall: political, social and religious, economic, military. Add a card to a column after each step.\n- Insist on **one fact per point**: a name, a date or a place. Vague answers are the commonest way to lose marks.\n- Drill the **pairs**: Wellesley and Subsidiary Alliance, Dalhousie and Lapse, Canning and the Proclamation, each place and its leader.\n- Use **role play**: one student is a sepoy, one a peasant, one a ruler. Each says what made them angry.\n- Don't let the student **write the story** when the question asks for **causes** or **consequences**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "An 8-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** Start here; the four dates; dry wood and a spark. Activity: list groups hurt by British rule.\n- **Period 2:** Political causes 1: four ways the British took land; Subsidiary Alliance; Doctrine of Lapse.\n- **Period 3:** Political causes 2: Awadh, the Mughal emperor and Nana Saheb, absentee sovereignty. Exercise II, questions 1 to 12.\n- **Period 4:** Social and religious causes. Activity: a 'rumour chain' showing how fear spreads. Exercise II, 13 to 15.\n- **Period 5:** Economic causes. Activity: trace a bale of cotton to Britain and back as cloth. Exercise II, 16 to 18.\n- **Period 6:** Military causes and the spark; the short story; who led where. Exercise I and Exercise II, 19 to 23.\n- **Period 7:** Consequences, sorted into who ruled, how they ruled and what Indians felt. Exercise II, 24 to 26; Exercise III.\n- **Period 8:** Why it failed; the name 'First War of Independence'; revision sheet, self-test and exit ticket.",
+          "links": [
+            {
+              "label": "Simple Wikipedia: the Indian Rebellion of 1857 (free, easy English)",
+              "url": "https://simple.wikipedia.org/wiki/Indian_Rebellion_of_1857"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Mixing up **Wellesley** (Subsidiary Alliance) and **Dalhousie** (Lapse).\n- Saying Awadh was taken by **Lapse** (it was **misrule**), or Jhansi by misrule (it was **Lapse**).\n- Writing that power went from the **Crown to the Company**.\n- Putting Mangal Pandey at **Meerut** (he was at **Barrackpore**).\n- Writing causes as a **story**, with no headings and no facts.\n- Listing the textbook's 31 cause headings from memory, but unable to **explain** any of them.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. What is the immediate cause of the revolt?",
+              "a": "The **greased cartridges** of the Enfield rifle."
+            },
+            {
+              "q": "2. Who brought in the Doctrine of Lapse? Name one state it took.",
+              "a": "**Lord Dalhousie.** For example, **Jhansi**."
+            },
+            {
+              "q": "3. Give one economic cause.",
+              "a": "For example, **ruin of handicrafts** by cheap British machine-made goods."
+            },
+            {
+              "q": "4. What did the Act of 1858 do?",
+              "a": "It ended the Company's rule; the **British Crown** ruled India directly."
+            },
+            {
+              "q": "5. Give one reason the revolt failed.",
+              "a": "For example, **no central leader** or common plan."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}
