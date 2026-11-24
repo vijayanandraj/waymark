@@ -1,0 +1,25 @@
+{
+  "stages": [
+    "school"
+  ],
+  "level": "beginner",
+  "lang": "en",
+  "authors": [
+    {
+      "name": "vijayanandraj",
+      "url": "https://github.com/vijayanandraj"
+    }
+  ],
+  "license": "CC-BY-SA-4.0",
+  "audience": "ICSE Class 10 students who find chemistry hard, and their teachers and parents: Chapter 3, Acids, Bases and Salts",
+  "subject": "science",
+  "follows": "ICSE Class 10 Chemistry (Selina Concise Chemistry, Chapter 3: Acids, Bases and Salts)",
+  "tags": [
+    "chemistry",
+    "icse",
+    "class 10",
+    "acids and bases",
+    "salts",
+    "step by step"
+  ]
+}

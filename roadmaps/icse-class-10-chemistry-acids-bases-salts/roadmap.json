@@ -1,0 +1,1353 @@
+{
+  "title": "ICSE Class 10 Chemistry, Chapter 3: Acids, Bases and Salts, Step by Step",
+  "subtitle": "For students who find chemistry hard. Acids, their kinds, strength and basicity; five reaction patterns and the gas tests; bases and alkalis; indicators and pH; normal, acid and basic salts; how to choose the method to make any salt; and water of crystallisation, efflorescence and deliquescence, in small steps with balanced equations, pictures, quick checks, an exam toolkit and a last-minute revision sheet. Follows the ICSE Class 10 syllabus, Chapter 3 (Acids, Bases and Salts), in the order of Selina Concise Chemistry.",
+  "updated": "2026-11-23",
+  "changelog": [
+    {
+      "date": "2026-11-23",
+      "text": "First version: the whole chapter in small steps, with original worked examples, quick checks, a last-minute revision sheet, a self-test and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** write formulas with ions and radicals, balance equations, and know what happens to acids and alkalis in water.",
+      "links": [
+        {
+          "label": "PhET simulation: Acid-Base Solutions (free)",
+          "url": "https://phet.colorado.edu/en/simulations/acid-base-solutions"
+        }
+      ],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Learn the patterns, not the equations.** Five acid reactions cover most of this chapter. Learn the pattern in words, and you can write any equation from it.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: acids give H⁺ ions, and alkalis give OH⁻ ions.** When they meet, **H⁺ + OH⁻ → H₂O**, and whatever is left over is a **salt**.",
+          "links": [
+            {
+              "label": "PhET simulation: Acid-Base Solutions (free)",
+              "url": "https://phet.colorado.edu/en/simulations/acid-base-solutions"
+            },
+            {
+              "label": "Last-minute revision sheet for this chapter",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-chemistry-acids-bases-salts#revision-sheet"
+            },
+            {
+              "label": "Previous chapter: 2. Chemical Bonding",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-chemistry-chemical-bonding"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 3, *Acids, Bases and Salts*, of the ICSE Class 10 Chemistry syllabus. It follows the order of *Selina Concise Chemistry* for Class 10.\n\n**Who it is for.** Class 10 students who find chemistry hard, and want to understand this chapter and score decent marks in it. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** Acids give H⁺ ions, and alkalis give OH⁻ ions. When they meet, H⁺ + OH⁻ → H₂O, and whatever is left over is a salt.\n\n**How it is different from the textbook.** The textbook gives well over a hundred equations. Here they come from **five acid patterns** in words, **one neutralisation** (H⁺ + OH⁻ → H₂O) and **one decision chain** for making any salt. The gas tests are collected in one place, strong and concentrated get their own picture, and every equation is checked by a computer for balance, including charges.\n\n**What is inside.**\n- 12 milestones and 56 small steps. The 44 solid steps are the core path. The dashed ones are optional.\n- 49 practice questions with hidden answers, and 7 pictures.\n- 31 click-to-check questions that say right or wrong, and why: a quick check after each of the 7 main milestones, and a 10-question self-test.\n- A **last-minute revision sheet**: every pattern, gas test, definition and key point on one page.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the challenge questions, and a section for teachers and parents with a 12-period lesson plan, the mistakes to watch for and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from their textbook. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the ICSE syllabus but is not made or endorsed by CISCE or by any publisher. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Write the formula of aluminium sulphate (Al³⁺ and SO₄²⁻).",
+              "a": "**Al₂(SO₄)₃.** Wrong? Do *Ions and radicals you must know*."
+            },
+            {
+              "q": "2. Balance: Mg + HCl → MgCl₂ + H₂.",
+              "a": "**Mg + 2HCl → MgCl₂ + H₂**. Wrong? Do *Balancing an equation*."
+            },
+            {
+              "q": "3. What positive ion forms when HCl dissolves in water?",
+              "a": "The **hydronium ion, H₃O⁺**. Wrong? Do *H⁺ in water, and ions from alkalis*."
+            },
+            {
+              "q": "4. Which ions does potassium hydroxide give in water?",
+              "a": "**K⁺ and OH⁻.** Wrong? Do *H⁺ in water, and ions from alkalis*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ions-radicals",
+          "label": "Ions and radicals you must know",
+          "type": "core",
+          "desc": "A **radical** is a group of atoms that acts like one ion.\n\n- **+1:** H⁺, Na⁺, K⁺, Ag⁺, **NH₄⁺** (ammonium)\n- **+2:** Mg²⁺, Ca²⁺, Ba²⁺, Zn²⁺, Cu²⁺, Pb²⁺, Fe²⁺ (iron(II))\n- **+3:** Al³⁺, Fe³⁺ (iron(III))\n- **−1:** Cl⁻, **OH⁻** (hydroxide), **NO₃⁻** (nitrate), **HCO₃⁻** (hydrogen carbonate), **HSO₄⁻** (hydrogen sulphate)\n- **−2:** O²⁻, S²⁻ (sulphide), **SO₄²⁻** (sulphate), **SO₃²⁻** (sulphite), **CO₃²⁻** (carbonate)\n- **−3:** **PO₄³⁻** (phosphate)\n\nWrite formulas the Chapter 1 way: **swap the charges** and cancel. If a radical is needed more than once, put it in **brackets**.\n\n**Worked example:** calcium nitrate. Ca²⁺ and NO₃⁻. Swap: Ca **1**, NO₃ **2**. Formula: **Ca(NO₃)₂**.",
+          "links": [
+            {
+              "label": "Wikipedia: salt (chemistry)",
+              "url": "https://en.wikipedia.org/wiki/Salt_(chemistry)"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: aluminium sulphate, and ammonium carbonate.",
+              "a": "Al³⁺ and SO₄²⁻: **Al₂(SO₄)₃**. NH₄⁺ and CO₃²⁻: **(NH₄)₂CO₃**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "balancing",
+          "label": "Balancing an equation",
+          "type": "core",
+          "desc": "Atoms are never made or lost. So each side must have the **same number of each atom**.\n\n1. Write the formulas. **Never change them.**\n2. Count each kind of atom on both sides.\n3. Put **numbers in front** until they match.\n\n**Worked example:** aluminium with hydrochloric acid.\n\nAl + HCl → AlCl₃ + H₂\n\nAlCl₃ needs 3 Cl, but H₂ comes in pairs. Use **6** HCl: 6 H and 6 Cl.\n\n6 Cl makes **2** AlCl₃, so **2** Al. 6 H makes **3** H₂.\n\n**2Al + 6HCl → 2AlCl₃ + 3H₂**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: balance Na₂CO₃ + HCl → NaCl + H₂O + CO₂.",
+              "a": "**Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂**: 2 Na, 2 H, 2 Cl, 1 C and 3 O on each side."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ions-in-water",
+          "label": "H⁺ in water, and ions from alkalis",
+          "type": "core",
+          "desc": "From Chapter 2: an H⁺ ion never stays alone in water. It joins a water molecule to make the **hydronium ion, H₃O⁺**.\n\nHCl + H₂O → H₃O⁺ + Cl⁻\n\nIonic compounds simply **split up** into their ions in water:\n\nNaOH → Na⁺ + OH⁻\n\nFor short, books often write **H⁺** when they mean H₃O⁺. Both are fine.\n\n**Worked example:** nitric acid in water: HNO₃ + H₂O → H₃O⁺ + NO₃⁻.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which ions does potassium hydroxide give in water?",
+              "a": "KOH → K⁺ + OH⁻: **K⁺ and OH⁻**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "acids",
+      "label": "Acids",
+      "desc": "**Goal:** define an acid, sort acids into kinds, tell strong from concentrated, and find the basicity. Practise with the Intext Questions after section 3.6.",
+      "links": [],
+      "children": [
+        {
+          "id": "what-acid",
+          "label": "What an acid is",
+          "type": "core",
+          "desc": "**An acid is a compound which, when dissolved in water, gives hydronium ions (H₃O⁺) as the only positive ions.**\n\nEvery acid contains **hydrogen**. In water, its H⁺ joins a water molecule.\n\nHCl + H₂O → H₃O⁺ + Cl⁻\n\nH₂SO₄ + 2H₂O → 2H₃O⁺ + SO₄²⁻\n\nThe properties of an acid are really the properties of **H₃O⁺**.\n\nAcids taste **sour** (never taste a lab acid), turn **blue litmus red**, and **conduct** electricity in water.\n\n**Worked example:** acetic acid (in vinegar): CH₃COOH + H₂O ⇌ H₃O⁺ + CH₃COO⁻. The **⇌** shows it only partly ionises.",
+          "links": [
+            {
+              "label": "Wikipedia: acid",
+              "url": "https://en.wikipedia.org/wiki/Acid"
+            },
+            {
+              "label": "PhET simulation: Acid-Base Solutions (free)",
+              "url": "https://phet.colorado.edu/en/simulations/acid-base-solutions"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: dry HCl gas does not turn dry blue litmus red. Why?",
+              "a": "With **no water**, HCl cannot form **H₃O⁺** ions. Acid properties need those ions."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "kinds-of-acids",
+          "label": "Kinds of acids",
+          "type": "core",
+          "desc": "- **Organic acids** come from plants and animals, contain carbon, and are usually **weak**: acetic acid (vinegar), citric acid (lemons), tartaric acid (grapes), oxalic acid.\n- **Mineral (inorganic) acids** come from minerals and are usually **strong**: hydrochloric (HCl), sulphuric (H₂SO₄), nitric (HNO₃). Carbonic acid (H₂CO₃) is a **weak** mineral acid; it is in soda water.\n- **Oxy-acids** contain oxygen (H₂SO₄, HNO₃). **Hydracids** do not (HCl, HBr).\n\n**Diluting an acid safely:** always add **acid to water**, slowly, stirring. Adding water to acid gives out so much heat that the acid can **splash** or the glass can crack.\n\nConcentrated mineral acids **burn** the skin: sulphuric acid chars it black, nitric acid stains it yellow.\n\n**Worked example:** is citric acid organic or mineral? It comes from **lemons** and contains carbon: **organic**, and **weak**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: name a hydracid and an oxy-acid.",
+              "a": "Hydracid: **HCl** (no oxygen). Oxy-acid: **H₂SO₄** or **HNO₃**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "strong-concentrated",
+          "label": "Strong or concentrated? Not the same",
+          "type": "core",
+          "desc": "- **Concentrated** means **little water**. **Dilute** means **lots of water**. This is about **amount**.\n- **Strong** means the acid **ionises completely** in water. **Weak** means it ionises **only partly**, so its solution has **molecules as well as ions**. This is about **how far it ionises**.\n\nSo a **dilute strong** acid can have **more H⁺** than a **concentrated weak** one.\n\n**Worked example:** dilute hydrochloric acid is **stronger** than concentrated acetic acid. Every HCl molecule gives H⁺; only a few acetic acid molecules do.",
+          "links": [
+            {
+              "label": "Wikipedia: acid strength",
+              "url": "https://en.wikipedia.org/wiki/Acid_strength"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: which solution contains acid molecules as well as ions: dilute nitric acid or dilute acetic acid?",
+              "a": "**Dilute acetic acid.** It is weak, so most of it stays as molecules."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/strong-and-concentrated.png",
+              "caption": "Strong is about ionising, concentrated is about water"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "basicity",
+          "label": "Basicity: how many H⁺ per molecule",
+          "type": "core",
+          "desc": "**The basicity of an acid is the number of hydronium ions that one molecule of the acid can produce in water.**\n\n- **Monobasic (1):** HCl, HNO₃, CH₃COOH.\n- **Dibasic (2):** H₂SO₄, H₂CO₃, H₂SO₃.\n- **Tribasic (3):** H₃PO₄.\n\nCount the **replaceable** hydrogens, not all of them. Acetic acid has 4 H atoms but only **1** comes off.\n\nA dibasic or tribasic acid can give **acid salts** (some H left) as well as a **normal** salt.\n\n**Worked example:** sulphuric acid with potassium hydroxide.\n\nH₂SO₄ + KOH → KHSO₄ + H₂O (acid salt)\n\nH₂SO₄ + 2KOH → K₂SO₄ + 2H₂O (normal salt)",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: how many salts can phosphoric acid form with potassium hydroxide?",
+              "a": "**Three**: KH₂PO₄ and K₂HPO₄ (acid salts) and K₃PO₄ (normal). For example: H₃PO₄ + 3KOH → K₃PO₄ + 3H₂O."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "making-acids",
+          "label": "How acids are made",
+          "type": "optional",
+          "desc": "- **Acidic oxide + water.** Non-metal oxides are **acid anhydrides**.\n\nSO₂ + H₂O → H₂SO₃ (sulphurous acid)\n\nSO₃ + H₂O → H₂SO₄\n\nCO₂ + H₂O → H₂CO₃\n\nP₂O₅ + 3H₂O → 2H₃PO₄\n\n- **Mixed anhydride:** NO₂ gives two acids: 2NO₂ + H₂O → HNO₂ + HNO₃.\n- **Synthesis:** H₂ + Cl₂ → 2HCl, then dissolve the gas in water.\n- **Displacement:** concentrated sulphuric acid pushes out more **volatile** acids (see *Concentrated acid on chlorides and nitrates*).\n\n**Worked example:** name the anhydride of carbonic acid. It is **carbon dioxide**, CO₂.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "qc-acids",
+          "label": "Quick check: acids",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "An acid in water produces, as its only positive ions:",
+              "options": [
+                "hydroxide ions, OH⁻",
+                "sodium ions, Na⁺",
+                "hydronium ions, H₃O⁺",
+                "oxide ions, O²⁻"
+              ],
+              "answer": 2,
+              "why": "The acid's H⁺ joins a water molecule: **H₃O⁺**. See *What an acid is*."
+            },
+            {
+              "q": "What is the basicity of acetic acid, CH₃COOH?",
+              "options": [
+                "1",
+                "2",
+                "4",
+                "3"
+              ],
+              "answer": 0,
+              "why": "It has 4 H atoms, but only **1** can be released as H⁺. See *Basicity: how many H⁺ per molecule*."
+            },
+            {
+              "q": "Dilute hydrochloric acid is a stronger acid than concentrated acetic acid because:",
+              "options": [
+                "HCl ionises completely; acetic acid only partly",
+                "it contains more molecules",
+                "acetic acid has no hydrogen",
+                "it contains more water"
+              ],
+              "answer": 0,
+              "why": "**Strength** is about how much it **ionises**, not how much water there is. See *Strong or concentrated? Not the same*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "acid-reactions",
+      "label": "How acids react: five patterns and the gas tests",
+      "desc": "**Goal:** write equations from the five acid patterns, and test each gas they give off. Practise with the Intext Questions after section 3.6.",
+      "links": [],
+      "children": [
+        {
+          "id": "acid-metal",
+          "label": "Acid + metal: hydrogen",
+          "type": "core",
+          "desc": "**Pattern: acid + active metal → salt + hydrogen.**\n\n- Very reactive metals (K, Na, Ca) react **explosively**: never use them.\n- Mg, Al, Zn and Fe react **steadily**: good for making hydrogen and salts.\n- Copper, silver and lead do **not** give hydrogen with dilute acids.\n- **Nitric acid** is not used: it is a strong **oxidising agent** and turns the hydrogen into water.\n\n**Worked example:** Mg + H₂SO₄ → MgSO₄ + H₂",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: iron with dilute hydrochloric acid.",
+              "a": "**Fe + 2HCl → FeCl₂ + H₂** (iron(II) chloride and hydrogen)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "acid-base",
+          "label": "Acid + base: neutralisation",
+          "type": "core",
+          "desc": "**Pattern: acid + base → salt + water only.**\n\n**Neutralisation is the reaction of the H⁺ ions of an acid with the OH⁻ ions of a base to form salt and water only.**\n\nThe real reaction is always the same:\n\nH⁺ + OH⁻ → H₂O\n\nThe other ions are left in solution. They are the **salt**.\n\n**Worked example:** MgO + 2HCl → MgCl₂ + H₂O",
+          "links": [
+            {
+              "label": "Wikipedia: neutralization (chemistry)",
+              "url": "https://en.wikipedia.org/wiki/Neutralization_(chemistry)"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: copper(II) oxide with nitric acid.",
+              "a": "**CuO + 2HNO₃ → Cu(NO₃)₂ + H₂O**"
+            },
+            {
+              "q": "Your turn: potassium hydroxide with nitric acid.",
+              "a": "**KOH + HNO₃ → KNO₃ + H₂O**"
+            }
+          ],
+          "images": [
+            {
+              "src": "images/neutralisation-particles.png",
+              "caption": "Each H⁺ meets an OH⁻ to make water; the leftover ions are the salt"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "acid-carbonate",
+          "label": "Acid + carbonate: carbon dioxide",
+          "type": "core",
+          "desc": "**Pattern: acid + carbonate (or hydrogen carbonate) → salt + water + carbon dioxide.**\n\nYou see **fizzing** (effervescence).\n\nK₂CO₃ + 2HNO₃ → 2KNO₃ + H₂O + CO₂\n\nNaHCO₃ + HCl → NaCl + H₂O + CO₂\n\n**Watch out:** if the salt formed is **insoluble**, it coats the solid and the reaction **stops**. Lead carbonate with dilute HCl or H₂SO₄, and calcium carbonate with dilute H₂SO₄, stop almost at once.\n\n**Worked example:** ZnCO₃ + H₂SO₄ → ZnSO₄ + H₂O + CO₂",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why does calcium carbonate stop reacting with dilute sulphuric acid?",
+              "a": "It forms **calcium sulphate**, which is **insoluble**. A crust coats the solid and the acid cannot reach it."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "acid-sulphite-sulphide",
+          "label": "Acid + sulphite or sulphide",
+          "type": "core",
+          "desc": "**Pattern: acid + sulphite (or hydrogen sulphite) → salt + water + sulphur dioxide.**\n\nNa₂SO₃ + 2HCl → 2NaCl + H₂O + SO₂\n\n**Pattern: acid + metal sulphide → salt + hydrogen sulphide.**\n\nFeS + 2HCl → FeCl₂ + H₂S\n\nSulphur dioxide smells of **burning sulphur**. Hydrogen sulphide smells of **rotten eggs**.\n\n**Worked example:** ZnS + H₂SO₄ → ZnSO₄ + H₂S",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: potassium hydrogen sulphite with dilute hydrochloric acid.",
+              "a": "**KHSO₃ + HCl → KCl + H₂O + SO₂**"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "conc-acid-salts",
+          "label": "Concentrated acid on chlorides and nitrates",
+          "type": "core",
+          "desc": "Chlorides and nitrates do **not** react with **dilute** acids. But **concentrated sulphuric acid** is **non-volatile**. When warmed, it pushes out the more volatile acid.\n\n- Chloride + conc. H₂SO₄ → **hydrogen chloride** gas.\n- Nitrate + conc. H₂SO₄ → **nitric acid** vapour.\n\nBelow about 200 °C you get the **acid salt**; above it, the normal salt.\n\nKCl + H₂SO₄ → KHSO₄ + HCl (below 200 °C)\n\n2KCl + H₂SO₄ → K₂SO₄ + 2HCl (above 200 °C)\n\n**Worked example:** NaNO₃ + H₂SO₄ → NaHSO₄ + HNO₃",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: lead nitrate solution is a special case. What forms with dilute hydrochloric acid?",
+              "a": "A white **precipitate of lead chloride**: Pb(NO₃)₂ + 2HCl → PbCl₂ + 2HNO₃."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "gas-tests",
+          "label": "Tests for the gases",
+          "type": "core",
+          "desc": "- **Hydrogen (H₂):** a **burning splint** goes out with a **pop**.\n- **Oxygen (O₂):** a **glowing splint relights**.\n- **Carbon dioxide (CO₂):** turns **lime water milky**. Ca(OH)₂ + CO₂ → CaCO₃ + H₂O\n- **Sulphur dioxide (SO₂):** turns **acidified potassium dichromate** paper **orange to green**. (It also turns lime water milky, so use dichromate to tell it from CO₂.)\n- **Hydrogen sulphide (H₂S):** smells of **rotten eggs**; turns moist **lead acetate** paper **silvery black**. Pb(CH₃COO)₂ + H₂S → PbS + 2CH₃COOH\n- **Hydrogen chloride (HCl):** gives **dense white fumes** with a rod dipped in ammonia; turns moist blue litmus red.\n- **Ammonia (NH₃):** turns moist **red litmus blue**; gives **dense white fumes** with HCl. NH₃ + HCl → NH₄Cl\n\n**Worked example:** a gas turns lime water milky but has no effect on acidified potassium dichromate. It is **carbon dioxide**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: two gases both make white fumes when they meet. Which are they?",
+              "a": "**Ammonia** and **hydrogen chloride**. The fumes are ammonium chloride."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "acid-rain",
+          "label": "Acid rain",
+          "type": "optional",
+          "desc": "Burning coal, petrol and diesel puts **sulphur dioxide** and **nitrogen dioxide** into the air. With oxygen and rain they become acids:\n\n2SO₂ + O₂ + 2H₂O → 2H₂SO₄\n\n4NO₂ + O₂ + 2H₂O → 4HNO₃\n\nAcid rain damages leaves, removes calcium from soil, harms fish, corrodes pipes and eats away marble buildings:\n\nCaCO₃ + H₂SO₄ → CaSO₄ + H₂O + CO₂\n\n**Worked example:** why is the Taj Mahal protected from nearby factory smoke? Marble is **calcium carbonate**, which acid rain attacks.",
+          "links": [
+            {
+              "label": "Wikipedia: acid rain",
+              "url": "https://en.wikipedia.org/wiki/Acid_rain"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-acid-reactions",
+          "label": "Quick check: how acids react",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Dilute hydrochloric acid is added to sodium carbonate. Which gas is given off?",
+              "options": [
+                "hydrogen sulphide",
+                "sulphur dioxide",
+                "hydrogen",
+                "carbon dioxide"
+              ],
+              "answer": 3,
+              "why": "Acid + carbonate → salt + water + **carbon dioxide**. See *Acid + carbonate: carbon dioxide*."
+            },
+            {
+              "q": "Which gas turns moist lead acetate paper silvery black?",
+              "options": [
+                "ammonia",
+                "sulphur dioxide",
+                "hydrogen sulphide",
+                "carbon dioxide"
+              ],
+              "answer": 2,
+              "why": "H₂S forms black **lead sulphide**. It also smells of **rotten eggs**. See *Tests for the gases*."
+            },
+            {
+              "q": "Why is nitric acid not used to make hydrogen from zinc?",
+              "options": [
+                "It does not react with zinc",
+                "It is too weak",
+                "It is a strong oxidising agent and oxidises the hydrogen to water",
+                "It makes the zinc insoluble"
+              ],
+              "answer": 2,
+              "why": "Nitric acid **oxidises** the hydrogen as it forms. See *Acid + metal: hydrogen*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "bases",
+      "label": "Bases and alkalis",
+      "desc": "**Goal:** tell a base from an alkali, find the acidity of a base, and know what alkalis do. Practise with the Intext Questions after section 3.10.",
+      "links": [],
+      "children": [
+        {
+          "id": "base-alkali",
+          "label": "Base or alkali?",
+          "type": "core",
+          "desc": "**A base is a metallic oxide or hydroxide (or ammonium hydroxide) which reacts with an acid to form a salt and water only.**\n\nThe word **only** matters. Lead(IV) oxide gives chlorine too, so it is **not** a base: PbO₂ + 4HCl → PbCl₂ + Cl₂ + 2H₂O.\n\n**An alkali is a base which dissolves in water and gives hydroxide ions (OH⁻) as the only negative ions.**\n\n- **Strong alkalis** ionise fully: NaOH (caustic soda), KOH (caustic potash).\n- **Weak alkalis** ionise partly: NH₄OH, Ca(OH)₂ (slaked lime).\n- **All alkalis are bases, but not all bases are alkalis.** CuO, Fe(OH)₃ and Cu(OH)₂ do not dissolve.\n\nAlkalis taste **bitter**, feel **soapy** (they turn the oil on skin into soap), and turn **red litmus blue**.\n\n**Worked example:** Ca(OH)₂ → Ca²⁺ + 2OH⁻. Calcium hydroxide dissolves only a little, so it is a **weak** alkali.",
+          "links": [
+            {
+              "label": "Wikipedia: base (chemistry)",
+              "url": "https://en.wikipedia.org/wiki/Base_(chemistry)"
+            },
+            {
+              "label": "Wikipedia: alkali",
+              "url": "https://en.wikipedia.org/wiki/Alkali"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why should you wear gloves when handling strong alkalis?",
+              "a": "They react with the **natural oils** of the skin and turn them into soap: the skin is **burned**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "base-acidity",
+          "label": "Acidity of a base",
+          "type": "core",
+          "desc": "**The acidity of a base is the number of hydroxide ions one molecule of the base can produce (or the number of H⁺ ions it can react with).**\n\n- **Monoacidic:** NaOH, KOH, NH₄OH.\n- **Diacidic:** Ca(OH)₂, Mg(OH)₂, Cu(OH)₂.\n- **Triacidic:** Al(OH)₃, Fe(OH)₃.\n\nDo not mix up the two words: acids have **basicity**; bases have **acidity**.\n\n**Worked example:** magnesium hydroxide reacts with **2** HCl: Mg(OH)₂ + 2HCl → MgCl₂ + 2H₂O. It is **diacidic**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is the acidity of aluminium hydroxide, Al(OH)₃?",
+              "a": "It has **3** OH groups: **triacidic**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "making-bases",
+          "label": "How bases are made",
+          "type": "optional",
+          "desc": "- **Metal + oxygen:** 2Ca + O₂ → 2CaO\n- **Reactive metal + water:** Ca + 2H₂O → Ca(OH)₂ + H₂\n- **Soluble metal oxide + water:** K₂O + H₂O → 2KOH\n- **Ammonia + water:** NH₃ + H₂O → NH₄OH\n- **Salt solution + alkali** (precipitation): see *What alkalis do*.\n\n**Worked example:** quicklime (CaO) with water gives **slaked lime**, Ca(OH)₂.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "alkali-reactions",
+          "label": "What alkalis do",
+          "type": "core",
+          "desc": "- **Neutralise acids:** alkali + acid → salt + water.\n- **Absorb carbon dioxide:** 2NaOH + CO₂ → Na₂CO₃ + H₂O\n- **Precipitate metal hydroxides** from salt solutions. The colours identify the metal:\n\nCuSO₄ + 2NaOH → Cu(OH)₂ + Na₂SO₄ (pale blue)\n\nFeSO₄ + 2NaOH → Fe(OH)₂ + Na₂SO₄ (dirty green)\n\nFeCl₃ + 3NaOH → Fe(OH)₃ + 3NaCl (reddish brown)\n\nZinc hydroxide is white, and **dissolves** in excess NaOH: Zn(OH)₂ + 2NaOH → Na₂ZnO₂ + 2H₂O.\n\n- **Give ammonia** when warmed with ammonium salts.\n\n**Worked example:** NH₄Cl + NaOH → NaCl + H₂O + NH₃. The gas turns moist red litmus **blue**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: warm ammonium sulphate with slaked lime.",
+              "a": "**(NH₄)₂SO₄ + Ca(OH)₂ → CaSO₄ + 2H₂O + 2NH₃**. Ammonia is given off."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/hydroxide-colours.png",
+              "caption": "The colour of the precipitate tells you the metal"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-bases",
+          "label": "Quick check: bases and alkalis",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which statement is true?",
+              "options": [
+                "All bases are alkalis",
+                "Alkalis are insoluble bases",
+                "All alkalis are bases, but not all bases are alkalis",
+                "No alkali is a base"
+              ],
+              "answer": 2,
+              "why": "An alkali is a base that **dissolves in water**. Copper oxide is a base but not an alkali. See *Base or alkali?*."
+            },
+            {
+              "q": "Sodium hydroxide solution is added to iron(II) sulphate solution. The precipitate is:",
+              "options": [
+                "dirty green",
+                "reddish brown",
+                "pale blue",
+                "white"
+              ],
+              "answer": 0,
+              "why": "**Fe(OH)₂** is dirty green. Fe(OH)₃ is reddish brown. See *What alkalis do*."
+            },
+            {
+              "q": "An ammonium salt is warmed with an alkali. The gas given off:",
+              "options": [
+                "burns with a pop",
+                "turns lime water milky",
+                "relights a glowing splint",
+                "turns moist red litmus blue"
+              ],
+              "answer": 3,
+              "why": "It is **ammonia**, an alkaline gas. See *What alkalis do*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "ph",
+      "label": "pH and indicators",
+      "desc": "**Goal:** use indicators and the pH scale, and explain why pH matters in daily life. Practise with the Intext Questions after section 3.10.",
+      "links": [],
+      "children": [
+        {
+          "id": "indicators",
+          "label": "Indicators",
+          "type": "core",
+          "desc": "An **indicator** changes colour in acids and alkalis.\n\n- **Litmus:** **red** in acid, **blue** in alkali, purple when neutral.\n- **Methyl orange:** **pink (red)** in acid, **orange** when neutral, **yellow** in alkali.\n- **Phenolphthalein:** **colourless** in acid and neutral, **pink** in alkali.\n- Natural ones: red cabbage juice, turmeric. **Olfactory** indicators change **smell** (onion, vanilla, clove oil).\n\nA **universal indicator** is a mixture of dyes. It shows **many colours**, one for each part of the pH scale: red for strong acid, **green at 7**, violet for strong alkali.\n\n**Worked example:** a solution turns phenolphthalein **pink** and red litmus **blue**. It is **alkaline**.",
+          "links": [
+            {
+              "label": "Wikipedia: pH indicator",
+              "url": "https://en.wikipedia.org/wiki/PH_indicator"
+            },
+            {
+              "label": "Wikipedia: universal indicator",
+              "url": "https://en.wikipedia.org/wiki/Universal_indicator"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: you have only red litmus. How can you tell an acid, an alkali and water apart?",
+              "a": "Dip red litmus in each: the one that turns it **blue** is the **alkali**. Dip that blue paper in the other two: the one that turns it **red** is the **acid**. The last is **water**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ph-scale",
+          "label": "The pH scale",
+          "type": "core",
+          "desc": "**pH** tells you how acidic or alkaline a solution is. It runs from **0 to 14**.\n\n- **pH 7: neutral** (pure water).\n- **Below 7: acidic.** The **lower**, the more acidic.\n- **Above 7: alkaline.** The **higher**, the more alkaline.\n\n**Each step of 1 in pH means 10 times as many H⁺ ions.**\n\n(For the curious: pH = −log₁₀[H⁺]. A solution with 10⁻³ mol of H⁺ per litre has pH 3.)\n\n**Worked example:** solution A has pH 3, solution B has pH 6.\n\n6 − 3 = 3 steps.\n\n10 × 10 × 10 = **1000**. A has **1000 times** as many H⁺ ions.",
+          "links": [
+            {
+              "label": "Wikipedia: pH",
+              "url": "https://en.wikipedia.org/wiki/PH"
+            },
+            {
+              "label": "PhET simulation: pH Scale (free)",
+              "url": "https://phet.colorado.edu/en/simulations/ph-scale"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: how many times more H⁺ does pH 2 have than pH 4?",
+              "a": "2 steps: 10 × 10 = **100 times**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/ph-scale.png",
+              "caption": "The pH scale, with some everyday solutions"
+            },
+            {
+              "src": "images/ph-ten-times.png",
+              "caption": "Each step down in pH means ten times more H⁺"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ph-life",
+          "label": "pH in everyday life",
+          "type": "core",
+          "desc": "- **Our body** works in a narrow range: blood is about **7.4**.\n- **Digestion:** the stomach makes hydrochloric acid. Too much causes **acidity**; an **antacid** such as milk of magnesia, Mg(OH)₂, neutralises it.\n- **Teeth:** bacteria turn sugar into acid. Below about **pH 5.5**, tooth **enamel** starts to dissolve. Toothpaste is alkaline.\n- **Soil:** each crop likes a certain pH. Farmers add **lime** to acidic soil.\n- **Bee stings** are acidic: rubbing on **baking soda** (a base) helps.\n\n**Worked example:** why does brushing after eating sweets help? Toothpaste is **alkaline**; it **neutralises** the acid before it dissolves the enamel.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why is milk of magnesia used for acidity?",
+              "a": "It is a **weak base**. It **neutralises** the extra stomach acid without harming you."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-ph",
+          "label": "Quick check: pH and indicators",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A solution turns phenolphthalein pink. Its pH could be:",
+              "options": [
+                "4",
+                "1",
+                "11",
+                "7"
+              ],
+              "answer": 2,
+              "why": "Phenolphthalein turns pink only in **alkalis**: pH **above 7**. See *Indicators*."
+            },
+            {
+              "q": "Solution A has pH 3 and solution B has pH 6. How many times more H⁺ ions are in A?",
+              "options": [
+                "2",
+                "30",
+                "3",
+                "1000"
+              ],
+              "answer": 3,
+              "why": "Three steps of 10: 10 × 10 × 10 = **1000**. See *The pH scale*."
+            },
+            {
+              "q": "Tooth decay starts when the pH in the mouth falls below about:",
+              "options": [
+                "5.5",
+                "7.5",
+                "9",
+                "12"
+              ],
+              "answer": 0,
+              "why": "Acids from bacteria **dissolve the enamel** below about **5.5**. See *pH in everyday life*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "salts",
+      "label": "Salts and their types",
+      "desc": "**Goal:** define a salt and tell normal, acid and basic salts apart. Practise with the Intext Questions after section 3.12.",
+      "links": [],
+      "children": [
+        {
+          "id": "what-salt",
+          "label": "What a salt is",
+          "type": "core",
+          "desc": "**A salt is a compound formed by the partial or complete replacement of the ionisable hydrogen of an acid by a metal ion or an ammonium ion.**\n\nIn ionic terms: a salt gives a **positive ion other than H⁺** and a **negative ion other than OH⁻**.\n\nKCl → K⁺ + Cl⁻\n\nSalts are ionic, **crystalline** solids. They conduct when **molten or dissolved**.\n\n**Worked example:** KOH + HCl → KCl + H₂O. The H of HCl is replaced by **K**: potassium chloride is the salt.",
+          "links": [
+            {
+              "label": "Wikipedia: salt (chemistry)",
+              "url": "https://en.wikipedia.org/wiki/Salt_(chemistry)"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: name the acid and base that give sodium nitrate.",
+              "a": "**Nitric acid** and **sodium hydroxide**: NaOH + HNO₃ → NaNO₃ + H₂O."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "salt-types",
+          "label": "Normal, acid and basic salts",
+          "type": "core",
+          "desc": "- **Normal salt:** **all** the replaceable H of the acid is replaced. K₂SO₄, NaCl, CaCO₃.\n- **Acid salt:** only **some** of the H is replaced. It still has a replaceable H. KHSO₄, NaHCO₃, NaH₂PO₄. Only **dibasic or tribasic** acids give them.\n- **Basic salt:** a base whose OH is only **partly** replaced by an acid radical. It contains a metal, **OH** and an acid radical.\n\nPb(OH)₂ + HNO₃ → Pb(OH)NO₃ + H₂O (basic lead nitrate)\n\n(Double, mixed and complex salts, such as alum, are not in your syllabus.)\n\n**Worked example:** H₂SO₄ + KOH → KHSO₄ + H₂O gives **KHSO₄**, an **acid salt**. With twice the KOH you get **K₂SO₄**, the normal salt.",
+          "links": [
+            {
+              "label": "Wikipedia: acid salt",
+              "url": "https://en.wikipedia.org/wiki/Acid_salt"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why can hydrochloric acid not form an acid salt?",
+              "a": "It is **monobasic**: once its one H is replaced, there is **none left**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "salt-hydrolysis",
+          "label": "Salt solutions are not always neutral",
+          "type": "optional",
+          "desc": "A salt can make water slightly acidic or alkaline. This is **hydrolysis**.\n\n- **Strong alkali + weak acid** salts are **alkaline** (pH above 7): sodium carbonate. Na₂CO₃ + 2H₂O ⇌ 2NaOH + H₂CO₃\n- **Strong acid + weak base** salts are **acidic** (pH below 7): copper sulphate, iron(III) chloride, ammonium sulphate. CuSO₄ + 2H₂O ⇌ Cu(OH)₂ + H₂SO₄\n- **Strong acid + strong alkali** salts are **neutral**: NaCl, K₂SO₄, KNO₃.\n\n**Worked example:** washing soda solution turns red litmus **blue**: Na₂CO₃ comes from a **strong** alkali and a **weak** acid.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "qc-salts",
+          "label": "Quick check: salts and their types",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A salt formed by the complete replacement of the ionisable hydrogen of an acid is:",
+              "options": [
+                "an acid salt",
+                "a normal salt",
+                "a basic salt",
+                "a double salt"
+              ],
+              "answer": 1,
+              "why": "**Complete** replacement: normal. Partial: acid salt. See *Normal, acid and basic salts*."
+            },
+            {
+              "q": "Which of these is an acid salt?",
+              "options": [
+                "KHSO₄",
+                "KCl",
+                "Pb(OH)NO₃",
+                "K₂SO₄"
+              ],
+              "answer": 0,
+              "why": "KHSO₄ still has a **replaceable H**. Pb(OH)NO₃ is a **basic** salt. See *Normal, acid and basic salts*."
+            },
+            {
+              "q": "Why can hydrochloric acid not form an acid salt?",
+              "options": [
+                "It is too strong",
+                "It is a weak acid",
+                "It has no hydrogen",
+                "It is monobasic: it has only one replaceable hydrogen"
+              ],
+              "answer": 3,
+              "why": "Acid salts need **two or more** replaceable H. See *Normal, acid and basic salts*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "making-salts",
+      "label": "Making salts in the laboratory",
+      "desc": "**Goal:** choose the right method for any salt, and describe it with an equation. Practise with the Intext Questions after section 3.12 and the ICSE questions at the end of the chapter.",
+      "links": [],
+      "children": [
+        {
+          "id": "solubility-rules",
+          "label": "Soluble or insoluble? The rules",
+          "type": "core",
+          "desc": "You must know whether a salt dissolves, because that decides how you make it.\n\n- **All** sodium, potassium and ammonium salts dissolve.\n- **All** nitrates dissolve.\n- Chlorides dissolve, **except** silver chloride and lead chloride (lead chloride dissolves in **hot** water).\n- Sulphates dissolve, **except** barium, lead and calcium sulphate.\n- Carbonates **do not** dissolve, except those of sodium, potassium and ammonium.\n- Metal oxides and hydroxides **do not** dissolve, except sodium, potassium and ammonium (calcium a little).\n\n**Worked example:** is zinc carbonate soluble? It is a carbonate, and zinc is not Na, K or NH₄: **insoluble**.",
+          "links": [
+            {
+              "label": "Wikipedia: solubility chart",
+              "url": "https://en.wikipedia.org/wiki/Solubility_chart"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: soluble or insoluble? Copper nitrate, barium sulphate, ammonium carbonate.",
+              "a": "Copper nitrate: **soluble** (all nitrates). Barium sulphate: **insoluble**. Ammonium carbonate: **soluble** (all ammonium salts)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "salt-chain",
+          "label": "Which method? The salt chain",
+          "type": "core",
+          "desc": "Ask three questions, in order.\n\n1. **Is the salt insoluble?** Then use **precipitation**: mix two solutions, each with one of its ions.\n2. **Is it a sodium, potassium or ammonium salt?** Then use **titration**: alkali + acid.\n3. **Does the metal react with dilute acid?** Mg, Al, Zn, Fe: **acid + metal**. Cu, Pb: **acid + oxide or carbonate**.\n\n**Special case:** anhydrous iron(III) chloride and iron(II) sulphide are made by **direct combination** of the elements.\n\n**Worked example:** potassium nitrate.\n\nSoluble? Yes (potassium, and a nitrate).\n\nNa, K or NH₄? **Yes**.\n\nMethod: **titration**. KOH + HNO₃ → KNO₃ + H₂O",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which method for zinc sulphate, lead chloride and copper nitrate?",
+              "a": "Zinc sulphate: soluble, not Na/K, zinc reacts: **acid + metal**. Lead chloride: insoluble: **precipitation**. Copper nitrate: soluble, copper does not react: **acid + oxide or carbonate**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/salt-method.png",
+              "caption": "Three questions pick the method for any salt"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "excess-solid",
+          "label": "Excess solid, then filter",
+          "type": "core",
+          "desc": "For soluble salts of metals other than Na, K and NH₄:\n\n1. Warm the dilute acid.\n2. Add the **metal** (or the **oxide or carbonate**) a little at a time, stirring, until **some is left over**. The excess means **all the acid is used up**.\n3. **Filter** off the excess solid.\n4. **Evaporate** the filtrate until crystals start to form, then **cool**.\n5. Filter the **crystals** and dry them between filter papers.\n\n**Worked example:** magnesium sulphate (Epsom salt) from magnesium.\n\nMg + H₂SO₄ → MgSO₄ + H₂ (stop adding when bubbling stops and Mg is left)\n\nMgSO₄ + 7H₂O → MgSO₄·7H₂O (the crystals)",
+          "links": [
+            {
+              "label": "Wikipedia: salt (chemistry)",
+              "url": "https://en.wikipedia.org/wiki/Salt_(chemistry)"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: copper nitrate from copper carbonate.",
+              "a": "**CuCO₃ + 2HNO₃ → Cu(NO₃)₂ + H₂O + CO₂**. Add CuCO₃ until fizzing stops and some is left; filter; evaporate; crystallise."
+            },
+            {
+              "q": "Your turn: blue vitriol (copper sulphate crystals) from copper oxide.",
+              "a": "**CuO + H₂SO₄ → CuSO₄ + H₂O**, then CuSO₄ + 5H₂O → CuSO₄·5H₂O."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "titration-method",
+          "label": "Titration: sodium, potassium and ammonium salts",
+          "type": "core",
+          "desc": "Both the alkali and the salt are **soluble**, so an excess **cannot be filtered off**. You must find the **exact amounts** first.\n\n1. Put a measured volume of **alkali** in a flask with a drop of **phenolphthalein** (pink).\n2. Add **acid** from a **burette** until the pink **just disappears**: the **end point**.\n3. Mix the same volumes again **without** the indicator.\n4. Evaporate and crystallise.\n\nSodium and potassium metals are **not** used: they react **dangerously** with acid.\n\n**Worked example:** potassium nitrate. KOH + HNO₃ → KNO₃ + H₂O\n\nFor an **acid salt**, use **twice** the acid for the same alkali:\n\nKOH + H₂SO₄ → KHSO₄ + H₂O",
+          "links": [
+            {
+              "label": "Wikipedia: titration",
+              "url": "https://en.wikipedia.org/wiki/Titration"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why must you find the volumes first in this method?",
+              "a": "Excess acid or alkali is **soluble** too, so it would stay in the salt. You **cannot filter** it out."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "precipitation-method",
+          "label": "Precipitation: insoluble salts",
+          "type": "core",
+          "desc": "Mix **two solutions**: one has the salt's **metal ion**, the other its **negative ion**. The insoluble salt falls out as a **precipitate**.\n\nFilter, **wash** with distilled water, and dry.\n\nThis is **double decomposition**: the two compounds swap partners.\n\nPb(NO₃)₂ + 2NaCl → PbCl₂ + 2NaNO₃\n\nBaCl₂ + Na₂SO₄ → BaSO₄ + 2NaCl\n\nAgNO₃ + KCl → AgCl + KNO₃\n\n**Insoluble starting material?** First make it **soluble** with dilute nitric acid. For lead sulphate from lead carbonate:\n\nPbCO₃ + 2HNO₃ → Pb(NO₃)₂ + H₂O + CO₂\n\nPb(NO₃)₂ + H₂SO₄ → PbSO₄ + 2HNO₃\n\n(Adding dilute H₂SO₄ straight to PbCO₃ fails: an insoluble crust of PbSO₄ stops it.)\n\n**Worked example:** zinc carbonate. ZnSO₄ + Na₂CO₃ → ZnCO₃ + Na₂SO₄",
+          "links": [
+            {
+              "label": "Wikipedia: precipitation (chemistry)",
+              "url": "https://en.wikipedia.org/wiki/Precipitation_(chemistry)"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: calcium carbonate by precipitation.",
+              "a": "**CaCl₂ + Na₂CO₃ → CaCO₃ + 2NaCl**. Filter, wash and dry the white precipitate."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "direct-combination",
+          "label": "Direct combination, and sodium bicarbonate",
+          "type": "core",
+          "desc": "Some salts are made by heating the **elements together**.\n\n- **Anhydrous iron(III) chloride:** pass **dry chlorine** over heated iron. 2Fe + 3Cl₂ → 2FeCl₃ It is **deliquescent**, so it is kept dry with **fused calcium chloride**.\n- **Iron(II) sulphide:** heat iron with sulphur. Fe + S → FeS\n\nYou **cannot** make anhydrous FeCl₃ by heating its crystals: they break down and give off HCl.\n\n**An acid salt, sodium hydrogen carbonate:** pass carbon dioxide into a **cold** solution of sodium carbonate. Crystals of NaHCO₃ form.\n\nNa₂CO₃ + CO₂ + H₂O → 2NaHCO₃\n\n**Worked example:** why is fused calcium chloride used in the FeCl₃ preparation? It **absorbs moisture**, so the FeCl₃ stays **dry**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which gas is passed into sodium carbonate solution to make baking soda?",
+              "a": "**Carbon dioxide**, into a **cold** solution."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-making-salts",
+          "label": "Quick check: making salts",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which method is best for making lead chloride?",
+              "options": [
+                "acid on the metal",
+                "direct combination",
+                "precipitation",
+                "titration"
+              ],
+              "answer": 2,
+              "why": "PbCl₂ is **insoluble** in cold water: mix two solutions. See *Which method? The salt chain*."
+            },
+            {
+              "q": "Why is sodium sulphate made by titration and not by adding sodium to acid?",
+              "options": [
+                "Sodium reacts dangerously with acid",
+                "Sodium does not react with acid",
+                "Titration is faster",
+                "Sodium sulphate is insoluble"
+              ],
+              "answer": 0,
+              "why": "Sodium reacts **explosively**. Titration of the **alkali** is safe. See *Titration: sodium, potassium and ammonium salts*."
+            },
+            {
+              "q": "Copper does not react with dilute sulphuric acid. To make copper sulphate you add the acid to:",
+              "options": [
+                "copper chloride",
+                "sodium sulphate",
+                "copper oxide or copper carbonate",
+                "copper metal"
+              ],
+              "answer": 2,
+              "why": "Use an **insoluble base** or **carbonate**, in excess, then filter. See *Excess solid, then filter*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "crystals-water",
+      "label": "Water of crystallisation, and water in the air",
+      "desc": "**Goal:** define water of crystallisation, efflorescence and deliquescence, and tell drying from dehydrating agents. Practise with the Intext Questions after section 3.17.",
+      "links": [],
+      "children": [
+        {
+          "id": "water-crystallisation",
+          "label": "Water of crystallisation",
+          "type": "core",
+          "desc": "**Water of crystallisation is the fixed number of water molecules that are chemically combined with a salt in its crystals.**\n\n- Blue vitriol: **CuSO₄·5H₂O**. Washing soda: **Na₂CO₃·10H₂O**. Glauber's salt: **Na₂SO₄·10H₂O**. Epsom salt: **MgSO₄·7H₂O**. White vitriol: **ZnSO₄·7H₂O**. Green vitriol: **FeSO₄·7H₂O**. Gypsum: **CaSO₄·2H₂O**.\n- Some crystals have **none**: common salt, nitre (KNO₃), sugar, potassium permanganate.\n\n**Experiment:** heat blue vitriol in a dry, tilted test tube. Drops of liquid collect; the crystals turn **white**.\n\nCuSO₄·5H₂O → CuSO₄ + 5H₂O\n\nThe liquid is water: it turns white anhydrous copper sulphate **blue**, and blue cobalt chloride paper **pink**. (CoCl₂ + 6H₂O → CoCl₂·6H₂O)\n\n**Worked example:** heated nitre gives **oxygen**, not water: 2KNO₃ → 2KNO₂ + O₂. Salt crystals **crackle** (decrepitation). Neither has water of crystallisation.",
+          "links": [
+            {
+              "label": "Wikipedia: water of crystallization",
+              "url": "https://en.wikipedia.org/wiki/Water_of_crystallization"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: write the formula and common name of hydrated sodium carbonate.",
+              "a": "**Na₂CO₃·10H₂O**, **washing soda**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/copper-sulphate-water.png",
+              "caption": "Heating removes the water; adding water brings the blue back"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "efflorescence",
+          "label": "Efflorescence, deliquescence and hygroscopy",
+          "type": "core",
+          "desc": "- **Efflorescence:** crystals **lose** some or all of their water of crystallisation to **dry** air and turn **powdery**. They **lose mass**. Washing soda, Glauber's salt, Epsom salt.\n\nNa₂CO₃·10H₂O → Na₂CO₃·H₂O + 9H₂O\n\n- **Hygroscopy:** a substance **absorbs** moisture from the air **without dissolving**. Conc. H₂SO₄, quicklime (CaO), silica gel.\n- **Deliquescence:** a substance absorbs so much moisture that it **dissolves** in it and forms a solution. It **gains mass**. NaOH, KOH, CaCl₂, MgCl₂, FeCl₃.\n\nCommon salt gets wet in the rainy season. Pure NaCl does not, but table salt contains **MgCl₂ and CaCl₂**, which are deliquescent.\n\n**Worked example:** caustic soda pellets left open on a humid day become **wet**, then a **solution**: deliquescence.",
+          "links": [
+            {
+              "label": "Wikipedia: efflorescence",
+              "url": "https://en.wikipedia.org/wiki/Efflorescence"
+            },
+            {
+              "label": "Wikipedia: hygroscopy",
+              "url": "https://en.wikipedia.org/wiki/Hygroscopy"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: will Glauber's salt crystals gain or lose mass in dry air?",
+              "a": "**Lose** mass: they are efflorescent. Na₂SO₄·10H₂O → Na₂SO₄ + 10H₂O"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "drying-dehydrating",
+          "label": "Drying and dehydrating agents",
+          "type": "core",
+          "desc": "- A **drying agent** removes **moisture** (free water) from other substances, such as gases. It is a **physical** change. Examples: conc. H₂SO₄, quicklime, fused calcium chloride, silica gel.\n- A **dehydrating agent** removes the **elements of water** (hydrogen and oxygen, 2 : 1) from a **compound**. It is a **chemical** change. Example: **conc. H₂SO₄**.\n\nSo conc. sulphuric acid is **both**.\n\n**Worked example:** conc. H₂SO₄ turns sugar into black carbon: C₁₂H₂₂O₁₁ → 12C + 11H₂O. It **dehydrates** the sugar.",
+          "links": [
+            {
+              "label": "Wikipedia: desiccant",
+              "url": "https://en.wikipedia.org/wiki/Desiccant"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why is concentrated sulphuric acid called a dehydrating agent?",
+              "a": "It removes **hydrogen and oxygen as water** from compounds like sugar or blue vitriol, not just loose moisture."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-crystals-water",
+          "label": "Quick check: water in crystals",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Washing soda crystals left in dry air turn powdery. This is:",
+              "options": [
+                "decrepitation",
+                "deliquescence",
+                "hygroscopy",
+                "efflorescence"
+              ],
+              "answer": 3,
+              "why": "They **lose** water of crystallisation to the air. See *Efflorescence, deliquescence and hygroscopy*."
+            },
+            {
+              "q": "Which substance is deliquescent?",
+              "options": [
+                "washing soda",
+                "sodium chloride (pure)",
+                "calcium chloride",
+                "copper sulphate crystals"
+              ],
+              "answer": 2,
+              "why": "CaCl₂ **absorbs moisture** and **dissolves** in it. See *Efflorescence, deliquescence and hygroscopy*."
+            },
+            {
+              "q": "Concentrated sulphuric acid turns blue copper sulphate crystals white. Here it acts as:",
+              "options": [
+                "a base",
+                "a dehydrating agent",
+                "a drying agent only",
+                "a reducing agent"
+              ],
+              "answer": 1,
+              "why": "It removes **chemically combined** water. See *Drying and dehydrating agents*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "exam-toolkit",
+      "label": "Exam toolkit: words, drills and reasons",
+      "desc": "**Goal:** collect the marks for definitions, equations from patterns, choosing a salt method and 'give reasons'.",
+      "links": [],
+      "children": [
+        {
+          "id": "definitions",
+          "label": "Definitions to learn word for word",
+          "type": "core",
+          "desc": "- **Acid:** a compound which, when dissolved in water, gives hydronium ions (H₃O⁺) as the only positive ions.\n- **Base:** a metallic oxide or hydroxide (or ammonium hydroxide) which reacts with an acid to form a salt and water only.\n- **Alkali:** a base which dissolves in water and gives hydroxide ions (OH⁻) as the only negative ions.\n- **Basicity of an acid:** the number of hydronium ions one molecule of the acid can produce in water.\n- **Acidity of a base:** the number of hydroxide ions one molecule of the base can produce.\n- **Neutralisation:** the reaction of the H⁺ ions of an acid with the OH⁻ ions of a base to form salt and water only.\n- **Salt:** a compound formed by the partial or complete replacement of the ionisable hydrogen of an acid by a metal ion or an ammonium ion.\n- **Normal salt:** all the replaceable hydrogen is replaced. **Acid salt:** only part of it is replaced.\n- **Water of crystallisation:** the fixed number of water molecules chemically combined with a salt in its crystals.\n- **Efflorescence:** losing water of crystallisation to dry air. **Deliquescence:** absorbing moisture from the air and dissolving in it.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: cover the list. Define an alkali.",
+              "a": "A **base** which **dissolves in water** and gives **hydroxide ions as the only negative ions**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "two-drills",
+          "label": "Two drills: patterns and the salt chain",
+          "type": "core",
+          "desc": "**1. Equations from patterns.** Name the pattern, write the products in words, then the formulas, then balance.\n\n**Worked example:** dilute nitric acid on potassium carbonate.\n\nPattern: acid + carbonate → salt + water + carbon dioxide.\n\nSalt: potassium nitrate, KNO₃.\n\n**K₂CO₃ + 2HNO₃ → 2KNO₃ + H₂O + CO₂**\n\n**2. The salt chain.** Insoluble? **Precipitation**. Na, K or NH₄? **Titration**. Metal reacts with dilute acid? **Acid + metal**. Otherwise **acid + oxide or carbonate**.\n\n**Worked example:** silver chloride. Chlorides dissolve, except silver and lead: **insoluble**. **Precipitation**:\n\n**AgNO₃ + KCl → AgCl + KNO₃**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: dilute sulphuric acid on zinc sulphide. Pattern and equation?",
+              "a": "Acid + sulphide → salt + hydrogen sulphide: **ZnS + H₂SO₄ → ZnSO₄ + H₂S**."
+            },
+            {
+              "q": "Your turn: which method, and which equation, for ammonium chloride?",
+              "a": "Ammonium salt: **titration** of ammonium hydroxide with hydrochloric acid: NH₄OH + HCl → NH₄Cl + H₂O."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "give-reasons",
+          "label": "Give reasons: model answers",
+          "type": "core",
+          "desc": "Try these before opening the answers.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Water is never added to concentrated acid.",
+              "a": "Mixing gives out a lot of **heat**. Adding water to acid can make the acid **boil and splash**, or crack the glass. So **acid is added to water**, slowly."
+            },
+            {
+              "q": "Dilute HCl is a stronger acid than concentrated acetic acid.",
+              "a": "HCl **ionises completely**, giving many H₃O⁺ ions. Acetic acid ionises **only partly**. Strength depends on ionisation, not concentration."
+            },
+            {
+              "q": "Sodium sulphate is made by titration, not by adding an excess of a solid.",
+              "a": "Both NaOH and Na₂SO₄ are **soluble**. An excess of either **cannot be filtered off**, so exact volumes are found by titration."
+            },
+            {
+              "q": "Lead sulphate cannot be made by adding dilute sulphuric acid to lead carbonate.",
+              "a": "Insoluble lead sulphate forms a **crust** on the lead carbonate, which **stops** the reaction."
+            },
+            {
+              "q": "Common salt becomes wet in the rainy season.",
+              "a": "Table salt contains **magnesium chloride and calcium chloride**. These are **deliquescent**: they absorb moisture from the air."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: last-minute revision and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Read the sheet the night before the exam and again on the morning.",
+      "links": [],
+      "children": [
+        {
+          "id": "revision-sheet",
+          "label": "Last-minute revision sheet",
+          "type": "core",
+          "desc": "**The one idea:** acids give **H⁺** (really H₃O⁺), alkalis give **OH⁻**. When they meet, **H⁺ + OH⁻ → H₂O**. What is left over is a **salt**.\n\n**Patterns and equations**\n- Acid + **metal** → salt + **hydrogen**. (Not nitric acid.)\n- Acid + **base** → salt + **water** (neutralisation).\n- Acid + **carbonate or bicarbonate** → salt + water + **carbon dioxide**.\n- Acid + **sulphite** → salt + water + **sulphur dioxide**. Acid + **sulphide** → salt + **hydrogen sulphide**.\n- **Conc.** H₂SO₄ + chloride → **HCl**; + nitrate → **HNO₃**.\n- Alkali + **ammonium salt** (warm) → salt + water + **ammonia**.\n- **pH:** each step down = **10 times** more H⁺. pH 3 has **1000 times** the H⁺ of pH 6.\n\n**Units:** pH has **no unit**. The scale runs **0 to 14**; **7 is neutral**.\n\n**Gas tests**\n- **H₂:** burning splint, **pop**. **O₂:** glowing splint **relights**. **CO₂:** lime water **milky**.\n- **SO₂:** acidified potassium dichromate **orange to green**. **H₂S:** rotten eggs; lead acetate paper **black**.\n- **NH₃:** moist red litmus **blue**; **white fumes** with HCl. **HCl:** **white fumes** with ammonia.\n\n**Key points**\n- **Acid:** gives H₃O⁺ as the only positive ions. **Alkali:** a base that dissolves, giving OH⁻ as the only negative ions.\n- **Basicity** = H⁺ per molecule: HCl, HNO₃, CH₃COOH **1**; H₂SO₄, H₂CO₃ **2**; H₃PO₄ **3**.\n- **Strong** = fully ionised. **Concentrated** = little water. Not the same thing.\n- Indicators: litmus **red** in acid, **blue** in alkali. Methyl orange **pink**, **yellow**. Phenolphthalein **colourless**, **pink**.\n- Hydroxides: Cu(OH)₂ **pale blue**; Fe(OH)₂ **dirty green**; Fe(OH)₃ **reddish brown**; Zn(OH)₂ **white**, dissolves in excess NaOH.\n- **Salts:** normal (all H replaced), **acid** (some H left, e.g. KHSO₄), **basic** (some OH left, e.g. Pb(OH)NO₃).\n- **Making salts:** insoluble, **precipitation**; Na, K, NH₄, **titration**; Mg, Zn, Fe, **acid + metal**; Cu, Pb, **acid + oxide or carbonate**; anhydrous FeCl₃, **direct combination**.\n- **Insoluble:** AgCl, PbCl₂ (cold), BaSO₄, PbSO₄, CaSO₄, and carbonates except Na, K, NH₄.\n- **Efflorescent** (loses water): washing soda, Glauber's salt. **Deliquescent** (absorbs and dissolves): CaCl₂, NaOH, FeCl₃.\n\n**Traps:** **pour acid into water**, never water into acid. **Lower pH = more acidic.** Strong is not concentrated. Lead carbonate with dilute H₂SO₄ stops: an **insoluble crust** forms.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which ion is responsible for the properties of all acids in water?",
+              "options": [
+                "Cl⁻",
+                "H₃O⁺",
+                "Na⁺",
+                "OH⁻"
+              ],
+              "answer": 1,
+              "why": "The **hydronium ion**: H⁺ joined to a water molecule."
+            },
+            {
+              "q": "What is the basicity of phosphoric acid, H₃PO₄?",
+              "options": [
+                "1",
+                "3",
+                "4",
+                "2"
+              ],
+              "answer": 1,
+              "why": "It can release **3** H⁺ ions per molecule."
+            },
+            {
+              "q": "Zinc reacts with dilute sulphuric acid. The products are:",
+              "options": [
+                "zinc sulphate and hydrogen",
+                "zinc sulphate and water",
+                "zinc oxide and hydrogen",
+                "zinc sulphide and water"
+              ],
+              "answer": 0,
+              "why": "Acid + metal → salt + **hydrogen**: Zn + H₂SO₄ → ZnSO₄ + H₂."
+            },
+            {
+              "q": "Which gas turns lime water milky?",
+              "options": [
+                "carbon dioxide",
+                "ammonia",
+                "hydrogen chloride",
+                "hydrogen"
+              ],
+              "answer": 0,
+              "why": "Ca(OH)₂ + CO₂ → **CaCO₃** (white) + H₂O."
+            },
+            {
+              "q": "Which is a base but not an alkali?",
+              "options": [
+                "ammonium hydroxide",
+                "potassium hydroxide",
+                "sodium hydroxide",
+                "copper(II) oxide"
+              ],
+              "answer": 3,
+              "why": "CuO reacts with acids but does **not dissolve** in water."
+            },
+            {
+              "q": "A solution has pH 2. It is:",
+              "options": [
+                "strongly alkaline",
+                "neutral",
+                "strongly acidic",
+                "weakly acidic"
+              ],
+              "answer": 2,
+              "why": "pH **far below 7**: strongly acidic."
+            },
+            {
+              "q": "The best way to prepare barium sulphate is:",
+              "options": [
+                "mix barium chloride solution with sodium sulphate solution",
+                "titrate barium hydroxide with sulphuric acid",
+                "heat barium with sulphur",
+                "add sulphuric acid to barium metal"
+              ],
+              "answer": 0,
+              "why": "BaSO₄ is **insoluble**: make it by **precipitation**, then filter."
+            },
+            {
+              "q": "Which salt is a normal salt?",
+              "options": [
+                "NaHSO₄",
+                "Pb(OH)NO₃",
+                "NaHCO₃",
+                "Na₂SO₄"
+              ],
+              "answer": 3,
+              "why": "All the replaceable H of H₂SO₄ has gone: **normal**."
+            },
+            {
+              "q": "Blue copper sulphate crystals are heated. What do you see?",
+              "options": [
+                "They turn white and steam is given off",
+                "They melt into a blue liquid",
+                "They turn black",
+                "Nothing happens"
+              ],
+              "answer": 0,
+              "why": "CuSO₄·5H₂O → CuSO₄ (white) + 5H₂O."
+            },
+            {
+              "q": "Solid sodium hydroxide left in moist air becomes wet and then a solution. This is:",
+              "options": [
+                "precipitation",
+                "efflorescence",
+                "neutralisation",
+                "deliquescence"
+              ],
+              "answer": 3,
+              "why": "It **absorbs** moisture and **dissolves** in it."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These are like the harder questions at the end of the chapter. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "copper-route",
+          "label": "Copper chloride from copper",
+          "type": "optional",
+          "desc": "Copper does not react with dilute hydrochloric acid. Plan a way to make copper(II) chloride crystals, starting from copper.\n\nStep 1: heat copper in air to make **copper(II) oxide**, a base.\n\n2Cu + O₂ → 2CuO\n\nStep 2: add the oxide to warm dilute HCl until **some is left**; filter; evaporate; crystallise.\n\nCuO + 2HCl → CuCl₂ + H₂O",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "four-solutions",
+          "label": "Four solutions, one pH each",
+          "type": "optional",
+          "desc": "Solutions P, Q, R and S have pH 2, 7, 12 and 5.\n\nWhich gives hydrogen fastest with magnesium? Which turns phenolphthalein pink? How many times more H⁺ does P have than S?\n\n- Fastest hydrogen: **P** (lowest pH, most H⁺).\n- Phenolphthalein pink: **R** (the only one above 7).\n- P against S: 5 − 2 = 3 steps, so **1000 times**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "barium-route",
+          "label": "Barium sulphate from barium carbonate",
+          "type": "optional",
+          "desc": "Barium carbonate is insoluble. Make barium sulphate from it in two steps, and say why one step is not enough.\n\nStep 1: make a **soluble** barium salt.\n\nBaCO₃ + 2HCl → BaCl₂ + H₂O + CO₂\n\nStep 2: **precipitate** barium sulphate.\n\nBaCl₂ + H₂SO₄ → BaSO₄ + 2HCl\n\nOne step fails: dilute H₂SO₄ on BaCO₃ makes an **insoluble crust** of BaSO₄ that stops the reaction.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThis is the longest chapter of the year, and students drown in equations. Almost all of them come from **five acid patterns**, **one neutralisation** (H⁺ + OH⁻ → H₂O) and **one decision chain** for making salts. Teach the patterns in words first, and the equations become fill-in-the-blanks.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- Make a **pattern card**: five acid reactions in words. Students write two new equations from each card every day.\n- Teach **solubility rules** before salt preparation; the method depends on them.\n- Use the **salt chain** as a flowchart on the wall, and run every named salt through it.\n- Do the **gas tests** for real if you can: lime water, a burning splint, litmus. Students remember what they saw.\n- Separate **strong** from **concentrated** with two beakers and a conductivity bulb.\n- Use **PhET pH Scale** to show how dilution moves pH, one step at a time.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 12-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** prerequisites: ions and radicals, balancing, H₃O⁺. Activity: a radical card game.\n- **Period 2:** what an acid is; kinds of acid; strong versus concentrated; basicity. Activity: conductivity of dilute HCl and acetic acid.\n- **Period 3:** acid + metal, acid + base, acid + carbonate. Activity: magnesium ribbon and marble chips in dilute acid.\n- **Period 4:** acid + sulphite and sulphide; concentrated acid on chlorides and nitrates; gas tests. Intext Questions after 3.6.\n- **Period 5:** bases and alkalis; acidity of a base; what alkalis do. Activity: hydroxide precipitates with NaOH.\n- **Period 6:** indicators; the pH scale; pH in daily life. Activity: universal indicator on household liquids. Intext Questions after 3.10.\n- **Period 7:** what a salt is; normal, acid and basic salts; hydrolysis.\n- **Period 8:** solubility rules; the salt chain. Activity: sort salt cards by method.\n- **Period 9:** excess solid and filter; titration. Activity: titrate NaOH with dilute HCl.\n- **Period 10:** precipitation; direct combination; sodium bicarbonate. Intext Questions after 3.12.\n- **Period 11:** water of crystallisation; efflorescence and deliquescence; drying and dehydrating. Activity: heat blue vitriol. Intext Questions after 3.17.\n- **Period 12:** the ICSE questions at the end of the chapter; self-test and exit ticket.",
+          "links": [
+            {
+              "label": "PhET simulation: pH Scale (free)",
+              "url": "https://phet.colorado.edu/en/simulations/ph-scale"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Writing **H₂** as a product of acid + base (it is **water**).\n- Thinking **lower pH** means **less** acidic.\n- Mixing up **strong** and **concentrated**.\n- Choosing **acid + metal** for copper or sodium salts.\n- Forgetting that most **carbonates** and **BaSO₄, PbSO₄, AgCl, PbCl₂** are insoluble.\n- Confusing **efflorescent** (loses water) with **deliquescent** (absorbs water and dissolves).",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Complete: acid + carbonate → ?",
+              "a": "Salt + water + **carbon dioxide**."
+            },
+            {
+              "q": "2. Which method makes barium sulphate?",
+              "a": "**Precipitation**: it is insoluble."
+            },
+            {
+              "q": "3. What is the basicity of sulphuric acid?",
+              "a": "**2**."
+            },
+            {
+              "q": "4. pH 4 or pH 6: which is more acidic, and by how much?",
+              "a": "**pH 4**, with **100 times** the H⁺."
+            },
+            {
+              "q": "5. Name a deliquescent substance.",
+              "a": "**Calcium chloride** (or NaOH, FeCl₃)."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "stages": [
+    "school"
+  ],
+  "level": "beginner",
+  "lang": "en",
+  "authors": [
+    {
+      "name": "vijayanandraj",
+      "url": "https://github.com/vijayanandraj"
+    }
+  ],
+  "license": "CC-BY-SA-4.0",
+  "audience": "ICSE Class 10 students who find chemistry hard, and their teachers and parents: Chapter 2, Chemical Bonding",
+  "subject": "science",
+  "follows": "ICSE Class 10 Chemistry (Selina Concise Chemistry, Chapter 2: Chemical Bonding)",
+  "tags": [
+    "chemistry",
+    "icse",
+    "class 10",
+    "chemical bonding",
+    "ionic and covalent",
+    "step by step"
+  ]
+}

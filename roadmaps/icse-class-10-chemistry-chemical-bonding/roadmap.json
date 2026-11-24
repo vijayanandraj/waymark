@@ -1,0 +1,1159 @@
+{
+  "title": "ICSE Class 10 Chemistry, Chapter 2: Chemical Bonding, Step by Step",
+  "subtitle": "For students who find chemistry hard. Why atoms bond, electrovalent (ionic) bonds and redox, covalent bonds with single, double and triple bonds, polar and non-polar molecules, the properties of ionic and covalent compounds, and coordinate bonds in the ammonium and hydronium ions, in small steps with electron dot diagrams, an octet check, quick checks, an exam toolkit and a last-minute revision sheet. Follows the ICSE Class 10 syllabus, Chapter 2 (Chemical Bonding), in the order of Selina Concise Chemistry.",
+  "updated": "2026-11-23",
+  "changelog": [
+    {
+      "date": "2026-11-23",
+      "text": "First version: the whole chapter in small steps, with original worked examples, quick checks, a last-minute revision sheet, a self-test and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** be sure of outer electrons, which atoms give and which take, and how to draw electron dot symbols.",
+      "links": [
+        {
+          "label": "PhET simulation: Molecule Shapes (free)",
+          "url": "https://phet.colorado.edu/en/simulations/molecule-shapes"
+        }
+      ],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Count first, then draw.** Before every diagram, write how many outer electrons each atom has and how many it needs. The drawing then almost does itself.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: every atom wants a full outer shell, and there are three ways to get one.** A metal **gives** electrons to a non-metal (an ionic bond). Two non-metals **share** them (a covalent bond). Or one atom **lends a whole pair** (a coordinate bond).",
+          "links": [
+            {
+              "label": "PhET simulation: Molecule Shapes (free)",
+              "url": "https://phet.colorado.edu/en/simulations/molecule-shapes"
+            },
+            {
+              "label": "Last-minute revision sheet for this chapter",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-chemistry-chemical-bonding#revision-sheet"
+            },
+            {
+              "label": "Previous chapter: 1. Periodic Table, Periodic Properties and Variations of Properties",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-chemistry-periodic-table"
+            },
+            {
+              "label": "Next chapter: 3. Acids, Bases and Salts",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-chemistry-acids-bases-salts"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 2, *Chemical Bonding*, of the ICSE Class 10 Chemistry syllabus. It follows the order of *Selina Concise Chemistry* for Class 10.\n\n**Who it is for.** Class 10 students who find chemistry hard, and want to understand this chapter and score decent marks in it. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** Every atom wants a full outer shell, and there are three ways to get one. A metal gives electrons to a non-metal (an ionic bond). Two non-metals share them (a covalent bond). Or one atom lends a whole pair (a coordinate bond).\n\n**How it is different from the textbook.** Bonding is taught as **one goal reached in three ways**, so ionic, covalent and coordinate bonds feel like one story, linked back to the tug of war from Chapter 1. Every structure is drawn with the same four steps and an **octet check**, and the original worked examples (potassium chloride, sodium oxide, hydrogen sulphide, oxygen) leave the syllabus structures for students to draw themselves. A four-line drill names the bond, gives the formula and predicts the properties from two atomic numbers.\n\n**What is inside.**\n- 11 milestones and 46 small steps. The 37 solid steps are the core path. The dashed ones are optional.\n- 42 practice questions with hidden answers, and 7 pictures.\n- 27 click-to-check questions that say right or wrong, and why: a quick check after each of the 6 main milestones, and a 10-question self-test.\n- A **last-minute revision sheet**: every rule, equation, definition and key point on one page.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the challenge questions, and a section for teachers and parents with an 8-period lesson plan, the mistakes to watch for and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from their textbook. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the ICSE syllabus but is not made or endorsed by CISCE or by any publisher. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Write the configuration of sulphur (Z = 16). How many outer electrons?",
+              "a": "**2, 8, 6**: **6** outer electrons. Wrong? Do *Outer electrons and the full shell*."
+            },
+            {
+              "q": "2. Which forms a positive ion: magnesium or sulphur?",
+              "a": "**Magnesium**, a metal: it loses 2 electrons. Wrong? Do *Metals give, non-metals take*."
+            },
+            {
+              "q": "3. What ion does fluorine (2, 7) form?",
+              "a": "It gains 1 electron: **F⁻**. Wrong? Do *Metals give, non-metals take*."
+            },
+            {
+              "q": "4. How many dots are in the electron dot symbol of nitrogen?",
+              "a": "**5**, one for each outer electron. Wrong? Do *Electron dot symbols*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "outer-shells",
+          "label": "Outer electrons and the full shell",
+          "type": "core",
+          "desc": "Only the **outer** electrons take part in bonding.\n\n- Neon (**2, 8**) and argon (**2, 8, 8**) have a **full** outer shell of **8**: an **octet**.\n- Helium (**2**) has a full first shell: a **duplet**.\n- These noble gases hardly react at all. A full outer shell is **stable**.\n\nEvery other atom tries to reach the shell of the **nearest noble gas**.\n\n**Worked example:** potassium is **2, 8, 8, 1**. Argon is **2, 8, 8**. Potassium has **one electron too many**.",
+          "links": [
+            {
+              "label": "Wikipedia: octet rule",
+              "url": "https://en.wikipedia.org/wiki/Octet_rule"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: sulphur is 2, 8, 6. How many electrons short of argon is it?",
+              "a": "Argon has 8 in its outer shell. 8 − 6 = **2 short**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "give-take",
+          "label": "Metals give, non-metals take",
+          "type": "core",
+          "desc": "Remember the tug of war from Chapter 1.\n\n- **Metals** (1, 2 or 3 outer electrons) have a **weak pull**. They **lose** electrons and become **positive ions** (cations).\n- **Non-metals** (5, 6 or 7 outer electrons) have a **strong pull**. They **gain** electrons and become **negative ions** (anions).\n\nK → K⁺ + e⁻\n\nS + 2e⁻ → S²⁻\n\n**An ion is a charged particle formed when an atom gains or loses one or more electrons.**\n\n**Worked example:** aluminium is 2, 8, 3. It loses 3 electrons: Al → Al³⁺ + 3e⁻.",
+          "links": [
+            {
+              "label": "Wikipedia: ionic bonding",
+              "url": "https://en.wikipedia.org/wiki/Ionic_bonding"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what ions do lithium (2, 1) and oxygen (2, 6) form?",
+              "a": "Lithium loses 1: **Li⁺**. Oxygen gains 2: **O²⁻**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "electron-dots",
+          "label": "Electron dot symbols",
+          "type": "core",
+          "desc": "An **electron dot symbol** is the symbol of the element with a dot for **each outer electron**.\n\n- Put the first four dots **one on each side** (top, right, bottom, left).\n- Then **pair them up**.\n- Inner electrons are **not** shown.\n\nIn a molecule we often use **dots** for one atom and **crosses (×)** for another. They are all just electrons; the marks only show where each came from.\n\n**Worked example:** phosphorus has **5** outer electrons. Four go one on each side; the fifth pairs up with one of them.",
+          "links": [
+            {
+              "label": "Wikipedia: Lewis structure",
+              "url": "https://en.wikipedia.org/wiki/Lewis_structure"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: how many dots does oxygen's symbol have? How many are paired?",
+              "a": "Oxygen has **6** outer electrons: **4 paired** (two pairs) and **2 single**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/dot-symbols-period-3.png",
+              "caption": "Electron dot symbols across period 3: one dot per outer electron"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "ionic",
+      "label": "Ionic bonds: giving and taking",
+      "desc": "**Goal:** say why atoms bond, define an electrovalent bond, and state when one forms. Practise with the Intext Questions after section 2.2.",
+      "links": [],
+      "children": [
+        {
+          "id": "why-bond",
+          "label": "Why atoms bond",
+          "type": "core",
+          "desc": "**Cause of chemical combination: the tendency of atoms to reach the electron arrangement of the nearest noble gas.**\n\nAs atoms move their outer electrons around, a force holds them together.\n\n**A chemical bond is the force of attraction between two atoms that holds them together in a molecule, so that each is stable.**\n\nThere are **three ways** to reach a full shell:\n\n- **Transfer** electrons from one atom to another: an **electrovalent (ionic)** bond.\n- **Share** pairs of electrons, one from each atom: a **covalent** bond.\n- Share a pair that **one atom gives entirely**: a **coordinate (dative)** bond.\n\n**Worked example:** sodium is 2, 8, 1; neon is 2, 8. Sodium can reach neon's shell by **giving away 1** electron.",
+          "links": [
+            {
+              "label": "Wikipedia: chemical bond",
+              "url": "https://en.wikipedia.org/wiki/Chemical_bond"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: name two ways a chlorine atom (2, 8, 7) could reach a full shell.",
+              "a": "**Gain 1** electron from a metal (ionic), or **share 1 pair** with another non-metal atom (covalent)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "electrovalent-bond",
+          "label": "The electrovalent bond",
+          "type": "core",
+          "desc": "**An electrovalent (ionic) bond is the bond formed by the transfer of one or more electrons from one atom to another.** The positive and negative ions then **attract**.\n\n- The compound formed is an **electrovalent (ionic) compound**.\n- **Electrovalency** is the **number of electrons** an atom loses or gains to form an electrovalent bond.\n- A metal that easily loses electrons is **electropositive**. A non-metal that easily gains them is **electronegative**.\n\n**Worked example:** potassium: K → K⁺ + e⁻. Its electrovalency is **1**.\n\nSulphur: S + 2e⁻ → S²⁻. Its electrovalency is **2**.",
+          "links": [
+            {
+              "label": "Wikipedia: ionic bonding",
+              "url": "https://en.wikipedia.org/wiki/Ionic_bonding"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what is the electrovalency of aluminium in aluminium oxide, Al₂O₃?",
+              "a": "Aluminium loses **3** electrons (Al³⁺): electrovalency **3**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ionic-conditions",
+          "label": "When does an ionic bond form?",
+          "type": "core",
+          "desc": "An ionic bond forms easily when:\n\n- the metal has a **low ionisation energy** (loses electrons easily);\n- the non-metal has a **high electron affinity** (gains electrons easily);\n- the **difference in electronegativity** is **large**.\n\nSo metals of groups **1, 2 and 13** bond ionically with non-metals of groups **15, 16 and 17**.\n\nThe most ionic compound is **caesium fluoride, CsF**: caesium has the lowest E.N. (0.7), fluorine the highest (4.0).\n\nLike charges repel too, but the attraction between **opposite** ions is much stronger. So ionic compounds are **stable**.\n\n**Worked example:** potassium (E.N. 0.8) and fluorine (E.N. 4.0). Difference = 4.0 − 0.8 = **3.2**. That is large: an **ionic** bond.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which forms an ionic compound with chlorine, carbon or calcium?",
+              "a": "**Calcium**: a metal with a low I.E. Carbon is a non-metal; it **shares** with chlorine."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "atom-vs-ion",
+          "label": "Atom or ion: not the same thing",
+          "type": "core",
+          "desc": "An ion behaves very differently from its atom.\n\n- **Potassium atom (2, 8, 8, 1):** incomplete outer shell, neutral, a **very reactive** metal.\n- **Potassium ion, K⁺ (2, 8, 8):** **complete** outer shell, **positively charged**, **unreactive**. It is found in salts like KCl.\n- **Chlorine (Cl₂):** a greenish-yellow, **poisonous** gas with a choking smell. Very reactive.\n- **Chloride ion (Cl⁻):** colourless, **not poisonous**, odourless. It is in the common salt you eat.\n\n**Worked example:** K⁺ and an argon atom are both **2, 8, 8**. But K⁺ has **19 protons** and a **+1 charge**; argon has **18 protons** and is **neutral**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: Mg²⁺ and a neon atom both have 2, 8. How are they different?",
+              "a": "Mg²⁺ has **12 protons** and a **+2** charge. Neon has **10 protons** and no charge."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-ionic",
+          "label": "Quick check: ionic bonds",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "An electrovalent (ionic) bond is formed by:",
+              "options": [
+                "a pair of electrons given by one atom only",
+                "the attraction between two neutral atoms",
+                "the sharing of a pair of electrons",
+                "the transfer of electrons from one atom to another"
+              ],
+              "answer": 3,
+              "why": "**Transfer**: one atom loses electrons, the other gains them. See *The electrovalent bond*."
+            },
+            {
+              "q": "Which pair of elements is most likely to form an ionic bond?",
+              "options": [
+                "potassium and fluorine",
+                "carbon and hydrogen",
+                "chlorine and chlorine",
+                "nitrogen and oxygen"
+              ],
+              "answer": 0,
+              "why": "A metal with a **weak pull** and a non-metal with a **strong pull**: a **big E.N. difference**. See *When does an ionic bond form?*"
+            },
+            {
+              "q": "Which is true of a sodium ion compared with a sodium atom?",
+              "options": [
+                "It is a silvery metal",
+                "It is more reactive",
+                "It has a complete outer shell and is unreactive",
+                "It has more electrons"
+              ],
+              "answer": 2,
+              "why": "Na⁺ is **2, 8**: a full shell, so it is **stable**. The atom is the reactive metal. See *Atom or ion: not the same thing*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "drawing-ionic",
+      "label": "Drawing ionic compounds, and redox",
+      "desc": "**Goal:** draw orbit and electron dot structures of ionic compounds, and explain them as redox. Practise with the Intext Questions after section 2.2.",
+      "links": [],
+      "children": [
+        {
+          "id": "ionic-dot-method",
+          "label": "Drawing an ionic compound: four steps",
+          "type": "core",
+          "desc": "1. Write the **dot symbol** of each atom (dots for one, crosses for the other).\n2. **Move** electrons from the metal to the non-metal.\n3. Put each ion in **square brackets** with its **charge**.\n4. **Check:** each ion has a full shell, and the charges add up to **zero**.\n\nAn **orbit structure** shows the same thing with shells drawn as circles.\n\n**Worked example:** potassium chloride.\n\nK has 1 outer electron. Cl has 7.\n\nK gives its 1 electron to Cl.\n\nK⁺ is 2, 8, 8. Cl⁻ is 2, 8, 8.\n\nCharges: +1 and −1 add to **0**. Formula: **KCl**.\n\n2K + Cl₂ → 2KCl",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: describe the electron dot structure of sodium chloride.",
+              "a": "**[Na]⁺** with no outer electrons shown, next to **[Cl]⁻** with 7 dots and 1 cross: eight in all. See the picture in *Structures to practise*."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/potassium-chloride-transfer.png",
+              "caption": "Potassium gives its one outer electron to chlorine"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "two-of-one",
+          "label": "Ionic compounds with two of one ion",
+          "type": "core",
+          "desc": "Sometimes one atom gives or takes **more than one** electron. Then you may need **two** of the other atom.\n\n**Worked example:** sodium oxide.\n\nEach Na (2, 8, 1) can give only **1** electron.\n\nO (2, 6) needs **2**.\n\nSo **two** sodium atoms each give one: 2Na⁺ and O²⁻.\n\nCharges: +1 +1 −2 = **0**. Formula: **Na₂O**.\n\n4Na + O₂ → 2Na₂O",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: magnesium (2, 8, 2) and oxygen (2, 6). How many electrons move? Formula?",
+              "a": "Mg gives **2**; O takes **2**. One of each: **MgO**, with Mg²⁺ and O²⁻."
+            },
+            {
+              "q": "Your turn: calcium (2, 8, 8, 2) and chlorine (2, 8, 7). Formula and ions?",
+              "a": "Ca gives 2, each Cl takes 1: **CaCl₂**, as [Cl]⁻ [Ca]²⁺ [Cl]⁻."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "redox-step",
+          "label": "Every ionic bond is a redox reaction",
+          "type": "core",
+          "desc": "When an ionic bond forms, one atom **loses** electrons and the other **gains** them.\n\n- **Oxidation is loss of electrons.**\n- **Reduction is gain of electrons.**\n- Memory trick: **OIL RIG** (Oxidation Is Loss, Reduction Is Gain).\n- A **reducing agent** **gives** electrons (it is oxidised).\n- An **oxidising agent** **takes** electrons (it is reduced).\n\nBoth always happen **together**: one atom's lost electrons are another's gain. This is a **redox** reaction.\n\n**Worked example:** 2K + Cl₂ → 2KCl\n\n2K → 2K⁺ + 2e⁻ (oxidation; K is the reducing agent)\n\nCl₂ + 2e⁻ → 2Cl⁻ (reduction; Cl₂ is the oxidising agent)",
+          "links": [
+            {
+              "label": "Wikipedia: redox",
+              "url": "https://en.wikipedia.org/wiki/Redox"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: in 2Mg + O₂ → 2MgO, which is oxidised and which reduced?",
+              "a": "Magnesium is **oxidised**: 2Mg → 2Mg²⁺ + 4e⁻. Oxygen is **reduced**: O₂ + 4e⁻ → 2O²⁻."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-drawing-ionic",
+          "label": "Quick check: ionic diagrams and redox",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Magnesium (2, 8, 2) combines with oxygen (2, 6). How many electrons move, and which way?",
+              "options": [
+                "6, from oxygen to magnesium",
+                "1, from magnesium to oxygen",
+                "2, from magnesium to oxygen",
+                "2, from oxygen to magnesium"
+              ],
+              "answer": 2,
+              "why": "The **metal gives**, the non-metal takes. Mg loses **2**, O gains **2**. See *Ionic compounds with two of one ion*."
+            },
+            {
+              "q": "Oxidation is:",
+              "options": [
+                "loss of neutrons",
+                "gain of electrons",
+                "loss of electrons",
+                "gain of protons"
+              ],
+              "answer": 2,
+              "why": "**OIL RIG**: Oxidation Is Loss, Reduction Is Gain. See *Every ionic bond is a redox reaction*."
+            },
+            {
+              "q": "When potassium reacts with chlorine, which substance is the reducing agent?",
+              "options": [
+                "neither",
+                "potassium chloride",
+                "chlorine",
+                "potassium"
+              ],
+              "answer": 3,
+              "why": "The reducing agent **gives** electrons, and is itself oxidised. Potassium gives one. See *Every ionic bond is a redox reaction*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "covalent",
+      "label": "Covalent bonds: sharing",
+      "desc": "**Goal:** define a covalent bond, and draw single, double and triple bonds with dots and crosses. Practise with the Intext Questions after section 2.5.",
+      "links": [],
+      "children": [
+        {
+          "id": "covalent-bond",
+          "label": "The covalent bond",
+          "type": "core",
+          "desc": "Non-metals have 4 to 7 outer electrons. Losing them all would take **too much energy**. So two non-metals **share** instead.\n\n**A covalent bond is the bond formed between two atoms by mutual sharing of one or more pairs of electrons.**\n\n- Each atom gives **one** electron to each shared pair.\n- One shared pair is a **single bond**, drawn as a line: H–H.\n- **Covalency** is the number of electrons an atom shares: H **1**, O **2**, N **3**, C **4**.\n\nConditions: both atoms are **non-metals** (4 or more outer electrons, except H), with **high** E.N., E.A. and I.E., and **little or no** E.N. difference.\n\n**Worked example:** fluorine, F₂. Each F has 7 outer electrons and needs 1. They share **one pair**: **F–F**. Each F keeps **3 lone pairs**.",
+          "links": [
+            {
+              "label": "Wikipedia: covalent bond",
+              "url": "https://en.wikipedia.org/wiki/Covalent_bond"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what is the covalency of nitrogen in ammonia?",
+              "a": "Nitrogen shares **3** electrons, one with each H: covalency **3**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "covalent-dot-method",
+          "label": "Drawing a covalent molecule: four steps",
+          "type": "core",
+          "desc": "1. Write the **dot symbols** (dots for one atom, crosses for the other).\n2. **Pair** each single electron with one from the other atom. Draw each shared pair **between** the atoms.\n3. **Count** round each atom: **8** (hydrogen: **2**).\n4. Write the **structural formula**, a dash for each shared pair.\n\n**Worked example:** hydrogen chloride, HCl.\n\nH has 1 electron (×). Cl has 7 (•).\n\nThey share one pair: H ×• Cl, and Cl keeps 3 pairs.\n\nCount: H has **2**; Cl has 6 + 2 = **8**.\n\nStructural formula: **H–Cl**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: draw the chlorine molecule, Cl₂.",
+              "a": "One shared pair between the two Cl atoms; each Cl keeps **3 lone pairs**. Count: 6 + 2 = **8** each. **Cl–Cl**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "centre-atom",
+          "label": "Molecules with a centre atom",
+          "type": "core",
+          "desc": "When one atom bonds to several others, put it in the **middle**.\n\nThe centre atom shares one pair with **each** outer atom. Its leftover electrons stay as **lone pairs**.\n\n**Worked example:** hydrogen sulphide, H₂S.\n\nS has 6 outer electrons and needs 2. Each H needs 1.\n\nS shares one pair with each H: **2 shared pairs**.\n\nS has 6 − 2 = 4 electrons left: **2 lone pairs**.\n\nCount round S: 4 + 4 = **8**. Structural formula: **H–S–H**.",
+          "links": [
+            {
+              "label": "PhET simulation: Molecule Shapes (free)",
+              "url": "https://phet.colorado.edu/en/simulations/molecule-shapes"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: water, H₂O. How many shared pairs and lone pairs?",
+              "a": "Just like H₂S: **2 shared pairs** (one with each H) and **2 lone pairs** on oxygen."
+            },
+            {
+              "q": "Your turn: ammonia, NH₃, and methane, CH₄.",
+              "a": "NH₃: N shares **3 pairs** and keeps **1 lone pair**. CH₄: C shares **4 pairs** and has **no** lone pair. CCl₄ is like CH₄, with Cl in place of H."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "double-triple",
+          "label": "Double and triple bonds",
+          "type": "core",
+          "desc": "Some atoms need **2 or 3** more electrons. Then two atoms share **2 or 3 pairs**.\n\n- **Double bond** (=): **2** shared pairs.\n- **Triple bond** (≡): **3** shared pairs.\n- Ethene (C₂H₄) has one double bond; ethyne (C₂H₂) has one triple bond.\n\n**Worked example:** oxygen, O₂.\n\nEach O has 6 outer electrons and needs 2.\n\nThey share **2 pairs**: **O=O**.\n\nEach O keeps 6 − 2 = 4 electrons: **2 lone pairs**.\n\nCount round each O: 4 + 4 = **8**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: nitrogen, N₂ (each N is 2, 5).",
+              "a": "Each N needs **3**: they share **3 pairs**, **N≡N**. Each N keeps **1 lone pair**. Count: 2 + 6 = **8**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-covalent",
+          "label": "Quick check: covalent bonds",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A covalent bond is formed by:",
+              "options": [
+                "transfer of electrons",
+                "attraction between ions",
+                "sharing a pair given by one atom only",
+                "mutual sharing of one or more pairs of electrons"
+              ],
+              "answer": 3,
+              "why": "**Sharing**, each atom giving one electron to each pair. See *The covalent bond*."
+            },
+            {
+              "q": "How many pairs of electrons are shared in a nitrogen molecule, N₂?",
+              "options": [
+                "3",
+                "2",
+                "1",
+                "5"
+              ],
+              "answer": 0,
+              "why": "Each N has 5 outer electrons and needs **3** more. They share **3 pairs**: a **triple bond**. See *Double and triple bonds*."
+            },
+            {
+              "q": "How many lone pairs does the oxygen atom in water have?",
+              "options": [
+                "1",
+                "0",
+                "4",
+                "2"
+              ],
+              "answer": 3,
+              "why": "O has 6 outer electrons. 2 go into the bonds; **4 are left: 2 lone pairs**. See *Molecules with a centre atom*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "polar",
+      "label": "Polar and non-polar molecules",
+      "desc": "**Goal:** tell polar from non-polar covalent molecules, and use the E.N. difference to predict a bond. Practise with the Intext Questions after section 2.5.",
+      "links": [],
+      "children": [
+        {
+          "id": "equal-unequal",
+          "label": "Equal and unequal sharing",
+          "type": "core",
+          "desc": "In a shared pair, both nuclei pull on the electrons. It is the tug of war again.\n\n- **Non-polar:** the pair is shared **equally**. This happens between **identical** atoms (H₂, Cl₂, O₂, N₂), or when the molecule is **symmetrical** (CH₄, CCl₄).\n- **Polar:** one atom pulls the pair **closer**. It gets a slight negative charge (**δ−**); the other gets **δ+**.\n\nA polar molecule has two ends of opposite charge, so it is called a **dipole**. Examples: **HCl, H₂O, NH₃, HF**.\n\nPolar covalent compounds **ionise** in water. Non-polar ones **do not**.\n\n**Worked example:** in HCl, chlorine (E.N. 3.0) pulls harder than hydrogen (2.1). The shared pair shifts towards Cl: **H δ+, Cl δ−**.",
+          "links": [
+            {
+              "label": "Wikipedia: chemical polarity",
+              "url": "https://en.wikipedia.org/wiki/Chemical_polarity"
+            },
+            {
+              "label": "PhET simulation: Molecule Polarity (free)",
+              "url": "https://phet.colorado.edu/en/simulations/molecule-polarity"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: CCl₄ contains chlorine. Is the molecule polar?",
+              "a": "**No.** The four Cl atoms are arranged **symmetrically** round C, so the pulls cancel. CCl₄ is **non-polar**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/hydrogen-chloride.png",
+              "caption": "Hydrogen chloride: one shared pair, pulled towards chlorine"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "en-difference",
+          "label": "The E.N. difference decides",
+          "type": "core",
+          "desc": "Subtract the two electronegativities.\n\n- **Zero:** a **non-polar** covalent bond.\n- **Small:** a **polar** covalent bond.\n- **Large:** the electrons move **completely**: an **ionic** bond.\n\n**Worked example:** Na–Cl: 3.0 − 0.9 = **2.1**, large: **ionic**.\n\nH–Cl: 3.0 − 2.1 = **0.9**, small: **polar covalent**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: classify H–H and O–H.",
+              "a": "H–H: difference **0**, **non-polar**. O–H: 3.5 − 2.1 = **1.4**, **polar**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/electronegativity-difference.png",
+              "caption": "Bigger difference in E.N.: from equal sharing to complete transfer"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-polar",
+          "label": "Quick check: polar and non-polar",
+          "type": "core",
+          "desc": "Two questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which molecule is polar?",
+              "options": [
+                "hydrogen chloride",
+                "hydrogen",
+                "chlorine",
+                "methane"
+              ],
+              "answer": 0,
+              "why": "Cl pulls the shared pair harder than H: **δ+ on H, δ− on Cl**. See *Equal and unequal sharing*."
+            },
+            {
+              "q": "Atoms with a large electronegativity difference form:",
+              "options": [
+                "an ionic bond",
+                "a non-polar covalent bond",
+                "a coordinate bond",
+                "a polar covalent bond"
+              ],
+              "answer": 0,
+              "why": "Zero: non-polar. Small: polar. **Large: ionic.** See *The E.N. difference decides*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "properties",
+      "label": "Properties: ionic versus covalent",
+      "desc": "**Goal:** state and explain the properties of ionic and covalent compounds, and say which conduct electricity. Practise with the Intext Questions after section 2.5.",
+      "links": [],
+      "children": [
+        {
+          "id": "ionic-props",
+          "label": "Ionic compounds: properties and reasons",
+          "type": "core",
+          "desc": "Every property comes from **strong attraction between ions**.\n\n- **Hard, crystalline solids.** Reason: strong forces hold the ions in place.\n- **High melting and boiling points** (sodium chloride melts at 801 °C). Reason: a lot of energy is needed to pull the ions apart.\n- **Do not conduct as solids**, but **conduct when molten or dissolved in water**. Reason: only then can the ions **move**.\n- **Soluble in water**, **insoluble in organic solvents** like kerosene and petrol. Reason: polar water weakens the attraction between ions.\n- In water or when molten, they **dissociate** into ions: NaCl → Na⁺ + Cl⁻. They are **electrolytes** (you will use this in Electrolysis).\n- They react **fast**, because the ions are already free.\n\n**Worked example:** why does salt dissolve in water but not in kerosene? Water is **polar**; its δ− and δ+ ends pull the ions **apart**. Kerosene is non-polar and cannot.",
+          "links": [
+            {
+              "label": "Wikipedia: ionic compound",
+              "url": "https://en.wikipedia.org/wiki/Ionic_compound"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why are ionic crystals hard but brittle?",
+              "a": "The ions are held **strongly** (hard). A sharp blow pushes **like charges** next to each other, and they **repel**: the crystal splits."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "covalent-props",
+          "label": "Covalent compounds: properties and reasons",
+          "type": "core",
+          "desc": "Every property comes from **weak forces between molecules**. (The bonds **inside** each molecule are strong.)\n\n- **Gases, liquids or soft solids.** Reason: molecules are held together only weakly.\n- **Low melting and boiling points** (carbon tetrachloride boils at about 77 °C). Reason: little energy is needed to separate the molecules.\n- **Do not conduct** electricity in any state. Reason: they have **no ions**.\n- **Insoluble in water**, **soluble in organic solvents**. (Polar ones such as HCl and NH₃ dissolve in water.)\n- They react **slowly**: old bonds must break before new ones form.\n\n**Worked example:** why is methane a gas at room temperature? The forces **between** its molecules are **weak**, so very little energy pulls them apart.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why does carbon tetrachloride not dissolve in water?",
+              "a": "CCl₄ is **non-polar**. Water is **polar**. Polar and non-polar substances do not mix."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "conduct-experiment",
+          "label": "Which liquids conduct? An experiment",
+          "type": "core",
+          "desc": "**Set up:** a battery, a bulb and two electrodes (carbon or platinum) in a series circuit. Dip the electrodes into each liquid in turn.\n\n- **Bulb glows:** sodium chloride solution, copper sulphate solution, sodium hydroxide solution, dilute hydrochloric acid.\n- **Bulb does not glow:** sugar solution, alcohol, kerosene, distilled water.\n\n**Conclusion:** solutions with **free ions** conduct. Solutions with only **molecules** do not.\n\nHydrogen chloride is covalent, yet its solution conducts. It is **polar**, so it **ionises** in water:\n\nHCl + H₂O → H₃O⁺ + Cl⁻\n\n**Worked example:** dilute hydrochloric acid and copper sulphate solution both make the bulb glow. Copper sulphate is **ionic**: its ions are set free in water. HCl is **polar covalent**: water **makes** ions from it.",
+          "links": [
+            {
+              "label": "Wikipedia: electrolyte",
+              "url": "https://en.wikipedia.org/wiki/Electrolyte"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why does sugar solution not light the bulb?",
+              "a": "Sugar is **covalent** and **non-polar**. In water it stays as **molecules**: no ions to carry the current."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "period-3-chlorides",
+          "label": "Chlorides across period 3",
+          "type": "optional",
+          "desc": "Bonding changes **gradually** across a period.\n\n- NaCl and MgCl₂: **ionic** solids.\n- AlCl₃: **partly ionic, partly covalent**.\n- SiCl₄ and PCl₃: **covalent** liquids.\n\nWhy: the E.N. difference with chlorine shrinks across the period: Na 2.1, Mg 1.8, Al 1.5, Si 1.2, P 0.9, S 0.5.\n\n**Worked example:** sodium chloride is ionic but silicon tetrachloride is covalent. Na–Cl has a difference of 2.1; Si–Cl only 1.2.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "qc-properties",
+          "label": "Quick check: properties",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Why does sodium chloride have a high melting point?",
+              "options": [
+                "Weak forces between its molecules",
+                "It is a covalent compound",
+                "It has free electrons",
+                "Strong forces of attraction between its ions"
+              ],
+              "answer": 3,
+              "why": "Breaking **strong** ion-to-ion attraction needs **a lot of energy**. See *Ionic compounds: properties and reasons*."
+            },
+            {
+              "q": "Solid sodium chloride does not conduct electricity because:",
+              "options": [
+                "its ions are held in place",
+                "it is insoluble",
+                "it is covalent",
+                "it has no ions"
+              ],
+              "answer": 0,
+              "why": "The ions are there but **cannot move**. Melt or dissolve it and they **move freely**. See *Ionic compounds: properties and reasons*."
+            },
+            {
+              "q": "Which of these solutions will make a bulb glow?",
+              "options": [
+                "kerosene",
+                "sugar solution",
+                "dilute hydrochloric acid",
+                "alcohol"
+              ],
+              "answer": 2,
+              "why": "HCl is covalent but **polar**: in water it forms **ions**. See *Which liquids conduct? An experiment*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "coordinate",
+      "label": "Coordinate bonds",
+      "desc": "**Goal:** define a coordinate bond and a lone pair, and draw the ammonium, hydronium and hydroxide ions. Practise with the Intext Questions after section 2.6.",
+      "links": [],
+      "children": [
+        {
+          "id": "coordinate-bond",
+          "label": "The coordinate bond",
+          "type": "core",
+          "desc": "**A coordinate (dative) bond is a bond formed between two atoms by sharing a pair of electrons that is provided entirely by one of them.**\n\n- **A lone pair is a pair of outer electrons that is not shared with any other atom.**\n- The atom that gives the pair is the **donor**. The atom or ion that receives it is the **acceptor**.\n- It is drawn as an **arrow** from donor to acceptor: N→H.\n\n**Conditions:** the donor has at least **one lone pair**; the acceptor is **short of a pair** (like H⁺, which has no electrons at all).\n\n**Worked example:** how many lone pairs does nitrogen in ammonia have? N has 5 outer electrons. 3 are shared with H. 5 − 3 = 2 left: **1 lone pair**.",
+          "links": [
+            {
+              "label": "Wikipedia: coordinate covalent bond",
+              "url": "https://en.wikipedia.org/wiki/Coordinate_covalent_bond"
+            },
+            {
+              "label": "Wikipedia: lone pair",
+              "url": "https://en.wikipedia.org/wiki/Lone_pair"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: how many lone pairs does oxygen in water have?",
+              "a": "O has 6. 2 are shared. 6 − 2 = 4 left: **2 lone pairs**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ammonium-ion",
+          "label": "The ammonium ion",
+          "type": "core",
+          "desc": "Ammonia's nitrogen has **one lone pair**. A hydrogen ion, H⁺, has **no** electrons.\n\nN gives its lone pair to H⁺:\n\nNH₃ + H⁺ → NH₄⁺\n\n- The ammonium ion has **3 covalent** bonds and **1 coordinate** bond.\n- Once formed, all four N–H bonds are **identical**.\n- It carries the **+1** charge that H⁺ brought.\n\n**Ammonium chloride** forms when ammonia meets hydrogen chloride: NH₃ + HCl → NH₄Cl. NH₄⁺ and Cl⁻ attract: an **ionic** bond. So NH₄Cl has **all three** kinds of bond.\n\n**Worked example:** count round N in NH₄⁺: **4 pairs = 8** electrons. Each H has **2**.",
+          "links": [
+            {
+              "label": "Wikipedia: ammonium",
+              "url": "https://en.wikipedia.org/wiki/Ammonium"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: name the donor and acceptor in the ammonium ion.",
+              "a": "**Donor:** the nitrogen atom of ammonia. **Acceptor:** the hydrogen ion, H⁺."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/coordinate-bonds.png",
+              "caption": "A lone pair is given to H⁺: the ammonium and hydronium ions"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "hydronium-ion",
+          "label": "The hydronium ion",
+          "type": "core",
+          "desc": "When an acid dissolves in water, it releases H⁺. But a bare H⁺ never stays alone.\n\nWater's oxygen has **2 lone pairs**. It gives one to H⁺:\n\nH₂O + H⁺ → H₃O⁺\n\nThis is the **hydronium ion**, H₃O⁺. It has 2 covalent bonds and 1 coordinate bond. The H⁺ in any acid solution is really H₃O⁺. (You will need this in Chapter 3.)\n\n**Worked example:** hydrogen chloride in water: HCl + H₂O → H₃O⁺ + Cl⁻. HCl gives H⁺; water takes it with a lone pair.",
+          "links": [
+            {
+              "label": "Wikipedia: hydronium",
+              "url": "https://en.wikipedia.org/wiki/Hydronium"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: how many lone pairs does oxygen have left in H₃O⁺?",
+              "a": "It started with **2** and gave **1** away: **1 lone pair** left."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "hydroxide-ion",
+          "label": "Water and the hydroxide ion",
+          "type": "core",
+          "desc": "If a water molecule **loses** an H⁺, the shared pair **stays** with the more electronegative oxygen:\n\nH₂O → H⁺ + OH⁻\n\nSo the **hydroxide ion**, OH⁻, has a **−1** charge. Oxygen now has **3 lone pairs**.\n\nIn pure water, a very few molecules pass an H⁺ to a neighbour:\n\n2H₂O ⇌ H₃O⁺ + OH⁻\n\n**Worked example:** pure water contains a tiny number of **H₃O⁺** and **OH⁻** ions, in **equal** numbers. That is why pure water is **neutral**.",
+          "links": [
+            {
+              "label": "Wikipedia: self-ionization of water",
+              "url": "https://en.wikipedia.org/wiki/Self-ionization_of_water"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why does OH⁻ carry a negative charge?",
+              "a": "H⁺ leaves **without** its electron. Oxygen keeps the shared pair: **one more electron than protons** in the group."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-coordinate",
+          "label": "Quick check: coordinate bonds",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "In a coordinate bond, the shared pair of electrons comes from:",
+              "options": [
+                "both atoms, one each",
+                "only one of the two atoms",
+                "the nucleus",
+                "a third atom"
+              ],
+              "answer": 1,
+              "why": "One atom **gives both** electrons (the donor). See *The coordinate bond*."
+            },
+            {
+              "q": "Which compound has ionic, covalent and coordinate bonds?",
+              "options": [
+                "ammonium chloride",
+                "sodium chloride",
+                "methane",
+                "ammonia"
+              ],
+              "answer": 0,
+              "why": "NH₄⁺ has **3 covalent + 1 coordinate** bond, and it is held to Cl⁻ by an **ionic** bond. See *The ammonium ion*."
+            },
+            {
+              "q": "In the hydronium ion, H₃O⁺, which atom is the donor?",
+              "options": [
+                "both",
+                "neither",
+                "oxygen",
+                "hydrogen ion"
+              ],
+              "answer": 2,
+              "why": "Oxygen gives one of its **lone pairs** to H⁺. See *The hydronium ion*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "exam-toolkit",
+      "label": "Exam toolkit: words, drills and reasons",
+      "desc": "**Goal:** collect the marks for definitions, naming bonds, drawing structures and 'give reasons'.",
+      "links": [],
+      "children": [
+        {
+          "id": "definitions",
+          "label": "Definitions to learn word for word",
+          "type": "core",
+          "desc": "- **Chemical bond:** the force of attraction between two atoms that holds them together in a molecule, so that each is stable.\n- **Electrovalent (ionic) bond:** the bond formed by the transfer of one or more electrons from one atom to another.\n- **Electrovalency:** the number of electrons an atom loses or gains to form an electrovalent bond.\n- **Covalent bond:** the bond formed between two atoms by mutual sharing of one or more pairs of electrons.\n- **Covalency:** the number of electrons an atom shares to form covalent bonds.\n- **Coordinate (dative) bond:** a bond formed by sharing a pair of electrons provided entirely by one of the two atoms.\n- **Lone pair:** a pair of outer electrons not shared with any other atom.\n- **Polar covalent compound (dipole):** a covalent compound in which the shared pair is pulled towards one atom, giving slight positive and negative charges.\n- **Oxidation:** loss of electrons. **Reduction:** gain of electrons.\n- **Ionisation:** the formation of ions from molecules (as when HCl dissolves in water).",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: cover the list. Define a coordinate bond.",
+              "a": "A bond formed by **sharing a pair of electrons** that is **provided entirely by one** of the two atoms."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "bond-drill",
+          "label": "Name the bond in four lines",
+          "type": "core",
+          "desc": "1. **Metal or non-metal?** Use the configuration (1 to 3 outer: metal; 5 to 7: non-metal).\n2. **Bond:** metal + non-metal: **ionic**. Two non-metals: **covalent**. A lone pair given to H⁺: **coordinate**.\n3. **Formula:** how many electrons each gives, takes or shares.\n4. **Properties:** ionic: high m.p., conducts when molten or dissolved. Covalent: low m.p., does not conduct.\n\n**Worked example:** elements with Z = 3 and Z = 16.\n\nZ = 3 is 2, 1: a **metal**. Z = 16 is 2, 8, 6: a **non-metal**.\n\nMetal + non-metal: **ionic**.\n\nEach Li gives 1; S takes 2. Formula: **Li₂S**.\n\nHigh melting point; conducts when molten or dissolved.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: Z = 15 and Z = 17.",
+              "a": "Both **non-metals** (2, 8, 5 and 2, 8, 7): **covalent**. P shares 3, each Cl shares 1: **PCl₃**. Low m.p.; does not conduct."
+            },
+            {
+              "q": "Your turn: Z = 20 and Z = 9.",
+              "a": "A **metal** (2, 8, 8, 2) and a **non-metal** (2, 7): **ionic**. Ca gives 2, each F takes 1: **CaF₂**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "give-reasons",
+          "label": "Give reasons: model answers",
+          "type": "core",
+          "desc": "Try these before opening the answers.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Ionic compounds have high melting and boiling points.",
+              "a": "Their ions are held by **strong electrostatic forces**. A **large amount of energy** is needed to separate them."
+            },
+            {
+              "q": "Ionic compounds conduct when molten or in solution, but not as solids.",
+              "a": "In the solid the ions are **fixed in place**. When molten or dissolved, the ions are **free to move** and carry the current."
+            },
+            {
+              "q": "Covalent compounds have low melting points.",
+              "a": "The forces **between their molecules** are **weak**, so little energy separates them."
+            },
+            {
+              "q": "Carbon tetrachloride does not conduct electricity.",
+              "a": "It is a **covalent** compound made of **molecules**. It has **no ions** to carry a current."
+            },
+            {
+              "q": "Hydrogen chloride is a polar covalent compound.",
+              "a": "Chlorine (3.0) is **more electronegative** than hydrogen (2.1). The shared pair shifts towards Cl, giving **H δ+** and **Cl δ−**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "structures-practise",
+          "label": "Structures to practise",
+          "type": "core",
+          "desc": "Your syllabus names these. Draw each one from memory, then check.\n\n- **Ionic:** sodium chloride, magnesium chloride, calcium oxide.\n- **Covalent:** hydrogen, chlorine, nitrogen, water, ammonia, carbon tetrachloride, methane.\n- **Coordinate:** the ammonium and hydronium ions (in *The ammonium ion*).\n\nFor each drawing, **count** round every atom: 8, or 2 for hydrogen.",
+          "links": [],
+          "images": [
+            {
+              "src": "images/ionic-structures.png",
+              "caption": "The three ionic structures on the syllabus"
+            },
+            {
+              "src": "images/covalent-structures.png",
+              "caption": "The seven covalent molecules on the syllabus"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: last-minute revision and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Read the sheet the night before the exam and again on the morning.",
+      "links": [],
+      "children": [
+        {
+          "id": "revision-sheet",
+          "label": "Last-minute revision sheet",
+          "type": "core",
+          "desc": "**The one idea:** every atom wants a **full outer shell** (8, or 2 for hydrogen). There are three ways: **give and take** (ionic), **share** (covalent), or **lend a whole pair** (coordinate).\n\n**Rules and equations**\n- **Ionic** = metal + non-metal (transfer). **Covalent** = non-metal + non-metal (sharing).\n- Ionic bonds need **low I.E.** (metal), **high E.A.** (non-metal) and a **big E.N. difference**.\n- **Covalency:** H **1**, O **2**, N **3**, C **4**. Single bond **1** pair, double **2**, triple **3**.\n- **OIL RIG:** oxidation is **loss** of electrons, reduction is **gain**. Reducing agent **gives**; oxidising agent **takes**.\n- 2K → 2K⁺ + 2e⁻ (oxidation); Cl₂ + 2e⁻ → 2Cl⁻ (reduction).\n- NH₃ + H⁺ → NH₄⁺. H₂O + H⁺ → H₃O⁺. HCl + H₂O → H₃O⁺ + Cl⁻.\n\n**Units:** none in this chapter. Electronegativity values have **no unit**.\n\n**Key points**\n- **Electrovalent bond:** formed by the **transfer** of electrons from one atom to another.\n- **Covalent bond:** formed by the **mutual sharing** of one or more pairs of electrons.\n- **Coordinate bond:** a shared pair given **entirely by one atom** (the donor).\n- E.N. difference: **zero, non-polar**; **small, polar**; **large, ionic**.\n- **Polar:** HCl, H₂O, NH₃. **Non-polar:** H₂, Cl₂, N₂, CH₄, CCl₄.\n- N₂ has a **triple bond** and 2 lone pairs. Water's O has **2 lone pairs**; ammonia's N has **1**.\n- **Ionic compounds:** hard solids, **high** m.p. and b.p., conduct when **molten or dissolved** (not solid), soluble in **water**.\n- **Covalent compounds:** gases, liquids or soft solids, **low** m.p. and b.p., **do not conduct**, soluble in **organic solvents**.\n- **Ammonium chloride** has all three bonds: ionic, covalent and coordinate.\n\n**Traps:** the **metal is oxidised**, not reduced. A solid ionic compound **does not** conduct: its ions cannot move. **CCl₄ is non-polar** even though it has chlorine. In a coordinate bond **both** electrons come from **one** atom.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Why do atoms form bonds?",
+              "options": [
+                "To get a full outer shell, like a noble gas",
+                "To become heavier",
+                "To get more protons",
+                "To lose their nucleus"
+              ],
+              "answer": 0,
+              "why": "A **full outer shell** (octet or duplet) is **stable**."
+            },
+            {
+              "q": "Calcium (2, 8, 8, 2) and fluorine (2, 7) combine. What is the formula?",
+              "options": [
+                "Ca₂F",
+                "CaF",
+                "CaF₂",
+                "CaF₇"
+              ],
+              "answer": 2,
+              "why": "Ca gives **2** electrons; each F takes **1**. So **2 fluorines** per calcium."
+            },
+            {
+              "q": "What type of bond is in a chlorine molecule, Cl₂?",
+              "options": [
+                "polar covalent",
+                "ionic",
+                "non-polar covalent",
+                "coordinate"
+              ],
+              "answer": 2,
+              "why": "Two **identical** atoms share **equally**."
+            },
+            {
+              "q": "Which molecule has a double bond?",
+              "options": [
+                "methane, CH₄",
+                "hydrogen, H₂",
+                "nitrogen, N₂",
+                "oxygen, O₂"
+              ],
+              "answer": 3,
+              "why": "O needs 2 more electrons: **two shared pairs**. N₂ is the **triple** one."
+            },
+            {
+              "q": "An element X has 2, 8, 1 and Y has 2, 8, 7. The compound XY:",
+              "options": [
+                "is covalent and is a gas",
+                "is ionic and has a high melting point",
+                "does not form",
+                "is covalent and conducts as a solid"
+              ],
+              "answer": 1,
+              "why": "X is a **metal**, Y a **non-metal**: transfer, **ionic**."
+            },
+            {
+              "q": "Which property belongs to a covalent compound like carbon tetrachloride?",
+              "options": [
+                "It does not dissolve in water",
+                "It has a very high melting point",
+                "It conducts when molten",
+                "It is a hard crystal"
+              ],
+              "answer": 0,
+              "why": "Non-polar covalent: **insoluble in water**, soluble in organic solvents, low b.p."
+            },
+            {
+              "q": "In 2Na + Cl₂ → 2NaCl, chlorine is:",
+              "options": [
+                "reduced, and is the reducing agent",
+                "reduced, and is the oxidising agent",
+                "neither oxidised nor reduced",
+                "oxidised, and is the reducing agent"
+              ],
+              "answer": 1,
+              "why": "Chlorine **gains** electrons (reduced). Taking electrons makes it the **oxidising agent**."
+            },
+            {
+              "q": "A lone pair is:",
+              "options": [
+                "a pair of outer electrons not shared with another atom",
+                "a pair shared between two atoms",
+                "a pair of protons",
+                "a single unpaired electron"
+              ],
+              "answer": 0,
+              "why": "**Not shared.** Ammonia's N has one; water's O has two."
+            },
+            {
+              "q": "How many coordinate bonds are in an ammonium ion, NH₄⁺?",
+              "options": [
+                "3",
+                "0",
+                "4",
+                "1"
+              ],
+              "answer": 3,
+              "why": "**One.** After it forms, all four N–H bonds are the same."
+            },
+            {
+              "q": "Hydrogen chloride gas is covalent. Why does its solution in water conduct?",
+              "options": [
+                "It becomes ionic when heated",
+                "It forms H₃O⁺ and Cl⁻ ions in water",
+                "It has free electrons",
+                "Water itself conducts well"
+              ],
+              "answer": 1,
+              "why": "HCl is **polar**. In water: HCl + H₂O → **H₃O⁺ + Cl⁻**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These are like the harder questions at the end of the chapter. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "mystery-compounds",
+          "label": "Three mystery compounds",
+          "type": "optional",
+          "desc": "Ravi tests three substances.\n\n- **X:** a white solid. It melts at 770 °C and conducts when molten.\n- **Y:** a colourless liquid. It boils at 61 °C and does not conduct.\n- **Z:** a gas. It does not conduct, but its solution in water does.\n\nName the type of bonding in each.\n\n- **X: ionic.** High melting point; ions free when molten.\n- **Y: covalent (non-polar).** Low boiling point; no ions.\n- **Z: polar covalent.** A gas made of molecules, but it **ionises** in water.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "carbon-dioxide",
+          "label": "Electrons in carbon dioxide",
+          "type": "optional",
+          "desc": "Draw carbon dioxide, CO₂ (O=C=O). How many shared pairs and lone pairs are there?\n\nOuter electrons: C has 4; each O has 6. Total 4 + 6 + 6 = **16**.\n\nC shares **2 pairs** with each O (two double bonds): **4 shared pairs** = 8 electrons.\n\n16 − 8 = 8 left: **4 lone pairs**, two on each O.\n\nCheck: C has 4 × 2 = **8**. Each O has 4 + 4 = **8**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "iron-copper-redox",
+          "label": "Redox without a flame",
+          "type": "optional",
+          "desc": "An iron nail in copper sulphate solution turns brown with copper:\n\nFe + Cu²⁺ → Fe²⁺ + Cu\n\nSplit it into two halves, and name the oxidising agent.\n\nOxidation: Fe → Fe²⁺ + 2e⁻\n\nReduction: Cu²⁺ + 2e⁻ → Cu\n\nCu²⁺ **takes** electrons, so **Cu²⁺ is the oxidising agent**. Iron is the reducing agent.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nBonding is often taught as three separate topics with three sets of diagrams. It is really **one goal** (a full outer shell) reached in **three ways**: give, share, or lend a pair. A student who **counts outer electrons before drawing** gets the diagrams right almost every time.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- Before any diagram, make students write *has* and *needs* for each atom: \"K has 1, needs to lose 1\".\n- Use two colours of counters or bindis for electrons from different atoms; let students physically move or share them.\n- Insist on the **octet check** after every drawing: count round each atom, 8 (or 2 for H).\n- Link back to Chapter 1: metals have a weak pull (give), non-metals a strong pull (take).\n- Teach **OIL RIG** with a real reaction they will see later, such as iron in copper sulphate.\n- Use **PhET Molecule Polarity** to show a shared pair sliding towards the stronger atom.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "An 8-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** prerequisites: outer electrons, ions, dot symbols. Activity: dot symbols for Z = 1 to 18.\n- **Period 2:** why atoms bond; the electrovalent bond; conditions; atom versus ion.\n- **Period 3:** drawing ionic compounds (orbit and dot structures); redox. Intext Questions after 2.2.\n- **Period 4:** the covalent bond; drawing single bonds; centre atoms. Activity: counters on a desk.\n- **Period 5:** double and triple bonds; polar and non-polar; the E.N. difference.\n- **Period 6:** properties of ionic and covalent compounds; the conductivity experiment. Intext Questions after 2.5.\n- **Period 7:** coordinate bonds; ammonium, hydronium and hydroxide ions. Intext Questions after 2.6.\n- **Period 8:** the ten syllabus structures from memory; past ICSE questions; self-test and exit ticket.",
+          "links": [
+            {
+              "label": "PhET simulation: Molecule Polarity (free)",
+              "url": "https://phet.colorado.edu/en/simulations/molecule-polarity"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Writing the **metal as reduced** (it loses electrons, so it is **oxidised**).\n- Saying solid ionic compounds conduct: they have ions, but the ions **cannot move**.\n- Drawing water with **no lone pairs**, or ammonia with two.\n- Showing a coordinate bond with **one electron from each** atom instead of both from the donor.\n- Calling CCl₄ polar because it contains chlorine.\n- Forgetting the **brackets and charges** in ionic dot structures.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. What kind of bond forms between potassium and bromine? Why?",
+              "a": "**Ionic**: a metal gives an electron to a non-metal."
+            },
+            {
+              "q": "2. How many shared pairs are in N₂?",
+              "a": "**Three** (a triple bond)."
+            },
+            {
+              "q": "3. Define a lone pair.",
+              "a": "A pair of outer electrons **not shared** with any other atom."
+            },
+            {
+              "q": "4. Why does molten sodium chloride conduct?",
+              "a": "Its **ions are free to move**."
+            },
+            {
+              "q": "5. Which compound has all three kinds of bond?",
+              "a": "**Ammonium chloride**, NH₄Cl."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}
