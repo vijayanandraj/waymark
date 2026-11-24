@@ -1,0 +1,995 @@
+{
+  "title": "ICSE Class 10 Chemistry, Chapter 4: Analytical Chemistry, Step by Step",
+  "subtitle": "For students who find chemistry hard. The colours of salts and their solutions; what sodium hydroxide and ammonium hydroxide do to salts of calcium, iron, copper, zinc and lead; the deep blue copper test and the ammonia test; telling ions apart; and amphoteric zinc, aluminium and lead with their oxides, in small steps with result charts, balanced equations, quick checks, an exam toolkit and a last-minute revision sheet. Follows the ICSE Class 10 syllabus, Chapter 4 (Analytical Chemistry), in the order of Selina Concise Chemistry.",
+  "updated": "2026-11-24",
+  "changelog": [
+    {
+      "date": "2026-11-24",
+      "text": "First version: the whole chapter in small steps, with original worked examples, quick checks, a last-minute revision sheet, a self-test and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** be sure of the ions in a salt solution, what a precipitate is, and how the two alkalis differ.",
+      "links": [
+        {
+          "label": "Wikipedia: qualitative inorganic analysis",
+          "url": "https://en.wikipedia.org/wiki/Qualitative_inorganic_analysis"
+        }
+      ],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Always look twice.** Note the colour after the first few drops, then add more alkali and look again. Most marks in this chapter come from that second look.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: add an alkali drop by drop.** The **colour** of the precipitate names the metal, and whether it **dissolves in excess** confirms it.",
+          "links": [
+            {
+              "label": "Wikipedia: qualitative inorganic analysis",
+              "url": "https://en.wikipedia.org/wiki/Qualitative_inorganic_analysis"
+            },
+            {
+              "label": "Last-minute revision sheet for this chapter",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-chemistry-analytical-chemistry#revision-sheet"
+            },
+            {
+              "label": "Previous chapter: 3. Acids, Bases and Salts",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-chemistry-acids-bases-salts"
+            },
+            {
+              "label": "Next chapter: 5. Mole Concept and Stoichiometry",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-chemistry-mole-concept"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 4, *Analytical Chemistry*, of the ICSE Class 10 Chemistry syllabus. It follows the order of *Selina Concise Chemistry* for Class 10.\n\n**Who it is for.** Class 10 students who find chemistry hard, and want to understand this chapter and score decent marks in it. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** Add an alkali drop by drop. The colour of the precipitate names the metal, and whether it dissolves in excess confirms it.\n\n**How it is different from the textbook.** The textbook gives two long tables of results. Here they become **one table** and a **two-look habit** (a few drops, then excess), with **two reasons** that explain every difference between the alkalis: NH₄OH is weak, and it carries ammonia. Worked examples use different salts from the book's, and every equation is checked by a computer for balance.\n\n**What is inside.**\n- 10 milestones and 39 small steps. The 31 solid steps are the core path. The dashed ones are optional.\n- 36 practice questions with hidden answers, and 5 pictures.\n- 25 click-to-check questions that say right or wrong, and why: a quick check after each of the 5 main milestones, and a 10-question self-test.\n- A **last-minute revision sheet**: every result, equation and key point on one page.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the challenge questions, and a section for teachers and parents with a 5-period lesson plan, the mistakes to watch for and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from their textbook. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the ICSE syllabus but is not made or endorsed by CISCE or by any publisher. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Which ion is in iron(III) chloride? What is its older name?",
+              "a": "**Fe³⁺**, the **ferric** ion. Wrong? Do *Salts and the ions in them*."
+            },
+            {
+              "q": "2. Does copper(II) hydroxide dissolve in water?",
+              "a": "**No.** It is insoluble, so it appears as a precipitate. Wrong? Do *What a precipitate is*."
+            },
+            {
+              "q": "3. Which is the stronger alkali: sodium hydroxide or ammonium hydroxide?",
+              "a": "**Sodium hydroxide.** Wrong? Do *Two alkalis, two strengths*."
+            },
+            {
+              "q": "4. Balance: CuCl₂ + NaOH → Cu(OH)₂ + NaCl.",
+              "a": "**CuCl₂ + 2NaOH → Cu(OH)₂ + 2NaCl**. Wrong? Look back at balancing in Chapter 3."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "salt-ions",
+          "label": "Salts and the ions in them",
+          "type": "core",
+          "desc": "A salt solution contains the salt's **ions**. The test finds the **metal ion** (cation).\n\nTwo metals have two ions each. Learn both names:\n\n- **Fe²⁺:** iron(II), the **ferrous** ion: FeCl₂, FeSO₄.\n- **Fe³⁺:** iron(III), the **ferric** ion: FeCl₃, Fe₂(SO₄)₃.\n- **Cu²⁺:** copper(II), the **cupric** ion: CuSO₄, CuCl₂.\n\n**Worked example:** lead nitrate, Pb(NO₃)₂, contains **Pb²⁺** and **NO₃⁻** ions. The test is for Pb²⁺.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which cation is in ferrous sulphate?",
+              "a": "**Fe²⁺**, iron(II)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "precipitates",
+          "label": "What a precipitate is",
+          "type": "core",
+          "desc": "**Precipitation is the formation of an insoluble solid when two solutions are mixed. The solid is called a precipitate.**\n\nWhen an alkali is added to a metal salt solution, the **metal hydroxide** forms. Most metal hydroxides are **insoluble**, so they appear as a precipitate (ppt).\n\nCuCl₂ + 2NaOH → Cu(OH)₂ + 2NaCl\n\nSome precipitates **dissolve again** when more alkali is added. They form a new, soluble compound. That second change is a big clue.\n\n**Worked example:** sodium chloride stays in solution: all sodium salts are soluble. Copper(II) hydroxide is insoluble: it is the **precipitate**.",
+          "links": [
+            {
+              "label": "Wikipedia: precipitation (chemistry)",
+              "url": "https://en.wikipedia.org/wiki/Precipitation_(chemistry)"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: name the precipitate when NaOH is added to zinc chloride.",
+              "a": "**Zinc hydroxide, Zn(OH)₂.**"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "two-alkalis",
+          "label": "Two alkalis, two strengths",
+          "type": "core",
+          "desc": "This chapter uses two alkalis.\n\n- **Sodium hydroxide, NaOH** (caustic soda): a **strong** alkali. It gives **many** OH⁻ ions.\n- **Ammonium hydroxide, NH₄OH** (ammonia solution): a **weak** alkali. It gives **few** OH⁻ ions, and it also carries **ammonia**.\n\nThese two differences explain every result that differs between them:\n\n- Too few OH⁻: NH₄OH **cannot** precipitate calcium.\n- The ammonia: NH₄OH **dissolves** copper and zinc hydroxides.\n\n**Worked example:** NaOH → Na⁺ + OH⁻ completely. NH₄OH ⇌ NH₄⁺ + OH⁻ only partly.",
+          "links": [
+            {
+              "label": "Wikipedia: sodium hydroxide",
+              "url": "https://en.wikipedia.org/wiki/Sodium_hydroxide"
+            },
+            {
+              "label": "Wikipedia: ammonia solution",
+              "url": "https://en.wikipedia.org/wiki/Ammonia_solution"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: which of the two smells of ammonia?",
+              "a": "**Ammonium hydroxide.** It gives off ammonia gas."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "colours",
+      "label": "Colours, and the words of analysis",
+      "desc": "**Goal:** know the words analysts use, and the colours of salts and their solutions. Practise with the Intext Questions after section 4.3.",
+      "links": [],
+      "children": [
+        {
+          "id": "words",
+          "label": "The words of analysis",
+          "type": "core",
+          "desc": "- **Analysis:** finding out what a sample is made of.\n- **Qualitative analysis:** finding **which** substances are present.\n- **Quantitative analysis:** finding **how much** of each is present.\n- **Reagent:** a substance used to react with another, to test it. NaOH and NH₄OH are **reagents**.\n\n**Always add the alkali drop by drop**, and look after each few drops. Some precipitates **dissolve** in excess. Pour too fast, and you may never see them form.\n\n**Worked example:** a student pours a lot of NaOH into zinc sulphate at once and sees nothing. The white Zn(OH)₂ formed and **dissolved** in the excess straight away.",
+          "links": [
+            {
+              "label": "Wikipedia: qualitative inorganic analysis",
+              "url": "https://en.wikipedia.org/wiki/Qualitative_inorganic_analysis"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: is finding the mass of copper in an ore qualitative or quantitative?",
+              "a": "**Quantitative**: it asks **how much**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ion-colours",
+          "label": "Coloured and colourless ions",
+          "type": "core",
+          "desc": "The colour of a salt and its solution comes from its ions.\n\n- Ions of **groups 1, 2 and 13** (Na⁺, K⁺, Ca²⁺, Mg²⁺, Al³⁺) are **colourless**. So are NH₄⁺, Zn²⁺ and Pb²⁺.\n- Most ions of **transition elements** are **coloured**: Cu²⁺ **blue**, Fe²⁺ **pale green**, Fe³⁺ **yellowish brown**, Ni²⁺ green.\n- Some negative ions are coloured too: **MnO₄⁻ purple**, **Cr₂O₇²⁻ orange**, **CrO₄²⁻ yellow**.\n- Cl⁻, NO₃⁻, SO₄²⁻ and CO₃²⁻ are **colourless**.\n\n**Worked example:** potassium permanganate solution is purple. K⁺ is colourless, so the colour comes from **MnO₄⁻**.",
+          "links": [
+            {
+              "label": "Wikipedia: transition metal",
+              "url": "https://en.wikipedia.org/wiki/Transition_metal"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what colour is a solution of iron(II) sulphate? Of aluminium nitrate?",
+              "a": "Iron(II) sulphate: **pale green**. Aluminium nitrate: **colourless**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/ion-colours.png",
+              "caption": "Coloured ions in solution, and the colourless ones"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-colours",
+          "label": "Quick check: colours and words",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which of these ions gives a blue solution?",
+              "options": [
+                "Fe²⁺",
+                "Pb²⁺",
+                "Zn²⁺",
+                "Cu²⁺"
+              ],
+              "answer": 3,
+              "why": "**Copper(II)** salts are blue. Fe²⁺ is pale green; Zn²⁺ and Pb²⁺ are colourless. See *Coloured and colourless ions*."
+            },
+            {
+              "q": "What colour is a solution of iron(III) chloride?",
+              "options": [
+                "colourless",
+                "pale green",
+                "yellowish brown",
+                "blue"
+              ],
+              "answer": 2,
+              "why": "**Fe³⁺** is yellowish brown. **Fe²⁺** is the pale green one. See *Coloured and colourless ions*."
+            },
+            {
+              "q": "Why is the alkali added drop by drop?",
+              "options": [
+                "To save the alkali",
+                "To keep the solution colourless",
+                "To stop the solution boiling",
+                "A precipitate that dissolves in excess could be missed"
+              ],
+              "answer": 3,
+              "why": "Pour fast and Zn(OH)₂ or Pb(OH)₂ may form and **dissolve** before you see it. See *The words of analysis*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "sodium-hydroxide",
+      "label": "Sodium hydroxide on salt solutions",
+      "desc": "**Goal:** say what you see, and write the equation, when NaOH is added to Ca, Fe, Cu, Zn, Pb and ammonium salts. Practise with the Intext Questions after section 4.3.",
+      "links": [],
+      "children": [
+        {
+          "id": "ca-fe-naoh",
+          "label": "Calcium and iron salts with NaOH",
+          "type": "core",
+          "desc": "- **Calcium:** a **white** precipitate of Ca(OH)₂. It is **sparingly soluble**, so it does **not** disappear in excess.\n\nCaCl₂ + 2NaOH → Ca(OH)₂ + 2NaCl\n\n- **Iron(II):** a **dirty green**, jelly-like precipitate of Fe(OH)₂. It does **not** dissolve in excess.\n\nFeCl₂ + 2NaOH → Fe(OH)₂ + 2NaCl\n\n- **Iron(III):** a **reddish brown** precipitate of Fe(OH)₃. It does **not** dissolve in excess.\n\n**Worked example:** iron(III) sulphate with sodium hydroxide:\n\nFe₂(SO₄)₃ + 6NaOH → 2Fe(OH)₃ + 3Na₂SO₄",
+          "links": [
+            {
+              "label": "Wikipedia: iron(II) hydroxide",
+              "url": "https://en.wikipedia.org/wiki/Iron(II)_hydroxide"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: iron(II) chloride solution is left standing with its precipitate. The dirty green slowly turns brown. Why?",
+              "a": "Air **oxidises** iron(II) hydroxide to **iron(III) hydroxide**, which is reddish brown."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/sodium-hydroxide-results.png",
+              "caption": "What each ion gives with NaOH: a few drops, then in excess"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "cu-naoh",
+          "label": "Copper salts with NaOH",
+          "type": "core",
+          "desc": "Copper(II) salts give a **pale blue** precipitate of Cu(OH)₂. It does **not** dissolve in excess NaOH.\n\nCu(NO₃)₂ + 2NaOH → Cu(OH)₂ + 2NaNO₃\n\nThe blue colour of the solution fades as Cu²⁺ ions leave it.\n\n**Worked example:** copper(II) chloride: CuCl₂ + 2NaOH → Cu(OH)₂ + 2NaCl. Pale blue precipitate; sodium chloride stays in solution.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: does the pale blue precipitate dissolve in excess sodium hydroxide?",
+              "a": "**No.** It only dissolves in excess **ammonium** hydroxide."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "zn-pb-naoh",
+          "label": "Zinc and lead salts: they dissolve in excess",
+          "type": "core",
+          "desc": "Both give a **white** precipitate that **dissolves** in excess NaOH, leaving a **colourless** solution.\n\nZnCl₂ + 2NaOH → Zn(OH)₂ + 2NaCl (white, jelly-like)\n\nZn(OH)₂ + 2NaOH → Na₂ZnO₂ + 2H₂O (sodium zincate)\n\nPb(NO₃)₂ + 2NaOH → Pb(OH)₂ + 2NaNO₃ (chalky white)\n\nPb(OH)₂ + 2NaOH → Na₂PbO₂ + 2H₂O (sodium plumbite)\n\n**Worked example:** a colourless solution gives a white precipitate with a little NaOH, which disappears with more. The cation is **Zn²⁺ or Pb²⁺** (you need one more test to decide).",
+          "links": [
+            {
+              "label": "Wikipedia: sodium zincate",
+              "url": "https://en.wikipedia.org/wiki/Sodium_zincate"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: name the salt formed when lead hydroxide dissolves in sodium hydroxide.",
+              "a": "**Sodium plumbite**, Na₂PbO₂."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "nh4-naoh",
+          "label": "Ammonium salts with NaOH",
+          "type": "core",
+          "desc": "Ammonium salts give **no precipitate**. But **warm** the mixture, and **ammonia** comes off.\n\nNH₄NO₃ + NaOH → NaNO₃ + H₂O + NH₃\n\n**Test for the gas:** it smells **pungent**, turns moist **red litmus blue**, and gives **dense white fumes** with a rod dipped in HCl.\n\nPotassium hydroxide behaves the same way.\n\n**Worked example:** NH₄Cl + NaOH → NaCl + H₂O + NH₃. A test for the NH₄⁺ ion.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why must the mixture be warmed?",
+              "a": "Ammonia is very **soluble** in water. Warming drives it **out** as a gas so you can test it."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-sodium-hydroxide",
+          "label": "Quick check: sodium hydroxide",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Sodium hydroxide is added to an iron(II) salt solution. The precipitate is:",
+              "options": [
+                "dirty green",
+                "pale blue",
+                "reddish brown",
+                "white"
+              ],
+              "answer": 0,
+              "why": "**Fe(OH)₂** is dirty green. **Fe(OH)₃** (from iron(III)) is reddish brown. See *Calcium and iron salts with NaOH*."
+            },
+            {
+              "q": "Which hydroxide dissolves in excess sodium hydroxide?",
+              "options": [
+                "zinc hydroxide",
+                "copper(II) hydroxide",
+                "iron(II) hydroxide",
+                "iron(III) hydroxide"
+              ],
+              "answer": 0,
+              "why": "Zn(OH)₂ forms **sodium zincate**, which is soluble. See *Zinc and lead salts: they dissolve in excess*."
+            },
+            {
+              "q": "Ammonium chloride is warmed with sodium hydroxide. What is given off?",
+              "options": [
+                "nitrogen",
+                "ammonia",
+                "hydrogen",
+                "chlorine"
+              ],
+              "answer": 1,
+              "why": "Alkali + ammonium salt → salt + water + **ammonia**. See *Ammonium salts with NaOH*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "ammonium-hydroxide",
+      "label": "Ammonium hydroxide on salt solutions",
+      "desc": "**Goal:** say what you see, and write the equation, when NH₄OH is added to the same salts. Practise with the Intext Questions after section 4.3.",
+      "links": [],
+      "children": [
+        {
+          "id": "ca-nh4oh",
+          "label": "Calcium: no precipitate",
+          "type": "core",
+          "desc": "Ammonium hydroxide gives **no precipitate** with calcium salts, even in excess.\n\n**Reason:** NH₄OH is a **weak** alkali. It gives so **few OH⁻ ions** that calcium hydroxide (which is slightly soluble) never comes out.\n\n**Worked example:** calcium chloride with NaOH gives a white ppt; with NH₄OH, **nothing**. That difference **identifies calcium**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why does NaOH precipitate calcium hydroxide but NH₄OH does not?",
+              "a": "NaOH is **strong** and gives **many** OH⁻ ions. NH₄OH gives too **few**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/ammonium-hydroxide-results.png",
+              "caption": "What each ion gives with NH₄OH: a few drops, then in excess"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "fe-nh4oh",
+          "label": "Iron salts with NH₄OH",
+          "type": "core",
+          "desc": "Iron gives the **same colours** as with NaOH, and neither dissolves in excess.\n\nFeCl₂ + 2NH₄OH → Fe(OH)₂ + 2NH₄Cl (dirty green)\n\nFe(NO₃)₃ + 3NH₄OH → Fe(OH)₃ + 3NH₄NO₃ (reddish brown)\n\n**Worked example:** a yellowish brown solution gives a reddish brown precipitate with NH₄OH. The cation is **Fe³⁺**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what does the other product, ammonium chloride, look like in the tube?",
+              "a": "Nothing: it stays **dissolved** and colourless."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "cu-nh4oh",
+          "label": "Copper: the deep blue test",
+          "type": "core",
+          "desc": "A few drops of NH₄OH give the usual **pale blue** precipitate.\n\nCuCl₂ + 2NH₄OH → Cu(OH)₂ + 2NH₄Cl\n\nIn **excess**, it **dissolves** to give a **deep blue (inky blue) solution** of tetraammine copper(II) ions:\n\nCu(OH)₂ + 4NH₄OH → [Cu(NH₃)₄](OH)₂ + 4H₂O\n\nThis deep blue colour is the **special test for Cu²⁺**.\n\n**Worked example:** with copper chloride the excess step can also be written: Cu(OH)₂ + 2NH₄Cl + 2NH₄OH → [Cu(NH₃)₄]Cl₂ + 4H₂O.",
+          "links": [
+            {
+              "label": "Wikipedia: tetraamminecopper(II) sulfate",
+              "url": "https://en.wikipedia.org/wiki/Tetraamminecopper(II)_sulfate"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: name the ion that makes the solution deep blue.",
+              "a": "**Tetraammine copper(II)**, [Cu(NH₃)₄]²⁺."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "zn-pb-nh4oh",
+          "label": "Zinc and lead with NH₄OH",
+          "type": "core",
+          "desc": "Both give a **white** precipitate at first.\n\nZnCl₂ + 2NH₄OH → Zn(OH)₂ + 2NH₄Cl\n\nPb(NO₃)₂ + 2NH₄OH → Pb(OH)₂ + 2NH₄NO₃\n\n- **Zinc** hydroxide **dissolves** in excess NH₄OH (a colourless solution): Zn(OH)₂ + 4NH₄OH → [Zn(NH₃)₄](OH)₂ + 4H₂O.\n- **Lead** hydroxide **stays** as a **chalky white** precipitate.\n\nSo **excess NH₄OH** is the test that tells **zinc from lead**.\n\n**Worked example:** a white precipitate with NH₄OH that stays in excess: **Pb²⁺** (Al³⁺ behaves the same way: AlCl₃ + 3NH₄OH → Al(OH)₃ + 3NH₄Cl).",
+          "links": [
+            {
+              "label": "Wikipedia: zinc hydroxide",
+              "url": "https://en.wikipedia.org/wiki/Zinc_hydroxide"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a white ppt with NH₄OH dissolves in excess. Which ion?",
+              "a": "**Zn²⁺.**"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-ammonium-hydroxide",
+          "label": "Quick check: ammonium hydroxide",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Ammonium hydroxide is added to a calcium salt solution, even in excess. What do you see?",
+              "options": [
+                "A brown precipitate",
+                "A blue precipitate",
+                "A white precipitate",
+                "No precipitate"
+              ],
+              "answer": 3,
+              "why": "NH₄OH is too **weak** to give enough OH⁻ to precipitate Ca(OH)₂. See *Calcium: no precipitate*."
+            },
+            {
+              "q": "Excess ammonium hydroxide is added to copper sulphate solution. You see:",
+              "options": [
+                "a deep blue (inky) solution",
+                "a white precipitate",
+                "a pale blue precipitate that stays",
+                "no change"
+              ],
+              "answer": 0,
+              "why": "The pale blue Cu(OH)₂ dissolves to give **tetraammine copper**, deep blue. See *Copper: the deep blue test*."
+            },
+            {
+              "q": "Which precipitate does NOT dissolve in excess ammonium hydroxide?",
+              "options": [
+                "lead hydroxide",
+                "zinc hydroxide",
+                "all of them dissolve",
+                "copper(II) hydroxide"
+              ],
+              "answer": 0,
+              "why": "Pb(OH)₂ stays **chalky white**. Zn and Cu hydroxides dissolve. See *Zinc and lead with NH₄OH*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "telling-apart",
+      "label": "Telling ions apart",
+      "desc": "**Goal:** use the two alkalis to name an unknown cation and to tell look-alike pairs apart. Practise with the Exercise at the end of the chapter.",
+      "links": [],
+      "children": [
+        {
+          "id": "result-table",
+          "label": "The whole picture",
+          "type": "core",
+          "desc": "Put the two tests side by side:\n\n- **Ca²⁺:** NaOH white, stays. NH₄OH **nothing**.\n- **Fe²⁺:** **dirty green** with both; stays.\n- **Fe³⁺:** **reddish brown** with both; stays.\n- **Cu²⁺:** **pale blue** with both. Excess NH₄OH: **deep blue solution**.\n- **Zn²⁺:** white with both; **dissolves in both**.\n- **Pb²⁺:** chalky white with both; **dissolves in NaOH only**.\n\nThe three **coloured** ones are easy: the colour names them. The three **white** ones need the excess tests.\n\n**Worked example:** a colourless solution gives a white precipitate with NaOH that dissolves in excess, and a white ppt with NH₄OH that also dissolves. **Zn²⁺.**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a colourless solution gives a white ppt with NaOH that does not dissolve, and nothing with NH₄OH.",
+              "a": "**Ca²⁺.**"
+            }
+          ],
+          "images": [
+            {
+              "src": "images/white-precipitate.png",
+              "caption": "Three questions sort the three white precipitates"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "pairs",
+          "label": "Telling pairs apart",
+          "type": "core",
+          "desc": "Pick the reagent that gives **different** results for the two.\n\n- **Zinc and lead salts:** excess **NH₄OH**. Zinc dissolves; lead stays.\n- **Calcium and lead salts:** **NH₄OH**. Calcium: no ppt; lead: white ppt. (Or excess NaOH: lead dissolves, calcium does not.)\n- **Calcium and zinc salts:** excess **NaOH**. Zinc dissolves; calcium does not.\n- **Iron(II) and iron(III):** **either** alkali. Dirty green against reddish brown.\n- **Copper and iron(II):** either alkali. Pale blue against dirty green.\n\n**Worked example:** iron(II) nitrate and lead nitrate. Add NaOH: iron(II) gives a **dirty green** ppt; lead gives a **white** ppt that dissolves in excess.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: how would you tell zinc nitrate from calcium nitrate with ammonium hydroxide?",
+              "a": "Zinc: white ppt that **dissolves** in excess. Calcium: **no ppt** at all."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "which-alkali",
+          "label": "Which alkali is in the bottle?",
+          "type": "core",
+          "desc": "Two unlabelled bottles: one NaOH, one NH₄OH. Ways to tell:\n\n- **Smell:** NH₄OH smells of **ammonia**.\n- **Copper sulphate in excess:** NH₄OH gives a **deep blue solution**; NaOH leaves a pale blue ppt.\n- **Calcium salt:** NaOH gives a white ppt; NH₄OH gives **none**.\n- **Lead salt in excess:** NaOH **dissolves** the ppt; NH₄OH does not.\n\n**Worked example:** add each, drop by drop and then in excess, to blue copper sulphate solution. The bottle that turns it **inky blue** is **NH₄OH**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: give a test with a calcium salt to tell the two alkalis apart.",
+              "a": "Add each to calcium nitrate solution. **NaOH** gives a white ppt; **NH₄OH** gives **none**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-telling-apart",
+          "label": "Quick check: telling ions apart",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which reagent tells a zinc salt from a lead salt?",
+              "options": [
+                "a few drops of sodium hydroxide",
+                "excess ammonium hydroxide",
+                "water",
+                "excess sodium hydroxide"
+              ],
+              "answer": 1,
+              "why": "With NaOH both give a white ppt that **dissolves**. With excess NH₄OH, only the **zinc** one dissolves. See *Telling pairs apart*."
+            },
+            {
+              "q": "How can you tell an iron(II) salt from an iron(III) salt with sodium hydroxide?",
+              "options": [
+                "They look the same",
+                "Only iron(III) dissolves in excess",
+                "Only iron(II) gives a ppt",
+                "Dirty green ppt for iron(II); reddish brown for iron(III)"
+              ],
+              "answer": 3,
+              "why": "The **colour** of the precipitate tells them apart. See *Telling pairs apart*."
+            },
+            {
+              "q": "You have NaOH solution and NH₄OH solution, unlabelled. Which test tells them apart?",
+              "options": [
+                "Add each to water",
+                "Add each in excess to copper sulphate solution",
+                "Add each to blue litmus",
+                "Taste them"
+              ],
+              "answer": 1,
+              "why": "Only NH₄OH gives the **deep blue solution**. See *Which alkali is in the bottle?*"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "amphoteric",
+      "label": "Alkalis on metals and their oxides",
+      "desc": "**Goal:** explain amphoteric oxides and hydroxides, and write equations for zinc, aluminium and lead with alkalis. Practise with the Exercise at the end of the chapter.",
+      "links": [],
+      "children": [
+        {
+          "id": "amphoteric-idea",
+          "label": "Amphoteric: both ways",
+          "type": "core",
+          "desc": "Most metal oxides are **basic**: they react with acids, not alkalis. CuO + 2HCl → CuCl₂ + H₂O\n\n**Amphoteric oxides and hydroxides are those which react with both acids and alkalis to form salt and water.**\n\nThe three to know: **zinc**, **aluminium** and **lead** (oxides and hydroxides).\n\n**Worked example:** zinc oxide both ways:\n\nZnO + 2HCl → ZnCl₂ + H₂O (acting as a **base**)\n\nZnO + 2NaOH → Na₂ZnO₂ + H₂O (acting as an **acid**)",
+          "links": [
+            {
+              "label": "Wikipedia: amphoterism",
+              "url": "https://en.wikipedia.org/wiki/Amphoterism"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: write the reaction of zinc hydroxide with hydrochloric acid.",
+              "a": "**Zn(OH)₂ + 2HCl → ZnCl₂ + 2H₂O**"
+            }
+          ],
+          "images": [
+            {
+              "src": "images/amphoteric-oxides.png",
+              "caption": "An amphoteric oxide reacts with an acid and with an alkali"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "metals-hot-alkali",
+          "label": "Zinc, aluminium and lead with hot alkali",
+          "type": "core",
+          "desc": "These metals react with **hot, concentrated** NaOH or KOH. They give a **soluble salt** and **hydrogen**.\n\nZn + 2NaOH → Na₂ZnO₂ + H₂ (sodium zincate)\n\n2Al + 2NaOH + 2H₂O → 2NaAlO₂ + 3H₂ (sodium meta-aluminate)\n\nPb + 2NaOH → Na₂PbO₂ + H₂ (sodium plumbite)\n\nTest the gas: a burning splint gives a **pop**.\n\nThey also give hydrogen with dilute acids, for example Zn + 2HCl → ZnCl₂ + H₂.\n\n**Worked example:** zinc with hot potassium hydroxide: Zn + 2KOH → K₂ZnO₂ + H₂.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: aluminium with hot potassium hydroxide.",
+              "a": "**2Al + 2KOH + 2H₂O → 2KAlO₂ + 3H₂**"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "oxides-alkali",
+          "label": "Oxides and hydroxides with alkali",
+          "type": "core",
+          "desc": "- **Zinc oxide** (white): ZnO + 2NaOH → Na₂ZnO₂ + H₂O\n- **Aluminium oxide** (white): Al₂O₃ + 2NaOH → 2NaAlO₂ + H₂O. It reacts best when **fused** with the alkali.\n- **Lead(II) oxide** (yellow): PbO + 2NaOH → Na₂PbO₂ + H₂O\n- **Aluminium hydroxide:** Al(OH)₃ + NaOH → NaAlO₂ + 2H₂O\n\nAll the products are **colourless** and **soluble**.\n\n**Worked example:** lead(II) oxide with nitric acid: PbO + 2HNO₃ → Pb(NO₃)₂ + H₂O. With an alkali it gives sodium plumbite. **Amphoteric.**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: aluminium oxide with hydrochloric acid.",
+              "a": "**Al₂O₃ + 6HCl → 2AlCl₃ + 3H₂O**"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-amphoteric",
+          "label": "Quick check: metals and oxides",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "An amphoteric oxide is one that:",
+              "options": [
+                "does not react at all",
+                "reacts with both acids and alkalis to form salt and water",
+                "dissolves in water to form an alkali",
+                "reacts only with acids"
+              ],
+              "answer": 1,
+              "why": "**Both** acids and alkalis. ZnO, Al₂O₃, PbO. See *Amphoteric: both ways*."
+            },
+            {
+              "q": "Zinc is boiled with concentrated sodium hydroxide. The products are:",
+              "options": [
+                "zinc oxide and water",
+                "zinc hydroxide and sodium",
+                "sodium zincate and oxygen",
+                "sodium zincate and hydrogen"
+              ],
+              "answer": 3,
+              "why": "Zn + 2NaOH → **Na₂ZnO₂ + H₂**. See *Zinc, aluminium and lead with hot alkali*."
+            },
+            {
+              "q": "Which oxide is NOT amphoteric?",
+              "options": [
+                "aluminium oxide",
+                "lead(II) oxide",
+                "zinc oxide",
+                "copper(II) oxide"
+              ],
+              "answer": 3,
+              "why": "CuO reacts with acids **only**: it is basic. See *Oxides and hydroxides with alkali*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "exam-toolkit",
+      "label": "Exam toolkit: words, drills and reasons",
+      "desc": "**Goal:** collect the marks for definitions, identifying ions, equations and 'give reasons'.",
+      "links": [],
+      "children": [
+        {
+          "id": "definitions",
+          "label": "Definitions to learn word for word",
+          "type": "core",
+          "desc": "- **Analysis:** the determination of the chemical components of a given sample.\n- **Qualitative analysis:** the identification of the unknown substances in a sample.\n- **Reagent:** a substance that reacts with another substance, used to test it.\n- **Precipitation:** the formation of an insoluble solid when solutions are mixed; the solid is the **precipitate**.\n- **Amphoteric oxides and hydroxides:** those which react with both acids and alkalis to form salt and water.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: cover the list. Define an amphoteric oxide.",
+              "a": "An oxide which reacts with **both acids and alkalis** to form **salt and water**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ion-drill",
+          "label": "Name the cation in three lines",
+          "type": "core",
+          "desc": "1. **Colour of the solution.** Blue: Cu²⁺. Pale green: Fe²⁺. Yellowish brown: Fe³⁺. Colourless: Ca²⁺, Zn²⁺, Pb²⁺ (or NH₄⁺).\n2. **NaOH, a few drops then excess.** Colour of the ppt? Does it dissolve?\n3. **NH₄OH, a few drops then excess.** Any ppt? Does it dissolve? Deep blue?\n\nWrite the **equation** for each precipitate.\n\n**Worked example:** a colourless solution.\n\nNaOH: white ppt, dissolves in excess. So **Zn²⁺ or Pb²⁺**.\n\nNH₄OH: white ppt, **stays** in excess. So **Pb²⁺**.\n\nPb(NO₃)₂ + 2NaOH → Pb(OH)₂ + 2NaNO₃",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a blue solution gives a pale blue ppt with NaOH that stays, and a deep blue solution with excess NH₄OH.",
+              "a": "**Cu²⁺.** Cu(NO₃)₂ + 2NaOH → Cu(OH)₂ + 2NaNO₃"
+            },
+            {
+              "q": "Your turn: a colourless solution gives no ppt with NaOH, but warming gives a gas that turns red litmus blue.",
+              "a": "**NH₄⁺** (an ammonium salt). The gas is **ammonia**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "give-reasons",
+          "label": "Give reasons: model answers",
+          "type": "core",
+          "desc": "Try these before opening the answers.",
+          "links": [],
+          "faq": [
+            {
+              "q": "The alkali is added drop by drop.",
+              "a": "Some precipitates **dissolve in excess**. Added too fast, the precipitate may form and dissolve before it is seen."
+            },
+            {
+              "q": "Ammonium hydroxide does not precipitate calcium hydroxide.",
+              "a": "NH₄OH is a **weak alkali**. It gives too **few OH⁻ ions** to precipitate calcium hydroxide."
+            },
+            {
+              "q": "Zinc hydroxide dissolves in excess sodium hydroxide.",
+              "a": "It is **amphoteric**. It reacts with the alkali to form **soluble sodium zincate**, Na₂ZnO₂."
+            },
+            {
+              "q": "Copper salt solutions turn deep blue with excess ammonium hydroxide.",
+              "a": "Copper(II) hydroxide dissolves to form the soluble **tetraammine copper(II)** complex, which is deep blue."
+            },
+            {
+              "q": "Aluminium vessels should not be cleaned with washing soda or caustic soda.",
+              "a": "Aluminium is **amphoteric**. It reacts with alkalis, so the vessel is **eaten away** and hydrogen is given off."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: last-minute revision and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Read the sheet the night before the exam and again on the morning.",
+      "links": [],
+      "children": [
+        {
+          "id": "revision-sheet",
+          "label": "Last-minute revision sheet",
+          "type": "core",
+          "desc": "**The one idea:** add an alkali **drop by drop**. The **colour** of the precipitate names the metal; whether it **dissolves in excess** confirms it.\n\n**Results to learn**\n- **Ca²⁺:** NaOH, **white**, does not dissolve (sparingly soluble). NH₄OH: **no precipitate**.\n- **Fe²⁺:** **dirty green** with both; stays.\n- **Fe³⁺:** **reddish brown** with both; stays.\n- **Cu²⁺:** **pale blue** with both. NaOH in excess: stays. NH₄OH in excess: **deep blue solution**.\n- **Zn²⁺:** **white, jelly-like** with both; **dissolves** in excess of both.\n- **Pb²⁺:** **chalky white** with both. **Dissolves** in excess NaOH; **stays** in excess NH₄OH.\n- **NH₄⁺:** warm with NaOH: **ammonia** (turns moist red litmus blue).\n\n**Equations**\n- Zn(OH)₂ + 2NaOH → **Na₂ZnO₂** + 2H₂O (sodium zincate). Pb(OH)₂ + 2NaOH → **Na₂PbO₂** + 2H₂O (sodium plumbite).\n- Cu(OH)₂ + 4NH₄OH → **[Cu(NH₃)₄](OH)₂** + 4H₂O (deep blue).\n- Zn + 2NaOH → Na₂ZnO₂ + **H₂**. 2Al + 2NaOH + 2H₂O → 2NaAlO₂ + **3H₂**. Pb + 2NaOH → Na₂PbO₂ + **H₂**.\n\n**Units:** none in this chapter.\n\n**Key points**\n- **Coloured solutions:** Cu²⁺ **blue**, Fe²⁺ **pale green**, Fe³⁺ **yellowish brown**. Ions of groups 1, 2 and 13 (and Zn²⁺, Pb²⁺) are **colourless**.\n- **Amphoteric:** reacts with **both** acids and alkalis to give salt and water: **ZnO, Al₂O₃, PbO** and their hydroxides.\n- Zn, Al and Pb give **hydrogen** with **hot, concentrated** alkali (and with acids).\n- NaOH is a **strong** alkali; NH₄OH is **weak**, so it cannot precipitate calcium.\n\n**Traps:** **Fe²⁺ green, Fe³⁺ brown**: do not swap them. Only **NH₄OH** turns copper **deep blue**. **Pb(OH)₂ dissolves in NaOH but not in NH₄OH.** Add the alkali **drop by drop**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Identifying an unknown substance by chemical tests is called:",
+              "options": [
+                "precipitation",
+                "titration",
+                "qualitative analysis",
+                "quantitative analysis"
+              ],
+              "answer": 2,
+              "why": "**Qualitative**: what is there. Quantitative: how much."
+            },
+            {
+              "q": "A pale green solution gives a dirty green precipitate with NaOH. The cation is:",
+              "options": [
+                "Fe²⁺",
+                "Zn²⁺",
+                "Fe³⁺",
+                "Cu²⁺"
+              ],
+              "answer": 0,
+              "why": "Pale green solution and dirty green Fe(OH)₂: **iron(II)**."
+            },
+            {
+              "q": "Which cation gives no precipitate with ammonium hydroxide?",
+              "options": [
+                "Zn²⁺",
+                "Pb²⁺",
+                "Fe³⁺",
+                "Ca²⁺"
+              ],
+              "answer": 3,
+              "why": "NH₄OH gives too few OH⁻ ions to precipitate **calcium** hydroxide."
+            },
+            {
+              "q": "A white precipitate dissolves in excess NaOH but not in excess NH₄OH. The cation is:",
+              "options": [
+                "Cu²⁺",
+                "Pb²⁺",
+                "Ca²⁺",
+                "Zn²⁺"
+              ],
+              "answer": 1,
+              "why": "**Lead**: soluble in excess NaOH, insoluble in excess NH₄OH."
+            },
+            {
+              "q": "The deep blue colour with excess ammonium hydroxide is a test for:",
+              "options": [
+                "Ca²⁺",
+                "Zn²⁺",
+                "Cu²⁺",
+                "Fe²⁺"
+              ],
+              "answer": 2,
+              "why": "It forms **tetraammine copper(II)** ions."
+            },
+            {
+              "q": "What is the formula of sodium zincate?",
+              "options": [
+                "ZnNa₂",
+                "Na₂ZnO₂",
+                "NaZnO₂",
+                "Na₂ZnO"
+              ],
+              "answer": 1,
+              "why": "From Zn(OH)₂ + 2NaOH → **Na₂ZnO₂** + 2H₂O."
+            },
+            {
+              "q": "Which metal gives hydrogen with both dilute HCl and hot concentrated NaOH?",
+              "options": [
+                "zinc",
+                "magnesium",
+                "copper",
+                "iron"
+              ],
+              "answer": 0,
+              "why": "**Zinc** is amphoteric. Copper reacts with neither; iron and magnesium only with the acid."
+            },
+            {
+              "q": "Which of these hydroxides is reddish brown?",
+              "options": [
+                "Fe(OH)₃",
+                "Cu(OH)₂",
+                "Fe(OH)₂",
+                "Zn(OH)₂"
+              ],
+              "answer": 0,
+              "why": "**Iron(III) hydroxide.** Fe(OH)₂ is dirty green."
+            },
+            {
+              "q": "Aluminium is boiled with sodium hydroxide solution. The gas given off:",
+              "options": [
+                "turns red litmus blue",
+                "turns lime water milky",
+                "relights a glowing splint",
+                "burns with a pop"
+              ],
+              "answer": 3,
+              "why": "It is **hydrogen**: 2Al + 2NaOH + 2H₂O → 2NaAlO₂ + 3H₂."
+            },
+            {
+              "q": "Which ion is colourless in solution?",
+              "options": [
+                "Cu²⁺",
+                "Fe²⁺",
+                "Zn²⁺",
+                "Fe³⁺"
+              ],
+              "answer": 2,
+              "why": "**Zinc** ions are colourless, even though zinc sits among the transition elements."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These are like the harder questions at the end of the chapter. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "three-bottles",
+          "label": "Three bottles, one reagent",
+          "type": "optional",
+          "desc": "Meera has three colourless solutions: calcium nitrate, zinc nitrate and lead nitrate. She has **only ammonium hydroxide**. How does she name all three?\n\nAdd NH₄OH, a few drops then in excess, to each.\n\n- **No precipitate:** calcium nitrate.\n- **White ppt that dissolves in excess:** zinc nitrate.\n- **White ppt that stays:** lead nitrate.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "zinc-both-ways",
+          "label": "One metal, two hydrogens",
+          "type": "optional",
+          "desc": "Show with equations that zinc gives hydrogen with both an acid and an alkali.\n\nZn + 2HCl → ZnCl₂ + H₂\n\nZn + 2NaOH → Na₂ZnO₂ + H₂\n\nIn both, zinc **loses** electrons (it is **oxidised**) and hydrogen is set free.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "aluminium-or-zinc",
+          "label": "Aluminium or zinc?",
+          "type": "optional",
+          "desc": "Two colourless solutions: aluminium chloride and zinc chloride. Both give a white ppt with NaOH that dissolves in excess. How can you tell them apart?\n\nUse **excess ammonium hydroxide**.\n\n- Aluminium: AlCl₃ + 3NH₄OH → Al(OH)₃ + 3NH₄Cl. The white ppt **stays**.\n- Zinc: the white ppt **dissolves**.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThis is a short chapter, but it is pure recall, and students mix up six similar-looking results. The fix is **one table**, practised as a **two-look habit** (a few drops, then excess), and **two reasons** that explain every difference: NH₄OH is weak, and it carries ammonia.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- Do the tests for real: six test tubes, two reagents. Students remember what they **saw** far better than what they read.\n- Make students say **both looks** aloud: \"few drops: white; excess: dissolves\".\n- Teach the **two reasons** (weak alkali; ammonia complexes) instead of the table alone.\n- Drill **pairs**: give two salts and ask which reagent separates them.\n- Link back to Chapter 3: NaOH precipitates and amphoteric Al₂O₃ appeared there.\n- Use the deep blue copper test as the memorable 'magic' moment.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 5-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** prerequisites; the words of analysis; coloured and colourless ions. Activity: a colour chart from real solutions.\n- **Period 2:** NaOH on Ca, Fe(II), Fe(III), Cu, Zn, Pb and ammonium salts. Activity: six test tubes, drop by drop.\n- **Period 3:** NH₄OH on the same salts; the deep blue copper test. Intext Questions after 4.3.\n- **Period 4:** telling ions and pairs apart; which alkali is in the bottle. Activity: an unknown-solution challenge.\n- **Period 5:** amphoteric metals, oxides and hydroxides; the Exercise; self-test and exit ticket.",
+          "links": [
+            {
+              "label": "Wikipedia: qualitative inorganic analysis",
+              "url": "https://en.wikipedia.org/wiki/Qualitative_inorganic_analysis"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Swapping **Fe²⁺ (green)** and **Fe³⁺ (brown)**.\n- Saying lead hydroxide dissolves in excess **NH₄OH**.\n- Saying calcium gives a white ppt with **NH₄OH**.\n- Writing **Na₂ZnO₂** without balancing the water.\n- Naming CuO as amphoteric.\n- Forgetting to **warm** the ammonium salt with NaOH.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. What colour is the ppt when NaOH is added to iron(III) chloride?",
+              "a": "**Reddish brown.**"
+            },
+            {
+              "q": "2. Which reagent tells Zn²⁺ from Pb²⁺?",
+              "a": "**Excess NH₄OH.**"
+            },
+            {
+              "q": "3. What do you see when excess NH₄OH is added to copper sulphate solution?",
+              "a": "A **deep blue** solution."
+            },
+            {
+              "q": "4. Name two amphoteric oxides.",
+              "a": "**ZnO and Al₂O₃** (or PbO)."
+            },
+            {
+              "q": "5. Write the equation for zinc with hot NaOH.",
+              "a": "**Zn + 2NaOH → Na₂ZnO₂ + H₂**"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

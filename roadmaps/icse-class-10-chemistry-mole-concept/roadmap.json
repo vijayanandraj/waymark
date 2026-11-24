@@ -1,0 +1,1275 @@
+{
+  "title": "ICSE Class 10 Chemistry, Chapter 5: Mole Concept and Stoichiometry, Step by Step",
+  "subtitle": "For students who find chemistry hard. Gay-Lussac's law and Avogadro's law, atomicity, relative atomic and molecular mass, the mole, Avogadro's number and molar volume, vapour density, percentage composition, empirical and molecular formulas, and calculations from equations, all through one mole map, in small steps with four-line worked examples, original numbers, quick checks, an exam toolkit and a last-minute revision sheet. Follows the ICSE Class 10 syllabus, Chapter 5 (Mole Concept and Stoichiometry), in the order of Selina Concise Chemistry.",
+  "updated": "2026-11-24",
+  "changelog": [
+    {
+      "date": "2026-11-24",
+      "text": "First version: the whole chapter in small steps, with original worked examples, quick checks, a last-minute revision sheet, a self-test and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** be sure of powers of ten, ratios, the atomic masses we use, and the gas equation. This chapter is mostly arithmetic.",
+      "links": [
+        {
+          "label": "Math is Fun: scientific notation (free)",
+          "url": "https://www.mathsisfun.com/numbers/scientific-notation.html"
+        }
+      ],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea, look at the picture, then do **Your turn**.\n- **Every numerical in four lines:** Given, Formula, Substitute, Answer with unit. And **change to moles first**: almost every question is easy once you are in moles.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: a mole is a counting number, like a dozen.** One mole of anything has **6.022 × 10²³** particles, weighs its **formula mass in grams**, and (if it is a gas) fills **22.4 litres at STP**. Every calculation goes **through moles**.",
+          "links": [
+            {
+              "label": "Wikipedia: mole (unit)",
+              "url": "https://en.wikipedia.org/wiki/Mole_(unit)"
+            },
+            {
+              "label": "Last-minute revision sheet for this chapter",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-chemistry-mole-concept#revision-sheet"
+            },
+            {
+              "label": "Previous chapter: 4. Analytical Chemistry",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-chemistry-analytical-chemistry"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 5, *Mole Concept and Stoichiometry*, of the ICSE Class 10 Chemistry syllabus. It follows the order of *Selina Concise Chemistry* for Class 10.\n\n**Who it is for.** Class 10 students who find chemistry hard, and want to understand this chapter and score decent marks in it. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** A mole is a counting number, like a dozen. One mole of anything has 6.022 × 10²³ particles, weighs its formula mass in grams, and (if it is a gas) fills 22.4 litres at STP. Every calculation goes through moles.\n\n**How it is different from the textbook.** The textbook has 32 pages and over a hundred numericals. Here every sum goes **through moles**, using one **mole map** (mass, particles and gas volume), and every worked example is written in the **four lines** students already know from physics. All the worked examples use **original numbers**, every number is checked by a computer, and the empirical-formula working is shown as a table picture students can copy.\n\n**What is inside.**\n- 11 milestones and 54 small steps. The 45 solid steps are the core path. The dashed ones are optional.\n- 49 practice questions with hidden answers, and 7 pictures.\n- 28 click-to-check questions that say right or wrong, and why: a quick check after each of the 6 main milestones, and a 10-question self-test.\n- A **last-minute revision sheet**: every formula, unit, law and trap on one page.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: the limiting-reagent step and the challenge questions, and a section for teachers and parents with a 14-period lesson plan, the mistakes to watch for and a 5-minute exit ticket.\n\n**Can you trust it?** Every number in the worked examples and answers was checked by a computer program, and every picture was drawn specially for this roadmap. All the examples are original, so students still get fresh practice from their textbook. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the ICSE syllabus but is not made or endorsed by CISCE or by any publisher. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. What is 2 × (6 × 10²³)?",
+              "a": "**1.2 × 10²⁴** (12 × 10²³). Wrong? Do *Powers of ten*."
+            },
+            {
+              "q": "2. 3 volumes of a gas need 7 volumes of oxygen. How much oxygen do 60 mL need?",
+              "a": "60 × 7 ÷ 3 = **140 mL**. Wrong? Do *Ratios and the unitary method*."
+            },
+            {
+              "q": "3. Find the formula mass of CO₂ (C = 12, O = 16).",
+              "a": "12 + 2 × 16 = **44**. Wrong? Do *The atomic masses we use*."
+            },
+            {
+              "q": "4. What is 27 °C in kelvin?",
+              "a": "27 + 273 = **300 K**. Wrong? Do *Gases at other conditions: the gas equation*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "powers-of-ten",
+          "label": "Powers of ten",
+          "type": "core",
+          "desc": "Atoms are so small that we count them in huge numbers. We write them as **a number × 10 to a power**.\n\n- 6.022 × 10²³ means 6.022 with the point moved **23 places right**.\n- 1.99 × 10⁻²³ means the point moved **23 places left**: a tiny number.\n- **Multiplying:** multiply the front numbers, **add** the powers.\n- **Dividing:** divide the front numbers, **subtract** the powers.\n\n**Worked example:** 0.25 × 6.022 × 10²³\n\n0.25 × 6.022 = 1.5055\n\nAnswer: **1.51 × 10²³**",
+          "links": [
+            {
+              "label": "Math is Fun: scientific notation (free)",
+              "url": "https://www.mathsisfun.com/numbers/scientific-notation.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what is 3 × (6.022 × 10²³)? Give 3 significant figures.",
+              "a": "3 × 6.022 = 18.066, so 18.066 × 10²³ = **1.81 × 10²⁴**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ratios",
+          "label": "Ratios and the unitary method",
+          "type": "core",
+          "desc": "Many sums say: if **this** much gives **that** much, what does a **different** amount give?\n\n1. Write the known pair.\n2. Find what **1** gives (divide).\n3. Multiply up to the new amount.\n\n**Worked example:** 2 volumes of gas need 9 volumes of oxygen. How much oxygen for 60 mL?\n\n1 mL needs 9 ÷ 2 = 4.5 mL\n\n60 mL needs 60 × 4.5\n\nAnswer: **270 mL**",
+          "links": [
+            {
+              "label": "Math is Fun: ratios (free)",
+              "url": "https://www.mathsisfun.com/numbers/ratio.html"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: 5 g of a metal gives 7 g of oxide. What does 15 g give?",
+              "a": "1 g gives 7 ÷ 5 = 1.4 g. 15 g gives 15 × 1.4 = **21 g**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "atomic-masses",
+          "label": "The atomic masses we use",
+          "type": "core",
+          "desc": "Use these unless the question gives others. Round to whole numbers, except chlorine.\n\n- H **1**, He **4**, C **12**, N **14**, O **16**, Na **23**, Mg **24**, Al **27**\n- S **32**, Cl **35.5**, K **39**, Ca **40**, Fe **56**, Cu **63.5**, Zn **65**, Pb **207**\n\nTo find a **formula mass**, add the masses of all the atoms. Watch the brackets.\n\n**Worked example:** calcium nitrate, Ca(NO₃)₂.\n\nCa: 40\n\nN: 2 × 14 = 28\n\nO: 2 × 3 × 16 = 96\n\nTotal: **164**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: find the formula mass of ammonium sulphate, (NH₄)₂SO₄.",
+              "a": "N 2 × 14 = 28; H 8 × 1 = 8; S 32; O 4 × 16 = 64. Total **132**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "gas-equation",
+          "label": "Gases at other conditions: the gas equation",
+          "type": "core",
+          "desc": "Gas volumes change with **temperature** and **pressure**, so we compare them at **STP**: **273 K (0 °C)** and **760 mm Hg** (1 atmosphere).\n\nFrom Class 9:\n\n- **Kelvin = °C + 273.**\n- **Gas equation:** P₁V₁ ÷ T₁ = P₂V₂ ÷ T₂ (T always in kelvin).\n\n**Worked example:** 500 cm³ of a gas at 27 °C and 760 mm Hg. What is its volume at STP?\n\nGiven: V₁ = 500 cm³, T₁ = 300 K, T₂ = 273 K, pressure unchanged\n\nFormula: V₂ = V₁ × T₂ ÷ T₁\n\nSubstitute: 500 × 273 ÷ 300\n\nAnswer: **455 cm³**",
+          "links": [
+            {
+              "label": "Wikipedia: ideal gas law",
+              "url": "https://en.wikipedia.org/wiki/Ideal_gas_law"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: 380 cm³ of gas at 0 °C and 380 mm Hg. Volume at STP?",
+              "a": "Temperature unchanged. V₂ = 380 × 380 ÷ 760 = **190 cm³**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "gay-lussac",
+      "label": "Gay-Lussac's law: gases react in simple volumes",
+      "desc": "**Goal:** state Gay-Lussac's law, and use it to find the volumes of gases that react and form. Practise with Exercise 5A.",
+      "links": [],
+      "children": [
+        {
+          "id": "gay-lussac-law",
+          "label": "Gay-Lussac's law of combining volumes",
+          "type": "core",
+          "desc": "**When gases react, they do so in volumes which bear a simple ratio to one another, and to the volume of the gaseous product, provided all the volumes are measured at the same temperature and pressure.**\n\n- It works for **gases only**. Solids and liquids count as **zero** volume.\n- The volume ratio is simply the **numbers in front** in the balanced equation.\n\nH₂ + Cl₂ → 2HCl: volumes **1 : 1 : 2**\n\nN₂ + 3H₂ → 2NH₃: volumes **1 : 3 : 2**\n\n**Worked example:** 2CO + O₂ → 2CO₂. 2 volumes of CO need **1** volume of oxygen and give **2** volumes of CO₂.",
+          "links": [
+            {
+              "label": "Wikipedia: Gay-Lussac's law",
+              "url": "https://en.wikipedia.org/wiki/Gay-Lussac%27s_law"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what is the volume ratio in N₂ + O₂ → 2NO?",
+              "a": "**1 : 1 : 2**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/combining-volumes.png",
+              "caption": "Volumes react in the ratio of the numbers in front"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "volume-ratio",
+          "label": "Volume problems: read the ratio",
+          "type": "core",
+          "desc": "1. Write the **balanced** equation.\n2. Write the **volumes** under each gas (the numbers in front).\n3. Scale to the volume you are given.\n\n**Worked example:** propene burns: 2C₃H₆ + 9O₂ → 6CO₂ + 6H₂O. What volume of oxygen burns 60 mL of propene, and how much CO₂ forms?\n\nVolumes: 2 : 9 : 6\n\nOxygen: 60 × 9 ÷ 2 = **270 mL**\n\nCarbon dioxide: 60 × 6 ÷ 2 = **180 mL**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: 2C₄H₁₀ + 13O₂ → 8CO₂ + 10H₂O. Oxygen and CO₂ for 40 cm³ of butane?",
+              "a": "Oxygen: 40 × 13 ÷ 2 = **260 cm³**. CO₂: 40 × 8 ÷ 2 = **160 cm³**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "leftover-gas",
+          "label": "Leftover gas",
+          "type": "core",
+          "desc": "When the gases are **not** in the exact ratio, one runs out first. It is the **limiting reagent**. The other is **left over**.\n\nAfter cooling, **water is a liquid**: leave it out of the final gas volume.\n\n**Worked example:** 50 mL of hydrogen and 40 mL of oxygen are exploded and cooled. (2H₂ + O₂ → 2H₂O)\n\n50 mL H₂ needs 50 ÷ 2 = 25 mL O₂\n\nOxygen left: 40 − 25 = **15 mL**\n\nHydrogen is the limiting reagent. The gas left is **only oxygen**.",
+          "links": [
+            {
+              "label": "Wikipedia: limiting reagent",
+              "url": "https://en.wikipedia.org/wiki/Limiting_reagent"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: 30 cm³ of CO and 20 cm³ of O₂ are exploded. (2CO + O₂ → 2CO₂) What gas is left?",
+              "a": "CO uses 15 cm³ O₂; **5 cm³ O₂** left, with **30 cm³ CO₂**. Total **35 cm³**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/left-over-gas.png",
+              "caption": "Before and after: only the extra oxygen is left as gas"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "air-problems",
+          "label": "Air is one fifth oxygen",
+          "type": "core",
+          "desc": "When a gas burns in **air**, only the oxygen reacts. Take air as **20% oxygen** (one fifth), unless told otherwise.\n\n**Air needed = oxygen needed × 5.**\n\n**Worked example:** 30 cm³ of methane burns in air. (CH₄ + 2O₂ → CO₂ + 2H₂O)\n\nOxygen: 30 × 2 = 60 cm³\n\nAir: 60 × 5 = **300 cm³**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: 25 cm³ of propane burns in air. (C₃H₈ + 5O₂ → 3CO₂ + 4H₂O)",
+              "a": "Oxygen: 25 × 5 = 125 cm³. Air: 125 × 5 = **625 cm³**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-gay-lussac",
+          "label": "Quick check: combining volumes",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "1 volume of nitrogen reacts with 3 volumes of hydrogen. How many volumes of ammonia form?",
+              "options": [
+                "4",
+                "1",
+                "3",
+                "2"
+              ],
+              "answer": 3,
+              "why": "N₂ + 3H₂ → **2**NH₃. Volumes follow the **numbers in front**. See *Gay-Lussac's law of combining volumes*."
+            },
+            {
+              "q": "How much oxygen burns 20 mL of methane? (CH₄ + 2O₂ → CO₂ + 2H₂O)",
+              "options": [
+                "10 mL",
+                "60 mL",
+                "40 mL",
+                "20 mL"
+              ],
+              "answer": 2,
+              "why": "1 volume needs **2** volumes: 2 × 20 = **40 mL**. See *Volume problems: read the ratio*."
+            },
+            {
+              "q": "30 mL of hydrogen and 30 mL of oxygen are exploded and cooled. What gas is left? (2H₂ + O₂ → 2H₂O)",
+              "options": [
+                "30 mL of steam",
+                "15 mL of hydrogen",
+                "nothing",
+                "15 mL of oxygen"
+              ],
+              "answer": 3,
+              "why": "30 mL H₂ uses only **15 mL** O₂. Water is a **liquid** once cooled. See *Leftover gas*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "avogadro",
+      "label": "Avogadro's law and atomicity",
+      "desc": "**Goal:** state Avogadro's law, use it with volumes and molecules, and explain why H₂, O₂, N₂ and Cl₂ are diatomic. Practise with Exercise 5A.",
+      "links": [],
+      "children": [
+        {
+          "id": "avogadro-law",
+          "label": "Avogadro's law",
+          "type": "core",
+          "desc": "**Avogadro's law: equal volumes of all gases under similar conditions of temperature and pressure contain the same number of molecules.**\n\nAvogadro also made clear the difference between atoms and molecules:\n\n- **An atom is the smallest particle of an element that can take part in a chemical reaction.** It may not exist on its own.\n- **A molecule is the smallest particle of an element or compound that can exist by itself.**\n\n**Worked example:** 4 L of nitrogen and 4 L of carbon dioxide at the same temperature and pressure contain the **same number of molecules**, even though CO₂ is heavier.",
+          "links": [
+            {
+              "label": "Wikipedia: Avogadro's law",
+              "url": "https://en.wikipedia.org/wiki/Avogadro%27s_law"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what is the difference between N₂ and 2N?",
+              "a": "**N₂** is **one molecule** of nitrogen (two atoms joined). **2N** is **two separate atoms**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "atomicity",
+          "label": "Atomicity",
+          "type": "core",
+          "desc": "**Atomicity is the number of atoms in one molecule of an element.**\n\n- **Monoatomic (1):** noble gases: He, Ne, Ar.\n- **Diatomic (2):** H₂, O₂, N₂, Cl₂.\n- **Triatomic (3):** ozone, O₃.\n- **Tetratomic (4):** phosphorus, P₄.\n- **Octatomic (8):** sulphur, S₈.\n\n**Worked example:** 2 L of hydrogen and 2 L of helium (same conditions) have the **same number of molecules**. But each H₂ has **2** atoms and each He only **1**. So hydrogen has **twice** as many atoms.",
+          "links": [
+            {
+              "label": "Wikipedia: atomicity",
+              "url": "https://en.wikipedia.org/wiki/Atomicity_(chemistry)"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: 1 L of ozone (O₃) and 1 L of oxygen (O₂), same conditions. Ratio of atoms?",
+              "a": "Same molecules; atoms **3 : 2**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "avogadro-explains",
+          "label": "Avogadro explains Gay-Lussac, and atomicity",
+          "type": "core",
+          "desc": "If equal volumes hold equal molecules, then **volume ratios are molecule ratios**. That is why gases react in simple volumes.\n\nH₂ + Cl₂ → 2HCl\n\n1 volume + 1 volume → 2 volumes\n\nn molecules + n molecules → 2n molecules\n\nSo each HCl molecule contains **half** a hydrogen molecule. An atom cannot be split, so a hydrogen molecule must have **at least 2 atoms**. Hydrogen and chlorine are **diatomic**.\n\nThe same reasoning with N₂ + O₂ → 2NO shows nitrogen and oxygen are diatomic. (You will not be asked for the formal proof.)\n\n**Worked example:** N₂ + 3H₂ → 2NH₃. 2 volumes of ammonia give 1 of nitrogen and 3 of hydrogen. So 1 molecule of ammonia has 1 N atom and 3 H atoms: **NH₃**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why must a hydrogen molecule contain at least two atoms?",
+              "a": "One volume of hydrogen gives **two** volumes of HCl. So each HCl molecule gets **half** a hydrogen molecule, and half a molecule must still be a whole **atom**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "equal-volumes",
+          "label": "Equal volumes, equal molecules",
+          "type": "core",
+          "desc": "At the same temperature and pressure, the number of molecules is **proportional to the volume**, whatever the gas.\n\n**Worked example:** 12 L of nitrogen contains x molecules. How many in 3 L of CO₂ and 6 L of ammonia (same conditions)?\n\nCO₂: 3 ÷ 12 = 1/4, so **x/4**\n\nAmmonia: 6 ÷ 12 = 1/2, so **x/2**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: 50 cm³ of oxygen has y molecules. How many in 150 cm³ of chlorine (same conditions)?",
+              "a": "Three times the volume: **3y** molecules."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-avogadro",
+          "label": "Quick check: Avogadro's law",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Avogadro's law: equal volumes of all gases, at the same temperature and pressure, contain equal numbers of:",
+              "options": [
+                "molecules",
+                "atoms",
+                "electrons",
+                "ions"
+              ],
+              "answer": 0,
+              "why": "**Molecules**, not atoms. See *Avogadro's law*."
+            },
+            {
+              "q": "What is the atomicity of phosphorus?",
+              "options": [
+                "4",
+                "2",
+                "8",
+                "1"
+              ],
+              "answer": 0,
+              "why": "Phosphorus is **P₄**. Sulphur is S₈. See *Atomicity*."
+            },
+            {
+              "q": "10 L of nitrogen contains x molecules. How many molecules are in 5 L of oxygen at the same temperature and pressure?",
+              "options": [
+                "2x",
+                "x",
+                "x/2",
+                "x/4"
+              ],
+              "answer": 2,
+              "why": "Half the volume, **half the molecules**: any gas. See *Equal volumes, equal molecules*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "relative-masses",
+      "label": "Relative masses and the mole",
+      "desc": "**Goal:** define relative atomic and molecular mass, the mole, Avogadro's number and molar volume, and use the mole map. Practise with Exercise 5B.",
+      "links": [],
+      "children": [
+        {
+          "id": "relative-atomic-mass",
+          "label": "Relative atomic mass",
+          "type": "core",
+          "desc": "Atoms are far too small to weigh in grams. So we compare them with a standard: **one twelfth of a carbon-12 atom**.\n\n**The relative atomic mass of an element is the number of times one atom of the element is heavier than 1/12 of the mass of a carbon-12 atom.**\n\n- Its unit is the **atomic mass unit (amu)**, which is 1/12 of a C-12 atom.\n- Many atomic masses are **not whole numbers**, because elements are mixtures of **isotopes**. The relative atomic mass is their **average**.\n\n**Worked example:** natural boron is 20% boron-10 and 80% boron-11.\n\nAverage = (20 × 10 + 80 × 11) ÷ 100\n\n= 1080 ÷ 100\n\n= **10.8**",
+          "links": [
+            {
+              "label": "Wikipedia: relative atomic mass",
+              "url": "https://en.wikipedia.org/wiki/Relative_atomic_mass"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: bromine is half bromine-79 and half bromine-81. Its relative atomic mass?",
+              "a": "(79 + 81) ÷ 2 = **80**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/boron-average.png",
+              "caption": "Why boron's atomic mass is 10.8, not a whole number"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "relative-molecular-mass",
+          "label": "Relative molecular mass",
+          "type": "core",
+          "desc": "**The relative molecular mass of a substance is the number of times one molecule of it is heavier than 1/12 of the mass of a carbon-12 atom.**\n\nFind it by **adding** the relative atomic masses of all the atoms in the formula. For a hydrate, **add the water** too.\n\n**Worked example:** Epsom salt, MgSO₄·7H₂O.\n\nMgSO₄: 24 + 32 + 64 = 120\n\n7H₂O: 7 × 18 = 126\n\nTotal: **246**",
+          "links": [
+            {
+              "label": "Wikipedia: molar mass",
+              "url": "https://en.wikipedia.org/wiki/Molar_mass"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: find the relative molecular mass of ammonium phosphate, (NH₄)₃PO₄.",
+              "a": "N 3 × 14 = 42; H 12; P 31; O 64. Total **149**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "gram-masses",
+          "label": "Gram atomic mass and gram molecular mass",
+          "type": "core",
+          "desc": "Now put the relative masses **in grams**.\n\n- **Gram atomic mass:** the atomic mass of an element expressed in grams. Sulphur: **32 g**. This amount is **one gram atom**.\n- **Gram molecular mass (molar mass):** the molecular mass expressed in grams. Ammonia: **17 g**. This amount is **one gram molecule**.\n\nThe atomic mass is about **one atom**. The gram atomic mass is about a **mole of atoms**.\n\n**Worked example:** one gram molecule of carbon dioxide is **44 g**. One gram atom of oxygen is **16 g**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is one gram molecule of sulphuric acid?",
+              "a": "**98 g** of H₂SO₄."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mole-number",
+          "label": "The mole and Avogadro's number",
+          "type": "core",
+          "desc": "A **dozen** is 12 things. A **mole** is a much bigger number of things.\n\n**A mole is the amount of a substance containing as many particles (atoms, molecules or ions) as there are atoms in exactly 12 g of carbon-12.**\n\n**Avogadro's number is the number of particles in one mole of a substance: 6.022 × 10²³** (often rounded to 6 × 10²³).\n\n- One mole of atoms weighs its **gram atomic mass**.\n- One mole of molecules weighs its **gram molecular mass**.\n- One mole of CaCl₂ has 1 mole of Ca²⁺ ions and **2 moles** of Cl⁻ ions.\n\n**Worked example:** one mole of sodium atoms is **6.022 × 10²³ atoms** and weighs **23 g**.",
+          "links": [
+            {
+              "label": "Wikipedia: Avogadro constant",
+              "url": "https://en.wikipedia.org/wiki/Avogadro_constant"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: how many molecules, and how many atoms, are in one mole of water?",
+              "a": "**6.022 × 10²³ molecules**. Each has 3 atoms: **3 × 6.022 × 10²³** atoms."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "molar-volume",
+          "label": "Molar volume: 22.4 litres at STP",
+          "type": "core",
+          "desc": "**The molar volume of a gas is the volume occupied by one mole of the gas at STP. It is 22.4 litres (22.4 dm³, or 22 400 cm³).**\n\nIt is the **same for every gas**, because of Avogadro's law. So:\n\n**22.4 L of any gas at STP weighs its gram molecular mass.**\n\n**Worked example:** one mole of sulphur dioxide at STP occupies **22.4 L** and weighs **64 g**.",
+          "links": [
+            {
+              "label": "Wikipedia: molar volume",
+              "url": "https://en.wikipedia.org/wiki/Molar_volume"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what is the mass of 22.4 L of ammonia at STP?",
+              "a": "One mole: **17 g**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/molar-volume.png",
+              "caption": "One mole of any gas fills 22.4 L at STP, but the masses differ"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mole-map",
+          "label": "The mole map",
+          "type": "core",
+          "desc": "Three roads lead **into** and **out of** moles:\n\n- **Mass:** n = m ÷ M, and m = n × M\n- **Particles:** N = n × 6.022 × 10²³\n- **Gas volume at STP:** V = n × 22.4 L\n\nTo go from mass to volume, or volume to particles, **always pass through moles**.\n\n**Worked example:** what volume does 32 g of oxygen occupy at STP?\n\nMass to moles: 32 ÷ 32 = 1 mole\n\nMoles to volume: 1 × 22.4 = **22.4 L**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which road do you need for 'how many molecules in 2.24 L of a gas at STP'?",
+              "a": "Volume to moles (÷ 22.4 = 0.1 mole), then moles to particles (× 6.022 × 10²³) = **6.022 × 10²²**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/mole-map.png",
+              "caption": "Every road goes through moles"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-relative-masses",
+          "label": "Quick check: masses and the mole",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "What is the relative molecular mass of H₂SO₄? (H = 1, S = 32, O = 16)",
+              "options": [
+                "49",
+                "96",
+                "50",
+                "98"
+              ],
+              "answer": 3,
+              "why": "2 × 1 + 32 + 4 × 16 = **98**. See *Relative molecular mass*."
+            },
+            {
+              "q": "One mole of any substance contains:",
+              "options": [
+                "1 gram of particles",
+                "22.4 particles",
+                "6.022 × 10²³ particles",
+                "12 particles"
+              ],
+              "answer": 2,
+              "why": "That is **Avogadro's number**. See *The mole and Avogadro's number*."
+            },
+            {
+              "q": "What is the molar volume of a gas at STP?",
+              "options": [
+                "22.4 mL",
+                "224 L",
+                "22.4 L",
+                "2.24 L"
+              ],
+              "answer": 2,
+              "why": "**22.4 litres** (22 400 cm³). See *Molar volume: 22.4 litres at STP*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "mole-sums",
+      "label": "Mole calculations",
+      "desc": "**Goal:** convert between mass, moles, particles and gas volume, and use vapour density. Practise with Exercise 5B.",
+      "links": [],
+      "children": [
+        {
+          "id": "mass-moles",
+          "label": "Mass to moles and back",
+          "type": "core",
+          "desc": "**Worked example:** how many moles are in 90 g of water?\n\nGiven: m = 90 g, M(H₂O) = 18 g\n\nFormula: n = m ÷ M\n\nSubstitute: 90 ÷ 18\n\nAnswer: **5 moles**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is the mass of 0.25 mole of calcium carbonate (CaCO₃ = 100)?",
+              "a": "m = n × M = 0.25 × 100 = **25 g**."
+            },
+            {
+              "q": "Your turn: how many moles are in 20 g of sodium hydroxide?",
+              "a": "M(NaOH) = 23 + 16 + 1 = 40. n = 20 ÷ 40 = **0.5 mole**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "counting-particles",
+          "label": "Counting particles",
+          "type": "core",
+          "desc": "Moles × 6.022 × 10²³ gives the number of **molecules** (or formula units). Then multiply by the atoms or ions in one formula.\n\n**Worked example:** how many molecules, and atoms, are in 11 g of carbon dioxide?\n\nGiven: m = 11 g, M(CO₂) = 44 g\n\nFormula: n = m ÷ M; molecules = n × 6.022 × 10²³\n\nSubstitute: n = 11 ÷ 44 = 0.25; 0.25 × 6.022 × 10²³\n\nAnswer: **1.51 × 10²³ molecules**\n\nEach CO₂ has 3 atoms: 3 × 1.51 × 10²³ = **4.52 × 10²³ atoms**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: how many chloride ions are in 22.2 g of calcium chloride (CaCl₂ = 111)?",
+              "a": "n = 22.2 ÷ 111 = 0.2 mole. Each CaCl₂ has 2 Cl⁻: 0.4 mole × 6.022 × 10²³ = **2.41 × 10²³ ions**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "one-particle",
+          "label": "The mass of one atom or molecule",
+          "type": "core",
+          "desc": "One mole weighs M grams and has 6.022 × 10²³ particles. So **one particle weighs M ÷ 6.022 × 10²³ grams**.\n\n**Worked example:** the mass of one carbon atom.\n\nGiven: M(C) = 12 g\n\nFormula: mass of one atom = M ÷ 6.022 × 10²³\n\nSubstitute: 12 ÷ 6.022 × 10²³\n\nAnswer: **1.99 × 10⁻²³ g**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: the mass of one molecule of water.",
+              "a": "18 ÷ 6.022 × 10²³ = **2.99 × 10⁻²³ g**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "gas-volumes",
+          "label": "Gas volumes at STP",
+          "type": "core",
+          "desc": "**Worked example:** what volume does 8.8 g of carbon dioxide occupy at STP?\n\nGiven: m = 8.8 g, M(CO₂) = 44 g\n\nFormula: n = m ÷ M; V = n × 22.4 L\n\nSubstitute: n = 8.8 ÷ 44 = 0.2; V = 0.2 × 22.4\n\nAnswer: **4.48 L**\n\n**Finding a molar mass:** 1.12 L of a gas at STP weighs 3.2 g.\n\nn = 1.12 ÷ 22.4 = 0.05 mole\n\nM = 3.2 ÷ 0.05 = **64 g** (it could be SO₂)",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is the mass of 5.6 L of oxygen at STP?",
+              "a": "n = 5.6 ÷ 22.4 = 0.25. m = 0.25 × 32 = **8 g**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "vapour-density",
+          "label": "Vapour density",
+          "type": "core",
+          "desc": "**The vapour density of a gas is the ratio of the mass of a certain volume of the gas to the mass of the same volume of hydrogen, at the same temperature and pressure.**\n\nBy Avogadro's law it compares **one molecule** of the gas with **one H₂ molecule** (mass 2). So:\n\n**Relative molecular mass = 2 × vapour density**\n\nVapour density has **no unit**.\n\n**Worked example:** the vapour density of ammonia.\n\nGiven: M(NH₃) = 17\n\nFormula: V.D. = M ÷ 2\n\nSubstitute: 17 ÷ 2\n\nAnswer: **8.5**",
+          "links": [
+            {
+              "label": "Wikipedia: vapour density",
+              "url": "https://en.wikipedia.org/wiki/Vapour_density"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a cylinder holds 4 g of hydrogen, or 88 g of gas X, at the same temperature and pressure. Find the molecular mass of X.",
+              "a": "Same volume, so V.D. = 88 ÷ 4 = 22. M = 2 × 22 = **44**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-mole-sums",
+          "label": "Quick check: mole calculations",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "How many moles are in 36 g of water? (H₂O = 18)",
+              "options": [
+                "18",
+                "2",
+                "36",
+                "0.5"
+              ],
+              "answer": 1,
+              "why": "n = m ÷ M = 36 ÷ 18 = **2**. See *Mass to moles and back*."
+            },
+            {
+              "q": "What volume does 0.5 mole of carbon dioxide occupy at STP?",
+              "options": [
+                "22.4 L",
+                "44 L",
+                "11.2 L",
+                "0.5 L"
+              ],
+              "answer": 2,
+              "why": "0.5 × 22.4 = **11.2 L**. See *Gas volumes at STP*."
+            },
+            {
+              "q": "The vapour density of a gas is 32. Its relative molecular mass is:",
+              "options": [
+                "64",
+                "16",
+                "128",
+                "32"
+              ],
+              "answer": 0,
+              "why": "M = **2 × V.D.** = 64. See *Vapour density*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "formulas",
+      "label": "Percentage composition and formulas",
+      "desc": "**Goal:** find the percentage of an element or of water, and work out empirical and molecular formulas. Practise with Exercise 5C.",
+      "links": [],
+      "children": [
+        {
+          "id": "percent-element",
+          "label": "Percentage of an element",
+          "type": "core",
+          "desc": "**Percentage composition is the percentage by mass of each element in a compound.**\n\n**% of element = (mass of the element in one mole ÷ molar mass) × 100**\n\nCount **all** the atoms of that element in the formula.\n\n**Worked example:** the percentage of nitrogen in ammonium sulphate, (NH₄)₂SO₄.\n\nGiven: M = 132; nitrogen = 2 × 14 = 28\n\nFormula: % N = 28 ÷ 132 × 100\n\nSubstitute: 0.2121 × 100\n\nAnswer: **21.2%**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: the percentage of calcium in calcium carbonate, CaCO₃.",
+              "a": "40 ÷ 100 × 100 = **40%**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "percent-water",
+          "label": "Percentage of water in crystals",
+          "type": "core",
+          "desc": "Treat the water of crystallisation as **one block**, mass 18 for each H₂O.\n\n**Worked example:** the percentage of water in white vitriol, ZnSO₄·7H₂O.\n\nMolar mass: 65 + 32 + 64 + 126 = 287\n\nWater: 7 × 18 = 126\n\n% water = 126 ÷ 287 × 100 = **43.9%**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: the percentage of water in green vitriol, FeSO₄·7H₂O.",
+              "a": "M = 56 + 32 + 64 + 126 = 278. 126 ÷ 278 × 100 = **45.3%**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "empirical",
+          "label": "Empirical formula",
+          "type": "core",
+          "desc": "**The empirical formula is the simplest formula. It gives the simplest whole-number ratio of the atoms in a molecule.** Glucose, C₆H₁₂O₆, has the empirical formula **CH₂O**.\n\n**From percentages:**\n\n1. If one element's % is missing, it is **100 minus the rest**.\n2. Divide each % by its **atomic mass**.\n3. Divide every answer by the **smallest**.\n4. If you get something like 1.5 or 2.67, multiply all by **2 or 3** to make whole numbers.\n5. Write the formula.\n\n**Worked example:** Na 32.4%, S 22.5%, O 45.1%. The working is in the picture: the ratio is 2 : 1 : 4, so the empirical formula is **Na₂SO₄**.",
+          "links": [
+            {
+              "label": "Wikipedia: empirical formula",
+              "url": "https://en.wikipedia.org/wiki/Empirical_formula"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a hydrocarbon is 81.8% carbon and 18.2% hydrogen. Find its empirical formula.",
+              "a": "C: 81.8 ÷ 12 = 6.82. H: 18.2 ÷ 1 = 18.2. Divide by 6.82: C 1, H **2.67**. Multiply by 3: **C₃H₈**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/empirical-formula-working.png",
+              "caption": "Empirical formula working, step by step"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "molecular",
+          "label": "Molecular formula",
+          "type": "core",
+          "desc": "**The molecular formula gives the actual number of atoms of each element in one molecule.**\n\n1. Find the **empirical formula mass**.\n2. Find the **molecular mass** (often from M = 2 × V.D.).\n3. **n = molecular mass ÷ empirical formula mass.**\n4. Multiply the empirical formula by n.\n\n**Worked example:** empirical formula CH₂, vapour density 28.\n\nGiven: empirical formula mass = 14; V.D. = 28\n\nFormula: M = 2 × V.D.; n = M ÷ 14\n\nSubstitute: M = 56; n = 56 ÷ 14 = 4\n\nAnswer: **C₄H₈**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: empirical formula CH₂O, molecular mass 180.",
+              "a": "CH₂O = 30. n = 180 ÷ 30 = 6. **C₆H₁₂O₆** (glucose)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "hydrate-formula",
+          "label": "Finding the formula of a hydrate",
+          "type": "core",
+          "desc": "Heat the crystals; the **mass lost is water**. Then compare moles.\n\n**Worked example:** 14.35 g of ZnSO₄·xH₂O leaves 8.05 g of anhydrous ZnSO₄ (M = 161). Find x.\n\nWater lost: 14.35 − 8.05 = 6.3 g\n\nMoles of water: 6.3 ÷ 18 = 0.35\n\nMoles of ZnSO₄: 8.05 ÷ 161 = 0.05\n\nx = 0.35 ÷ 0.05 = **7**: ZnSO₄·7H₂O",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: 14.3 g of washing soda, Na₂CO₃·xH₂O, leaves 5.3 g of Na₂CO₃ (M = 106). Find x.",
+              "a": "Water: 9.0 g = 0.5 mole. Na₂CO₃: 5.3 ÷ 106 = 0.05 mole. x = 0.5 ÷ 0.05 = **10**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-formulas",
+          "label": "Quick check: percentages and formulas",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "What is the empirical formula of glucose, C₆H₁₂O₆?",
+              "options": [
+                "C₆H₁₂O₆",
+                "C₂H₄O₂",
+                "CHO",
+                "CH₂O"
+              ],
+              "answer": 3,
+              "why": "Divide 6 : 12 : 6 by **6**: 1 : 2 : 1. See *Empirical formula*."
+            },
+            {
+              "q": "What percentage of water is oxygen by mass? (H = 1, O = 16)",
+              "options": [
+                "50%",
+                "11.1%",
+                "66.7%",
+                "88.9%"
+              ],
+              "answer": 3,
+              "why": "16 ÷ 18 × 100 = **88.9%**. Not 66.7%: that is the share of **atoms** that are hydrogen. See *Percentage of an element*."
+            },
+            {
+              "q": "A compound has empirical formula CH and molecular mass 78. Its molecular formula is:",
+              "options": [
+                "CH",
+                "C₆H₆",
+                "C₂H₂",
+                "C₃H₃"
+              ],
+              "answer": 1,
+              "why": "CH = 13. n = 78 ÷ 13 = **6**. See *Molecular formula*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "equations",
+      "label": "Calculations from equations",
+      "desc": "**Goal:** use a balanced equation to find masses and volumes, and handle purity, yield and a limiting reagent. Practise with Exercise 5D.",
+      "links": [],
+      "children": [
+        {
+          "id": "equation-tells",
+          "label": "What an equation tells you",
+          "type": "core",
+          "desc": "A balanced equation is a **recipe in moles**. The numbers in front give:\n\n- the **molecules** (and **moles**) that react and form;\n- the **masses**, using the molar masses;\n- the **volumes** of gases at STP (22.4 L per mole).\n\n**Method:** write the balanced equation, put the moles (and masses or volumes) under the substances you need, then scale.\n\n**Worked example:** CaCO₃ → CaO + CO₂. 1 mole (**100 g**) of calcium carbonate gives 1 mole (**56 g**) of CaO and 1 mole (**44 g**, or **22.4 L** at STP) of CO₂.",
+          "links": [
+            {
+              "label": "Wikipedia: stoichiometry",
+              "url": "https://en.wikipedia.org/wiki/Stoichiometry"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: in 2KClO₃ → 2KCl + 3O₂, how many moles of oxygen come from 4 moles of KClO₃?",
+              "a": "2 gives 3, so 4 gives **6 moles**."
+            }
+          ],
+          "images": [
+            {
+              "src": "images/reading-an-equation.png",
+              "caption": "One balanced equation, read three ways"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mass-mass",
+          "label": "Mass to mass",
+          "type": "core",
+          "desc": "**Worked example:** what mass of zinc chloride forms when 13 g of zinc reacts with excess acid? (Zn + 2HCl → ZnCl₂ + H₂)\n\nGiven: m(Zn) = 13 g, Zn = 65; ZnCl₂ = 136\n\nFormula: moles Zn = m ÷ 65; 1 Zn gives 1 ZnCl₂\n\nSubstitute: 13 ÷ 65 = 0.2 mole; 0.2 × 136\n\nAnswer: **27.2 g of ZnCl₂**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: 2Mg + O₂ → 2MgO. What mass of MgO forms from 6 g of magnesium?",
+              "a": "6 ÷ 24 = 0.25 mole Mg → 0.25 mole MgO. 0.25 × 40 = **10 g**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mass-volume",
+          "label": "Mass to volume, and back",
+          "type": "core",
+          "desc": "**Worked example:** 10 g of marble reacts with excess dilute HCl. What volume of CO₂ forms at STP? (CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂)\n\nGiven: m(CaCO₃) = 10 g, M = 100\n\nFormula: moles = m ÷ M; 1 CaCO₃ gives 1 CO₂; V = n × 22.4\n\nSubstitute: 10 ÷ 100 = 0.1; 0.1 × 22.4\n\nAnswer: **2.24 L of CO₂**\n\n**Backwards:** what mass of KClO₃ gives 3.36 L of oxygen at STP? (2KClO₃ → 2KCl + 3O₂)\n\nO₂: 3.36 ÷ 22.4 = 0.15 mole\n\nKClO₃: 0.15 × 2 ÷ 3 = 0.1 mole\n\nMass: 0.1 × 122.5 = **12.25 g**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what volume of hydrogen at STP comes from 13 g of zinc with excess acid?",
+              "a": "0.2 mole Zn gives 0.2 mole H₂. 0.2 × 22.4 = **4.48 L**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "purity-yield",
+          "label": "Purity and percentage yield",
+          "type": "core",
+          "desc": "- **Impure sample:** first find the mass of the **pure** substance.\n- **Percentage yield = actual mass ÷ expected mass × 100.**\n\n**Worked example:** 50 g of limestone is 80% calcium carbonate. What mass of quicklime can it give? (CaCO₃ → CaO + CO₂)\n\nPure CaCO₃: 50 × 80 ÷ 100 = 40 g = 0.4 mole\n\nCaO: 0.4 × 56 = **22.4 g**\n\nIf only 20 g is collected, yield = 20 ÷ 22.4 × 100 = **89.3%**",
+          "links": [
+            {
+              "label": "Wikipedia: yield (chemistry)",
+              "url": "https://en.wikipedia.org/wiki/Yield_(chemistry)"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: 25 g of copper carbonate is heated (CuCO₃ → CuO + CO₂; CuCO₃ = 123.5, CuO = 79.5). 14 g of CuO is obtained. Percentage yield?",
+              "a": "Expected: 25 ÷ 123.5 × 79.5 = 16.09 g. Yield = 14 ÷ 16.09 × 100 = **87.0%**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "limiting-reagent",
+          "label": "Which reactant runs out?",
+          "type": "optional",
+          "desc": "When **both** amounts are given, find which one is used up first: the **limiting reagent**. Calculate the products from it.\n\n**Worked example:** 4 g of hydrogen and 40 g of oxygen react. (2H₂ + O₂ → 2H₂O)\n\nH₂: 4 ÷ 2 = 2 moles. O₂: 40 ÷ 32 = 1.25 moles.\n\n2 moles of H₂ need only 1 mole (32 g) of O₂.\n\nHydrogen runs out. Oxygen left: 40 − 32 = **8 g**.\n\nWater: 2 moles × 18 = **36 g**",
+          "links": [
+            {
+              "label": "Wikipedia: limiting reagent",
+              "url": "https://en.wikipedia.org/wiki/Limiting_reagent"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-equations",
+          "label": "Quick check: calculations from equations",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "CaCO₃ → CaO + CO₂. What mass of carbon dioxide comes from 100 g of calcium carbonate?",
+              "options": [
+                "56 g",
+                "44 g",
+                "22.4 g",
+                "100 g"
+              ],
+              "answer": 1,
+              "why": "1 mole (100 g) gives 1 mole of CO₂: **44 g**. See *What an equation tells you*."
+            },
+            {
+              "q": "Zn + 2HCl → ZnCl₂ + H₂. How many moles of hydrogen come from 0.5 mole of zinc?",
+              "options": [
+                "0.5",
+                "2",
+                "0.25",
+                "1"
+              ],
+              "answer": 0,
+              "why": "1 Zn gives **1** H₂. Use the **mole ratio**, not the 2 in front of HCl. See *Mass to mass*."
+            },
+            {
+              "q": "2H₂ + O₂ → 2H₂O. What volume of oxygen burns 10 L of hydrogen?",
+              "options": [
+                "5 L",
+                "10 L",
+                "20 L",
+                "2 L"
+              ],
+              "answer": 0,
+              "why": "2 volumes of H₂ need **1** of O₂. See *Mass to volume, and back*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "exam-toolkit",
+      "label": "Exam toolkit: words, numericals and reasons",
+      "desc": "**Goal:** collect the marks for definitions and laws, numericals in four lines, and 'give reasons'.",
+      "links": [],
+      "children": [
+        {
+          "id": "definitions",
+          "label": "Definitions to learn word for word",
+          "type": "core",
+          "desc": "- **Gay-Lussac's law:** when gases react, they do so in volumes which bear a simple ratio to one another, and to the volume of the gaseous product, provided all volumes are measured at the same temperature and pressure.\n- **Avogadro's law:** equal volumes of all gases under similar conditions of temperature and pressure contain the same number of molecules.\n- **Atomicity:** the number of atoms in one molecule of an element.\n- **Relative atomic mass:** the number of times one atom of an element is heavier than 1/12 of the mass of a carbon-12 atom.\n- **Relative molecular mass:** the number of times one molecule of a substance is heavier than 1/12 of the mass of a carbon-12 atom.\n- **Gram atomic mass:** the atomic mass of an element expressed in grams.\n- **Mole:** the amount of a substance containing as many particles as there are atoms in exactly 12 g of carbon-12.\n- **Avogadro's number:** the number of particles in one mole of a substance, 6.022 × 10²³.\n- **Molar volume:** the volume occupied by one mole of a gas at STP, 22.4 litres.\n- **Vapour density:** the ratio of the mass of a volume of a gas to the mass of the same volume of hydrogen, at the same temperature and pressure.\n- **Empirical formula:** the simplest whole-number ratio of the atoms in a molecule. **Molecular formula:** the actual number of atoms in a molecule.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: cover the list. State Avogadro's law.",
+              "a": "**Equal volumes** of all gases under **similar conditions of temperature and pressure** contain the **same number of molecules**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "numericals",
+          "label": "Numericals in four lines",
+          "type": "core",
+          "desc": "1. **Given:** the numbers, in grams, litres and kelvin. Write the balanced equation if there is one.\n2. **Formula:** n = m ÷ M, V = n × 22.4, N = n × 6.022 × 10²³, or the mole ratio.\n3. **Substitute:** one step per line.\n4. **Answer:** with its **unit**.\n\n**Worked example:** baking soda is heated: 2NaHCO₃ → Na₂CO₃ + H₂O + CO₂. What volume of CO₂ at STP comes from 4.2 g of NaHCO₃?\n\nGiven: m = 4.2 g, M(NaHCO₃) = 84; 2 NaHCO₃ give 1 CO₂\n\nFormula: n = m ÷ M; moles CO₂ = n ÷ 2; V = moles × 22.4\n\nSubstitute: 4.2 ÷ 84 = 0.05; 0.05 ÷ 2 = 0.025; 0.025 × 22.4\n\nAnswer: **0.56 L of CO₂**",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what volume do 0.5 mole of nitrogen occupy at STP, and how many molecules is that?",
+              "a": "0.5 × 22.4 = **11.2 L**; 0.5 × 6.022 × 10²³ = **3.011 × 10²³ molecules**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "give-reasons",
+          "label": "Give reasons: model answers",
+          "type": "core",
+          "desc": "Try these before opening the answers.",
+          "links": [],
+          "faq": [
+            {
+              "q": "The temperature and pressure must be stated with the volume of a gas.",
+              "a": "A gas's volume **changes** with temperature and pressure. Without them, the volume does not tell us how much gas there is."
+            },
+            {
+              "q": "Equal volumes of hydrogen and helium contain different numbers of atoms.",
+              "a": "They contain the **same number of molecules** (Avogadro). But hydrogen is **diatomic** (H₂) and helium **monoatomic** (He), so hydrogen has **twice** as many atoms."
+            },
+            {
+              "q": "Gay-Lussac's law does not apply to water in the reaction 2H₂ + O₂ → 2H₂O at room temperature.",
+              "a": "At room temperature water is a **liquid**. The law applies only to **gases**."
+            },
+            {
+              "q": "Relative molecular mass is twice the vapour density.",
+              "a": "Vapour density compares a molecule of the gas with a **hydrogen molecule**, whose mass is **2**. So M = 2 × V.D."
+            },
+            {
+              "q": "The empirical and molecular formulas of glucose are different.",
+              "a": "Glucose is C₆H₁₂O₆. Its **simplest ratio** is 1 : 2 : 1 (CH₂O), but each molecule has **six times** that many atoms."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: last-minute revision and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Read the sheet the night before the exam and again on the morning.",
+      "links": [],
+      "children": [
+        {
+          "id": "revision-sheet",
+          "label": "Last-minute revision sheet",
+          "type": "core",
+          "desc": "**The one idea:** a **mole** is a counting number, like a dozen. One mole of anything has **6.022 × 10²³** particles, weighs its **formula mass in grams**, and (if a gas) fills **22.4 L at STP**. Every calculation goes **through moles**.\n\n**Formulas**\n- **n = m ÷ M** (moles = mass in g ÷ molar mass).\n- **Particles = n × 6.022 × 10²³.** Atoms = molecules × atoms per molecule.\n- **Gas volume at STP = n × 22.4 L.**\n- **Mass of one particle = M ÷ 6.022 × 10²³.**\n- **M = 2 × V.D.** (relative molecular mass = 2 × vapour density).\n- **% of element = (mass of element in 1 mole ÷ M) × 100.**\n- **Molecular formula = n × empirical formula**, where **n = M ÷ empirical formula mass**.\n- **Gas equation:** P₁V₁ ÷ T₁ = P₂V₂ ÷ T₂, with T in **kelvin**.\n\n**Units**\n- **STP:** **273 K** (0 °C) and **760 mm Hg** (1 atm). **K = °C + 273.**\n- **1 L = 1 dm³ = 1000 cm³ = 1000 mL.** 22.4 L = **22 400 cm³**.\n- Relative atomic and molecular masses have **no unit** (or amu). Molar mass is in **g**.\n\n**Key points**\n- **Gay-Lussac:** gases react in **simple whole-number ratios by volume** (at the same T and P). Gases only.\n- **Avogadro:** **equal volumes** of all gases at the same T and P contain **equal numbers of molecules**.\n- **Atomicity:** He **1**; H₂, O₂, N₂, Cl₂ **2**; O₃ **3**; P₄ **4**; S₈ **8**.\n- **Relative atomic mass:** how many times one atom is heavier than **1/12** of a carbon-12 atom.\n- **Empirical formula:** the **simplest** whole-number ratio. **Molecular formula:** the **actual** numbers.\n- **Empirical method:** % ÷ atomic mass, ÷ smallest, make whole (× 2 or × 3 if needed).\n- In equation sums, use the **numbers in front** as **mole** (and gas **volume**) ratios.\n\n**Traps:** do **not** use 22.4 L for solids or liquids. **N₂ is 28, not 14.** Change **°C to K** and **cm³ to L** before you start. Volume ratios work **only for gases**; water after cooling is a **liquid**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Gay-Lussac's law of combining volumes applies to:",
+              "options": [
+                "gases only",
+                "all states",
+                "solids only",
+                "liquids only"
+              ],
+              "answer": 0,
+              "why": "Only **gases**; solids and liquids are taken as zero volume."
+            },
+            {
+              "q": "How many atoms are in one mole of oxygen gas, O₂?",
+              "options": [
+                "3 × 6.022 × 10²³",
+                "6.022 × 10²³",
+                "32",
+                "2 × 6.022 × 10²³"
+              ],
+              "answer": 3,
+              "why": "6.022 × 10²³ **molecules**, each with **2** atoms."
+            },
+            {
+              "q": "What is the mass of 0.1 mole of calcium carbonate? (CaCO₃ = 100)",
+              "options": [
+                "100 g",
+                "10 g",
+                "0.1 g",
+                "1 g"
+              ],
+              "answer": 1,
+              "why": "m = n × M = 0.1 × 100 = **10 g**."
+            },
+            {
+              "q": "What volume does 3.2 g of oxygen occupy at STP? (O₂ = 32)",
+              "options": [
+                "22.4 L",
+                "1.12 L",
+                "2.24 L",
+                "3.2 L"
+              ],
+              "answer": 2,
+              "why": "n = 3.2 ÷ 32 = 0.1. V = 0.1 × 22.4 = **2.24 L**."
+            },
+            {
+              "q": "4 g of each gas is taken. Which has the most molecules?",
+              "options": [
+                "CO₂",
+                "N₂",
+                "H₂",
+                "O₂"
+              ],
+              "answer": 2,
+              "why": "Smallest molar mass (2), so **most moles**, so most molecules."
+            },
+            {
+              "q": "What is the mass of one molecule of water? (H₂O = 18)",
+              "options": [
+                "2.99 × 10⁻²³ g",
+                "6.022 × 10²³ g",
+                "18 g",
+                "1.08 × 10²⁵ g"
+              ],
+              "answer": 0,
+              "why": "18 ÷ 6.022 × 10²³ = **2.99 × 10⁻²³ g**."
+            },
+            {
+              "q": "A compound is 50% sulphur and 50% oxygen by mass. Its empirical formula is:",
+              "options": [
+                "SO₃",
+                "SO₂",
+                "S₂O",
+                "SO"
+              ],
+              "answer": 1,
+              "why": "S: 50 ÷ 32 = 1.5625. O: 50 ÷ 16 = 3.125. Ratio **1 : 2**."
+            },
+            {
+              "q": "Empirical formula NO₂, molecular mass 92. The molecular formula is:",
+              "options": [
+                "NO₂",
+                "NO₄",
+                "N₂O₄",
+                "N₄O₂"
+              ],
+              "answer": 2,
+              "why": "NO₂ = 46. n = 92 ÷ 46 = **2**."
+            },
+            {
+              "q": "What percentage of ammonium nitrate, NH₄NO₃, is nitrogen? (N = 14, H = 1, O = 16)",
+              "options": [
+                "17.5%",
+                "28%",
+                "46.7%",
+                "35%"
+              ],
+              "answer": 3,
+              "why": "**2** N atoms: 28 ÷ 80 × 100 = **35%**."
+            },
+            {
+              "q": "2KClO₃ → 2KCl + 3O₂. How many moles of oxygen come from 2 moles of potassium chlorate?",
+              "options": [
+                "2",
+                "6",
+                "1.5",
+                "3"
+              ],
+              "answer": 3,
+              "why": "The equation says **2 → 3** directly."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These are like the harder questions at the end of the chapter. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "fertiliser-nitrogen",
+          "label": "Which fertiliser has the most nitrogen?",
+          "type": "optional",
+          "desc": "A farmer in Punjab compares four fertilisers by their percentage of nitrogen: ammonium nitrate (NH₄NO₃), ammonium sulphate ((NH₄)₂SO₄), urea (CO(NH₂)₂) and calcium nitrate (Ca(NO₃)₂).\n\n- NH₄NO₃: 28 ÷ 80 × 100 = **35%**\n- (NH₄)₂SO₄: 28 ÷ 132 × 100 = **21.2%**\n- CO(NH₂)₂: 28 ÷ 60 × 100 = **46.7%**\n- Ca(NO₃)₂: 28 ÷ 164 × 100 = **17.1%**\n\n**Urea** has the most nitrogen.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lpg-cylinder",
+          "label": "Carbon dioxide from a gas cylinder",
+          "type": "optional",
+          "desc": "A domestic LPG cylinder holds 14.2 kg of gas. Take it as all butane, C₄H₁₀ (2C₄H₁₀ + 13O₂ → 8CO₂ + 10H₂O). What mass of CO₂ goes into the air when it is used up?\n\nMoles of butane: 14 200 ÷ 58 = 244.8\n\nEach butane gives 4 CO₂: 244.8 × 4 = 979.3 moles\n\nMass: 979.3 × 44 = 43 090 g ≈ **43.1 kg**\n\nAbout **three times** the mass of the gas you bought.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "combustion-formula",
+          "label": "A formula from burning",
+          "type": "optional",
+          "desc": "0.42 g of a hydrocarbon burns to give 1.32 g of carbon dioxide. Its vapour density is 21. Find its molecular formula.\n\nCarbon: 1.32 × 12 ÷ 44 = 0.36 g\n\nHydrogen: 0.42 − 0.36 = 0.06 g\n\nMoles: C 0.36 ÷ 12 = 0.03; H 0.06 ÷ 1 = 0.06. Ratio 1 : 2, so **CH₂**.\n\nM = 2 × 21 = 42. n = 42 ÷ 14 = 3: **C₃H₆**.",
+          "links": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThis is the longest and most numerical chapter, and weak students panic at 10²³. The cure is **one habit**: change everything to **moles first**, using the mole map, and write every sum in **four lines**. The laws (Gay-Lussac, Avogadro) are short and come back in every volume question.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- Start with a **dozen** and a **ream** of paper: a mole is just a bigger counting number.\n- Put the **mole map** on the wall and make students trace the road for every sum before they calculate.\n- Insist on **four lines** (Given, Formula, Substitute, Answer) even for easy sums.\n- Check units first: **°C to K**, **cm³ to L**, **kg to g**.\n- Use real objects: weigh out 18 g of water and 58.5 g of salt, and call each 'one mole'.\n- For empirical formulas, use the same **table layout** every time.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 14-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** prerequisites: powers of ten, ratios, atomic masses, the gas equation. Activity: write five huge numbers in standard form.\n- **Period 2:** Gay-Lussac's law; volume problems.\n- **Period 3:** leftover gas; air problems. Exercise 5A, volume questions.\n- **Period 4:** Avogadro's law; atomicity; how Avogadro explains Gay-Lussac. Exercise 5A.\n- **Period 5:** relative atomic and molecular mass; isotopes and averages.\n- **Period 6:** gram atomic and molecular mass; the mole; Avogadro's number. Activity: weigh one mole of water, salt and sugar.\n- **Period 7:** molar volume; the mole map. Exercise 5B.\n- **Period 8:** mass, moles and particles; the mass of one particle.\n- **Period 9:** gas volumes at STP; vapour density. Exercise 5B.\n- **Period 10:** percentage of an element and of water; empirical formula.\n- **Period 11:** molecular formula; formula of a hydrate. Exercise 5C.\n- **Period 12:** what an equation tells; mass to mass; mass to volume.\n- **Period 13:** purity, yield and limiting reagent. Exercise 5D.\n- **Period 14:** the miscellaneous exercises and past ICSE questions; self-test and exit ticket.",
+          "links": [
+            {
+              "label": "Wikipedia: mole (unit)",
+              "url": "https://en.wikipedia.org/wiki/Mole_(unit)"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Using **14** for nitrogen gas instead of **28** (N₂).\n- Using **22.4 L** for a solid or a liquid.\n- Forgetting to convert **°C to K** or **cm³ to L**.\n- Using the numbers in front as **mass** ratios instead of **mole** ratios.\n- Dividing by the **largest** number instead of the smallest in empirical formulas.\n- Including **water** (a liquid after cooling) in the final gas volume.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. State Gay-Lussac's law.",
+              "a": "Gases react in **simple volume ratios** to each other and to gaseous products, at the same T and P."
+            },
+            {
+              "q": "2. How many moles are in 64 g of oxygen gas?",
+              "a": "64 ÷ 32 = **2 moles**."
+            },
+            {
+              "q": "3. What volume do 2 moles of any gas fill at STP?",
+              "a": "**44.8 L.**"
+            },
+            {
+              "q": "4. The V.D. of a gas is 14. What is its molecular mass?",
+              "a": "**28.**"
+            },
+            {
+              "q": "5. What is the empirical formula of C₂H₆?",
+              "a": "**CH₃.**"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,8 +1,12 @@
 {
   "title": "ICSE Class 10 Chemistry, Chapter 3: Acids, Bases and Salts, Step by Step",
   "subtitle": "For students who find chemistry hard. Acids, their kinds, strength and basicity; five reaction patterns and the gas tests; bases and alkalis; indicators and pH; normal, acid and basic salts; how to choose the method to make any salt; and water of crystallisation, efflorescence and deliquescence, in small steps with balanced equations, pictures, quick checks, an exam toolkit and a last-minute revision sheet. Follows the ICSE Class 10 syllabus, Chapter 3 (Acids, Bases and Salts), in the order of Selina Concise Chemistry.",
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "changelog": [
+    {
+      "date": "2026-11-24",
+      "text": "Added a link to the next chapter, Chapter 4: Analytical Chemistry."
+    },
     {
       "date": "2026-11-23",
       "text": "First version: the whole chapter in small steps, with original worked examples, quick checks, a last-minute revision sheet, a self-test and a section for teachers and parents."
@@ -37,6 +41,10 @@
             {
               "label": "Previous chapter: 2. Chemical Bonding",
               "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-chemistry-chemical-bonding"
+            },
+            {
+              "label": "Next chapter: 4. Analytical Chemistry",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-chemistry-analytical-chemistry"
             }
           ],
           "children": []
