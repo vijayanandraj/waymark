@@ -1,0 +1,903 @@
+{
+  "title": "ICSE Class 10 Civics, Chapter 3: The Prime Minister and the Council of Ministers, Step by Step",
+  "subtitle": "For students who find civics hard. The Council of Ministers and its three ranks, the appointment, position and functions of the Prime Minister, the Cabinet and how it differs from the Council, and collective and individual responsibility, held together by one idea (captain and team), in small steps with model answers, quick checks, an exam toolkit and a last-minute revision sheet. Follows the ICSE Class 10 syllabus, Chapter 3 (The Prime Minister and the Council of Ministers), following the syllabus (Total History & Civics chapter numbering).",
+  "updated": "2026-11-24",
+  "changelog": [
+    {
+      "date": "2026-11-24",
+      "text": "First version: the whole chapter in small steps, with model answers, quick checks, a last-minute revision sheet, a self-test and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** know the key words and dates this chapter uses, and the answer shape. Then the rest is easy.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea and the model answer, then do **Your turn**.\n- **Every answer is a point plus one fact:** an article, a number or a name. One point earns one mark.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: captain and team.** The **Prime Minister** is the captain who **picks the team** (the **Council of Ministers**). The team **sinks or swims together** in the **Lok Sabha**: if it loses the House's confidence, **all** go.",
+          "links": [
+            {
+              "label": "Simple Wikipedia: Prime Minister of India (free, easy English)",
+              "url": "https://simple.wikipedia.org/wiki/Prime_Minister_of_India"
+            },
+            {
+              "label": "Last-minute revision sheet for this chapter",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-civics-prime-minister-council-of-ministers#revision-sheet"
+            },
+            {
+              "label": "Previous chapter: 2. The President and the Vice-President",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-civics-president-vice-president"
+            },
+            {
+              "label": "Next chapter: 4. The Supreme Court",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-civics-supreme-court"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 3, *The Prime Minister and the Council of Ministers*, of the Civics part of the ICSE Class 10 History and Civics syllabus. It follows the order of *Total History & Civics* for Class 10.\n\n**Who it is for.** Class 10 students who find civics hard, and want to understand this chapter and score decent marks in it. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** Captain and team. The Prime Minister is the captain who picks the team, the Council of Ministers. The team sinks or swims together in the Lok Sabha: if it loses the House's confidence, all of them go.\n\n**How it is different from the textbook.** This chapter was not in the scanned copy of the textbook, so this roadmap follows the ICSE syllabus and the Constitution directly. One idea, **captain and team**, explains the PM, the Cabinet and the Council, and how responsibility works. Every answer is a **point plus one fact**, with fresh model answers.\n\n**What is inside.**\n- 10 milestones and 36 small steps. The 28 solid steps are the core path. The dashed ones are optional.\n- 35 practice questions with hidden answers.\n- 25 click-to-check questions that say right or wrong, and why: a quick check after each of the 5 main milestones, and a 10-question self-test.\n- A **last-minute revision sheet**: every Article, number, key term and trap on one page.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: picture study and two structured challenge questions, and a section for teachers and parents with a 5-period lesson plan, the mistakes to watch for and a 5-minute exit ticket.\n\n**Can you trust it?** Numbers, ages, terms and article numbers follow the Constitution as it stands today, and where the textbook is out of date (it predates some recent changes) the roadmap says so gently. A computer program checks the numbers against each other and marks every click-to-check answer right. All the model answers are written fresh, so students still get fresh practice from their textbook. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the ICSE syllabus but is not made or endorsed by CISCE or by any publisher. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. What is a portfolio?",
+              "a": "The **department** a minister handles. Wrong? Do *Key words in this chapter*."
+            },
+            {
+              "q": "2. Who picks the team of ministers?",
+              "a": "The **Prime Minister**. Wrong? Do *Captain and team*."
+            },
+            {
+              "q": "3. What happens to the team if it loses the Lok Sabha's confidence?",
+              "a": "**All** of them go. Wrong? Do *Captain and team*."
+            },
+            {
+              "q": "4. How many points for a 2-mark answer?",
+              "a": "**Two**, each with **one fact**. Wrong? Do *How ICSE asks, and the answer shape*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "whos-who",
+          "label": "Key words in this chapter",
+          "type": "core",
+          "desc": "- **Prime Minister (PM):** the **head of government**, the real leader of the country's administration.\n- **Minister:** a member of the government in charge of a **department** (ministry).\n- **Portfolio:** the department a minister handles, like Finance or Defence.\n- **Council of Ministers:** **all** the ministers together, headed by the PM.\n- **Cabinet:** a **small inner group** of the most senior ministers.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is a portfolio?",
+              "a": "The **department** a minister is in charge of, such as **Finance** or **Defence**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "captain-team",
+          "label": "Captain and team",
+          "type": "core",
+          "desc": "This chapter has **one idea**. Think of a cricket team.\n\n- The **captain** (the **Prime Minister**) picks the team and decides who bowls and who fields: the **portfolios**.\n- A few senior players form the **leadership group** (the **Cabinet**) and plan the game.\n- The whole team (the **Council of Ministers**) **wins or loses together**. If it loses the **Lok Sabha's** confidence, **everyone** leaves the field.\n- If the captain leaves, the **whole team** is dissolved.\n\nIn the last chapter, the President signed everything. This chapter is about **who actually decides**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: in the cricket picture, what is the 'leadership group'?",
+              "a": "The **Cabinet**: the senior ministers who make **policy**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "answer-shape",
+          "label": "How ICSE asks, and the answer shape",
+          "type": "core",
+          "desc": "ICSE asks civics in three ways.\n\n- **Multiple choice:** 1 mark. Pick one option.\n- **Short answer:** usually 2 marks. Write **two points**.\n- **Structured question:** parts (a), (b), (c), worth 3 or 4 marks each. Write **one point per mark**.\n\nEach point has **one fact**: an article number, a number or a name. A point without a fact looks vague and loses marks.\n\n**Model answer.** *Mention two functions of the Prime Minister.*\n\n- The PM **forms the Council of Ministers** and allocates **portfolios** to ministers.\n- The PM is the **link** between the **President** and the Cabinet (Article 78).",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is wrong with this answer? 'The PM runs the country.'",
+              "a": "It has **no fact**. Add one: for example, *'The PM allocates portfolios to the ministers.'*"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "council",
+      "label": "The Council of Ministers",
+      "desc": "**Goal:** explain how the Council of Ministers is formed, and its three ranks.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on the composition of the Council of Ministers.",
+      "links": [],
+      "children": [
+        {
+          "id": "forming-council",
+          "label": "Forming the Council of Ministers",
+          "type": "core",
+          "desc": "- **Article 74:** there shall be a **Council of Ministers**, with the **Prime Minister** at its head, to **aid and advise** the President.\n- **Article 75:** the **President** appoints the **PM**, and other ministers **on the PM's advice**.\n- Ministers take an **oath** of office and secrecy before the President.\n- A minister must be an **MP**. Someone who is not must become one within **6 months**, or leave.\n- **Size limit:** at most **15%** of the Lok Sabha's total strength (**91st Amendment (2003)**). With 543 members, that is about **81** ministers.\n- Ministers have **no fixed term**: they stay as long as they keep the **Lok Sabha's confidence**.",
+          "links": [
+            {
+              "label": "Wikipedia: Union Council of Ministers",
+              "url": "https://en.wikipedia.org/wiki/Union_Council_of_Ministers"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: can a person who is not an MP become a minister?",
+              "a": "**Yes**, but he or she must become an **MP** within **6 months**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "three-ranks",
+          "label": "Three ranks of ministers",
+          "type": "core",
+          "desc": "The Council of Ministers has **three ranks**:\n\n- **Cabinet Ministers:** senior ministers who head the most important ministries and form the Cabinet.\n- **Ministers of State:** junior ministers; some hold independent charge of a ministry, others help a Cabinet Minister.\n- **Deputy Ministers:** help Cabinet Ministers and Ministers of State in their work.\n\nOnly **Cabinet Ministers** attend **Cabinet** meetings, unless invited.\n\n**Model answer.** *Name the three categories of ministers.*\n\n- **Cabinet Ministers**, who head the most important ministries.\n- **Ministers of State** and **Deputy Ministers**, who are junior ministers.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which ministers form the Cabinet?",
+              "a": "The **Cabinet Ministers**: the senior ministers who head the most important ministries."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-council",
+          "label": "Quick check: the Council of Ministers",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Who appoints the ministers?",
+              "options": [
+                "The President, on the Prime Minister's advice",
+                "The Lok Sabha by vote",
+                "The Chief Justice",
+                "The Speaker"
+              ],
+              "answer": 0,
+              "why": "See *Forming the Council of Ministers*."
+            },
+            {
+              "q": "A person who is not an MP is made a minister. Within how long must they become an MP?",
+              "options": [
+                "14 days",
+                "1 year",
+                "5 years",
+                "6 months"
+              ],
+              "answer": 3,
+              "why": "Or they must **leave** the ministry. See *Forming the Council of Ministers*."
+            },
+            {
+              "q": "Which is the highest rank of minister?",
+              "options": [
+                "Parliamentary Secretary",
+                "Deputy Minister",
+                "Minister of State",
+                "Cabinet Minister"
+              ],
+              "answer": 3,
+              "why": "See *Three ranks of ministers*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "pm",
+      "label": "The Prime Minister: appointment and position",
+      "desc": "**Goal:** explain how the Prime Minister is appointed, and the PM's position.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on the appointment and position of the Prime Minister.",
+      "links": [],
+      "children": [
+        {
+          "id": "appointing-pm",
+          "label": "How the Prime Minister is appointed",
+          "type": "core",
+          "desc": "- The **President** appoints the PM.\n- Normally, the President must invite the **leader of the party (or coalition)** with a **majority** in the **Lok Sabha**.\n- If **no party** has a majority, the President uses **discretion**: he or she invites the leader most likely to win a **vote of confidence**, and may ask that person to **prove** the majority within a set time.\n- The PM can be a member of **either House**, but must be an MP (or become one within six months).",
+          "links": [
+            {
+              "label": "Wikipedia: Prime Minister of India",
+              "url": "https://en.wikipedia.org/wiki/Prime_Minister_of_India"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: whom does the President invite to form the government?",
+              "a": "The **leader** of the **majority** party or coalition in the **Lok Sabha**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "first-among-equals",
+          "label": "First among equals",
+          "type": "core",
+          "desc": "- The PM is called **'first among equals'**: a minister like the others, but their **leader**.\n- Really, the PM is far more: the **keystone** of the Cabinet arch. Take it out, and the arch falls.\n- If the PM **resigns** or **dies**, the **whole Council** of Ministers is **dissolved**.\n- The PM is the leader of the **majority party**, the **nation's** leader, and India's main face **abroad**.\n\nHow strong a PM is depends on the **majority** in the Lok Sabha and on **personality**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why is the PM called the keystone of the Cabinet arch?",
+              "a": "Because if the PM **resigns or dies**, the **whole Council** of Ministers **falls**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-pm",
+          "label": "Quick check: the Prime Minister",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Whom does the President invite to become Prime Minister?",
+              "options": [
+                "The leader of the majority party or coalition in the Lok Sabha",
+                "Anyone the President likes",
+                "The Chief Justice",
+                "The oldest MP"
+              ],
+              "answer": 0,
+              "why": "See *How the Prime Minister is appointed*."
+            },
+            {
+              "q": "What happens to the Council of Ministers if the Prime Minister resigns?",
+              "options": [
+                "Only the PM leaves",
+                "Nothing changes",
+                "The whole Council is dissolved",
+                "The President becomes PM"
+              ],
+              "answer": 2,
+              "why": "See *First among equals*."
+            },
+            {
+              "q": "The Prime Minister is often called:",
+              "options": [
+                "the head of state",
+                "the Supreme Commander",
+                "first among equals",
+                "the Chairman of the Rajya Sabha"
+              ],
+              "answer": 2,
+              "why": "See *First among equals*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "pm-functions",
+      "label": "The Prime Minister's functions",
+      "desc": "**Goal:** list the main functions of the Prime Minister.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on the functions of the Prime Minister.",
+      "links": [],
+      "children": [
+        {
+          "id": "building-team",
+          "label": "Building the team",
+          "type": "core",
+          "desc": "- **Chooses** the ministers; the President appoints them on the PM's advice.\n- **Allocates portfolios**, and can **change** them (a **reshuffle**).\n- Can **ask a minister to resign**; if he or she refuses, the PM can advise the President to **dismiss** that minister.\n- **Coordinates** the work of all ministries and settles disputes between them.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what can the PM do if a minister refuses to resign?",
+              "a": "Advise the **President** to **dismiss** that minister."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "leading-cabinet",
+          "label": "Leading the Cabinet and the House",
+          "type": "core",
+          "desc": "- **Chairs** Cabinet meetings and sets the **agenda**.\n- Is the **Leader of the Lok Sabha** (if a member of it): announces government policy and answers big questions.\n- Can advise the President to **summon**, **prorogue** or **dissolve** the Lok Sabha.\n- Is the government's chief **spokesman**, at home and **abroad**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: who presides over Cabinet meetings?",
+              "a": "The **Prime Minister**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "link-president",
+          "label": "Link between the President and the Cabinet",
+          "type": "core",
+          "desc": "Under **Article 78**, the PM must:\n\n- tell the President about **all Cabinet decisions** on administration and proposed laws;\n- give the President any **information** he or she asks for;\n- put before the Cabinet any matter a **single minister** decided that the President wants the whole Cabinet to consider.\n\n**Model answer.** *How is the Prime Minister the link between the President and the Cabinet?*\n\n- The PM **informs** the President of all **Cabinet decisions**.\n- The PM gives the President any **information** asked for about administration and laws.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which Article sets out the PM's duty to inform the President?",
+              "a": "**Article 78**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-pm-functions",
+          "label": "Quick check: the PM's functions",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Who allocates portfolios (departments) to ministers?",
+              "options": [
+                "The Cabinet Secretary",
+                "The Speaker",
+                "The President on his own",
+                "The Prime Minister"
+              ],
+              "answer": 3,
+              "why": "See *Building the team*."
+            },
+            {
+              "q": "Under Article 78, the Prime Minister must:",
+              "options": [
+                "vote in every election",
+                "appoint judges alone",
+                "preside over the Rajya Sabha",
+                "keep the President informed of the Cabinet's decisions"
+              ],
+              "answer": 3,
+              "why": "See *Link between the President and the Cabinet*."
+            },
+            {
+              "q": "Who presides over Cabinet meetings?",
+              "options": [
+                "The Vice-President",
+                "The Prime Minister",
+                "The Speaker",
+                "The President"
+              ],
+              "answer": 1,
+              "why": "See *Leading the Cabinet and the House*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "cabinet",
+      "label": "The Cabinet",
+      "desc": "**Goal:** state the functions of the Cabinet, and how it differs from the Council of Ministers.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on the Cabinet and how it differs from the Council of Ministers.",
+      "links": [],
+      "children": [
+        {
+          "id": "inner-circle",
+          "label": "The inner circle",
+          "type": "core",
+          "desc": "- The **Cabinet** is the **small inner group** of senior **Cabinet Ministers**, usually about **20 to 30**.\n- It meets **regularly**, chaired by the PM.\n- Its meetings are **secret**; ministers take an oath of **secrecy**.\n- The original Constitution did not use the word 'Cabinet'. It came in through the **44th Amendment**, in **Article 352**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: who are the members of the Cabinet?",
+              "a": "The senior **Cabinet Ministers**, headed by the **Prime Minister**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "cabinet-does",
+          "label": "What the Cabinet does",
+          "type": "core",
+          "desc": "- **Policy:** decides the government's **policies**, at home and **abroad**.\n- **Laws:** decides which **bills** to bring to Parliament; writes the President's **address**.\n- **Money:** prepares the **budget**; decides **taxes** and spending.\n- **Appointments:** advises the President on top posts: **Governors**, **ambassadors**, **judges**.\n- **Coordination:** settles disputes between ministries.\n- **Emergency:** a national emergency (Article 352) needs the Cabinet's advice **in writing**.\n\n**Model answer.** *State two functions of the Cabinet.*\n\n- It decides the **policies** of the government.\n- It prepares the **budget** and decides on **taxes** and spending.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what part does the Cabinet play in making laws?",
+              "a": "It decides which **bills** to bring before Parliament, and ministers **pilot** them through."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "cabinet-council",
+          "label": "Cabinet and Council side by side",
+          "type": "core",
+          "desc": "- **Size:** the **Council** is large (all three ranks); the **Cabinet** is small (senior ministers).\n- **Role:** the **Cabinet** takes **decisions**; the **Council** carries them **out**.\n- **Meetings:** the **Cabinet** meets **regularly**; the Council **rarely** meets as a whole.\n- **In the Constitution:** the **Council** is in **Article 74**; the Cabinet was mentioned only later (**44th Amendment**).\n\nThe Cabinet is the **heart** of the Council: a small engine inside a big body.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: give two differences between the Cabinet and the Council of Ministers.",
+              "a": "The **Cabinet** is **small** and **makes decisions**; the **Council** is **large** and **carries them out**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-cabinet",
+          "label": "Quick check: the Cabinet",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which body actually makes government policy?",
+              "options": [
+                "The Rajya Sabha",
+                "The Supreme Court",
+                "The whole Council of Ministers",
+                "The Cabinet"
+              ],
+              "answer": 3,
+              "why": "See *What the Cabinet does*."
+            },
+            {
+              "q": "How is the Cabinet different from the Council of Ministers?",
+              "options": [
+                "It is a small inner group of senior ministers",
+                "It never meets",
+                "It has no Prime Minister",
+                "It is larger"
+              ],
+              "answer": 0,
+              "why": "See *Cabinet and Council side by side*."
+            },
+            {
+              "q": "Who prepares the President's address to Parliament?",
+              "options": [
+                "The Speaker",
+                "The Cabinet",
+                "The Election Commission",
+                "The Chief Justice"
+              ],
+              "answer": 1,
+              "why": "See *What the Cabinet does*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "responsibility",
+      "label": "Collective and individual responsibility",
+      "desc": "**Goal:** explain collective and individual responsibility.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on collective and individual responsibility.",
+      "links": [],
+      "children": [
+        {
+          "id": "collective",
+          "label": "Collective responsibility",
+          "type": "core",
+          "desc": "**Article 75:** the Council of Ministers is **collectively responsible** to the **Lok Sabha**. This means:\n\n- the ministers **sink or swim together**;\n- a **Cabinet decision** binds **every** minister, even one who argued against it in private;\n- a minister who cannot support a decision **must resign**;\n- if the Lok Sabha passes a **no-confidence** motion (moved with **50** members' support), or rejects a key bill like the **budget**, the **whole** Council **resigns**.\n\n**Model answer.** *What is meant by collective responsibility?*\n\n- The whole Council of Ministers is responsible **together** to the **Lok Sabha**; a Cabinet decision binds **all** ministers.\n- If the Lok Sabha passes a **no-confidence** motion, the **entire** Council must **resign**.",
+          "links": [
+            {
+              "label": "Wikipedia: Cabinet collective responsibility",
+              "url": "https://en.wikipedia.org/wiki/Cabinet_collective_responsibility"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: a minister publicly opposes a Cabinet decision. What should happen?",
+              "a": "Under collective responsibility, the minister should **resign** (or support the decision in public)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "individual",
+          "label": "Individual responsibility",
+          "type": "core",
+          "desc": "- Each minister is **individually** responsible for the work of his or her **own department**.\n- Ministers hold office during the **pleasure** of the **President**, which in practice means the **Prime Minister's** wish.\n- A minister can be asked to **resign**, or be **dismissed**, for a serious failure or misconduct in the department.\n\nCollective responsibility is to the **Lok Sabha**; individual responsibility is to the **President** (on the PM's advice).",
+          "links": [
+            {
+              "label": "Wikipedia: Individual ministerial responsibility",
+              "url": "https://en.wikipedia.org/wiki/Individual_ministerial_responsibility"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: to whom is a minister individually responsible?",
+              "a": "To the **President** (in practice, the **Prime Minister**)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-responsibility",
+          "label": "Quick check: responsibility",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "To which House is the Council of Ministers collectively responsible?",
+              "options": [
+                "Both Houses equally",
+                "The Rajya Sabha",
+                "The Lok Sabha",
+                "The Supreme Court"
+              ],
+              "answer": 2,
+              "why": "See *Collective responsibility*."
+            },
+            {
+              "q": "A minister disagrees with a Cabinet decision. What should he or she do?",
+              "options": [
+                "Support it in public, or resign",
+                "Ask the Supreme Court",
+                "Ignore it",
+                "Speak against it in Parliament"
+              ],
+              "answer": 0,
+              "why": "See *Collective responsibility*."
+            },
+            {
+              "q": "What is individual responsibility?",
+              "options": [
+                "The President answers for each minister",
+                "Only the PM is responsible",
+                "Every MP is responsible for the budget",
+                "Each minister answers for his or her own department"
+              ],
+              "answer": 3,
+              "why": "See *Individual responsibility*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "exam-toolkit",
+      "label": "Exam toolkit: words and reasons",
+      "desc": "**Goal:** collect the easy marks: key terms, answers in the right shape, 'why' questions and dates.",
+      "links": [],
+      "children": [
+        {
+          "id": "key-terms",
+          "label": "Key terms to learn word for word",
+          "type": "core",
+          "desc": "- **Council of Ministers:** all the ministers of the three ranks, headed by the Prime Minister, who aid and advise the President.\n- **Cabinet:** the small inner group of senior Cabinet Ministers that decides government policy.\n- **Portfolio:** the department or ministry a minister is in charge of.\n- **Collective responsibility:** the principle that the whole Council of Ministers stands or falls together in the Lok Sabha.\n- **Individual responsibility:** the principle that each minister answers for his or her own department, holding office at the pleasure of the President.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: cover the list. Define collective responsibility.",
+              "a": "The whole **Council of Ministers** stands or falls **together**, being responsible to the **Lok Sabha**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "right-shape",
+          "label": "Answers in the right shape",
+          "type": "core",
+          "desc": "**Short answer (2 marks):** two points, each with **one fact**.\n\n**Structured part (3 or 4 marks):** one point per mark. Start each point on a **new line**. Keep each to **one or two sentences**.\n\n**Model answer.** *Describe the position of the Prime Minister. (3 marks)*\n\n- The PM is **first among equals**, the leader of the Council of Ministers.\n- If the PM **resigns or dies**, the **whole Council** is dissolved.\n- The PM is the **link** between the President and the Cabinet, and the **Leader** of the Lok Sabha.\n\n**Three things that lose marks:** saying ministers are responsible to the **Rajya Sabha**; mixing up the **Cabinet** and the **Council**; saying the PM **appoints** ministers directly (the **President** does, on the PM's advice).",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: write a 2-mark answer. 'Mention two functions of the Cabinet.'",
+              "a": "It decides government **policy**, and it prepares the **budget**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "why-questions",
+          "label": "'Why' questions: model answers",
+          "type": "core",
+          "desc": "Try each one in your notebook before you open it.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Why must a minister who disagrees with the Cabinet resign?",
+              "a": "Because of **collective responsibility**: the government must speak with **one voice**."
+            },
+            {
+              "q": "Why does the whole Council fall if the PM resigns?",
+              "a": "The Council is formed **around** the PM; without the PM, it **cannot exist**."
+            },
+            {
+              "q": "Why was a size limit put on the Council of Ministers?",
+              "a": "To stop **jumbo** ministries made to please allies; the **91st Amendment (2003)** capped it at **15%**."
+            },
+            {
+              "q": "Why is the Cabinet more powerful than the full Council?",
+              "a": "It is the small group that actually **makes decisions**; the rest carry them out."
+            },
+            {
+              "q": "Why is the PM the real executive?",
+              "a": "The President acts on the advice of the Council of Ministers, which the **PM leads**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "timeline",
+          "label": "Articles and numbers to learn",
+          "type": "core",
+          "desc": "Read it top to bottom. Say each line aloud once.\n\n- **Article 74:** a Council of Ministers headed by the PM aids and advises the President.\n- **Article 75:** appointment of the PM and ministers; collective responsibility to the Lok Sabha.\n- **Article 78:** the PM's duty to inform the President.\n- **Article 352:** national emergency on the Cabinet's written advice.\n- **6 months:** time a non-MP minister has to become an MP.\n- **15%:** maximum size of the Council, as a share of the Lok Sabha (91st Amendment (2003)).\n- **3:** ranks of ministers.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which Article makes the Council collectively responsible to the Lok Sabha?",
+              "a": "**Article 75**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "picture-study",
+          "label": "Picture study: who is this?",
+          "type": "optional",
+          "desc": "The exam may show a **picture** and ask who it is. Then it asks two or three facts. For each person, learn **who** and **two facts**.\n\n- **The Prime Minister's Office, South Block:** the PM's office in **New Delhi**.\n- **A Cabinet meeting:** chaired by the **PM**; decides **policy**.\n- **Ministers taking the oath at Rashtrapati Bhavan:** administered by the **President**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a picture of ministers taking the oath. Who appoints them, and on whose advice?",
+              "a": "The **President** appoints them, on the **Prime Minister's** advice."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: last-minute revision and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Read the sheet the night before the exam and again on the morning.",
+      "links": [],
+      "children": [
+        {
+          "id": "revision-sheet",
+          "label": "Last-minute revision sheet",
+          "type": "core",
+          "desc": "**The one idea:** **captain and team.** The **Prime Minister** is the captain who **picks the team** (the **Council of Ministers**). The team **sinks or swims together** in the **Lok Sabha**: if it loses the House's confidence, **all** go.\n\n**Numbers and Articles to know**\n- **Article 74:** a Council of Ministers headed by the PM to **aid and advise** the President.\n- **Article 75:** the President appoints the PM, and other ministers **on the PM's advice**; the Council is **collectively responsible** to the Lok Sabha.\n- **Article 78:** the PM keeps the President **informed**.\n- A non-MP minister must become an MP within **6 months**.\n- Size limit: at most **15%** of the Lok Sabha's strength (**91st Amendment (2003)**): about **81** today.\n\n**Key terms**\n- **Council of Ministers:** all ministers of the three ranks, headed by the Prime Minister.\n- **Cabinet:** the **inner circle** of senior (Cabinet) ministers who make policy.\n- **Portfolio:** the department a minister is in charge of.\n- **Collective responsibility:** the whole Council **stands or falls together** in the Lok Sabha.\n- **Individual responsibility:** each minister **answers** for his or her own department.\n\n**Key points**\n- **Three ranks:** **Cabinet Ministers**, **Ministers of State**, **Deputy Ministers**.\n- **Appointment of PM:** leader of the **majority** in the Lok Sabha; in a hung House, the President uses **discretion**.\n- **Position:** **first among equals**; the Council exists only with the PM; if the PM goes, **all** go.\n- **PM's functions:** forms the Council and gives **portfolios**; can **reshuffle** or ask a minister to resign; **chairs** the Cabinet; **link** with the President; **leader of the Lok Sabha**; can advise **dissolution**; chief **spokesman** at home and abroad; **coordinates** ministries.\n- **Cabinet's functions:** makes **policy**; plans **laws** and the President's **address**; prepares the **budget**; advises on **appointments**; handles **foreign policy** and **defence**; advises on **emergencies** (in writing).\n- **Cabinet vs Council:** small vs large; **decides** vs **carries out**; meets **often** vs rarely as a whole.\n\n**Traps:** ministers are appointed by the **President**, but chosen by the **PM**. Responsibility is to the **Lok Sabha**, not the Rajya Sabha. A **no-confidence** motion removes the **whole** Council, not one minister.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which Article says the Council of Ministers will aid and advise the President?",
+              "options": [
+                "Article 74",
+                "Article 78",
+                "Article 123",
+                "Article 352"
+              ],
+              "answer": 0,
+              "why": "See *Forming the Council of Ministers*."
+            },
+            {
+              "q": "What is the largest the Council of Ministers can be?",
+              "options": [
+                "Half the Lok Sabha",
+                "25 ministers",
+                "No limit",
+                "15% of the Lok Sabha's total strength"
+              ],
+              "answer": 3,
+              "why": "Set by the **91st Amendment (2003)**. See *Forming the Council of Ministers*."
+            },
+            {
+              "q": "Which minister may hold independent charge of a ministry?",
+              "options": [
+                "A Minister of State",
+                "A Deputy Minister",
+                "No one",
+                "A Parliamentary Secretary"
+              ],
+              "answer": 0,
+              "why": "See *Three ranks of ministers*."
+            },
+            {
+              "q": "When no party has a majority, how does the President choose a Prime Minister?",
+              "options": [
+                "By asking the Supreme Court",
+                "By discretion, inviting the person most likely to win a vote of confidence",
+                "By appointing the Speaker",
+                "By lottery"
+              ],
+              "answer": 1,
+              "why": "See *How the Prime Minister is appointed*."
+            },
+            {
+              "q": "Who can ask a minister to resign?",
+              "options": [
+                "The Chief Justice",
+                "The Prime Minister",
+                "The Leader of the Opposition",
+                "The Speaker"
+              ],
+              "answer": 1,
+              "why": "See *Building the team*."
+            },
+            {
+              "q": "Who is usually the Leader of the Lok Sabha?",
+              "options": [
+                "The President",
+                "The Prime Minister, if a member of it",
+                "The oldest member",
+                "The Speaker"
+              ],
+              "answer": 1,
+              "why": "See *Leading the Cabinet and the House*."
+            },
+            {
+              "q": "Whose advice does the President follow in dissolving the Lok Sabha, normally?",
+              "options": [
+                "The Chief Justice's",
+                "The Prime Minister's",
+                "The Vice-President's",
+                "The Speaker's"
+              ],
+              "answer": 1,
+              "why": "See *Leading the Cabinet and the House*."
+            },
+            {
+              "q": "Which is a function of the Cabinet?",
+              "options": [
+                "Presiding over the Rajya Sabha",
+                "Judging cases",
+                "Preparing the budget",
+                "Electing the President"
+              ],
+              "answer": 2,
+              "why": "See *What the Cabinet does*."
+            },
+            {
+              "q": "How does the Council of Ministers usually work?",
+              "options": [
+                "Deputy Ministers decide",
+                "The Cabinet decides; the whole Council carries out the decisions",
+                "All ministers vote on every decision",
+                "The President decides alone"
+              ],
+              "answer": 1,
+              "why": "See *Cabinet and Council side by side*."
+            },
+            {
+              "q": "What happens if a no-confidence motion against the government is passed?",
+              "options": [
+                "The whole Council of Ministers resigns",
+                "The President resigns",
+                "Only the Finance Minister resigns",
+                "The Lok Sabha is abolished"
+              ],
+              "answer": 0,
+              "why": "See *Collective responsibility*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These are like the harder questions at the end of the chapter. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "structured-pm",
+          "label": "Structured question: the Prime Minister",
+          "type": "optional",
+          "desc": "A structured question in three parts. Write your answer first, then open the box.\n\n- (a) How is the PM appointed? (3 marks)\n- (b) Three functions of the PM. (3 marks)\n- (c) Why is the PM called the keystone of the Cabinet arch? (4 marks)",
+          "links": [],
+          "faq": [
+            {
+              "q": "Model answer",
+              "a": "(a) By the **President**, who invites the **leader of the majority** in the Lok Sabha; in a hung House, by **discretion**.\n\n(b) **Forms** the Council and allocates **portfolios**; **chairs** the Cabinet; **links** the President and the Cabinet.\n\n(c) The Council is built **around** the PM: the PM chooses and can remove ministers, and if the PM **resigns or dies** the **whole Council** falls."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "structured-cabinet",
+          "label": "Structured question: Cabinet and responsibility",
+          "type": "optional",
+          "desc": "A structured question in three parts. Write your answer first, then open the box.\n\n- (a) Two functions of the Cabinet. (3 marks)\n- (b) Two differences between Cabinet and Council. (3 marks)\n- (c) Collective and individual responsibility. (4 marks)",
+          "links": [],
+          "faq": [
+            {
+              "q": "Model answer",
+              "a": "(a) Decides **policy**; prepares the **budget**.\n\n(b) The Cabinet is **small** and **decides**; the Council is **large** and **carries out** decisions.\n\n(c) **Collective:** the whole Council stands or falls **together** in the **Lok Sabha**. **Individual:** each minister answers for his or her **own department**, at the pleasure of the **President**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThis chapter was not in the scanned textbook, so the roadmap follows the syllabus and the Constitution: the composition of the Council of Ministers, the appointment, position and functions of the Prime Minister, the Cabinet, and collective and individual responsibility.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- Use the **cricket captain** picture: captain, leadership group, whole team.\n- Draw **three circles**: Council (large) containing Cabinet (small) containing the PM.\n- Role-play a Cabinet meeting where one minister disagrees: what must he or she do?\n- Connect to Chapter 2: the President **signs**, the PM and Cabinet **decide**.\n- Keep the Articles on one card: **74, 75, 78**.\n- Insist on **one fact per point**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 5-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** Captain and team; forming the Council; three ranks.\n- **Period 2:** Appointing the PM; first among equals.\n- **Period 3:** The PM's functions. Activity: allocate portfolios to an imaginary team.\n- **Period 4:** The Cabinet; Cabinet vs Council.\n- **Period 5:** Collective and individual responsibility; revision sheet, self-test and exit ticket.",
+          "links": [
+            {
+              "label": "Simple Wikipedia: Prime Minister of India (free, easy English)",
+              "url": "https://simple.wikipedia.org/wiki/Prime_Minister_of_India"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Saying the PM **appoints** ministers directly.\n- Saying ministers are responsible to the **Rajya Sabha**.\n- Mixing up the **Cabinet** and the **Council**.\n- Forgetting the **six-month** rule for non-MP ministers.\n- Saying a no-confidence motion removes **one** minister.\n- Writing functions with **no example**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Who appoints the Prime Minister?",
+              "a": "The **President**."
+            },
+            {
+              "q": "2. Name the three ranks of ministers.",
+              "a": "**Cabinet Ministers, Ministers of State, Deputy Ministers.**"
+            },
+            {
+              "q": "3. Which body makes policy?",
+              "a": "The **Cabinet**."
+            },
+            {
+              "q": "4. To which House is the Council collectively responsible?",
+              "a": "The **Lok Sabha**."
+            },
+            {
+              "q": "5. Which Article sets out the PM's duty to inform the President?",
+              "a": "**Article 78**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

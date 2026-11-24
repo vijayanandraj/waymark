@@ -1,0 +1,1020 @@
+{
+  "title": "ICSE Class 10 Civics, Chapter 2: The President and the Vice-President, Step by Step",
+  "subtitle": "For students who find civics hard. Qualifications, the electoral college and why the election is indirect, term and impeachment, the executive, legislative, financial, judicial, discretionary and emergency powers of the President, and the Vice-President, held together by one idea (head of state, not head of government), in small steps with model answers, quick checks, an exam toolkit and a last-minute revision sheet. Follows the ICSE Class 10 syllabus, Chapter 2 (The President and the Vice-President), in the order of Total History & Civics.",
+  "updated": "2026-11-25",
+  "changelog": [
+    {
+      "date": "2026-11-25",
+      "text": "First version: the whole chapter in small steps, with model answers, quick checks, a last-minute revision sheet, a self-test and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** know the key words and dates this chapter uses, and the answer shape. Then the rest is easy.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea and the model answer, then do **Your turn**.\n- **Every answer is a point plus one fact:** an article, a number or a name. One point earns one mark.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: head of state, not head of government.** The President's **name** is on every order, but the **Prime Minister and ministers decide**. The President acts **on their advice**, except in a few moments: a **hung** Lok Sabha, **returning a bill**, and **emergencies**.",
+          "links": [
+            {
+              "label": "Simple Wikipedia: President of India (free, easy English)",
+              "url": "https://simple.wikipedia.org/wiki/President_of_India"
+            },
+            {
+              "label": "Last-minute revision sheet for this chapter",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-civics-president-vice-president#revision-sheet"
+            },
+            {
+              "label": "Previous chapter: 1. The Union Parliament",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-civics-union-parliament"
+            },
+            {
+              "label": "Next chapter: 3. The Prime Minister and the Council of Ministers",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-civics-prime-minister-council-of-ministers"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 2, *The President and the Vice-President*, of the Civics part of the ICSE Class 10 History and Civics syllabus. It follows the order of *Total History & Civics* for Class 10.\n\n**Who it is for.** Class 10 students who find civics hard, and want to understand this chapter and score decent marks in it. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** Head of state, not head of government. The President's name is on every order, but the Prime Minister and ministers decide. The President acts on their advice, except in a few moments: when no party has a majority, when bills come for signature, and in emergencies.\n\n**How it is different from the textbook.** The textbook lists the President's powers one after another. Here one idea, **head of state, not head of government**, shows which powers are used on advice and which on the President's own judgement, the two electoral colleges are compared, and the Articles sit on one card. The vote-value formula gets a worked example with invented numbers. Every answer is a **point plus one fact**, with fresh model answers.\n\n**What is inside.**\n- 11 milestones and 41 small steps. The 33 solid steps are the core path. The dashed ones are optional.\n- 39 practice questions with hidden answers.\n- 28 click-to-check questions that say right or wrong, and why: a quick check after each of the 6 main milestones, and a 10-question self-test.\n- A **last-minute revision sheet**: every number, Article, key term and trap on one page.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: picture study and two structured challenge questions, and a section for teachers and parents with a 6-period lesson plan, the mistakes to watch for and a 5-minute exit ticket.\n\n**Can you trust it?** Numbers, ages, terms and article numbers follow the Constitution as it stands today, and where the textbook is out of date (it predates some recent changes) the roadmap says so gently. A computer program checks the numbers against each other and marks every click-to-check answer right. All the model answers are written fresh, so students still get fresh practice from their textbook. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the ICSE syllabus but is not made or endorsed by CISCE or by any publisher. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Who is head of government in India?",
+              "a": "The **Prime Minister**. Wrong? Do *Key words in this chapter*."
+            },
+            {
+              "q": "2. On whose advice does the President act?",
+              "a": "The **Council of Ministers**, led by the PM. Wrong? Do *Head of state, not head of government*."
+            },
+            {
+              "q": "3. Name one moment when the President uses discretion.",
+              "a": "Choosing a PM in a **hung** Lok Sabha. Wrong? Do *Head of state, not head of government*."
+            },
+            {
+              "q": "4. How many points for a 2-mark answer?",
+              "a": "**Two**, each with **one fact**. Wrong? Do *How ICSE asks, and the answer shape*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "whos-who",
+          "label": "Key words in this chapter",
+          "type": "core",
+          "desc": "- **Head of state:** the person in whose **name** the country is governed: in India, the **President**.\n- **Head of government:** the person who **actually runs** the government: the **Prime Minister**.\n- **Electoral college:** the group of people who **elect** the President.\n- **Impeachment:** the process for **removing** the President.\n- **Ordinance:** a temporary law made by the President.\n- **Emergency:** a crisis when the Centre gets **extra** powers.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: who is India's head of state, and who is head of government?",
+              "a": "**Head of state:** the President. **Head of government:** the Prime Minister."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "head-of-state",
+          "label": "Head of state, not head of government",
+          "type": "core",
+          "desc": "This chapter has **one idea**. Think of a school where the **principal** runs things, but every certificate is signed in the name of the **chairman** of the trust.\n\n- The **chairman** (the **President**) signs everything, but on the **principal's** advice.\n- The **principal and teachers** (the **Prime Minister and ministers**) actually decide.\n- In a few moments the chairman must **think for himself**: when there is **no clear principal**, or in a **crisis**.\n\nSo in India, the President acts on the **advice** of the Council of Ministers (the **42nd Amendment** made this binding), but has **discretion** in rare cases and big **emergency** powers.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: is the President's power 'real' or 'nominal' in normal times?",
+              "a": "**Nominal**: the President acts on the advice of the **Prime Minister and Council of Ministers**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "answer-shape",
+          "label": "How ICSE asks, and the answer shape",
+          "type": "core",
+          "desc": "ICSE asks civics in three ways.\n\n- **Multiple choice:** 1 mark. Pick one option.\n- **Short answer:** usually 2 marks. Write **two points**.\n- **Structured question:** parts (a), (b), (c), worth 3 or 4 marks each. Write **one point per mark**.\n\nEach point has **one fact**: an article number, a number (age, term, majority) or a name. A point without a fact looks vague and loses marks.\n\n**Model answer.** *State two qualifications for election as President.*\n\n- The person must be a **citizen of India**.\n- The person must have completed **35 years** of age.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is wrong with this answer? 'The person must be respected.'",
+              "a": "It has **no fact**. Add one: for example, *'The person must have completed 35 years of age.'*"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "election",
+      "label": "Electing the President",
+      "desc": "**Goal:** state the qualifications, the electoral college and the reasons for an indirect election.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on the qualifications, the electoral college and the indirect election of the President.",
+      "links": [],
+      "children": [
+        {
+          "id": "pres-qualifications",
+          "label": "Who can become President",
+          "type": "core",
+          "desc": "A person can be elected President if he or she:\n\n- is a **citizen of India**;\n- has completed **35 years** of age;\n- is **qualified** to be a member of the **Lok Sabha**;\n- does **not** hold an **office of profit** under any government. (Being President, Vice-President, Governor or minister does not count.)",
+          "links": [
+            {
+              "label": "Wikipedia: President of India",
+              "url": "https://en.wikipedia.org/wiki/President_of_India"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: can a person be President twice?",
+              "a": "**Yes.** A President can be **re-elected**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "electoral-college",
+          "label": "The electoral college",
+          "type": "core",
+          "desc": "The President is elected **indirectly**, by an **electoral college** of:\n\n- the **elected** members of **both Houses** of Parliament;\n- the **elected** members of the **Legislative Assemblies** of the States, and of **Delhi** and **Puducherry**.\n\n**Nominated** members do **not** vote.\n\n**How votes are weighed:** each MLA's vote has a **value** based on the State's population (**1971 census**), so big and small States count fairly. Value of an MLA's vote = State population ÷ (number of elected MLAs × 1000).\n\n**Worked example** (an invented State): population **5,000,000**, **50** MLAs.\n- 5,000,000 ÷ (50 × 1000) = 5,000,000 ÷ 50,000 = **100**.\n\nThe total value of all MLAs' votes is then shared **equally** among the elected MPs. The election uses **proportional representation by single transferable vote**, by **secret ballot**.",
+          "links": [
+            {
+              "label": "Wikipedia: Single transferable vote",
+              "url": "https://en.wikipedia.org/wiki/Single_transferable_vote"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: name the two groups in the President's electoral college.",
+              "a": "The **elected members of both Houses** of Parliament, and the **elected members of the State Legislative Assemblies** (with Delhi and Puducherry)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "why-indirect",
+          "label": "Why an indirect election?",
+          "type": "core",
+          "desc": "- The President is only a **nominal** head; real power is with the ministers. A **direct** election would give the President a **mandate** to rival the **Prime Minister**.\n- A nationwide direct election would be very **costly** and tiring.\n- MLAs in the electoral college give the **States** a say: the President represents the **whole nation**.\n\n**Model answer.** *Give two reasons for the indirect election of the President.*\n\n- A **direct** election would make the President a **rival** centre of power to the **Prime Minister**.\n- A nationwide direct election would be **very costly**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why are MLAs part of the President's electoral college?",
+              "a": "So that the **States** also have a say, and the President represents the **whole country**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-election",
+          "label": "Quick check: electing the President",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Who elects the President?",
+              "options": [
+                "The people directly",
+                "The Prime Minister",
+                "The Lok Sabha only",
+                "An electoral college of elected MPs and elected MLAs"
+              ],
+              "answer": 3,
+              "why": "**Nominated** members do **not** vote. See *The electoral college*."
+            },
+            {
+              "q": "What is the minimum age for the President?",
+              "options": [
+                "30 years",
+                "40 years",
+                "25 years",
+                "35 years"
+              ],
+              "answer": 3,
+              "why": "See *Who can become President*."
+            },
+            {
+              "q": "Why is the President elected indirectly? Pick one reason.",
+              "options": [
+                "A direct election would make the President a rival to the Prime Minister",
+                "The Supreme Court decides",
+                "Indians cannot vote",
+                "It is cheaper to have no election"
+              ],
+              "answer": 0,
+              "why": "The President is a **nominal** head. See *Why an indirect election?*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "removal",
+      "label": "Term, and how a President leaves",
+      "desc": "**Goal:** state the President's term and the procedure for impeachment.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on the term and the impeachment of the President.",
+      "links": [],
+      "children": [
+        {
+          "id": "pres-term",
+          "label": "Term, resignation and vacancy",
+          "type": "core",
+          "desc": "- The President holds office for **5 years**, and can be **re-elected**.\n- The President can **resign** by writing to the **Vice-President**.\n- The President can be **removed** by **impeachment**.\n- If the office falls vacant, the **Vice-President** acts as President until a new one is elected (within **six months**).",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: to whom does the President send a resignation?",
+              "a": "The **Vice-President**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "impeachment",
+          "label": "Impeachment",
+          "type": "core",
+          "desc": "**Ground:** **violation of the Constitution**.\n\n- A charge can start in **either House**, with **14 days'** written notice signed by **one-fourth** of its members.\n- That House must pass it by **two-thirds** of its **total** membership.\n- The **other House investigates** the charge; the President may defend himself or herself.\n- If it also passes the charge by **two-thirds** of its total membership, the President is **removed** from that date.\n\nNo President of India has ever been impeached.\n\n**Model answer.** *Describe the procedure for impeaching the President. (2 points)*\n\n- A charge of **violating the Constitution** is brought in either House with **14 days'** notice and passed by **two-thirds** of its total members.\n- The **other House** investigates; if it also passes it by **two-thirds**, the President is **removed**.",
+          "links": [
+            {
+              "label": "Wikipedia: President of India",
+              "url": "https://en.wikipedia.org/wiki/President_of_India"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: on what ground can a President be impeached?",
+              "a": "**Violation of the Constitution.**"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-removal",
+          "label": "Quick check: term and impeachment",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "What is the President's term?",
+              "options": [
+                "6 years",
+                "4 years",
+                "5 years",
+                "For life"
+              ],
+              "answer": 2,
+              "why": "Re-election is allowed. See *Term, resignation and vacancy*."
+            },
+            {
+              "q": "On what ground can the President be impeached?",
+              "options": [
+                "Violation of the Constitution",
+                "Old age",
+                "Any reason the PM gives",
+                "Losing a no-confidence vote"
+              ],
+              "answer": 0,
+              "why": "See *Impeachment*."
+            },
+            {
+              "q": "What majority does each House need to impeach the President?",
+              "options": [
+                "One-fourth",
+                "Unanimous",
+                "A simple majority",
+                "Two-thirds of its total membership"
+              ],
+              "answer": 3,
+              "why": "**One-fourth** of members must **sign** the notice. See *Impeachment*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "normal-powers",
+      "label": "The President's everyday powers",
+      "desc": "**Goal:** list the President's executive, legislative and financial powers.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on the executive, legislative and financial powers of the President.",
+      "links": [],
+      "children": [
+        {
+          "id": "advice",
+          "label": "Acting on advice",
+          "type": "core",
+          "desc": "The Constitution says there shall be a **Council of Ministers**, headed by the **Prime Minister**, to **aid and advise** the President.\n\n- Since the **42nd Amendment** (1976), the President **must** act on that advice.\n- Since the **44th Amendment** (1978), the President may send advice back **once** for reconsideration, but must then accept it.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which amendment made the ministers' advice binding on the President?",
+              "a": "The **42nd Amendment** (1976)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "executive-powers",
+          "label": "Executive powers",
+          "type": "core",
+          "desc": "All executive action is taken **in the President's name**. The President **appoints**:\n\n- the **Prime Minister**, and other ministers on the PM's advice;\n- the **Chief Justice** and judges of the **Supreme Court** and **High Courts**;\n- **Governors** of States, the **Attorney General**, the **Comptroller and Auditor General**, the **Election Commissioners**, members of the **UPSC**;\n- **ambassadors**; and receives foreign envoys.\n\nThe President also runs the **Union Territories** through administrators.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: name two officials appointed by the President.",
+              "a": "The **Chief Justice of India** and the **Governors** of States."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "legislative-powers",
+          "label": "Legislative powers",
+          "type": "core",
+          "desc": "- **Summons** and **prorogues** the Houses; can **dissolve** the Lok Sabha.\n- **Addresses** both Houses at the first session after each **general election** and at the start of the **first session each year**.\n- Can send **messages** to Parliament.\n- **Nominates 12** members to the Rajya Sabha.\n- **Assent:** no bill becomes law without the President's signature.\n- **Ordinances** (Article 123): makes temporary laws when Parliament is **not in session**.\n\n**Model answer.** *State two legislative powers of the President.*\n\n- No bill becomes law without the President's **assent**.\n- The President can issue **ordinances** when Parliament is not in session (Article 123).",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: when can the President issue an ordinance?",
+              "a": "When **Parliament is not in session** and immediate action is needed."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "financial-powers",
+          "label": "Financial powers",
+          "type": "core",
+          "desc": "- A **Money Bill** can be introduced only with the President's **recommendation**.\n- The **budget** (Annual Financial Statement) is laid before Parliament in the President's name.\n- The President can give advances from the **Contingency Fund of India** for unforeseen spending.\n- Appoints a **Finance Commission** every **five years** to share taxes between the Centre and States.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: give one financial power of the President.",
+              "a": "A **Money Bill** can be introduced only with the President's **recommendation**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-normal-powers",
+          "label": "Quick check: everyday powers",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "On whose advice does the President normally act?",
+              "options": [
+                "Anyone the President chooses",
+                "The Chief Justice",
+                "The Speaker",
+                "The Prime Minister and the Council of Ministers"
+              ],
+              "answer": 3,
+              "why": "Made binding by the **42nd Amendment**. See *Head of state, not head of government*."
+            },
+            {
+              "q": "Which is a legislative power of the President?",
+              "options": [
+                "Presiding over the Lok Sabha",
+                "Judging cases",
+                "Deciding Money Bills",
+                "Issuing ordinances when Parliament is not in session"
+              ],
+              "answer": 3,
+              "why": "Under **Article 123**. See *Legislative powers*."
+            },
+            {
+              "q": "Which is an executive power of the President?",
+              "options": [
+                "Electing the Speaker",
+                "Appointing the Prime Minister and the judges",
+                "Passing the budget",
+                "Voting in the Lok Sabha"
+              ],
+              "answer": 1,
+              "why": "See *Executive powers*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "special-powers",
+      "label": "Judicial, military and discretionary powers",
+      "desc": "**Goal:** state the President's judicial and military powers, and the cases where the President uses discretion.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on the judicial and discretionary powers of the President.",
+      "links": [],
+      "children": [
+        {
+          "id": "judicial-military",
+          "label": "Judicial and military powers",
+          "type": "core",
+          "desc": "- **Pardon** (Article 72): the President can **pardon**, reduce or suspend a sentence, including a **death sentence** and a **court-martial** sentence.\n- **Immunity:** while in office, the President is **not answerable** to any court, and no criminal case can be started.\n- Appoints the **judges**.\n- **Military:** the President is the **Supreme Commander** of the **Army, Navy and Air Force**, appoints their **chiefs**, and declares **war and peace** (subject to Parliament).",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is the President's power of pardon?",
+              "a": "Under Article 72, the President can **pardon** a convict or **reduce/suspend** a sentence, even a **death sentence**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "discretionary",
+          "label": "Discretionary powers",
+          "type": "core",
+          "desc": "In a few situations the President uses **personal judgement**:\n\n- **Hung Lok Sabha:** no party has a majority, so the President chooses whom to invite as **Prime Minister**.\n- **Lost majority:** a ministry that has lost its majority but **refuses to resign** can be **dismissed**.\n- **Dissolution:** deciding whether to **dissolve** the Lok Sabha on the advice of a ministry that has lost its majority.\n- **Returning a bill:** a non-money bill can be sent back **once**; if Parliament passes it again, the President must sign.\n\n**Model answer.** *Mention two discretionary powers of the President.*\n\n- Appointing a **Prime Minister** when **no party** has a clear majority in the Lok Sabha.\n- **Returning** a non-money bill to Parliament **once** for reconsideration.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what happens if Parliament passes a returned bill again?",
+              "a": "The President **must** give assent."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-special-powers",
+          "label": "Quick check: discretion and pardons",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "When can the President use discretion in appointing a Prime Minister?",
+              "options": [
+                "Only in a war",
+                "Always",
+                "Never",
+                "When no party has a clear majority in the Lok Sabha"
+              ],
+              "answer": 3,
+              "why": "See *Discretionary powers*."
+            },
+            {
+              "q": "How many times can the President return a non-money bill for reconsideration?",
+              "options": [
+                "Twice",
+                "Never",
+                "Once",
+                "As often as wished"
+              ],
+              "answer": 2,
+              "why": "If Parliament passes it again, the President **must** sign. See *Discretionary powers*."
+            },
+            {
+              "q": "Under which Article can the President pardon a convict?",
+              "options": [
+                "Article 352",
+                "Article 72",
+                "Article 32",
+                "Article 123"
+              ],
+              "answer": 1,
+              "why": "See *Judicial and military powers*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "emergency",
+      "label": "Emergency powers",
+      "desc": "**Goal:** explain the three kinds of emergency and their effects.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on the emergency powers of the President.",
+      "links": [],
+      "children": [
+        {
+          "id": "national-emergency",
+          "label": "National emergency",
+          "type": "core",
+          "desc": "**Article 352.** On grounds of **war, external aggression or armed rebellion**.\n\n- Declared on the **written advice of the Cabinet**.\n- Must be **approved** by both Houses within **one month**, by special majority; it then lasts six months at a time.\n\n**Effects:**\n- The Centre can **direct** the States; India works almost like a **unitary** state.\n- Parliament can make laws on the **State List**.\n- The Lok Sabha's term can be **extended** by one year at a time.\n- Some **Fundamental Rights** can be **suspended** (but never the right to life, Article 21).\n\nDeclared in **1962, 1971, 1975**.",
+          "links": [
+            {
+              "label": "Wikipedia: The Emergency (India), 1975 to 1977",
+              "url": "https://en.wikipedia.org/wiki/The_Emergency_(India)"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: give two effects of a national emergency.",
+              "a": "The Centre can **direct** the States, and Parliament can make laws on the **State List**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "state-emergency",
+          "label": "Emergency in a State",
+          "type": "core",
+          "desc": "**Article 356**, also called **President's Rule**: when the **constitutional machinery** in a State **fails**, usually on the **Governor's** report.\n\n- Must be **approved** by Parliament within **two months**.\n- The President **takes over** the State's executive (through the Governor).\n- The State Assembly is **dissolved** or **suspended**; **Parliament** makes laws for the State and passes its **budget**.\n- The **High Court** carries on as usual.",
+          "links": [
+            {
+              "label": "Wikipedia: President's rule",
+              "url": "https://en.wikipedia.org/wiki/President%27s_rule"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what is President's Rule?",
+              "a": "Under Article 356, the **Centre** takes over a State's government when its **constitutional machinery fails**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "financial-emergency",
+          "label": "Financial emergency",
+          "type": "core",
+          "desc": "**Article 360.** When India's **financial stability or credit** is threatened.\n\n- Must be **approved** within **two months**.\n- The Centre can order States to follow **financial rules**.\n- **Salaries** of government servants, and even of **judges**, can be **reduced**.\n- State **Money Bills** can be reserved for the President.\n\nA financial emergency has **never** been declared.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: give one effect of a financial emergency.",
+              "a": "The **salaries** of government servants and even **judges** can be **reduced**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-emergency",
+          "label": "Quick check: emergency powers",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "On what grounds can a national emergency be declared?",
+              "options": [
+                "War, external aggression or armed rebellion",
+                "A Money Bill failing",
+                "A court ruling",
+                "A State election"
+              ],
+              "answer": 0,
+              "why": "**Article 352**. See *National emergency*."
+            },
+            {
+              "q": "What is 'President's Rule'?",
+              "options": [
+                "A financial emergency",
+                "Rule of a State by the Centre when its constitutional machinery fails",
+                "Rule of India by the President alone",
+                "Martial law"
+              ],
+              "answer": 1,
+              "why": "**Article 356**. See *Emergency in a State*."
+            },
+            {
+              "q": "Which emergency has never been declared in India?",
+              "options": [
+                "Financial emergency",
+                "National emergency",
+                "None has been declared",
+                "Emergency in a State"
+              ],
+              "answer": 0,
+              "why": "**Article 360**. See *Financial emergency*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "vp",
+      "label": "The Vice-President",
+      "desc": "**Goal:** state the qualifications, election, term and functions of the Vice-President.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on the Vice-President.",
+      "links": [],
+      "children": [
+        {
+          "id": "electing-vp",
+          "label": "Electing the Vice-President",
+          "type": "core",
+          "desc": "- **Qualifications:** a **citizen** of India; at least **35 years** old; qualified to be a member of the **Rajya Sabha**; no **office of profit**.\n- **Election:** by an electoral college of **all members of both Houses** of Parliament (**elected and nominated**), by **single transferable vote** and **secret ballot**. MLAs do **not** vote.\n- **Term:** **5 years**; can be re-elected.\n- **Removal:** by a **Rajya Sabha** resolution (majority of all its members), agreed to by the **Lok Sabha**, after **14 days'** notice.",
+          "links": [
+            {
+              "label": "Wikipedia: Vice President of India",
+              "url": "https://en.wikipedia.org/wiki/Vice_President_of_India"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: how is the Vice-President's electoral college different from the President's?",
+              "a": "It has **all MPs** (elected **and** nominated) but **no MLAs**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "vp-does",
+          "label": "What the Vice-President does",
+          "type": "core",
+          "desc": "- **Ex-officio Chairman of the Rajya Sabha:** presides, keeps order, and has a **casting vote** in a tie.\n- **Acting President:** if the President's office falls vacant (death, resignation, removal), the Vice-President acts as President for up to **6 months**, until a new President is elected. While acting, he or she does not chair the Rajya Sabha.\n- Also **discharges** the President's functions when the President is ill or absent.\n\n**Model answer.** *State two functions of the Vice-President.*\n\n- Presides over the **Rajya Sabha** as its **ex-officio Chairman**.\n- **Acts as President** when the office falls vacant, for up to **6 months**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what happens to the Rajya Sabha chair when the Vice-President acts as President?",
+              "a": "The **Deputy Chairman** presides; the Vice-President does not chair the Rajya Sabha while acting as President."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-vp",
+          "label": "Quick check: the Vice-President",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "What is the Vice-President's main job?",
+              "options": [
+                "Ex-officio Chairman of the Rajya Sabha",
+                "Head of the Cabinet",
+                "Speaker of the Lok Sabha",
+                "Chief of the Army"
+              ],
+              "answer": 0,
+              "why": "See *What the Vice-President does*."
+            },
+            {
+              "q": "Who elects the Vice-President?",
+              "options": [
+                "Members of both Houses of Parliament",
+                "The Rajya Sabha only",
+                "The people",
+                "Elected MPs and MLAs"
+              ],
+              "answer": 0,
+              "why": "Both **elected and nominated** MPs; **no** MLAs. See *Electing the Vice-President*."
+            },
+            {
+              "q": "For how long can the Vice-President act as President in a vacancy?",
+              "options": [
+                "Up to 6 months",
+                "Until the next Lok Sabha",
+                "One month",
+                "Up to 5 years"
+              ],
+              "answer": 0,
+              "why": "A new President must be elected within **six months**. See *What the Vice-President does*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "exam-toolkit",
+      "label": "Exam toolkit: words and reasons",
+      "desc": "**Goal:** collect the easy marks: key terms, answers in the right shape, 'why' questions and dates.",
+      "links": [],
+      "children": [
+        {
+          "id": "key-terms",
+          "label": "Key terms to learn word for word",
+          "type": "core",
+          "desc": "- **Electoral college (President):** the elected members of both Houses of Parliament and of the State Legislative Assemblies (with Delhi and Puducherry).\n- **Impeachment:** the procedure for removing the President for violating the Constitution.\n- **Ordinance:** a temporary law issued by the President when Parliament is not in session.\n- **Pardon:** the President's power to forgive a convict or reduce a sentence, under Article 72.\n- **National emergency:** an emergency under Article 352 on grounds of war, external aggression or armed rebellion.\n- **President's Rule:** Central rule over a State under Article 356 when its constitutional machinery fails.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: cover the list. What is President's Rule?",
+              "a": "**Central rule** over a State under **Article 356** when its **constitutional machinery fails**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "right-shape",
+          "label": "Answers in the right shape",
+          "type": "core",
+          "desc": "**Short answer (2 marks):** two points, each with **one fact**.\n\n**Structured part (3 or 4 marks):** one point per mark. Start each point on a **new line**. Keep each to **one or two sentences**.\n\n**Model answer.** *State three executive powers of the President. (3 marks)*\n\n- Appoints the **Prime Minister** and, on the PM's advice, other ministers.\n- Appoints the **Chief Justice** and judges of the Supreme Court and High Courts.\n- Appoints **Governors** of States and **ambassadors**.\n\n**Three things that lose marks:** saying **nominated** MPs vote for the President; mixing up Articles **352, 356 and 360**; writing that the President can return a bill **many times**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: write a 2-mark answer. 'What is meant by the President's discretionary powers? Give one.'",
+              "a": "Powers the President uses on **personal judgement**, not ministers' advice; for example, choosing a **PM** in a **hung** Lok Sabha."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "why-questions",
+          "label": "'Why' questions: model answers",
+          "type": "core",
+          "desc": "Try each one in your notebook before you open it.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Why is the President called a nominal head?",
+              "a": "All powers are used on the **advice** of the **Council of Ministers**."
+            },
+            {
+              "q": "Why are State MLAs part of the President's election?",
+              "a": "So the **States** have a say and the President represents the **whole nation**."
+            },
+            {
+              "q": "Why are judges' salaries normally protected, but cut in a financial emergency?",
+              "a": "To keep the **judiciary independent**; only a **financial crisis** allows a cut."
+            },
+            {
+              "q": "Why can the President return a bill only once?",
+              "a": "So the elected **Parliament** has the final say."
+            },
+            {
+              "q": "Why must the Cabinet give written advice for a national emergency?",
+              "a": "After the **1975** emergency, the **44th Amendment** added this safeguard against misuse."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "timeline",
+          "label": "Numbers to learn",
+          "type": "core",
+          "desc": "Read it top to bottom. Say each line aloud once.\n\n- **35 years:** minimum age, President and Vice-President.\n- **5 years:** term of the President and Vice-President.\n- **14 days:** notice for impeachment (and for removing the Vice-President).\n- **One-fourth:** members who must sign an impeachment notice.\n- **Two-thirds:** of total membership, in each House, to impeach.\n- **6 months:** longest the Vice-President acts as President.\n- **12:** members the President nominates to the Rajya Sabha.\n- **Article 352:** national emergency.\n- **Article 356:** emergency in a State (President's Rule).\n- **Article 360:** financial emergency.\n- **Article 72:** power of pardon.\n- **Article 123:** ordinances.\n- **1962, 1971, 1975:** national emergencies declared.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which Article is the financial emergency?",
+              "a": "**Article 360**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "picture-study",
+          "label": "Picture study: who is this?",
+          "type": "optional",
+          "desc": "The exam may show a **picture** and ask who it is. Then it asks two or three facts. For each person, learn **who** and **two facts**.\n\n- **Rashtrapati Bhavan:** the President's official home in **New Delhi**.\n- **The President taking the oath:** administered by the **Chief Justice of India**.\n- **The President addressing Parliament:** at the **first session** each year and after each **general election**.\n- **The Vice-President in the Rajya Sabha:** **ex-officio Chairman**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a picture of the President addressing both Houses. When must the President do this?",
+              "a": "At the **first session** after each **general election**, and at the start of the **first session each year**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: last-minute revision and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Read the sheet the night before the exam and again on the morning.",
+      "links": [],
+      "children": [
+        {
+          "id": "revision-sheet",
+          "label": "Last-minute revision sheet",
+          "type": "core",
+          "desc": "**The one idea:** **head of state, not head of government.** The President's name is on every order, but the **Prime Minister and ministers decide**. The President acts **on their advice**, except in a few moments: when **no party has a majority**, when bills come for signature, and in **emergencies**.\n\n**Numbers to know**\n- **President:** age **35**; term **5 years**; re-election allowed. Impeachment: notice of **14 days**, signed by **one-fourth** of the House; passed by **two-thirds** of the **total** members in **each** House.\n- **Vice-President:** age **35**; term **5 years**; acts as President for up to **6 months**.\n- **Emergencies:** national (**Article 352**, approve within **one month**); State (**Article 356**, **two months**); financial (**Article 360**, **two months**). National emergencies: **1962, 1971, 1975**.\n- **Ordinances:** **Article 123**. **Pardons:** **Article 72**. Nominates **12** to the Rajya Sabha.\n\n**Key terms**\n- **Electoral college:** the body that elects the President: **elected MPs** and **elected MLAs** (of the States, Delhi and Puducherry).\n- **Proportional representation by single transferable vote:** voters **rank** candidates; the winner needs a **quota**, not just the most votes.\n- **Impeachment:** removing the President for **violating the Constitution**.\n- **Ordinance:** a temporary law made by the President when Parliament is **not in session**.\n- **President's Rule:** the Centre runs a State whose **constitutional machinery has failed**.\n\n**Key points**\n- **Indirect election because:** the President is a **nominal** head; a direct vote would create a **rival** to the PM; a nationwide campaign is **costly**; MLAs give the **States** a say.\n- **Executive:** appoints the **PM**, ministers, **judges**, **Governors**, Attorney General, CAG, Election Commissioners, ambassadors; **Supreme Commander** of the forces.\n- **Legislative:** **summons** and **prorogues** Parliament, **dissolves** the Lok Sabha, addresses it, **assents** to bills, issues **ordinances**, nominates **12**.\n- **Financial:** Money Bills need the President's **recommendation**; budget laid in the President's name; **Contingency Fund**; **Finance Commission**.\n- **Judicial:** **pardons**; **immune** from courts while in office.\n- **Discretionary:** choosing a PM in a **hung** Lok Sabha; dismissing a ministry that has lost its majority; dissolving the Lok Sabha; returning a bill **once**.\n- **Emergency effects:** Centre directs States; Parliament legislates on the **State List**; some **rights** can be suspended (national); salaries cut (financial).\n- **Vice-President:** ex-officio **Chairman of the Rajya Sabha**; elected by **both Houses**; removed by a **Rajya Sabha** resolution agreed by the Lok Sabha.\n\n**Traps:** **nominated** MPs **cannot** vote for the President but **can** vote for the Vice-President; MLAs vote **only** for the President. The President can return a bill **only once**. Article **352** is national, **356** is State, **360** is financial.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which of these is NOT in the electoral college for the President?",
+              "options": [
+                "Nominated members of the Rajya Sabha",
+                "Elected MLAs of Delhi",
+                "Elected MLAs of the States",
+                "Elected members of the Lok Sabha"
+              ],
+              "answer": 0,
+              "why": "See *The electoral college*."
+            },
+            {
+              "q": "In an invented State with 5,000,000 people and 50 MLAs, what is the value of one MLA's vote?",
+              "options": [
+                "10",
+                "100",
+                "50",
+                "1,000"
+              ],
+              "answer": 1,
+              "why": "Population ÷ (MLAs × 1000). See *The electoral college*."
+            },
+            {
+              "q": "To whom does the President address a letter of resignation?",
+              "options": [
+                "The Chief Justice",
+                "The Vice-President",
+                "The Prime Minister",
+                "The Speaker"
+              ],
+              "answer": 1,
+              "why": "See *Term, resignation and vacancy*."
+            },
+            {
+              "q": "Who is the Supreme Commander of India's defence forces?",
+              "options": [
+                "The Defence Minister",
+                "The President",
+                "The Prime Minister",
+                "The Army Chief"
+              ],
+              "answer": 1,
+              "why": "See *Judicial and military powers*."
+            },
+            {
+              "q": "Which is a financial power of the President?",
+              "options": [
+                "Fixing MPs' salaries alone",
+                "Voting on the budget",
+                "Collecting taxes personally",
+                "Recommending Money Bills before they are introduced"
+              ],
+              "answer": 3,
+              "why": "See *Financial powers*."
+            },
+            {
+              "q": "The President must address both Houses together:",
+              "options": [
+                "never",
+                "every week",
+                "at the first session after each general election, and at the start of each year",
+                "only in emergencies"
+              ],
+              "answer": 2,
+              "why": "See *Legislative powers*."
+            },
+            {
+              "q": "For a national emergency, the President acts on:",
+              "options": [
+                "personal choice",
+                "the Governor's report",
+                "a Supreme Court order",
+                "the written advice of the Cabinet"
+              ],
+              "answer": 3,
+              "why": "See *National emergency*."
+            },
+            {
+              "q": "Which happens during President's Rule in a State?",
+              "options": [
+                "Parliament makes laws for the State",
+                "The High Court is closed",
+                "The State becomes a Union Territory forever",
+                "The Lok Sabha is dissolved"
+              ],
+              "answer": 0,
+              "why": "See *Emergency in a State*."
+            },
+            {
+              "q": "What is the minimum age for the Vice-President?",
+              "options": [
+                "45 years",
+                "30 years",
+                "35 years",
+                "25 years"
+              ],
+              "answer": 2,
+              "why": "See *Electing the Vice-President*."
+            },
+            {
+              "q": "Where must a resolution to remove the Vice-President start?",
+              "options": [
+                "In the Lok Sabha",
+                "In the Rajya Sabha",
+                "In the Supreme Court",
+                "In a joint sitting"
+              ],
+              "answer": 1,
+              "why": "With **14 days'** notice. See *Electing the Vice-President*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These are like the harder questions at the end of the chapter. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "structured-election",
+          "label": "Structured question: electing and removing the President",
+          "type": "optional",
+          "desc": "A structured question in three parts. Write your answer first, then open the box.\n\n- (a) The composition of the electoral college. (3 marks)\n- (b) Reasons for an indirect election. (3 marks)\n- (c) The impeachment procedure. (4 marks)",
+          "links": [],
+          "faq": [
+            {
+              "q": "Model answer",
+              "a": "(a) The **elected** members of **both Houses** of Parliament and of the **State Legislative Assemblies** (with Delhi and Puducherry).\n\n(b) The President is a **nominal** head; a direct election would create a **rival** to the PM; it would be **costly**.\n\n(c) Charge of **violating the Constitution** in either House, with **14 days'** notice signed by **one-fourth**; passed by **two-thirds** of total members; the **other House investigates** and passes it by **two-thirds**; the President is removed."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "structured-emergency",
+          "label": "Structured question: emergencies",
+          "type": "optional",
+          "desc": "A structured question in three parts. Write your answer first, then open the box.\n\n- (a) Grounds for a national emergency. (3 marks)\n- (b) Two effects of President's Rule. (3 marks)\n- (c) Two effects of a financial emergency. (4 marks)",
+          "links": [],
+          "faq": [
+            {
+              "q": "Model answer",
+              "a": "(a) **War, external aggression or armed rebellion** (Article 352), on the **written advice** of the Cabinet.\n\n(b) The President **takes over** the State's executive; **Parliament** makes the State's laws and passes its budget.\n\n(c) **Salaries**, even of **judges**, can be cut; State **Money Bills** can be reserved for the President."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThe syllabus asks for the President's qualifications, electoral college, reasons for indirect election, term, impeachment, and executive, legislative, financial, judicial, discretionary and emergency powers; and the Vice-President's qualifications, term and powers.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- Start with the **chairman and principal** picture: who signs, who decides.\n- Draw the two **electoral colleges** side by side: President (elected MPs + elected MLAs), Vice-President (all MPs).\n- Make a **power wheel**: executive, legislative, financial, judicial, discretionary, emergency, with two examples each.\n- Keep the three Articles on one card: **352, 356, 360**.\n- Work the **vote value** example on the board; it makes the 'fair weight' idea concrete.\n- Avoid current office-holders' names in answers; they change. Insist on **one fact per point**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 6-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** Head of state, not head of government; qualifications; electoral college.\n- **Period 2:** Why indirect election; term; impeachment.\n- **Period 3:** Executive, legislative and financial powers.\n- **Period 4:** Judicial, military and discretionary powers.\n- **Period 5:** Emergencies: national, State, financial.\n- **Period 6:** The Vice-President; revision sheet, self-test and exit ticket.",
+          "links": [
+            {
+              "label": "Simple Wikipedia: President of India (free, easy English)",
+              "url": "https://simple.wikipedia.org/wiki/President_of_India"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Saying **nominated** MPs vote for the President.\n- Saying MLAs vote for the **Vice-President**.\n- Mixing up Articles **352, 356, 360**.\n- Saying the President can be impeached for **any** reason (only **violating the Constitution**).\n- Saying the President can return a bill **more than once**.\n- Forgetting that the President acts on **advice** in normal times.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Minimum age for the President?",
+              "a": "**35** years."
+            },
+            {
+              "q": "2. Who elects the President?",
+              "a": "**Elected MPs** and **elected MLAs**."
+            },
+            {
+              "q": "3. Ground for impeachment?",
+              "a": "**Violation of the Constitution.**"
+            },
+            {
+              "q": "4. Which Article is President's Rule?",
+              "a": "**Article 356**."
+            },
+            {
+              "q": "5. Main function of the Vice-President?",
+              "a": "**Chairman of the Rajya Sabha.**"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

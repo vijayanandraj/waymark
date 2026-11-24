@@ -1,0 +1,959 @@
+{
+  "title": "ICSE Class 10 Civics, Chapter 4: The Supreme Court, Step by Step",
+  "subtitle": "For students who find civics hard. The single integrated judiciary, the composition of the Supreme Court and the qualifications, appointment, term and removal of judges, the independence of the judiciary, and its original, writ, appellate, advisory and revisory jurisdiction, judicial review and court of record, held together by one idea (an independent referee with many doors), in small steps with model answers, quick checks, an exam toolkit and a last-minute revision sheet. Follows the ICSE Class 10 syllabus, Chapter 4 (The Supreme Court), in the order of Total History & Civics.",
+  "updated": "2026-11-25",
+  "changelog": [
+    {
+      "date": "2026-11-25",
+      "text": "First version: the whole chapter in small steps, with model answers, quick checks, a last-minute revision sheet, a self-test and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** know the key words and dates this chapter uses, and the answer shape. Then the rest is easy.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea and the model answer, then do **Your turn**.\n- **Every answer is a point plus one fact:** an article, a number or a name. One point earns one mark.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: an independent referee with many doors.** The Supreme Court is the **guardian of the Constitution**. It is made **independent** (safe job, safe pay, no pressure) so it can say **no** to anyone. Cases reach it through many **doors**: original cases, **writs**, **appeals**, **advice** and **review**.",
+          "links": [
+            {
+              "label": "Simple Wikipedia: Supreme Court of India (free, easy English)",
+              "url": "https://simple.wikipedia.org/wiki/Supreme_Court_of_India"
+            },
+            {
+              "label": "Last-minute revision sheet for this chapter",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-civics-supreme-court#revision-sheet"
+            },
+            {
+              "label": "Previous chapter: 3. The Prime Minister and the Council of Ministers",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-civics-prime-minister-council-of-ministers"
+            },
+            {
+              "label": "Next chapter: 5. The High Courts and Subordinate Courts",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-civics-high-courts-subordinate-courts"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 4, *The Supreme Court*, of the Civics part of the ICSE Class 10 History and Civics syllabus. It follows the order of *Total History & Civics* for Class 10.\n\n**Who it is for.** Class 10 students who find civics hard, and want to understand this chapter and score decent marks in it. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** An independent referee with many doors. The Supreme Court is the guardian of the Constitution. It is made independent (safe job, safe pay, no pressure) so it can say no to anyone. Cases reach it through many doors: original cases, writs, appeals, advice and review.\n\n**How it is different from the textbook.** The textbook gives long lists of powers. Here one idea, **an independent referee with many doors**, explains why the Court is independent and how cases reach it, with one example for each door and the Articles on one card. The textbook's judge count is out of date: the roadmap uses the **2026** figure of **38**. Every answer is a **point plus one fact**, with fresh model answers.\n\n**What is inside.**\n- 10 milestones and 39 small steps. The 31 solid steps are the core path. The dashed ones are optional.\n- 38 practice questions with hidden answers.\n- 25 click-to-check questions that say right or wrong, and why: a quick check after each of the 5 main milestones, and a 10-question self-test.\n- A **last-minute revision sheet**: every Article, number, key term, writ and trap on one page.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: picture study and two structured challenge questions, and a section for teachers and parents with a 5-period lesson plan, the mistakes to watch for and a 5-minute exit ticket.\n\n**Can you trust it?** Numbers, ages, terms and article numbers follow the Constitution as it stands today, and where the textbook is out of date (it predates some recent changes) the roadmap says so gently. A computer program checks the numbers against each other and marks every click-to-check answer right. All the model answers are written fresh, so students still get fresh practice from their textbook. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the ICSE syllabus but is not made or endorsed by CISCE or by any publisher. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. What is jurisdiction?",
+              "a": "The **kinds of cases** a court can hear. Wrong? Do *Key words in this chapter*."
+            },
+            {
+              "q": "2. What is at the top of India's ladder of courts?",
+              "a": "The **Supreme Court**. Wrong? Do *One ladder of courts*."
+            },
+            {
+              "q": "3. Why must the Supreme Court be independent?",
+              "a": "To decide **fairly**, even against the government. Wrong? Do *An independent referee with many doors*."
+            },
+            {
+              "q": "4. How many points for a 2-mark answer?",
+              "a": "**Two**, each with **one fact**. Wrong? Do *How ICSE asks, and the answer shape*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "whos-who",
+          "label": "Key words in this chapter",
+          "type": "core",
+          "desc": "- **Judiciary:** the system of **courts** that decides disputes and punishes crimes.\n- **Chief Justice of India (CJI):** head of the Supreme Court.\n- **Jurisdiction:** the **kinds of cases** a court can hear.\n- **Appeal:** asking a **higher** court to change a lower court's decision.\n- **Writ:** a written **order** from a court.\n- **Fundamental Rights:** basic rights the Constitution guarantees, like equality and freedom.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is 'jurisdiction'?",
+              "a": "The **kinds of cases** a court has the **power** to hear and decide."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "one-ladder",
+          "label": "One ladder of courts",
+          "type": "core",
+          "desc": "India has a **single integrated judiciary**: **one ladder** of courts for the whole country.\n\n- At the **top**: the **Supreme Court**.\n- Below it: a **High Court** for each State (or group of States).\n- Below them: **subordinate courts** in every district.\n- The **same laws** apply everywhere, and cases can go **up** by appeal.\n\n(The USA, by contrast, has **two** separate sets of courts: federal and state.)\n\n**Why?** Independent courts protect people's **rights**, guard the **federal** division of powers, and protect **democracy**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is meant by a single integrated judiciary?",
+              "a": "**One** system of courts for the whole country, with the **Supreme Court** at the **top** and the **same** laws everywhere."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "referee",
+          "label": "An independent referee with many doors",
+          "type": "core",
+          "desc": "This chapter has **one idea**. A match needs a **referee** whom **no team** can fire, bribe or bully.\n\n- The **Supreme Court** is India's referee, the **guardian of the Constitution**.\n- It is made **independent**: safe job, safe pay, no pressure.\n- Cases reach it through **many doors**: some **start** there (original), some come up on **appeal**, the President can ask its **advice**, it can **review** its own decisions, and it can **strike down** unconstitutional laws.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why must the referee be independent?",
+              "a": "So that it can decide **fairly**, even against the **government**, without fear."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "answer-shape",
+          "label": "How ICSE asks, and the answer shape",
+          "type": "core",
+          "desc": "ICSE asks civics in three ways.\n\n- **Multiple choice:** 1 mark. Pick one option.\n- **Short answer:** usually 2 marks. Write **two points**.\n- **Structured question:** parts (a), (b), (c), worth 3 or 4 marks each. Write **one point per mark**.\n\nEach point has **one fact**: an article number, a number or a name. A point without a fact looks vague and loses marks.\n\n**Model answer.** *State two qualifications for appointment as a judge of the Supreme Court.*\n\n- The person must be a **citizen of India**.\n- The person must have been a **High Court judge** for at least **5 years** (or a High Court advocate for 10 years).",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is wrong with this answer? 'The person must know law well.'",
+              "a": "It has **no fact**. Add one: for example, *'The person must have been a High Court judge for at least 5 years.'*"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "judges",
+      "label": "Composition and judges",
+      "desc": "**Goal:** state the composition of the Supreme Court and the qualifications, appointment, term and removal of its judges.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on the composition of the Supreme Court and its judges.",
+      "links": [],
+      "children": [
+        {
+          "id": "sc-composition",
+          "label": "Who sits in the Supreme Court",
+          "type": "core",
+          "desc": "- **Article 124** sets up the Supreme Court. It began on **28 January 1950**.\n- It has the **Chief Justice of India** and up to **37** other judges: **38** in all, under the **Supreme Court (Number of Judges) Amendment Act, 2026**.\n- Your textbook says **30** other judges; that was the law until **2019**, and the number has been raised twice since.\n- **Parliament** fixes the number by law.\n- **Acting Chief Justice:** appointed by the President when the CJI is absent.\n- **Ad hoc judges:** High Court judges can be asked to sit when there is no quorum, by the **CJI with the President's consent**.",
+          "links": [
+            {
+              "label": "Wikipedia: Supreme Court of India",
+              "url": "https://en.wikipedia.org/wiki/Supreme_Court_of_India"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: who fixes the number of Supreme Court judges?",
+              "a": "**Parliament**, by law. It is now **38** including the Chief Justice."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "judge-qualifications",
+          "label": "Who can be a judge",
+          "type": "core",
+          "desc": "A person can be appointed a Supreme Court judge if he or she is a **citizen of India** and:\n\n- has been a **High Court judge** for at least **5 years**; **or**\n- has been a **High Court advocate** for at least **10 years**; **or**\n- is, in the **President's** opinion, a **distinguished jurist** (legal scholar).",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: can a famous law professor become a Supreme Court judge?",
+              "a": "**Yes**, if the President thinks he or she is a **distinguished jurist**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "appointing-judges",
+          "label": "Appointing the judges",
+          "type": "core",
+          "desc": "- The **President** appoints the **Chief Justice** and the other judges.\n- The President must **consult** judges of the Supreme Court and High Courts; for other judges, the **CJI** is always consulted.\n- In practice, names are recommended by the **collegium**: the **CJI and the senior-most judges**.\n- Normally, the **senior-most** judge becomes the next CJI.",
+          "links": [
+            {
+              "label": "Wikipedia: Collegium system",
+              "url": "https://en.wikipedia.org/wiki/Collegium_system"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: who recommends names for Supreme Court judges in practice?",
+              "a": "The **collegium**: the **Chief Justice** and the **senior-most** judges."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "term-removal",
+          "label": "Term and removal",
+          "type": "core",
+          "desc": "- A judge serves until the age of **65**.\n- A judge can **resign** by writing to the **President**.\n- **Removal:** only for **proved misbehaviour** or **incapacity**.\n- **Both Houses** must pass an address in the **same session** by a **special majority** (majority of the total membership and two-thirds present and voting). The President then orders removal.\n\nThis is so hard that **no** Supreme Court judge has ever been removed.\n\n**Model answer.** *How can a Supreme Court judge be removed?*\n\n- Only on the ground of **proved misbehaviour or incapacity**.\n- By an address passed by **both Houses** in the same session by **special majority**, followed by the **President's** order.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: at what age do Supreme Court judges retire?",
+              "a": "**65**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-judges",
+          "label": "Quick check: composition and judges",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "How many judges can the Supreme Court have today, including the Chief Justice?",
+              "options": [
+                "38",
+                "25",
+                "34",
+                "31"
+              ],
+              "answer": 0,
+              "why": "Since the **Supreme Court (Number of Judges) Amendment Act, 2026**. See *Who sits in the Supreme Court*."
+            },
+            {
+              "q": "At what age does a Supreme Court judge retire?",
+              "options": [
+                "62",
+                "70",
+                "65",
+                "60"
+              ],
+              "answer": 2,
+              "why": "**62** is for High Court judges. See *Term and removal*."
+            },
+            {
+              "q": "On what grounds can a Supreme Court judge be removed?",
+              "options": [
+                "A no-confidence motion",
+                "Losing an election",
+                "The PM's wish",
+                "Proved misbehaviour or incapacity"
+              ],
+              "answer": 3,
+              "why": "See *Term and removal*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "independence",
+      "label": "Independence of the judiciary",
+      "desc": "**Goal:** explain how the Constitution keeps the judiciary independent of the executive and the legislature.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on the independence of the judiciary.",
+      "links": [],
+      "children": [
+        {
+          "id": "safe-job-pay",
+          "label": "Safe jobs, safe pay",
+          "type": "core",
+          "desc": "- **Appointment:** by the President on the advice of **judges** (the collegium), not just politicians.\n- **Security of tenure:** a judge cannot be removed except by the **very difficult** process of Parliament.\n- **Safe salaries:** paid from the **Consolidated Fund of India**, so Parliament does **not vote** on them each year.\n- Salaries and allowances **cannot be reduced** during a judge's term, except in a **financial emergency**.",
+          "links": [
+            {
+              "label": "Wikipedia: Judicial independence",
+              "url": "https://en.wikipedia.org/wiki/Judicial_independence"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why are judges' salaries charged on the Consolidated Fund?",
+              "a": "So that Parliament does **not vote** on them, and **cannot** use pay to **pressure** judges."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "free-pressure",
+          "label": "Free from pressure",
+          "type": "core",
+          "desc": "- **No discussion** of a judge's conduct in Parliament, except during a **removal** motion.\n- **No practice** after retirement: a retired Supreme Court judge cannot plead in **any court** in India.\n- **Contempt:** the Court can **punish** anyone who insults it or disobeys it.\n- **Own procedure:** it makes its own **rules** and appoints its own **staff**.\n- **Article 50:** the State must **separate** the judiciary from the executive.\n\n**Model answer.** *Give two ways the Constitution ensures the independence of the judiciary.*\n\n- Judges' **salaries** are charged on the **Consolidated Fund** and cannot be cut (except in a financial emergency).\n- Judges can be removed only by a **special majority** of **both Houses** for **proved misbehaviour or incapacity**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why can't a retired Supreme Court judge practise law?",
+              "a": "So that judges are not tempted to **please** anyone for future **work**, and remain **impartial**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-independence",
+          "label": "Quick check: independence",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Where do the salaries of Supreme Court judges come from?",
+              "options": [
+                "The Consolidated Fund of India, without a vote of Parliament",
+                "A yearly vote of the Lok Sabha",
+                "Court fees",
+                "The President's own funds"
+              ],
+              "answer": 0,
+              "why": "So Parliament **cannot** squeeze them. See *Safe jobs, safe pay*."
+            },
+            {
+              "q": "What may a retired Supreme Court judge NOT do?",
+              "options": [
+                "Vote in elections",
+                "Teach law",
+                "Write books",
+                "Practise law in any court in India"
+              ],
+              "answer": 3,
+              "why": "See *Free from pressure*."
+            },
+            {
+              "q": "Why can't Parliament discuss a judge's conduct in normal debate?",
+              "options": [
+                "Parliament has no time",
+                "To protect judges from political pressure",
+                "It is a state subject",
+                "Judges are members of Parliament"
+              ],
+              "answer": 1,
+              "why": "Only during a **removal** motion. See *Free from pressure*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "original",
+      "label": "Original jurisdiction and writs",
+      "desc": "**Goal:** explain the Supreme Court's original jurisdiction and its writs for Fundamental Rights.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on original jurisdiction, Fundamental Rights and writs.",
+      "links": [],
+      "children": [
+        {
+          "id": "original-jurisdiction",
+          "label": "Original jurisdiction",
+          "type": "core",
+          "desc": "**Original jurisdiction** means cases that **start** in the Supreme Court, not in a lower court. Under **Article 131**, it hears disputes:\n\n- between the **Government of India** and one or more **States**;\n- between the Government of India and some States **on one side** and other States **on the other**;\n- between **two or more States**.\n\nThese are **federal** disputes: only the top referee can settle them.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: give one example of a case under original jurisdiction.",
+              "a": "A **dispute between two States**, for example over river water."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "writs",
+          "label": "Writs: the court's orders",
+          "type": "core",
+          "desc": "Under **Article 32**, any person whose **Fundamental Rights** are violated can go **straight** to the Supreme Court. Dr Ambedkar called this Article the **heart and soul** of the Constitution.\n\nThe Court protects rights by issuing **writs**:\n\n- **Habeas corpus:** 'have the body': produce a detained person before the court, so the court can check the detention is lawful.\n- **Mandamus:** 'we command': order an official or body to do a public duty it has failed to do.\n- **Prohibition:** a higher court stops a lower court from going beyond its powers in a case still going on.\n- **Certiorari:** a higher court calls up a case from a lower court and quashes its order, when the lower court has exceeded its powers.\n- **Quo warranto:** 'by what authority': asks a person to show by what right he or she holds a public office.\n\n(The **High Courts** can also issue these writs, under Article 226.)",
+          "links": [
+            {
+              "label": "Wikipedia: Writ",
+              "url": "https://en.wikipedia.org/wiki/Writ"
+            },
+            {
+              "label": "Wikipedia: Habeas corpus",
+              "url": "https://en.wikipedia.org/wiki/Habeas_corpus"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what does 'habeas corpus' mean, and what does it do?",
+              "a": "'**Have the body**.' It orders that a **detained** person be **produced** before the court, so the court can check the detention is **lawful**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-original",
+          "label": "Quick check: original jurisdiction and writs",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which is an example of the Supreme Court's original jurisdiction?",
+              "options": [
+                "Advice to the President",
+                "Reviewing its own judgement",
+                "An appeal from a High Court",
+                "A dispute between the Centre and a State"
+              ],
+              "answer": 3,
+              "why": "**Article 131**. See *Original jurisdiction*."
+            },
+            {
+              "q": "Which writ asks someone to show by what right he or she holds a public office?",
+              "options": [
+                "Quo warranto",
+                "Mandamus",
+                "Certiorari",
+                "Habeas corpus"
+              ],
+              "answer": 0,
+              "why": "See *Writs: the court's orders*."
+            },
+            {
+              "q": "Which writ protects a person from unlawful detention?",
+              "options": [
+                "Prohibition",
+                "Quo warranto",
+                "Mandamus",
+                "Habeas corpus"
+              ],
+              "answer": 3,
+              "why": "See *Writs: the court's orders*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "appellate",
+      "label": "Appellate jurisdiction",
+      "desc": "**Goal:** explain the appeals the Supreme Court hears, and special leave.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on appellate jurisdiction.",
+      "links": [],
+      "children": [
+        {
+          "id": "appeals",
+          "label": "Appeals from the High Courts",
+          "type": "core",
+          "desc": "The Supreme Court is the **highest court of appeal**.\n\n- **Constitutional cases:** when the High Court certifies the case raises a **substantial question** about the **Constitution**.\n- **Civil cases:** when the High Court certifies a **substantial question of law** of **general importance**.\n- **Criminal cases:** an appeal lies as of right if the High Court:\n- **reversed an acquittal** and sentenced the accused to **death**; or\n- took a case from a lower court, **convicted** the accused and sentenced him or her to **death**.\n- Other criminal cases come up if the High Court **certifies** them as fit.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: give one criminal case in which an appeal goes to the Supreme Court as of right.",
+              "a": "When a High Court **reverses an acquittal** and sentences the accused to **death**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "special-leave",
+          "label": "Special leave to appeal",
+          "type": "core",
+          "desc": "- Under **Article 136**, the Supreme Court can grant **special leave** to appeal against the judgement of **any court or tribunal** in India (except military courts).\n- It can do this even when the High Court has **refused** a certificate.\n- It is a wide power, used where there is a grave **injustice**.\n\n**Model answer.** *What is meant by appellate jurisdiction? Give an example.*\n\n- The power to hear **appeals** against judgements of **lower courts**, mainly High Courts.\n- For example, an appeal where a High Court **reversed an acquittal** and sentenced the accused to **death**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is special leave to appeal?",
+              "a": "The Supreme Court's power (Article 136) to hear an appeal from **any court**, even without a High Court **certificate**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-appellate",
+          "label": "Quick check: appellate jurisdiction",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "In a criminal case, an appeal lies to the Supreme Court as of right when:",
+              "options": [
+                "a magistrate is involved",
+                "any fine is imposed",
+                "the trial court acquits",
+                "a High Court reverses an acquittal and sentences the accused to death"
+              ],
+              "answer": 3,
+              "why": "See *Appeals from the High Courts*."
+            },
+            {
+              "q": "What is 'special leave to appeal'?",
+              "options": [
+                "A writ",
+                "Holidays for judges",
+                "The Supreme Court's power to hear an appeal from any court, even without a High Court certificate",
+                "Leave for the President"
+              ],
+              "answer": 2,
+              "why": "**Article 136**. See *Special leave to appeal*."
+            },
+            {
+              "q": "In a civil case, when can an appeal reach the Supreme Court?",
+              "options": [
+                "Always",
+                "Never",
+                "Only if the amount is small",
+                "When the High Court certifies it involves a substantial question of law of general importance"
+              ],
+              "answer": 3,
+              "why": "See *Appeals from the High Courts*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "other-powers",
+      "label": "Advisory, revisory, judicial review and court of record",
+      "desc": "**Goal:** explain the Supreme Court's advisory and revisory jurisdiction, judicial review and its role as a court of record.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on advisory and revisory jurisdiction, judicial review and the court of record.",
+      "links": [],
+      "children": [
+        {
+          "id": "advisory",
+          "label": "Advisory jurisdiction",
+          "type": "core",
+          "desc": "- Under **Article 143**, the **President** can ask the Supreme Court's **opinion** on a question of **law or fact** of public importance.\n- The Court **may** give its opinion.\n- The opinion is **not binding** on the President.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: is the President bound by the Supreme Court's advice?",
+              "a": "**No.** The advisory opinion is **not binding**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "revisory",
+          "label": "Revisory jurisdiction",
+          "type": "core",
+          "desc": "- Under **Article 137**, the Supreme Court can **review** (look again at) its **own** judgements and orders.\n- It can **correct** a mistake or change an earlier decision.\n- It is **not bound** by its own past decisions.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is revisory jurisdiction?",
+              "a": "The power to **review** and **revise** its **own** earlier judgements (Article 137)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "judicial-review",
+          "label": "Judicial review",
+          "type": "core",
+          "desc": "- **Judicial review** is the power to examine laws made by **Parliament** and **State legislatures**, and orders of the **executive**.\n- If they go **against the Constitution**, the Court can declare them **void** (null).\n- This keeps the Union and the States within their **limits**, and protects **Fundamental Rights**.\n\nThat is why the Supreme Court is called the **guardian of the Constitution**.\n\n**Model answer.** *What is judicial review, and why is it needed?*\n\n- The power to declare **laws and orders void** if they **violate the Constitution**.\n- It keeps the **Centre and States** within their powers and protects **Fundamental Rights**.",
+          "links": [
+            {
+              "label": "Wikipedia: Judicial review in India",
+              "url": "https://en.wikipedia.org/wiki/Judicial_review_in_India"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why is the Supreme Court called the guardian of the Constitution?",
+              "a": "Through **judicial review**, it can **strike down** any law or order that goes against the Constitution."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "court-of-record",
+          "label": "Court of record",
+          "type": "core",
+          "desc": "Under **Article 129**, the Supreme Court is a **court of record**:\n\n- its **judgements** are kept as **records**, and used as **evidence**;\n- they are **binding** on all lower courts as **precedents**;\n- it can **punish** anyone for **contempt** of court.",
+          "links": [
+            {
+              "label": "Wikipedia: Court of record",
+              "url": "https://en.wikipedia.org/wiki/Court_of_record"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: give two features of a court of record.",
+              "a": "Its judgements are **binding precedents** for lower courts, and it can **punish** for **contempt**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-other-powers",
+          "label": "Quick check: advisory, revisory, review, record",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Is the Supreme Court's advisory opinion binding on the President?",
+              "options": [
+                "Yes, always",
+                "Only on money matters",
+                "No",
+                "Only in emergencies"
+              ],
+              "answer": 2,
+              "why": "**Article 143**. See *Advisory jurisdiction*."
+            },
+            {
+              "q": "What is judicial review?",
+              "options": [
+                "Reviewing films",
+                "The power to strike down laws and orders that violate the Constitution",
+                "Reviewing the budget",
+                "Electing judges"
+              ],
+              "answer": 1,
+              "why": "See *Judicial review*."
+            },
+            {
+              "q": "What does 'court of record' mean?",
+              "options": [
+                "Its judgements are kept as records and are binding precedents; it can punish contempt",
+                "It keeps land records",
+                "It records music",
+                "It records elections"
+              ],
+              "answer": 0,
+              "why": "**Article 129**. See *Court of record*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "exam-toolkit",
+      "label": "Exam toolkit: words and reasons",
+      "desc": "**Goal:** collect the easy marks: key terms, answers in the right shape, 'why' questions and dates.",
+      "links": [],
+      "children": [
+        {
+          "id": "key-terms",
+          "label": "Key terms to learn word for word",
+          "type": "core",
+          "desc": "- **Single integrated judiciary:** one system of courts for the whole country, with the Supreme Court at the top.\n- **Original jurisdiction:** the power to hear cases that start in the Supreme Court, such as disputes between the Centre and the States.\n- **Appellate jurisdiction:** the power to hear appeals against judgements of lower courts.\n- **Advisory jurisdiction:** the power to give the President an opinion on a question of law or fact; it is not binding.\n- **Judicial review:** the power to declare laws and orders void if they violate the Constitution.\n- **Court of record:** a court whose judgements are kept as records and binding precedents, and which can punish for contempt.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: cover the list. Define judicial review.",
+              "a": "The power of the courts to declare **laws and orders void** if they **violate the Constitution**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "right-shape",
+          "label": "Answers in the right shape",
+          "type": "core",
+          "desc": "**Short answer (2 marks):** two points, each with **one fact**.\n\n**Structured part (3 or 4 marks):** one point per mark. Start each point on a **new line**. Keep each to **one or two sentences**.\n\n**Model answer.** *Describe the original jurisdiction of the Supreme Court. (3 marks)*\n\n- Disputes between the **Government of India** and one or more **States**.\n- Disputes between the Centre and some States on one side and **other States** on the other.\n- Disputes between **two or more States**.\n\n**Three things that lose marks:** giving **62** as the retirement age (it is **65**); saying advisory opinions are **binding**; mixing up **prohibition** and **certiorari**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: write a 2-mark answer. 'Distinguish between prohibition and certiorari.'",
+              "a": "**Prohibition** stops a lower court in a case **still going on**; **certiorari** **quashes** an order a lower court has **already** made."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "why-questions",
+          "label": "'Why' questions: model answers",
+          "type": "core",
+          "desc": "Try each one in your notebook before you open it.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Why does a federal country need an independent Supreme Court?",
+              "a": "To settle **disputes** between the Centre and the States **fairly**."
+            },
+            {
+              "q": "Why is removing a judge made so difficult?",
+              "a": "So judges can decide **without fear** of losing their jobs."
+            },
+            {
+              "q": "Why is Article 32 called the heart and soul of the Constitution?",
+              "a": "It lets people go **straight** to the Supreme Court to **enforce** their Fundamental Rights."
+            },
+            {
+              "q": "Why are the Court's judgements binding on lower courts?",
+              "a": "It is a **court of record**; its judgements are **precedents**."
+            },
+            {
+              "q": "Why is the advisory opinion not binding?",
+              "a": "The Court only **advises**; the **executive** must take the decision."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "timeline",
+          "label": "Articles and numbers to learn",
+          "type": "core",
+          "desc": "Read it top to bottom. Say each line aloud once.\n\n- **38:** judges, including the Chief Justice (Supreme Court (Number of Judges) Amendment Act, 2026).\n- **65:** retirement age of a Supreme Court judge.\n- **5 years:** as a High Court judge, to qualify.\n- **10 years:** as a High Court advocate, to qualify.\n- **28 January 1950:** the Supreme Court begins.\n- **Article 124:** establishment of the Supreme Court.\n- **Article 32:** writs to enforce Fundamental Rights.\n- **Article 131:** original jurisdiction.\n- **Article 136:** special leave to appeal.\n- **Article 143:** advisory jurisdiction.\n- **Article 137:** review of its own judgements.\n- **Article 129:** court of record.\n- **Article 50:** separation of judiciary from executive.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which Article is advisory jurisdiction?",
+              "a": "**Article 143**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "picture-study",
+          "label": "Picture study: who is this?",
+          "type": "optional",
+          "desc": "The exam may show a **picture** and ask who it is. Then it asks two or three facts. For each person, learn **who** and **two facts**.\n\n- **The Supreme Court building, New Delhi:** the **apex** court; **guardian of the Constitution**.\n- **The Supreme Court emblem:** '**Yato Dharmastato Jayah**': where there is righteousness, there is victory.\n- **Scales of justice:** **fairness** and **independence**.\n- **Dr B.R. Ambedkar:** called **Article 32** the heart and soul of the Constitution.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a picture of the Supreme Court. Why is it called the guardian of the Constitution?",
+              "a": "Through **judicial review**, it can **strike down** laws and orders that go against the **Constitution**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: last-minute revision and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Read the sheet the night before the exam and again on the morning.",
+      "links": [],
+      "children": [
+        {
+          "id": "revision-sheet",
+          "label": "Last-minute revision sheet",
+          "type": "core",
+          "desc": "**The one idea:** **an independent referee with many doors.** The Supreme Court is the **guardian of the Constitution**. It is made **independent** (safe job, safe pay, no pressure) so it can say **no** to anyone. Cases reach it through many **doors**: original, writs, appeals, advice, review.\n\n**Numbers and Articles to know**\n- **38** judges in all: the **Chief Justice** + **37** others (**Supreme Court (Number of Judges) Amendment Act, 2026**). Your textbook's figure (CJI + 30) is out of date.\n- **Retirement:** **65**. Founded **28 January 1950**.\n- **Qualifications:** citizen; **5 years** a High Court judge, **or** **10 years** a High Court advocate, **or** a distinguished jurist.\n- **Article 124** the Supreme Court; **Article 32** writs for Fundamental Rights; **Article 131** original; **Article 136** special leave; **Article 143** advisory; **Article 137** review; **Article 129** court of record; **Article 50** separation of judiciary from executive.\n\n**Key terms**\n- **Single integrated judiciary:** one ladder of courts for the whole country, with the Supreme Court at the top.\n- **Independence of the judiciary:** judges decide **without fear** of the executive or the legislature.\n- **Original jurisdiction:** cases that **start** in the Supreme Court.\n- **Appellate jurisdiction:** **appeals** from lower courts.\n- **Judicial review:** power to **strike down** unconstitutional laws and orders.\n- **Writ:** a court **order** to protect rights.\n\n**Writs**\n- **Habeas corpus:** 'have the body': produce a detained person before the court, so the court can check the detention is lawful.\n- **Mandamus:** 'we command': order an official or body to do a public duty it has failed to do.\n- **Prohibition:** a higher court stops a lower court from going beyond its powers in a case still going on.\n- **Certiorari:** a higher court calls up a case from a lower court and quashes its order, when the lower court has exceeded its powers.\n- **Quo warranto:** 'by what authority': asks a person to show by what right he or she holds a public office.\n\n**Key points**\n- **Appointment:** by the **President**, after consulting judges (in practice the **collegium** of the CJI and senior judges).\n- **Removal:** **proved misbehaviour or incapacity**; an address by **both Houses** by **special majority** in the same session; then the President's order.\n- **Independence:** non-political **appointment**; hard **removal**; salaries from the **Consolidated Fund**, not cut (except financial emergency); **no discussion** of judges' conduct in Parliament; **no practice** after retirement; **contempt** power; control of its own **staff and procedure**.\n- **Original:** **Centre vs States**, **State vs State**.\n- **Appellate:** constitutional, civil and criminal appeals; **special leave** from any court.\n- **Advisory:** opinion to the President, **not binding**. **Revisory:** reviews its **own** judgements.\n\n**Traps:** Supreme Court judges retire at **65**, High Court judges at **62**. Advisory opinions are **not binding**. **Prohibition** stops a case still going on; **certiorari** quashes a decision already made. Writs for Fundamental Rights: **Article 32** (Supreme Court).",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Why does India have a single integrated judiciary?",
+              "options": [
+                "Because India is small",
+                "Because States have no courts",
+                "To save the President's time",
+                "So one set of courts, under the Supreme Court, applies the same laws everywhere"
+              ],
+              "answer": 3,
+              "why": "See *One ladder of courts*."
+            },
+            {
+              "q": "Who appoints the judges of the Supreme Court?",
+              "options": [
+                "The Prime Minister",
+                "The President",
+                "The Law Minister",
+                "Parliament"
+              ],
+              "answer": 1,
+              "why": "See *Appointing the judges*."
+            },
+            {
+              "q": "Which of these qualifies a person to be a Supreme Court judge?",
+              "options": [
+                "Being 65 years old",
+                "Being a High Court judge for 5 years",
+                "Being an MP for 10 years",
+                "Being a lawyer for 5 years in any court"
+              ],
+              "answer": 1,
+              "why": "See *Who can be a judge*."
+            },
+            {
+              "q": "Who can appoint ad hoc judges to the Supreme Court?",
+              "options": [
+                "The Chief Justice, with the President's consent",
+                "The Governor",
+                "The Attorney General",
+                "The Lok Sabha"
+              ],
+              "answer": 0,
+              "why": "See *Who sits in the Supreme Court*."
+            },
+            {
+              "q": "Can a judge's salary be reduced during his or her term?",
+              "options": [
+                "Only during a financial emergency",
+                "Only by the Chief Justice",
+                "Yes, by the Lok Sabha",
+                "Yes, any time"
+              ],
+              "answer": 0,
+              "why": "See *Safe jobs, safe pay*."
+            },
+            {
+              "q": "Which Article lets citizens go straight to the Supreme Court to enforce Fundamental Rights?",
+              "options": [
+                "Article 129",
+                "Article 131",
+                "Article 32",
+                "Article 143"
+              ],
+              "answer": 2,
+              "why": "Dr Ambedkar called it the **heart and soul** of the Constitution. See *Writs: the court's orders*."
+            },
+            {
+              "q": "Which writ orders a public official to do a duty he or she has neglected?",
+              "options": [
+                "Quo warranto",
+                "Mandamus",
+                "Prohibition",
+                "Habeas corpus"
+              ],
+              "answer": 1,
+              "why": "See *Writs: the court's orders*."
+            },
+            {
+              "q": "A High Court has quashed a lower court's order already made. Which writ is this?",
+              "options": [
+                "Certiorari",
+                "Mandamus",
+                "Prohibition",
+                "Habeas corpus"
+              ],
+              "answer": 0,
+              "why": "See *Writs: the court's orders*."
+            },
+            {
+              "q": "Why is the Supreme Court called the guardian of the Constitution?",
+              "options": [
+                "It can strike down laws that go against the Constitution",
+                "It elects the President",
+                "It writes the Constitution",
+                "It runs the Lok Sabha"
+              ],
+              "answer": 0,
+              "why": "See *Judicial review*."
+            },
+            {
+              "q": "Who can punish a person for contempt of the Supreme Court?",
+              "options": [
+                "The President",
+                "The police",
+                "Only Parliament",
+                "The Supreme Court itself"
+              ],
+              "answer": 3,
+              "why": "See *Court of record*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These are like the harder questions at the end of the chapter. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "structured-independence",
+          "label": "Structured question: independence",
+          "type": "optional",
+          "desc": "A structured question in three parts. Write your answer first, then open the box.\n\n- (a) Composition and qualifications of judges. (3 marks)\n- (b) How judges are removed. (3 marks)\n- (c) Two other provisions for independence. (4 marks)",
+          "links": [],
+          "faq": [
+            {
+              "q": "Model answer",
+              "a": "(a) The **CJI** and up to **37** other judges (**38** in all). A citizen; **5 years** a High Court judge, or **10 years** a High Court advocate, or a distinguished jurist.\n\n(b) For **proved misbehaviour or incapacity**, by an address of **both Houses** by **special majority** in the same session, then the **President's** order.\n\n(c) Salaries from the **Consolidated Fund**, not cut except in a financial emergency; **no practice** after retirement."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "structured-jurisdiction",
+          "label": "Structured question: jurisdiction",
+          "type": "optional",
+          "desc": "A structured question in three parts. Write your answer first, then open the box.\n\n- (a) Original jurisdiction. (3 marks)\n- (b) Two kinds of appeal. (3 marks)\n- (c) Advisory jurisdiction and judicial review. (4 marks)",
+          "links": [],
+          "faq": [
+            {
+              "q": "Model answer",
+              "a": "(a) Disputes between the **Centre and States**, and between **States**.\n\n(b) **Civil** appeals on a substantial question of law certified by the High Court; **criminal** appeals where the High Court sentenced the accused to **death** after reversing an acquittal.\n\n(c) **Advisory:** opinion to the President (Article 143), **not binding**. **Judicial review:** striking down laws that **violate** the Constitution."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThe syllabus asks for the composition, qualifications and appointment of judges, the independence of the judiciary, and the jurisdiction and functions of the Supreme Court: original, appellate, advisory, revisory, judicial review, court of record, and writs. The textbook's judge count is out of date; the roadmap uses the 2026 figure.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- Use the **referee** picture: independent, with many doors.\n- Draw the **ladder** of courts once, and keep it on the wall for Chapter 5 too.\n- Make a **door chart**: original, writs, appellate, advisory, revisory, judicial review, court of record, with one example each.\n- Act out the **writs**: one student 'detained', another demanding habeas corpus.\n- Note the change: **38** judges since 2026 (the textbook says 31). Expect some answer keys to lag.\n- Insist on **one fact per point**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 5-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** One ladder of courts; the referee; composition and qualifications.\n- **Period 2:** Appointment, term, removal; independence of the judiciary.\n- **Period 3:** Original jurisdiction; Fundamental Rights and writs. Activity: act out the writs.\n- **Period 4:** Appellate, advisory and revisory jurisdiction.\n- **Period 5:** Judicial review; court of record; revision sheet, self-test, exit ticket.",
+          "links": [
+            {
+              "label": "Simple Wikipedia: Supreme Court of India (free, easy English)",
+              "url": "https://simple.wikipedia.org/wiki/Supreme_Court_of_India"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Giving **62** as the Supreme Court retirement age (it is **65**).\n- Saying advisory opinions are **binding**.\n- Mixing up **prohibition** and **certiorari**.\n- Saying judges can be removed by a **simple majority**.\n- Saying Parliament **votes** judges' salaries every year.\n- Using an **old** judge count.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. How many judges does the Supreme Court have now?",
+              "a": "**38**, including the Chief Justice."
+            },
+            {
+              "q": "2. Retirement age?",
+              "a": "**65**."
+            },
+            {
+              "q": "3. Give one provision for independence.",
+              "a": "Salaries from the **Consolidated Fund**."
+            },
+            {
+              "q": "4. Give one case under original jurisdiction.",
+              "a": "A **Centre-State** dispute."
+            },
+            {
+              "q": "5. What is judicial review?",
+              "a": "Striking down laws that **violate the Constitution**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

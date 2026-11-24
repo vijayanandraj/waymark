@@ -1,0 +1,27 @@
+{
+  "stages": [
+    "school"
+  ],
+  "level": "beginner",
+  "lang": "en",
+  "authors": [
+    {
+      "name": "vijayanandraj",
+      "url": "https://github.com/vijayanandraj"
+    }
+  ],
+  "license": "CC-BY-SA-4.0",
+  "audience": "ICSE Class 10 students who find civics hard, and their teachers and parents: Chapter 5, The High Courts and Subordinate Courts",
+  "subject": "humanities",
+  "follows": "ICSE Class 10 Civics (Total History & Civics, Chapter 5: The High Courts and Subordinate Courts)",
+  "tags": [
+    "civics",
+    "icse",
+    "class 10",
+    "high court",
+    "subordinate courts",
+    "lok adalat",
+    "judiciary",
+    "step by step"
+  ]
+}

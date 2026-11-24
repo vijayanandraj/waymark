@@ -1,0 +1,25 @@
+{
+  "stages": [
+    "school"
+  ],
+  "level": "beginner",
+  "lang": "en",
+  "authors": [
+    {
+      "name": "vijayanandraj",
+      "url": "https://github.com/vijayanandraj"
+    }
+  ],
+  "license": "CC-BY-SA-4.0",
+  "audience": "ICSE Class 10 students who find civics hard, and their teachers and parents: Chapter 1, The Union Parliament",
+  "subject": "humanities",
+  "follows": "ICSE Class 10 Civics (Total History & Civics, Chapter 1: The Union Parliament)",
+  "tags": [
+    "civics",
+    "icse",
+    "class 10",
+    "parliament",
+    "lok sabha",
+    "step by step"
+  ]
+}

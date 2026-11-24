@@ -1,0 +1,1152 @@
+{
+  "title": "ICSE Class 10 Civics, Chapter 1: The Union Parliament, Step by Step",
+  "subtitle": "For students who find civics hard. The federal set-up, the Lok Sabha and Rajya Sabha (term, composition, qualifications), sessions, quorum, Question Hour and motions, the Speaker, the powers of Parliament and the exclusive powers of each House, held together by one idea (two houses, three jobs), in small steps with model answers, quick checks, an exam toolkit and a last-minute revision sheet. Follows the ICSE Class 10 syllabus, Chapter 1 (The Union Parliament), in the order of Total History & Civics.",
+  "updated": "2026-11-25",
+  "changelog": [
+    {
+      "date": "2026-11-25",
+      "text": "First version: the whole chapter in small steps, with model answers, quick checks, a last-minute revision sheet, a self-test and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** know the key words and dates this chapter uses, and the answer shape. Then the rest is easy.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea and the model answer, then do **Your turn**.\n- **Every answer is a point plus one fact:** an article, a number or a name. One point earns one mark.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: two houses, three jobs.** The **Lok Sabha** (the people's house) and the **Rajya Sabha** (the states' house) **make laws**, **hold the purse** and **watch the government**. The Lok Sabha is **stronger**, because the people elect it **directly**.",
+          "links": [
+            {
+              "label": "Simple Wikipedia: Parliament of India (free, easy English)",
+              "url": "https://simple.wikipedia.org/wiki/Parliament_of_India"
+            },
+            {
+              "label": "Last-minute revision sheet for this chapter",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-civics-union-parliament#revision-sheet"
+            },
+            {
+              "label": "Next chapter: 2. The President and the Vice-President",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-civics-president-vice-president"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 1, *The Union Parliament*, of the Civics part of the ICSE Class 10 History and Civics syllabus. It follows the order of *Total History & Civics* for Class 10.\n\n**Who it is for.** Class 10 students who find civics hard, and want to understand this chapter and score decent marks in it. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** Two houses, three jobs. The Lok Sabha (the people's house) and the Rajya Sabha (the states' house) make laws, hold the purse and watch the government. The Lok Sabha is the stronger one, because the people elect it directly.\n\n**How it is different from the textbook.** The textbook gives long lists of rules and powers. Here one idea, **two houses, three jobs**, holds the chapter together, the two Houses are compared side by side, and all the numbers sit on one card. Some textbook figures are out of date (the Lok Sabha maximum, Anglo-Indian seats, the Railway Budget); the roadmap uses today's figures and says what changed. Every answer is a **point plus one fact**, with fresh model answers.\n\n**What is inside.**\n- 12 milestones and 47 small steps. The 39 solid steps are the core path. The dashed ones are optional.\n- 44 practice questions with hidden answers.\n- 31 click-to-check questions that say right or wrong, and why: a quick check after each of the 7 main milestones, and a 10-question self-test.\n- A **last-minute revision sheet**: every number, key term and trap on one page.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: picture study and two structured challenge questions, and a section for teachers and parents with a 7-period lesson plan, the mistakes to watch for and a 5-minute exit ticket.\n\n**Can you trust it?** Numbers, ages, terms and article numbers follow the Constitution as it stands today, and where the textbook is out of date (it predates some recent changes) the roadmap says so gently. A computer program checks the numbers against each other and marks every click-to-check answer right. All the model answers are written fresh, so students still get fresh practice from their textbook. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the ICSE syllabus but is not made or endorsed by CISCE or by any publisher. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Which House is elected directly by voters?",
+              "a": "The **Lok Sabha**. Wrong? Do *Key words in this chapter*."
+            },
+            {
+              "q": "2. Name Parliament's three jobs.",
+              "a": "**Make laws, hold the purse, watch the government.** Wrong? Do *Two houses, three jobs*."
+            },
+            {
+              "q": "3. Which House is stronger?",
+              "a": "The **Lok Sabha**. Wrong? Do *Two houses, three jobs*."
+            },
+            {
+              "q": "4. How many points for a 2-mark answer?",
+              "a": "**Two**, each with **one fact**. Wrong? Do *How ICSE asks, and the answer shape*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "whos-who",
+          "label": "Key words in this chapter",
+          "type": "core",
+          "desc": "- **Parliament:** the **President** + the **Lok Sabha** + the **Rajya Sabha**.\n- **Lok Sabha:** the **House of the People** (lower house), elected **directly** by voters.\n- **Rajya Sabha:** the **Council of States** (upper house), elected **indirectly** by State MLAs.\n- **MP:** Member of Parliament. **MLA:** Member of a State Legislative Assembly.\n- **Bill:** a draft law. It becomes an **Act** when both Houses pass it and the President signs.\n- **Executive:** the government that runs the country: the **Prime Minister and ministers**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which House do voters elect directly?",
+              "a": "The **Lok Sabha**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "two-houses",
+          "label": "Two houses, three jobs",
+          "type": "core",
+          "desc": "This chapter has **one idea**. Think of a big housing society run by a committee.\n\n- It has two councils: one elected by **every flat** (the **Lok Sabha**), one chosen by the **blocks** (the **Rajya Sabha**).\n- Together they do **three jobs**:\n- **Make the rules** (laws).\n- **Hold the purse** (no money raised or spent without them).\n- **Watch the secretary** (keep the government answerable).\n\nThe council elected by every flat is **stronger**, because it speaks for the people directly. Same in India: the **Lok Sabha** is stronger.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: name Parliament's three main jobs.",
+              "a": "**Make laws**, **control money** (the purse), and **keep the government answerable**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "answer-shape",
+          "label": "How ICSE asks, and the answer shape",
+          "type": "core",
+          "desc": "ICSE asks civics in three ways.\n\n- **Multiple choice:** 1 mark. Pick one option.\n- **Short answer:** usually 2 marks. Write **two points**.\n- **Structured question:** parts (a), (b), (c), worth 3 or 4 marks each. Write **one point per mark**.\n\nEach point has **one fact**: an article number, a number (age, term, members) or a name. A point without a fact looks vague and loses marks.\n\n**Model answer.** *State two qualifications for membership of the Lok Sabha.*\n\n- The person must be a **citizen of India**.\n- The person must be at least **25 years** old.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is wrong with this answer? 'The person must be a good Indian.'",
+              "a": "It has **no fact**. Add one: for example, *'The person must be at least 25 years old.'*"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "federal",
+      "label": "The federal set-up of India",
+      "desc": "**Goal:** explain what 'federal' means and why India is federal with a strong centre.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on the federal set-up and its unitary features.",
+      "links": [],
+      "children": [
+        {
+          "id": "what-federal",
+          "label": "What federal means",
+          "type": "core",
+          "desc": "In a **federal** system, power is **divided** between a **central** government and **State** governments.\n\n- Both get their power from the **same Constitution**; States are **not** agents of the Centre.\n- India has a **Union List**, a **State List** and a **Concurrent List** of subjects.\n- **Residuary** powers (subjects in no list) belong to the **Union**.\n- The **Supreme Court** protects this division of powers.\n- The **Rajya Sabha** gives the States a voice at the Centre.\n\nThe Constitution never uses the word 'federation'. It calls India a **'Union of States'**.",
+          "links": [
+            {
+              "label": "Wikipedia: Federalism in India",
+              "url": "https://en.wikipedia.org/wiki/Federalism_in_India"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why is a federal system suitable for India?",
+              "a": "India is **large and diverse**; a federal system lets States run their own affairs while keeping the country **united**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "strong-centre",
+          "label": "Federal, with a strong centre",
+          "type": "core",
+          "desc": "India is federal **in form** but has a **unitary bias**: the Centre is stronger.\n\n- **Strong Centre:** the Union List has the most important subjects; on the **Concurrent List**, a **Union law prevails** over a State law.\n- **One Constitution** for the Union and the States.\n- **Single citizenship** for all Indians.\n- The Constitution is fairly **flexible**: Parliament can amend most of it.\n- **Unequal** representation of States in the Rajya Sabha (by population).\n- **Union Territories** are run directly by the Centre.\n\n**Model answer.** *Give two unitary features of the Indian Constitution.*\n\n- **Single citizenship** for all Indians.\n- A **strong Centre**: on Concurrent List subjects, a **Union law prevails** over a State law.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what are residuary powers, and who has them?",
+              "a": "Power over subjects **not in any list**. They belong to the **Union Parliament**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-federal",
+          "label": "Quick check: federal set-up",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "In a federal system, power is:",
+              "options": [
+                "divided between the Union and the States by the Constitution",
+                "held only by the Union",
+                "held only by the States",
+                "held by the President alone"
+              ],
+              "answer": 0,
+              "why": "See *What federal means*."
+            },
+            {
+              "q": "Which is a unitary feature of India's Constitution?",
+              "options": [
+                "A written Constitution",
+                "Two sets of governments",
+                "Single citizenship",
+                "An independent judiciary"
+              ],
+              "answer": 2,
+              "why": "The others are **federal** features. See *Federal, with a strong centre*."
+            },
+            {
+              "q": "If a Union law and a State law clash on a Concurrent List subject:",
+              "options": [
+                "the Union law prevails",
+                "the Governor decides",
+                "the State law prevails",
+                "both are cancelled"
+              ],
+              "answer": 0,
+              "why": "See *Federal, with a strong centre*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "lok-sabha",
+      "label": "The Lok Sabha: the people's house",
+      "desc": "**Goal:** state the term, composition and qualifications of the Lok Sabha.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on the term, composition and qualifications of the Lok Sabha, and the structured question on the Lok Sabha.",
+      "links": [],
+      "children": [
+        {
+          "id": "ls-term",
+          "label": "Term of the Lok Sabha",
+          "type": "core",
+          "desc": "- The Lok Sabha's normal term is **5 years**.\n- The **President** can **dissolve** it earlier, on the **Prime Minister's** advice.\n- During a **national emergency**, Parliament can **extend** its life by **1 year at a time**. Elections must follow within **6 months** of the emergency ending.",
+          "links": [
+            {
+              "label": "Wikipedia: Lok Sabha",
+              "url": "https://en.wikipedia.org/wiki/Lok_Sabha"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: can the Lok Sabha's term be extended? How?",
+              "a": "**Yes**, during a **national emergency**: by Parliament, **1 year at a time**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ls-members",
+          "label": "Who sits in the Lok Sabha",
+          "type": "core",
+          "desc": "- **Maximum strength: 550**: up to **530** from the **States** and **20** from the **Union Territories**.\n- **Present strength: 543**, all **directly elected**.\n- Seats are given to States **by population**: Uttar Pradesh has the most (80).\n- Some seats are **reserved** for Scheduled Castes and Scheduled Tribes.\n\nYour textbook says **552**, with **2 Anglo-Indian** members nominated by the President. That nomination **ended in 2020**, so the maximum is now **550**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is the maximum strength of the Lok Sabha?",
+              "a": "**550**: 530 from the States and 20 from the Union Territories."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ls-qualifications",
+          "label": "Who can be a member",
+          "type": "core",
+          "desc": "To be an MP in the Lok Sabha, a person must:\n\n- be a **citizen of India**;\n- be at least **25 years** old;\n- be a **voter** somewhere in India;\n- **not** hold an **office of profit** under the government;\n- **not** be an undischarged **insolvent** (bankrupt), or of **unsound mind**, or disqualified by law.\n\n**Model answer.** *State two disqualifications for membership of Parliament.*\n\n- Holding an **office of profit** under the government (other than a minister's post).\n- Being of **unsound mind**, as declared by a court.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is an 'office of profit'?",
+              "a": "A **paid government post** (other than that of a minister). An MP must not hold one."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "losing-seat",
+          "label": "Losing a seat",
+          "type": "core",
+          "desc": "An MP's seat can fall **vacant** if:\n\n- the member **resigns** in writing to the Speaker (or Chairman);\n- the member is **absent** for **60 days** without permission;\n- the member becomes **disqualified**;\n- the member is elected to **both** Parliament and a State legislature, and does not give up the State seat;\n- the member is disqualified for **defection** (leaving the party, or voting against its orders).\n\nDefection cases are decided by the **Speaker** (or Chairman).",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: who decides whether an MP is disqualified under the anti-defection law?",
+              "a": "The **Speaker** of the Lok Sabha (the **Chairman** for the Rajya Sabha)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-lok-sabha",
+          "label": "Quick check: the Lok Sabha",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "What is the normal term of the Lok Sabha?",
+              "options": [
+                "4 years",
+                "Permanent",
+                "6 years",
+                "5 years"
+              ],
+              "answer": 3,
+              "why": "See *Term of the Lok Sabha*."
+            },
+            {
+              "q": "What is the maximum strength of the Lok Sabha today?",
+              "options": [
+                "550",
+                "552",
+                "250",
+                "543"
+              ],
+              "answer": 0,
+              "why": "552 was before the two Anglo-Indian seats ended in 2020. See *Who sits in the Lok Sabha*."
+            },
+            {
+              "q": "What is the minimum age to be a member of the Lok Sabha?",
+              "options": [
+                "18 years",
+                "35 years",
+                "25 years",
+                "30 years"
+              ],
+              "answer": 2,
+              "why": "30 is for the **Rajya Sabha**. See *Who can be a member*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "procedures",
+      "label": "Parliamentary procedures",
+      "desc": "**Goal:** explain sessions, quorum, Question Hour, adjournment and no-confidence motions.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on sessions, quorum, Question Hour and motions.",
+      "links": [],
+      "children": [
+        {
+          "id": "sessions-quorum",
+          "label": "Sessions and quorum",
+          "type": "core",
+          "desc": "- **Session:** the period when a House meets. The **President summons** Parliament. The gap between two sessions must be **less than 6 months**.\n- Usually three sessions a year:\n- **Budget session:** February to May;\n- **Monsoon session:** July to September;\n- **Winter session:** November to December;\n- **Quorum:** the **minimum** number of members who must be present for a House to do business. It is **one-tenth** of the total members.\n- If there is no quorum, the presiding officer **adjourns** the House.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is the quorum of the Lok Sabha?",
+              "a": "**One-tenth** of its total membership."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "question-hour",
+          "label": "Question Hour",
+          "type": "core",
+          "desc": "The **first hour** of a sitting is **Question Hour**. MPs ask ministers questions about the government's work.\n\n- **Starred questions:** answered **orally**; members may ask **supplementary** questions.\n- **Unstarred questions:** answered **in writing**; no supplementaries.\n- **Short notice questions:** on **urgent** matters, at shorter notice.\n\n**Zero Hour** follows Question Hour (from about **12 noon**): members raise urgent matters **without prior notice**.",
+          "links": [
+            {
+              "label": "Wikipedia: Question Hour",
+              "url": "https://en.wikipedia.org/wiki/Question_Hour"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what is the difference between starred and unstarred questions?",
+              "a": "Starred questions get **oral** answers with supplementaries; unstarred ones get **written** answers."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "motions",
+          "label": "Adjournment and no-confidence motions",
+          "type": "core",
+          "desc": "- **Adjournment motion:** stop normal business to discuss a **definite matter of urgent public importance**, like a major rail accident or a flood.\n- **No-confidence motion:** says the House has **no confidence** in the government. It needs the support of **50 members** to be taken up, and is discussed within **10 days**. If it is **passed**, the whole **Council of Ministers resigns**.\n- **Adjournment** of a sitting is done by the **Speaker**; **prorogation** (ending a session) by the **President**.\n\n**Model answer.** *What is a no-confidence motion? What happens if it is passed?*\n\n- A motion in the **Lok Sabha** stating that the House has **no confidence** in the Council of Ministers.\n- If it is passed, the **Prime Minister and the whole Council of Ministers** must **resign**.",
+          "links": [
+            {
+              "label": "Wikipedia: No-confidence motion",
+              "url": "https://en.wikipedia.org/wiki/Motion_of_no_confidence"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: give one example of a matter for an adjournment motion.",
+              "a": "A serious **rail accident** with many deaths (or a big **flood**, or communal violence)."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-procedures",
+          "label": "Quick check: parliamentary procedures",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "What is the quorum of each House?",
+              "options": [
+                "One-tenth of its total membership",
+                "Fifty members",
+                "One-half",
+                "Two-thirds"
+              ],
+              "answer": 0,
+              "why": "See *Sessions and quorum*."
+            },
+            {
+              "q": "Which questions get an oral answer, with supplementary questions allowed?",
+              "options": [
+                "Short notice questions only",
+                "Starred questions",
+                "Written questions",
+                "Unstarred questions"
+              ],
+              "answer": 1,
+              "why": "Unstarred ones get **written** answers. See *Question Hour*."
+            },
+            {
+              "q": "How many members must support a no-confidence motion before it can be moved?",
+              "options": [
+                "10",
+                "Half the House",
+                "100",
+                "50"
+              ],
+              "answer": 3,
+              "why": "See *Adjournment and no-confidence motions*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "speaker",
+      "label": "The Speaker",
+      "desc": "**Goal:** explain how the Speaker is elected and removed, and the Speaker's functions.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on the election and functions of the Speaker.",
+      "links": [],
+      "children": [
+        {
+          "id": "electing-speaker",
+          "label": "Electing the Speaker",
+          "type": "core",
+          "desc": "- The Lok Sabha **elects** the Speaker from **among its members**, at its first meeting.\n- The Speaker stays in office until the **new** Lok Sabha meets, even if the House is dissolved.\n- The Speaker can be **removed** by a resolution of the Lok Sabha, passed by a **majority of all its members**, after **14 days'** notice.\n- A **Deputy Speaker** is elected the same way, and acts when the Speaker is absent.",
+          "links": [
+            {
+              "label": "Wikipedia: Speaker of the Lok Sabha",
+              "url": "https://en.wikipedia.org/wiki/Speaker_of_the_Lok_Sabha"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: does the Speaker leave office when the Lok Sabha is dissolved?",
+              "a": "**No.** The Speaker continues until the **new** Lok Sabha meets."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "speaker-functions",
+          "label": "What the Speaker does",
+          "type": "core",
+          "desc": "- **Presides** over the Lok Sabha; all speeches are addressed to the Speaker.\n- **Keeps order**; can **suspend** an unruly member and **expunge** unparliamentary words.\n- Decides what **questions and motions** are allowed.\n- Decides whether a bill is a **Money Bill**; this is **final**.\n- Does **not** vote, except a **casting vote** in a tie.\n- **Presides** over a **joint sitting** of both Houses.\n- Decides **anti-defection** cases; appoints chairmen of **committees**.\n\n**Model answer.** *State two functions of the Speaker.*\n\n- The Speaker **maintains order** in the House and can **suspend** a member.\n- The Speaker decides whether a bill is a **Money Bill**, and that decision is **final**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: when does the Speaker vote?",
+              "a": "Only to **break a tie**: a **casting vote**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-speaker",
+          "label": "Quick check: the Speaker",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Who elects the Speaker?",
+              "options": [
+                "The people directly",
+                "The members of the Lok Sabha, from among themselves",
+                "The President",
+                "Both Houses together"
+              ],
+              "answer": 1,
+              "why": "See *Electing the Speaker*."
+            },
+            {
+              "q": "When does the Speaker vote?",
+              "options": [
+                "Never",
+                "On every bill",
+                "Only on money bills",
+                "Only to break a tie"
+              ],
+              "answer": 3,
+              "why": "A **casting vote**. See *What the Speaker does*."
+            },
+            {
+              "q": "Who decides whether a bill is a Money Bill?",
+              "options": [
+                "The Speaker",
+                "The Rajya Sabha",
+                "The President",
+                "The Finance Minister"
+              ],
+              "answer": 0,
+              "why": "See *What the Speaker does*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "rajya-sabha",
+      "label": "The Rajya Sabha: the states' house",
+      "desc": "**Goal:** state the composition, election, term, qualifications and presiding officer of the Rajya Sabha.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on the composition, election and term of the Rajya Sabha.",
+      "links": [],
+      "children": [
+        {
+          "id": "rs-members",
+          "label": "Who sits in the Rajya Sabha",
+          "type": "core",
+          "desc": "- **Maximum strength: 250**: up to **238** elected from the **States and Union Territories**, and **12** nominated by the **President**.\n- **Present strength: 245**.\n- **Nominated** members have special knowledge of **literature, science, art or social service**.\n- Seats go to States **by population**, so States are **not equal** here (unlike the US Senate).",
+          "links": [
+            {
+              "label": "Wikipedia: Rajya Sabha",
+              "url": "https://en.wikipedia.org/wiki/Rajya_Sabha"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: why are some members nominated to the Rajya Sabha?",
+              "a": "To bring in people with special knowledge of **literature, science, art and social service**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "rs-election-term",
+          "label": "Election, term and qualifications",
+          "type": "core",
+          "desc": "- **Election:** State members are elected by the **elected MLAs** of each State, by **proportional representation** using the **single transferable vote**.\n- **Term:** the Rajya Sabha is a **permanent House**; it is **never dissolved**. Each member serves **6 years**; **one-third** retire every **2 years**.\n- **Qualifications:** same as the Lok Sabha, but the minimum age is **30 years**.\n\n**Model answer.** *Why is the Rajya Sabha called a permanent House?*\n\n- It is **never dissolved** as a whole.\n- Its members serve **6 years**, and **one-third** of them retire every **2 years**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: who elects a State's members of the Rajya Sabha?",
+              "a": "The **elected members** of that State's **Legislative Assembly**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "rs-chairman",
+          "label": "The Chairman",
+          "type": "core",
+          "desc": "- The **Vice-President of India** is the **ex-officio Chairman** of the Rajya Sabha.\n- The Chairman is **not a member**, so votes only to break a **tie**.\n- The Rajya Sabha elects a **Deputy Chairman** from its members, who presides when the Chairman is absent.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: who presides over the Rajya Sabha?",
+              "a": "The **Vice-President**, as **ex-officio Chairman**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-rajya-sabha",
+          "label": "Quick check: the Rajya Sabha",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "How many members does the President nominate to the Rajya Sabha?",
+              "options": [
+                "2",
+                "12",
+                "20",
+                "238"
+              ],
+              "answer": 1,
+              "why": "From **art, literature, science and social service**. See *Who sits in the Rajya Sabha*."
+            },
+            {
+              "q": "Who elects the State representatives in the Rajya Sabha?",
+              "options": [
+                "The Governor",
+                "The Lok Sabha",
+                "The people directly",
+                "The elected members of the State Legislative Assemblies"
+              ],
+              "answer": 3,
+              "why": "By **proportional representation**, single transferable vote. See *Election, term and qualifications*."
+            },
+            {
+              "q": "Who presides over the Rajya Sabha?",
+              "options": [
+                "The Prime Minister",
+                "The President",
+                "The Vice-President",
+                "The Speaker"
+              ],
+              "answer": 2,
+              "why": "As **ex-officio Chairman**. See *The Chairman*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "powers",
+      "label": "Powers and functions of Parliament",
+      "desc": "**Goal:** explain Parliament's legislative, financial, judicial, electoral, amending and controlling powers.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on the powers of Parliament, and the structured question on its powers.",
+      "links": [],
+      "children": [
+        {
+          "id": "making-laws",
+          "label": "Making laws",
+          "type": "core",
+          "desc": "- Parliament makes laws on the **Union List** and, with the States, on the **Concurrent List**.\n- It has the **residuary** powers.\n- It can make laws on a **State List** subject during an **emergency**, after a **Rajya Sabha** resolution, or if **two or more States** ask.\n- An ordinary bill can start in **either House**; if they disagree, the President calls a **joint sitting**.\n- **Ordinances:** the President can issue one when Parliament is **not in session**. It lapses **6 weeks** after Parliament reassembles, unless approved.",
+          "links": [
+            {
+              "label": "Wikipedia: Parliament of India",
+              "url": "https://en.wikipedia.org/wiki/Parliament_of_India"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: when can Parliament make laws on a State List subject? Give two cases.",
+              "a": "During a **national emergency**, and when the **Rajya Sabha** passes a resolution by **two-thirds** saying it is in the national interest."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "holding-purse",
+          "label": "Holding the purse",
+          "type": "core",
+          "desc": "- **No tax** can be raised and **no money** spent without Parliament's approval.\n- Parliament passes the **Union Budget** every year.\n- A **Money Bill** can start **only in the Lok Sabha**. The Rajya Sabha must return it within **14 days**; it can only **recommend** changes.\n- **Supplementary grants:** extra money if the budget falls short.\n- **Vote on account:** permission to spend money until the budget is passed.\n\n(Your textbook mentions a separate Railway Budget. Since **2017** it has been part of the **Union Budget**.)",
+          "links": [
+            {
+              "label": "Wikipedia: Money bill",
+              "url": "https://en.wikipedia.org/wiki/Money_bill"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what can the Rajya Sabha do with a Money Bill?",
+              "a": "Only **recommend** changes, within **14 days**; the Lok Sabha may accept or reject them."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "judicial-electoral",
+          "label": "Judicial and electoral powers",
+          "type": "core",
+          "desc": "**Judicial:**\n- **Impeach** the President for violating the Constitution.\n- **Remove** judges of the Supreme Court and High Courts, the Chief Election Commissioner and the CAG.\n- **Punish** people for breach of privilege or contempt of the House.\n\n**Electoral:**\n- Elected MPs, with State MLAs, **elect the President**.\n- Both Houses **elect the Vice-President**.\n- The Lok Sabha elects its **Speaker** and **Deputy Speaker**; the Rajya Sabha its **Deputy Chairman**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: name one judicial and one electoral power of Parliament.",
+              "a": "**Judicial:** impeaching the **President**. **Electoral:** electing the **Vice-President**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "amending",
+          "label": "Amending the Constitution",
+          "type": "core",
+          "desc": "- An amendment bill can start in **either House**.\n- Most amendments need a **special majority** in **each House**: a **majority of the total membership** and **two-thirds** of members present and voting.\n- Some amendments (for example, on federal matters) also need approval by **half the State legislatures**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is a 'special majority'?",
+              "a": "A **majority of the total membership** of the House **and** **two-thirds** of the members present and voting."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "watching-govt",
+          "label": "Watching the government",
+          "type": "core",
+          "desc": "The **Council of Ministers** is **collectively responsible** to the **Lok Sabha**. Parliament keeps it answerable through:\n\n- **Question Hour** and other questions;\n- **adjournment** motions and **censure** motions;\n- the **no-confidence** motion;\n- **cut motions** on the budget;\n- **committees**, like the **Public Accounts Committee**, which checks the reports of the **Comptroller and Auditor General**.\n\n**Model answer.** *How does Parliament control the executive? Give two ways.*\n\n- Through **Question Hour**, where ministers must answer MPs' questions.\n- Through a **no-confidence motion**; if passed, the ministry must **resign**.",
+          "links": [
+            {
+              "label": "Wikipedia: Public Accounts Committee (India)",
+              "url": "https://en.wikipedia.org/wiki/Public_Accounts_Committee_(India)"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: to which House is the Council of Ministers responsible?",
+              "a": "The **Lok Sabha**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-powers",
+          "label": "Quick check: powers of Parliament",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Where can a Money Bill be introduced?",
+              "options": [
+                "In either House",
+                "In a joint sitting",
+                "Only in the Rajya Sabha",
+                "Only in the Lok Sabha"
+              ],
+              "answer": 3,
+              "why": "See *Holding the purse*."
+            },
+            {
+              "q": "An ordinance stops working how long after Parliament reassembles, unless approved?",
+              "options": [
+                "6 weeks",
+                "6 months",
+                "14 days",
+                "1 year"
+              ],
+              "answer": 0,
+              "why": "See *Making laws*."
+            },
+            {
+              "q": "Which device lets MPs check the government by asking about its work?",
+              "options": [
+                "Joint sitting",
+                "Vote on account",
+                "Question Hour",
+                "Ordinance"
+              ],
+              "answer": 2,
+              "why": "See *Watching the government*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "exclusive",
+      "label": "Exclusive powers of the two Houses",
+      "desc": "**Goal:** state the special powers of the Rajya Sabha and of the Lok Sabha, and why the Lok Sabha is stronger.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on the exclusive powers of the two Houses.",
+      "links": [],
+      "children": [
+        {
+          "id": "rs-special",
+          "label": "Special powers of the Rajya Sabha",
+          "type": "core",
+          "desc": "- **State List:** by a **two-thirds** resolution, it can let Parliament make laws on a **State List** subject in the national interest.\n- **All-India Services:** by a **two-thirds** resolution, it can let Parliament create a **new All-India Service**.\n- **Dissolved Lok Sabha:** if the Lok Sabha is dissolved during an **emergency**, the Rajya Sabha carries on as Parliament.\n- A resolution to **remove the Vice-President** can start **only** in the Rajya Sabha.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: give one power only the Rajya Sabha has.",
+              "a": "By a **two-thirds** resolution, it can let Parliament legislate on a **State List** subject."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ls-special",
+          "label": "Special powers of the Lok Sabha",
+          "type": "core",
+          "desc": "- **No-confidence:** only the Lok Sabha can **remove the government**.\n- **Money Bills:** start **only** here; the Rajya Sabha can just recommend.\n- **Joint sitting:** the Lok Sabha usually wins, because it has **more than twice** the members.\n- **Why stronger?** Its members are **elected directly** by the people.\n\nIn **impeachment**, **removal of judges**, **amendments** and electing the **President**, both Houses have **equal** say.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why is the Lok Sabha more powerful than the Rajya Sabha? Two reasons.",
+              "a": "It alone can pass a **no-confidence motion**, and **Money Bills** start only there; it is **directly elected** by the people."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-exclusive",
+          "label": "Quick check: exclusive powers",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which power belongs only to the Rajya Sabha?",
+              "options": [
+                "Introducing Money Bills",
+                "Letting Parliament make laws on a State List subject by a two-thirds resolution",
+                "Electing the Speaker",
+                "Passing a no-confidence motion"
+              ],
+              "answer": 1,
+              "why": "See *Special powers of the Rajya Sabha*."
+            },
+            {
+              "q": "Which power belongs only to the Lok Sabha?",
+              "options": [
+                "Being a permanent House",
+                "Creating new All-India Services",
+                "Electing its Chairman",
+                "Removing the government by a no-confidence motion"
+              ],
+              "answer": 3,
+              "why": "See *Special powers of the Lok Sabha*."
+            },
+            {
+              "q": "Why does the Lok Sabha usually win in a joint sitting?",
+              "options": [
+                "The President sides with it",
+                "It has more members",
+                "The Speaker votes twice",
+                "The Rajya Sabha cannot vote"
+              ],
+              "answer": 1,
+              "why": "See *Special powers of the Lok Sabha*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "exam-toolkit",
+      "label": "Exam toolkit: words and reasons",
+      "desc": "**Goal:** collect the easy marks: key terms, answers in the right shape, 'why' questions and dates.",
+      "links": [],
+      "children": [
+        {
+          "id": "key-terms",
+          "label": "Key terms to learn word for word",
+          "type": "core",
+          "desc": "- **Federal system:** a system in which power is divided between the Union and the States by the Constitution.\n- **Quorum:** the minimum number of members (one-tenth) who must be present for a House to transact business.\n- **Question Hour:** the first hour of a sitting, when members ask ministers questions.\n- **Adjournment motion:** a motion to set aside normal business to discuss a definite matter of urgent public importance.\n- **No-confidence motion:** a motion in the Lok Sabha saying it has no confidence in the Council of Ministers; if passed, the ministry resigns.\n- **Money Bill:** a bill dealing only with taxes and government spending; it can start only in the Lok Sabha.\n- **Ordinance:** a law made by the President when Parliament is not in session.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: cover the list. Define quorum.",
+              "a": "The **minimum number** of members (**one-tenth**) who must be present for a House to **do business**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "right-shape",
+          "label": "Answers in the right shape",
+          "type": "core",
+          "desc": "**Short answer (2 marks):** two points, each with **one fact**.\n\n**Structured part (3 or 4 marks):** one point per mark. Start each point on a **new line**. Keep each to **one or two sentences**.\n\n**Model answer.** *Describe the composition of the Rajya Sabha. (3 marks)*\n\n- Maximum **250** members: **238** elected and **12** nominated.\n- State members are elected by the **elected MLAs** by **proportional representation**.\n- The **12** nominated members are experts in **literature, science, art and social service**.\n\n**Three things that lose marks:** giving **30** as the Lok Sabha age; saying the **Rajya Sabha** can be dissolved; writing **552** as the Lok Sabha maximum.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: write a 2-mark answer. 'Distinguish between adjournment and prorogation.'",
+              "a": "**Adjournment** suspends a **sitting**, by the **Speaker**. **Prorogation** ends a **session**, by the **President**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "why-questions",
+          "label": "'Why' questions: model answers",
+          "type": "core",
+          "desc": "Try each one in your notebook before you open it.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Why does a federal country like India need a Rajya Sabha?",
+              "a": "It **represents the States** at the Centre."
+            },
+            {
+              "q": "Why is the Rajya Sabha called a permanent House?",
+              "a": "It is **never dissolved**; one-third of members retire every **2** years."
+            },
+            {
+              "q": "Why can a Money Bill start only in the Lok Sabha?",
+              "a": "The Lok Sabha is **directly elected**, so it controls the **people's money**."
+            },
+            {
+              "q": "Why must a member be absent no more than 60 days without leave?",
+              "a": "So that **voters** are not left **without a voice** in Parliament."
+            },
+            {
+              "q": "Why does the Speaker vote only in a tie?",
+              "a": "To stay **neutral** as the presiding officer."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "timeline",
+          "label": "Numbers to learn",
+          "type": "core",
+          "desc": "Read it top to bottom. Say each line aloud once.\n\n- **5 years:** term of the Lok Sabha.\n- **550:** maximum members of the Lok Sabha (530 States + 20 UTs).\n- **543:** present members of the Lok Sabha.\n- **25 years:** minimum age, Lok Sabha.\n- **250:** maximum members of the Rajya Sabha (238 + 12 nominated).\n- **245:** present members of the Rajya Sabha.\n- **6 years:** term of a Rajya Sabha member; one-third retire every 2 years.\n- **30 years:** minimum age, Rajya Sabha.\n- **One-tenth:** quorum of each House.\n- **50:** members needed to move a no-confidence motion.\n- **14 days:** time the Rajya Sabha has on a Money Bill.\n- **6 weeks:** an ordinance lapses this long after Parliament meets.\n- **60 days:** absence without leave that can cost a seat.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which House has the higher minimum age, and what is it?",
+              "a": "The **Rajya Sabha**: **30 years**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "picture-study",
+          "label": "Picture study: who is this?",
+          "type": "optional",
+          "desc": "The exam may show a **picture** and ask who it is. Then it asks two or three facts. For each person, learn **who** and **two facts**.\n\n- **Parliament House, New Delhi:** seat of the **Lok Sabha** and **Rajya Sabha**; the people make laws through their representatives.\n- **The Lok Sabha chamber:** **543** elected members; presided over by the **Speaker**.\n- **The Rajya Sabha chamber:** presided over by the **Vice-President** as Chairman.\n- **The Speaker's chair:** **order**, **casting vote**, **Money Bill** decisions.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a picture of Parliament House. How does Parliament show that the people make laws for themselves?",
+              "a": "The people **elect** the Lok Sabha **directly**, and laws are made by these **representatives**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: last-minute revision and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Read the sheet the night before the exam and again on the morning.",
+      "links": [],
+      "children": [
+        {
+          "id": "revision-sheet",
+          "label": "Last-minute revision sheet",
+          "type": "core",
+          "desc": "**The one idea:** **two houses, three jobs.** The **Lok Sabha** (the people's house) and the **Rajya Sabha** (the states' house) **make laws**, **hold the purse** and **watch the government**. The Lok Sabha is the **stronger** one, because the people elect it directly.\n\n**Numbers to know**\n- **Lok Sabha:** term **5 years**; maximum **550** (530 from States, 20 from UTs); now **543**; age **25**.\n- **Rajya Sabha:** maximum **250** (238 elected + 12 nominated); now **245**; **permanent**; members serve **6 years**, **one-third** retire every **2** years; age **30**.\n- **Quorum:** **one-tenth** of members. **Sessions:** at least two a year, gap under **6 months**.\n- **No-confidence:** needs **50** members to move. **Money Bill:** Rajya Sabha has **14 days**. **Ordinance:** lapses **6 weeks** after Parliament meets. Absent **60 days** without leave: seat can be declared vacant.\n\n**Key terms**\n- **Federal system:** power **divided** between the Union and the States by the Constitution.\n- **Quorum:** the **minimum** members needed for a House to do business.\n- **Question Hour:** the **first hour** of a sitting, for questions to ministers.\n- **Adjournment motion:** setting aside business to discuss an **urgent** public matter.\n- **No-confidence motion:** a motion saying the House has **no confidence** in the government; if passed, the ministry **resigns**.\n- **Money Bill:** a bill only about **taxes and spending**; starts only in the **Lok Sabha**.\n\n**Key points**\n- **Federal, strong centre:** single Constitution, **single citizenship**, Union wins on the Concurrent List, **residuary** powers with the Union.\n- **Speaker:** elected by the Lok Sabha; presides, keeps **order**, decides **Money Bills**, **casting vote** only, presides over **joint sittings**, decides **anti-defection** cases.\n- **Powers:** **legislative** (Union and Concurrent Lists, residuary, State List in emergency); **financial** (budget, taxes, vote on account); **judicial** (impeach the President, remove judges); **electoral** (President, Vice-President, Speaker); **amendment** of the Constitution; **control of the executive** (questions, motions, cut motions, committees).\n- **Rajya Sabha only:** let Parliament legislate on a **State List** subject (two-thirds); create new **All-India Services**; acts alone if the Lok Sabha is dissolved in an emergency.\n- **Lok Sabha only:** **no-confidence** motions; **Money Bills**; wins **joint sittings** by numbers.\n\n**Traps:** Lok Sabha age **25**, Rajya Sabha **30**. The Rajya Sabha is **never dissolved**. The **Vice-President** chairs the Rajya Sabha; the **Speaker** chairs joint sittings. Maximum Lok Sabha is now **550**, not 552.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Why is India called federal 'with a unitary bias'?",
+              "options": [
+                "There are no States",
+                "The States can leave the Union",
+                "The President rules alone",
+                "The Constitution gives the Centre more power than the States"
+              ],
+              "answer": 3,
+              "why": "See *Federal, with a strong centre*."
+            },
+            {
+              "q": "For how long can Parliament extend the Lok Sabha at a time during a national emergency?",
+              "options": [
+                "6 months",
+                "1 year",
+                "5 years",
+                "It cannot"
+              ],
+              "answer": 1,
+              "why": "See *Term of the Lok Sabha*."
+            },
+            {
+              "q": "Who decides whether a member is disqualified for defection?",
+              "options": [
+                "The President",
+                "The Election Commission",
+                "The Speaker (or Chairman)",
+                "The Supreme Court first"
+              ],
+              "answer": 2,
+              "why": "See *Losing a seat*."
+            },
+            {
+              "q": "What happens during the Zero Hour?",
+              "options": [
+                "The House is adjourned",
+                "Members raise urgent matters without prior notice",
+                "Ministers present the budget",
+                "Bills are voted on"
+              ],
+              "answer": 1,
+              "why": "See *Question Hour*."
+            },
+            {
+              "q": "Who can adjourn a sitting of the Lok Sabha?",
+              "options": [
+                "The Prime Minister",
+                "The Chief Justice",
+                "The Speaker",
+                "The President"
+              ],
+              "answer": 2,
+              "why": "The **President** prorogues a session. See *Adjournment and no-confidence motions*."
+            },
+            {
+              "q": "What is a 'vote on account'?",
+              "options": [
+                "A tax on accounts",
+                "A vote in the Rajya Sabha",
+                "Permission to spend money until the budget is passed",
+                "A no-confidence vote"
+              ],
+              "answer": 2,
+              "why": "See *Holding the purse*."
+            },
+            {
+              "q": "Who presides over a joint sitting of Parliament?",
+              "options": [
+                "The Prime Minister",
+                "The Speaker of the Lok Sabha",
+                "The President",
+                "The Vice-President"
+              ],
+              "answer": 1,
+              "why": "See *What the Speaker does*."
+            },
+            {
+              "q": "What fraction of Rajya Sabha members retire every two years?",
+              "options": [
+                "One-sixth",
+                "One-half",
+                "All",
+                "One-third"
+              ],
+              "answer": 3,
+              "why": "See *Election, term and qualifications*."
+            },
+            {
+              "q": "How is a constitutional amendment usually passed?",
+              "options": [
+                "By the Supreme Court",
+                "By the President alone",
+                "By a simple majority of the Lok Sabha only",
+                "By a special majority in each House"
+              ],
+              "answer": 3,
+              "why": "Majority of total membership and **two-thirds** of those present and voting. See *Amending the Constitution*."
+            },
+            {
+              "q": "Which committee checks that public money is spent as Parliament decided?",
+              "options": [
+                "The Election Commission",
+                "The Business Advisory Committee",
+                "The Rules Committee",
+                "The Public Accounts Committee"
+              ],
+              "answer": 3,
+              "why": "It studies the reports of the **Comptroller and Auditor General**. See *Watching the government*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These are like the harder questions at the end of the chapter. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "structured-ls",
+          "label": "Structured question: the Lok Sabha",
+          "type": "optional",
+          "desc": "A structured question in three parts. Write your answer first, then open the box.\n\n- (a) Its term, and how it can change. (3 marks)\n- (b) Qualifications of a member. (3 marks)\n- (c) Two exclusive powers. (4 marks)",
+          "links": [],
+          "faq": [
+            {
+              "q": "Model answer",
+              "a": "(a) **5 years**; it can be **dissolved** earlier by the President on the PM's advice, or **extended** by **1 year** at a time in a national emergency.\n\n(b) A **citizen** of India; at least **25** years old; a **voter**; holds **no office of profit**.\n\n(c) Only it can pass a **no-confidence motion**; **Money Bills** start only in it."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "structured-powers",
+          "label": "Structured question: the powers of Parliament",
+          "type": "optional",
+          "desc": "A structured question in three parts. Write your answer first, then open the box.\n\n- (a) Two financial powers. (3 marks)\n- (b) Two ways it controls the executive. (3 marks)\n- (c) Two judicial powers. (4 marks)",
+          "links": [],
+          "faq": [
+            {
+              "q": "Model answer",
+              "a": "(a) It passes the **Union Budget**; **no tax** can be raised without its approval.\n\n(b) **Question Hour**; the **no-confidence motion**.\n\n(c) It can **impeach the President**; it can **remove** Supreme Court and High Court **judges**."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThe syllabus asks for the federal set-up, the Lok Sabha and Rajya Sabha (term, composition, qualifications), procedures, the Speaker, the powers of Parliament and the exclusive powers of each House. Some textbook numbers are out of date; the roadmap uses today's figures and flags the change.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- Use the **housing society** picture: two councils, three jobs.\n- Build a **two-column chart**, Lok Sabha vs Rajya Sabha: strength, election, term, age, presiding officer, special powers.\n- Hold a **mock Question Hour** in class: starred and unstarred questions.\n- Keep one **numbers card**: 550, 543, 25, 5; 250, 245, 30, 6; one-tenth; 50; 14 days; 6 weeks.\n- Point out the **updates**: Lok Sabha maximum 550 (not 552), no Anglo-Indian nominations since 2020, Railway Budget merged in 2017.\n- Insist on **one fact per point**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 7-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** Two houses, three jobs; the federal set-up.\n- **Period 2:** The Lok Sabha: term, composition, qualifications, losing a seat.\n- **Period 3:** Procedures. Activity: a mock Question Hour.\n- **Period 4:** The Speaker; the Rajya Sabha.\n- **Period 5:** Powers of Parliament: laws, purse, judicial and electoral.\n- **Period 6:** Amendment, control of the executive, exclusive powers.\n- **Period 7:** Revision sheet, self-test, exit ticket; picture study.",
+          "links": [
+            {
+              "label": "Simple Wikipedia: Parliament of India (free, easy English)",
+              "url": "https://simple.wikipedia.org/wiki/Parliament_of_India"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Mixing up the ages (**25** Lok Sabha, **30** Rajya Sabha).\n- Writing **552** as the Lok Sabha maximum.\n- Saying the Rajya Sabha can be **dissolved**.\n- Saying the **Speaker** chairs the Rajya Sabha.\n- Confusing **adjournment** (Speaker) with **prorogation** (President).\n- Listing powers with **no example**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. What is the term of the Lok Sabha?",
+              "a": "**5 years**."
+            },
+            {
+              "q": "2. What is the quorum?",
+              "a": "**One-tenth** of the members."
+            },
+            {
+              "q": "3. Who presides over the Rajya Sabha?",
+              "a": "The **Vice-President**."
+            },
+            {
+              "q": "4. Where can a Money Bill start?",
+              "a": "Only in the **Lok Sabha**."
+            },
+            {
+              "q": "5. Give one exclusive power of the Rajya Sabha.",
+              "a": "Letting Parliament legislate on a **State List** subject (two-thirds resolution)."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

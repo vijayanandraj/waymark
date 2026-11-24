@@ -1,0 +1,25 @@
+{
+  "stages": [
+    "school"
+  ],
+  "level": "beginner",
+  "lang": "en",
+  "authors": [
+    {
+      "name": "vijayanandraj",
+      "url": "https://github.com/vijayanandraj"
+    }
+  ],
+  "license": "CC-BY-SA-4.0",
+  "audience": "ICSE Class 10 students who find civics hard, and their teachers and parents: Chapter 3, The Prime Minister and the Council of Ministers",
+  "subject": "humanities",
+  "follows": "ICSE Class 10 Civics (Total History & Civics, Ch 3: The Prime Minister and the Council of Ministers)",
+  "tags": [
+    "civics",
+    "icse",
+    "class 10",
+    "prime minister",
+    "council of ministers",
+    "step by step"
+  ]
+}

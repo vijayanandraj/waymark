@@ -1,0 +1,1114 @@
+{
+  "title": "ICSE Class 10 Civics, Chapter 5: The High Courts and Subordinate Courts, Step by Step",
+  "subtitle": "For students who find civics hard. The composition of the High Courts and the qualifications, appointment, term, removal and transfer of judges, their original, writ, appellate and revisory jurisdiction, judicial review and court of record, the civil and criminal courts of a district, the District Judge and the Sessions Judge, and Lok Adalats, held together by one idea (a ladder of justice, plus a shortcut), in small steps with model answers, quick checks, an exam toolkit and a last-minute revision sheet. Follows the ICSE Class 10 syllabus, Chapter 5 (The High Courts and Subordinate Courts), in the order of Total History & Civics.",
+  "updated": "2026-11-25",
+  "changelog": [
+    {
+      "date": "2026-11-25",
+      "text": "First version: the whole chapter in small steps, with model answers, quick checks, a last-minute revision sheet, a self-test and a section for teachers and parents."
+    }
+  ],
+  "topics": [
+    {
+      "id": "start-here",
+      "label": "Start here: the tools you need",
+      "desc": "**Goal:** know the key words and dates this chapter uses, and the answer shape. Then the rest is easy.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-use",
+          "label": "How to use this roadmap",
+          "type": "core",
+          "desc": "- Go in order. Each step is small. The **numbers** on the map show the order, and the **Next** button at the bottom of each box takes you to the next step.\n- Click a box to open it. Read the idea and the model answer, then do **Your turn**.\n- **Every answer is a point plus one fact:** an article, a number or a name. One point earns one mark.\n- Write your answer in your notebook **before** you open the answer box.\n- Got it wrong? That is fine. Read the answer, then try the next one.\n- Each milestone ends with a **Quick check**. Click an answer: it tells you if you are right, and why.\n- When a step feels easy, mark it **Done**. Your progress is saved on this device.\n\n**One idea runs through this whole chapter: one ladder of justice, plus a shortcut.** Cases climb a **ladder**: the **subordinate courts** in the district, then the **High Court** of the State, then the **Supreme Court**. The **Lok Adalat** is a **shortcut**: if both sides **agree**, the case is settled **free** and **fast**.",
+          "links": [
+            {
+              "label": "Simple Wikipedia: High court (free, easy English)",
+              "url": "https://simple.wikipedia.org/wiki/High_court"
+            },
+            {
+              "label": "Last-minute revision sheet for this chapter",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-civics-high-courts-subordinate-courts#revision-sheet"
+            },
+            {
+              "label": "Previous chapter: 4. The Supreme Court",
+              "url": "https://vijayanandraj.github.io/waymark/r/icse-class-10-civics-supreme-court"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "about",
+          "label": "About this roadmap",
+          "type": "optional",
+          "desc": "**What it is.** A step-by-step path through Chapter 5, *The High Courts and Subordinate Courts*, of the Civics part of the ICSE Class 10 History and Civics syllabus. It follows the order of *Total History & Civics* for Class 10.\n\n**Who it is for.** Class 10 students who find civics hard, and want to understand this chapter and score decent marks in it. It also works for revision, and for the teachers and parents helping them: the last milestone is written for adults.\n\n**The one idea.** One ladder of justice, plus a shortcut. Cases climb a ladder: the subordinate courts in the district, then the High Court of the State, then the Supreme Court. The Lok Adalat is a shortcut: if both sides agree, the case is settled free and fast.\n\n**How it is different from the textbook.** The textbook gives long lists of courts and powers. Here one idea, **a ladder of justice plus a shortcut**, shows where each court sits and why Lok Adalats matter, with the District Judge and Sessions Judge taught as **one judge in two hats**. The criminal courts follow the **BNSS, 2023**, which the textbook predates, and the change is flagged. Every answer is a **point plus one fact**, with fresh model answers.\n\n**What is inside.**\n- 12 milestones and 45 small steps. The 37 solid steps are the core path. The dashed ones are optional.\n- 42 practice questions with hidden answers.\n- 31 click-to-check questions that say right or wrong, and why: a quick check after each of the 7 main milestones, and a 10-question self-test.\n- A **last-minute revision sheet**: every Article, number, key term, court and trap on one page.\n- *Start here* fixes the basic skills the chapter needs, and *Check yourself* shows which ones to work on.\n- Optional: picture study and two structured challenge questions, and a section for teachers and parents with a 6-period lesson plan, the mistakes to watch for and a 5-minute exit ticket.\n\n**Can you trust it?** Numbers, ages, terms and article numbers follow the Constitution as it stands today, and where the textbook is out of date (it predates some recent changes) the roadmap says so gently. A computer program checks the numbers against each other and marks every click-to-check answer right. All the model answers are written fresh, so students still get fresh practice from their textbook. If you spot a mistake, use **Report a problem** at the top of the page.\n\n**Not official.** This is a free, independent resource. It follows the ICSE syllabus but is not made or endorsed by CISCE or by any publisher. It is shared under the **CC BY-SA 4.0** licence: you may copy, adapt and share it, as long as you credit it and share your version the same way.",
+          "links": [
+            {
+              "label": "The licence: CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "check-yourself",
+          "label": "Check yourself (2 minutes)",
+          "type": "core",
+          "desc": "Four quick questions. Write your answers first, then open each box. If you get one wrong, do the step named in the answer.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Is a theft case civil or criminal?",
+              "a": "**Criminal.** Wrong? Do *Civil or criminal?*"
+            },
+            {
+              "q": "2. What is the middle rung of the ladder of courts?",
+              "a": "The **High Court** of the State. Wrong? Do *One ladder of justice, plus a shortcut*."
+            },
+            {
+              "q": "3. What is a Lok Adalat?",
+              "a": "A **people's court** that settles cases by **agreement**. Wrong? Do *Key words in this chapter*."
+            },
+            {
+              "q": "4. How many points for a 2-mark answer?",
+              "a": "**Two**, each with **one fact**. Wrong? Do *How ICSE asks, and the answer shape*."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "whos-who",
+          "label": "Key words in this chapter",
+          "type": "core",
+          "desc": "- **High Court:** the highest court of a **State**.\n- **Subordinate courts:** all courts **below** the High Court, in the districts.\n- **Civil case:** a dispute about **rights**: land, money, property, marriage, a will.\n- **Criminal case:** a **crime**: theft, robbery, murder. The guilty are **punished**.\n- **Appeal:** asking a **higher** court to change a lower court's decision.\n- **Lok Adalat:** a '**people's court**' that settles cases by **agreement**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: is a quarrel over who owns a field civil or criminal?",
+              "a": "**Civil.** It is about a **right** to property, not a crime."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "civil-criminal",
+          "label": "Civil or criminal?",
+          "type": "core",
+          "desc": "Every case in this chapter is one of two kinds.\n\n- **Civil:** two sides argue about a **right**. The court decides who is **right**, and may order **compensation**.\n- **Criminal:** someone has broken a law against **society**. The court can **punish**: a fine, prison, even death.\n\nExample: Ravi's neighbour builds a wall on Ravi's land. That is **civil**. The neighbour then steals Ravi's bicycle. That is **criminal**.\n\nKeep this split in mind. The district has **separate** civil and criminal courts.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a shopkeeper sells fake medicine and a child falls ill. Civil, criminal or both?",
+              "a": "**Both.** Selling fake medicine is a **crime**; the family can also claim **compensation** in a civil case."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ladder",
+          "label": "One ladder of justice, plus a shortcut",
+          "type": "core",
+          "desc": "This chapter has **one idea**: a **ladder**, plus a **shortcut**.\n\n- **Bottom rungs:** the **subordinate courts** in every district.\n- **Middle rung:** the **High Court** of the State. India has **25** High Courts; some serve more than one State.\n- **Top rung:** the **Supreme Court** (Chapter 4).\n- A case can **climb** the ladder by **appeal**.\n- The **shortcut:** a **Lok Adalat**. If both sides **agree**, the case is settled **free** and **fast**, without climbing at all.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: name the three rungs of the ladder, bottom to top.",
+              "a": "**Subordinate courts**, the **High Court**, the **Supreme Court**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "answer-shape",
+          "label": "How ICSE asks, and the answer shape",
+          "type": "core",
+          "desc": "ICSE asks civics in three ways.\n\n- **Multiple choice:** 1 mark. Pick one option.\n- **Short answer:** usually 2 marks. Write **two points**.\n- **Structured question:** parts (a), (b), (c), worth 3 or 4 marks each. Write **one point per mark**.\n\nEach point has **one fact**: an article number, a number or a name. A point without a fact looks vague and loses marks.\n\n**Model answer.** *State two qualifications for appointment as a judge of a High Court.*\n\n- The person must be a **citizen of India**.\n- The person must have held a **judicial office** for at least **10 years** (or been a High Court advocate for 10 years).",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: what is wrong with this answer? 'The person must have a lot of experience.'",
+              "a": "It has **no fact**. Add one: for example, *'The person must have been a High Court advocate for at least 10 years.'*"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "hc-judges",
+      "label": "High Court judges",
+      "desc": "**Goal:** state the composition of a High Court and the qualifications, appointment, term, removal and transfer of its judges.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on the composition of the High Court and its judges.",
+      "links": [],
+      "children": [
+        {
+          "id": "hc-composition",
+          "label": "Who sits in a High Court",
+          "type": "core",
+          "desc": "- **Article 214:** there shall be a High Court for **each State**.\n- **Article 231:** Parliament can set up **one** High Court for **two or more** States or Union Territories. Example: one High Court in **Chandigarh** serves **Punjab** and **Haryana**.\n- Each High Court has a **Chief Justice** and as many judges as the **President** decides. There is **no fixed number**.\n- **Additional judges** (Article 224): for up to **2 years**, to clear a **backlog** of cases.\n- **Acting judge:** fills in while a permanent judge is **away**.",
+          "links": [
+            {
+              "label": "Wikipedia: High courts of India",
+              "url": "https://en.wikipedia.org/wiki/High_courts_of_India"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: who decides how many judges a High Court has?",
+              "a": "The **President**. Unlike the Supreme Court, there is **no** fixed number in law."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "hc-qualifications",
+          "label": "Who can be a High Court judge",
+          "type": "core",
+          "desc": "A person can be appointed if he or she is a **citizen of India** and:\n\n- has held a **judicial office** in India for at least **10 years**; **or**\n- has been an **advocate** of a High Court for at least **10 years**.\n\nHe or she must be **under 62**.\n\nNote: '**distinguished jurist**' is a route to the **Supreme Court** only. It does **not** apply to High Courts.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: can a famous law professor with no court experience become a High Court judge?",
+              "a": "**No.** He or she needs **10 years** in a judicial office or as a High Court advocate."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "hc-appointment",
+          "label": "Appointing High Court judges",
+          "type": "core",
+          "desc": "The **President** appoints all High Court judges (Article 217).\n\n- **Chief Justice of the High Court:** the President consults the **Chief Justice of India** and the **Governor** of the State.\n- **Other judges:** the President also consults the **Chief Justice of that High Court**.\n- In practice, names come from the **collegium** of senior judges.\n\n**Model answer.** *How is the Chief Justice of a High Court appointed?*\n\n- By the **President of India**.\n- After consulting the **Chief Justice of India** and the **Governor** of the State.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: does the Governor appoint High Court judges?",
+              "a": "**No.** The **President** appoints them. The Governor is only **consulted**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "hc-term",
+          "label": "Term, removal and transfer",
+          "type": "core",
+          "desc": "- A judge serves until the age of **62**.\n- A judge can **resign** by writing to the **President**.\n- **Removal:** exactly like a Supreme Court judge. Only for **proved misbehaviour** or **incapacity**, by an address of **both Houses of Parliament** by **special majority**, then the President's order.\n- **Transfer** (Article 222): the **President** can move a judge to another High Court, after consulting the **Chief Justice of India**. The judge gets an extra **allowance**.\n\nIn **2011** the Rajya Sabha passed a removal motion against Justice **Soumitra Sen** of the Calcutta High Court. He **resigned** before the Lok Sabha voted.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: who removes a High Court judge: the State Legislature or Parliament?",
+              "a": "**Parliament**, by **special majority** in both Houses, then the **President's** order."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-hc-judges",
+          "label": "Quick check: High Court judges",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "At what age does a High Court judge retire?",
+              "options": [
+                "70",
+                "65",
+                "62",
+                "60"
+              ],
+              "answer": 2,
+              "why": "**65** is for Supreme Court judges. See *Term, removal and transfer*."
+            },
+            {
+              "q": "Who appoints the judges of a High Court?",
+              "options": [
+                "The President",
+                "The Chief Minister",
+                "The Governor",
+                "The State Legislature"
+              ],
+              "answer": 0,
+              "why": "After consulting the CJI, the Governor and the High Court's Chief Justice. See *Appointing High Court judges*."
+            },
+            {
+              "q": "For how long can an additional judge of a High Court be appointed?",
+              "options": [
+                "Until 65",
+                "Up to 5 years",
+                "Up to 6 months",
+                "Up to 2 years"
+              ],
+              "answer": 3,
+              "why": "**Article 224**. See *Who sits in a High Court*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "hc-independence",
+      "label": "Independence of the High Court",
+      "desc": "**Goal:** explain how High Court judges are kept independent, and compare them with Supreme Court judges.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on the conditions of service and independence of High Court judges.",
+      "links": [],
+      "children": [
+        {
+          "id": "hc-free",
+          "label": "Keeping High Court judges free",
+          "type": "core",
+          "desc": "- **Safe job:** removal only by **Parliament**, by **special majority**. Very hard.\n- **Safe pay:** salaries come from the **Consolidated Fund of the State**. The State Legislature does **not vote** on them.\n- Pay **cannot be cut** during a judge's term, except in a **financial emergency**.\n- **No discussion** of a judge's conduct in the **State Legislature**.\n- **After retiring**, a permanent judge may practise **only** in the **Supreme Court** and in High Courts where he or she did **not** serve.\n- The High Court controls its own **staff** and **procedure**, and can punish **contempt**.\n\n**Model answer.** *Give two ways the independence of High Court judges is protected.*\n\n- Their **salaries** are charged on the **Consolidated Fund of the State**, so the Legislature cannot vote on them.\n- They can be removed **only** by **Parliament**, by **special majority**, for **proved misbehaviour or incapacity**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why can't a retired judge practise in the High Court where he or she served?",
+              "a": "So that former colleagues are not **influenced**, and the judge stays **impartial** while in office."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "hc-vs-sc",
+          "label": "High Court and Supreme Court judges compared",
+          "type": "core",
+          "desc": "Many marks are lost by mixing the two. Learn the **differences**.\n\n- **Retirement:** High Court **62**; Supreme Court **65**.\n- **Salary from:** Consolidated Fund of the **State**; Consolidated Fund of **India**.\n- **Qualification:** 10 years in a **judicial office** or as an **advocate**; Supreme Court adds **distinguished jurist**.\n- **Writs:** Article 226; Article 32.\n- **Practice after retiring:** Supreme Court and **other** High Courts; **no court** in India.\n\n**The same for both:** appointed by the **President**; removed by **Parliament** by special **majority**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a judge retires at 62. Which court did he or she sit in?",
+              "a": "A **High Court**. Supreme Court judges retire at **65**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-hc-independence",
+          "label": "Quick check: independence of the High Court",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Where do the salaries of High Court judges come from?",
+              "options": [
+                "The Governor's funds",
+                "The Consolidated Fund of the State",
+                "A yearly vote of the State Legislature",
+                "Court fees"
+              ],
+              "answer": 1,
+              "why": "So the State Legislature **cannot** vote on them. See *Keeping High Court judges free*."
+            },
+            {
+              "q": "Where can a retired permanent High Court judge practise law?",
+              "options": [
+                "In any court",
+                "Only in the Supreme Court and High Courts where he or she did not serve",
+                "Nowhere at all",
+                "Only in district courts"
+              ],
+              "answer": 1,
+              "why": "See *Keeping High Court judges free*."
+            },
+            {
+              "q": "Can the State Legislature discuss a High Court judge's conduct?",
+              "options": [
+                "Yes, any time",
+                "Only if the Governor agrees",
+                "Only during the budget",
+                "No"
+              ],
+              "answer": 3,
+              "why": "See *Keeping High Court judges free*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "hc-original",
+      "label": "Original jurisdiction and writs",
+      "desc": "**Goal:** explain the High Court's original jurisdiction and its power to issue writs.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on the original jurisdiction of the High Court and writs.",
+      "links": [],
+      "children": [
+        {
+          "id": "hc-original-cases",
+          "label": "Cases that start in the High Court",
+          "type": "core",
+          "desc": "**Original jurisdiction** means cases that **start** in the High Court. They do not come up from a lower court.\n\n- **Writs** to enforce **Fundamental Rights** and other rights.\n- **Election petitions** challenging the election of an **MP** or **MLA**.\n- Some High Courts hear cases about **wills**, **marriage**, **divorce**, **company law** and **contempt of court** directly.\n- Matters of **State revenue** and its collection.\n\nExample: a losing candidate says the winning MLA **bribed** voters. The case goes **straight** to the High Court.",
+          "links": [
+            {
+              "label": "Wikipedia: High courts of India",
+              "url": "https://en.wikipedia.org/wiki/High_courts_of_India"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: where does a petition against the election of an MLA go first?",
+              "a": "Straight to the **High Court**, under its **original** jurisdiction."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "hc-writs",
+          "label": "Writs from the High Court",
+          "type": "core",
+          "desc": "Under **Article 226**, every High Court can issue the **five writs**: **habeas corpus**, **mandamus**, **prohibition**, **certiorari** and **quo warranto**. (Their meanings are in Chapter 4.)\n\n- The **Supreme Court** issues writs only for **Fundamental Rights** (Article 32).\n- A **High Court** can issue them for Fundamental Rights **and** for **any other legal right**.\n- So the High Court's writ power is **wider**.\n\nExample: a town council refuses to give Meena the licence the law says she should get. She can ask the High Court for **mandamus**.\n\n**Model answer.** *Why is the writ jurisdiction of a High Court wider than that of the Supreme Court?*\n\n- The Supreme Court issues writs only for **Fundamental Rights** (Article 32).\n- A High Court can issue writs for Fundamental Rights **and other legal rights** (Article 226).",
+          "links": [
+            {
+              "label": "Wikipedia: Writ",
+              "url": "https://en.wikipedia.org/wiki/Writ"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: name the five writs.",
+              "a": "**Habeas corpus**, **mandamus**, **prohibition**, **certiorari** and **quo warranto**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-hc-original",
+          "label": "Quick check: original jurisdiction and writs",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Which is part of a High Court's original jurisdiction?",
+              "options": [
+                "Election petitions against MPs and MLAs",
+                "Disputes between two States",
+                "Appeals from the Supreme Court",
+                "Advice to the President"
+              ],
+              "answer": 0,
+              "why": "State-vs-State disputes go to the **Supreme Court**. See *Cases that start in the High Court*."
+            },
+            {
+              "q": "Under which Article do High Courts issue writs?",
+              "options": [
+                "Article 233",
+                "Article 226",
+                "Article 215",
+                "Article 32"
+              ],
+              "answer": 1,
+              "why": "**Article 32** is the Supreme Court's. See *Writs from the High Court*."
+            },
+            {
+              "q": "Why is the High Court's writ power called wider than the Supreme Court's?",
+              "options": [
+                "It has more judges",
+                "It can issue writs for any legal right, not only Fundamental Rights",
+                "Its writs cannot be appealed",
+                "It can issue six writs"
+              ],
+              "answer": 1,
+              "why": "See *Writs from the High Court*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "hc-appeals",
+      "label": "Appeals, revision and control",
+      "desc": "**Goal:** explain the High Court's appellate and revisory jurisdiction, and its control over subordinate courts.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on the appellate and revisory jurisdiction of the High Court and its control over lower courts.",
+      "links": [],
+      "children": [
+        {
+          "id": "hc-appellate",
+          "label": "Appeals to the High Court",
+          "type": "core",
+          "desc": "The High Court is the **chief court of appeal** in the State.\n\n- **Civil appeals:** against decisions of **District Judges** and other civil courts below.\n- **Criminal appeals:** against judgements of the **Sessions Court**, and serious sentences of **magistrates**.\n- **Death sentence:** a Sessions Court's death sentence **must be confirmed** by the High Court. This happens even if **nobody** appeals.\n\nExample: a District Judge decides a land case against Asha. She can **appeal** to the High Court.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why must the High Court confirm every death sentence?",
+              "a": "Because death **cannot be undone**. A **higher** court must check there was **no mistake**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "hc-revision",
+          "label": "Revision, supervision and control",
+          "type": "core",
+          "desc": "- **Revisory jurisdiction:** the High Court can **call for the record** of a case a lower court has **already decided**. It does this when the lower court acted **beyond its powers**, broke the **procedure**, or made an obvious **error of law**.\n- **Superintendence** (Article 227): it **supervises** all courts and tribunals in the State (except military ones). It can ask for **reports** and make **rules** for their work.\n- **Control** (Article 235): it controls the **posting**, **promotion** and **leave** of judges below the District Judge.\n- **District Judges** are appointed by the **Governor**, in consultation with the **High Court** (Article 233).\n\n**Model answer.** *What is meant by the revisory jurisdiction of a High Court?*\n\n- The power to **call for the record** of a case **decided** by a subordinate court.\n- It is used when the lower court acted **beyond its powers** or did not follow **proper procedure**.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: how is revision different from an appeal?",
+              "a": "In an **appeal**, a party asks. In **revision**, the High Court calls up a decided case to correct a **serious error** in jurisdiction or procedure."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-hc-appeals",
+          "label": "Quick check: appeals, revision and control",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A Sessions Court sentences a person to death. What must happen before it is carried out?",
+              "options": [
+                "The Governor must sign it",
+                "Nothing",
+                "The High Court must confirm it",
+                "The District Judge must agree"
+              ],
+              "answer": 2,
+              "why": "See *Appeals to the High Court*."
+            },
+            {
+              "q": "What is the High Court's revisory jurisdiction?",
+              "options": [
+                "Reviewing laws of Parliament",
+                "Hearing election cases",
+                "Calling for the record of a case decided by a lower court, to correct a serious error",
+                "Advising the Governor"
+              ],
+              "answer": 2,
+              "why": "See *Revision, supervision and control*."
+            },
+            {
+              "q": "Who appoints District Judges?",
+              "options": [
+                "The Chief Minister alone",
+                "The Supreme Court",
+                "The Governor, in consultation with the High Court",
+                "The President"
+              ],
+              "answer": 2,
+              "why": "**Article 233**. See *Revision, supervision and control*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "hc-review",
+      "label": "Judicial review and court of record",
+      "desc": "**Goal:** explain the High Court's power of judicial review and its role as a court of record.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on judicial review and the High Court as a court of record.",
+      "links": [],
+      "children": [
+        {
+          "id": "hc-judicial-review",
+          "label": "Judicial review in the State",
+          "type": "core",
+          "desc": "- Like the Supreme Court, a High Court can **interpret** the Constitution.\n- If a **State law**, an **ordinance** or an **executive order** violates **Fundamental Rights** or the **Constitution**, it can declare it **null and void**.\n- It can also take up a **constitutional** question from a **lower** court and decide it itself.\n\nExample: a State law bans a newspaper for criticising the government. The High Court can strike it down for violating **freedom of speech**.",
+          "links": [
+            {
+              "label": "Wikipedia: Judicial review in India",
+              "url": "https://en.wikipedia.org/wiki/Judicial_review_in_India"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: what is judicial review?",
+              "a": "The power to declare **laws and orders void** if they violate the **Constitution**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "hc-record",
+          "label": "Court of record",
+          "type": "core",
+          "desc": "Under **Article 215**, every High Court is a **court of record**.\n\n- Its **judgements** are kept as **records** and used as **precedents** (examples for later cases).\n- They **bind** every subordinate court in **that State**.\n- They do **not** bind **other** High Courts, but those courts give them **respect**.\n- It can **punish** anyone for **contempt** of court.\n\n**Model answer.** *State two features of the High Court as a court of record.*\n\n- Its judgements are **binding precedents** for all **subordinate courts** in the State.\n- It can **punish** for **contempt** of court (Article 215).",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: does a Kerala High Court judgement bind the Bombay High Court?",
+              "a": "**No.** It binds only courts **below** it in **Kerala**, though Bombay may **respect** it."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-hc-review",
+          "label": "Quick check: judicial review and court of record",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "What can a High Court do with a State law that violates Fundamental Rights?",
+              "options": [
+                "Nothing",
+                "Declare it null and void",
+                "Send it to the President",
+                "Only advise the Governor"
+              ],
+              "answer": 1,
+              "why": "See *Judicial review in the State*."
+            },
+            {
+              "q": "A High Court judgement binds:",
+              "options": [
+                "Nobody",
+                "The Supreme Court",
+                "All subordinate courts in that State",
+                "Every High Court in India"
+              ],
+              "answer": 2,
+              "why": "See *Court of record*."
+            },
+            {
+              "q": "Who can punish a person for contempt of a High Court?",
+              "options": [
+                "The Governor",
+                "The police",
+                "The State Legislature",
+                "The High Court itself"
+              ],
+              "answer": 3,
+              "why": "**Article 215**. See *Court of record*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "lower-courts",
+      "label": "Subordinate courts",
+      "desc": "**Goal:** describe the civil and criminal courts of a district, and distinguish the Court of the District Judge from the Sessions Court.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on subordinate courts and the District Judge and Sessions Court.",
+      "links": [],
+      "children": [
+        {
+          "id": "civil-courts",
+          "label": "Civil courts in a district",
+          "type": "core",
+          "desc": "Every **district** has a ladder of **civil** courts. From top to bottom:\n\n- **Court of the District Judge:** the **highest** civil court of the district. It also hears **appeals** from the courts below.\n- **Court of the Civil Judge** (senior division).\n- **Munsif's Court** (Civil Judge, junior division): smaller cases.\n- **Court of Small Causes:** very **small** money cases. There is **no appeal**.\n\nDisputes about **land revenue** go to separate **Revenue Courts** (Tehsildar, Collector, Board of Revenue).",
+          "links": [
+            {
+              "label": "Wikipedia: District courts of India",
+              "url": "https://en.wikipedia.org/wiki/District_courts_of_India"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: which is the highest civil court of a district?",
+              "a": "The **Court of the District Judge**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "criminal-courts",
+          "label": "Criminal courts in a district",
+          "type": "core",
+          "desc": "Since **1 July 2024**, criminal courts follow the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**. From top to bottom:\n\n- **Sessions Court:** the **highest** criminal court of the district. It tries **serious** crimes: murder, dacoity, robbery. It can give **any** sentence, even **death**, but a death sentence needs **High Court** confirmation.\n- **Chief Judicial Magistrate:** prison up to **7 years**.\n- **Judicial Magistrate, first class:** prison up to **3 years**, a fine up to Rs **50,000**, or both.\n- **Judicial Magistrate, second class:** prison up to **1 year**, a fine up to Rs **10,000**, or both.\n- **Executive Magistrates:** keep **law and order**; they do not try crimes.\n\n**Your textbook** still lists **Metropolitan Magistrates** and older fines. The BNSS **abolished** Metropolitan Magistrates and **raised** the fines. If your teacher wants the book's figures, follow your teacher.",
+          "links": [
+            {
+              "label": "Wikipedia: Bharatiya Nagarik Suraksha Sanhita",
+              "url": "https://en.wikipedia.org/wiki/Bharatiya_Nagarik_Suraksha_Sanhita"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: which criminal court of a district can give a death sentence?",
+              "a": "The **Sessions Court**, but the **High Court** must **confirm** it."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "dj-vs-sessions",
+          "label": "The District Judge and the Sessions Judge",
+          "type": "core",
+          "desc": "This is a **favourite** exam question. The secret: it is usually the **same judge**, wearing **two hats**.\n\n- **Kind of case:** **civil** (land, property, money, marriage, wills) vs **criminal** (murder, robbery, theft).\n- **Name:** hearing civil cases, he or she is the **District Judge**; hearing criminal cases, the **Sessions Judge**.\n- **Highest court:** highest **civil** court vs highest **criminal** court of the district.\n- **Power:** decides **rights** and **compensation** vs can **punish**, even with **death**.\n- **Other work:** the District Judge has **administrative** control over the civil courts below; the Sessions Judge has **no** administrative work.\n\nBoth are appointed by the **Governor**, in consultation with the **High Court** (Article 233). A District Judge needs **7 years** as an advocate.\n\nYour textbook says the District Judge also acts as **Collector**. That was true **long ago**. Today a Collector is an **executive** officer, kept separate from judges by **Article 50**. Use the **administrative control** point instead.\n\n**Model answer.** *Distinguish between the Court of the District Judge and the Sessions Court. (2 points)*\n\n- The District Judge's court is the highest **civil** court of the district; the Sessions Court is the highest **criminal** court.\n- The Sessions Judge can award a **death sentence** (confirmed by the High Court); the District Judge decides **civil rights** and cannot punish.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a judge sends a robber to prison for 10 years. Which hat is he wearing?",
+              "a": "The **Sessions Judge** hat. It is a **criminal** case."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-lower-courts",
+          "label": "Quick check: subordinate courts",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "A District Judge hearing a criminal case is called the:",
+              "options": [
+                "Collector",
+                "Sessions Judge",
+                "Munsif",
+                "Magistrate"
+              ],
+              "answer": 1,
+              "why": "See *The District Judge and the Sessions Judge*."
+            },
+            {
+              "q": "Which court in a district can give a death sentence?",
+              "options": [
+                "A Judicial Magistrate of the first class",
+                "The Munsif's Court",
+                "A Lok Adalat",
+                "The Sessions Court"
+              ],
+              "answer": 3,
+              "why": "It needs **High Court** confirmation. See *Criminal courts in a district*."
+            },
+            {
+              "q": "Which is the highest civil court of a district?",
+              "options": [
+                "The Small Causes Court",
+                "The Munsif's Court",
+                "The court of the District Judge",
+                "The Tehsildar's court"
+              ],
+              "answer": 2,
+              "why": "See *Civil courts in a district*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "lok-adalat",
+      "label": "Lok Adalats",
+      "desc": "**Goal:** explain what a Lok Adalat is, how it works and its advantages.\n\nPractice: in the chapter exercises in *Total History & Civics*, the short-answer and structured questions on Lok Adalats.",
+      "links": [],
+      "children": [
+        {
+          "id": "lok-meaning",
+          "label": "What a Lok Adalat is",
+          "type": "core",
+          "desc": "- **Lok Adalat** means '**people's court**'.\n- It settles disputes by **agreement** and **compromise**, not by a fight in court.\n- It works under the **Legal Services Authorities Act, 1987**.\n- Legal Services Authorities at the national, State and district levels **organise** them.\n- It takes cases **pending** in courts, and disputes **not yet** in court.\n- The **first** Lok Adalat was held at **Junagadh, Gujarat**, on **14 March 1982**.",
+          "links": [
+            {
+              "label": "Wikipedia: Lok Adalat",
+              "url": "https://en.wikipedia.org/wiki/Lok_Adalat"
+            }
+          ],
+          "faq": [
+            {
+              "q": "Your turn: under which law are Lok Adalats organised?",
+              "a": "The **Legal Services Authorities Act, 1987**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "lok-working",
+          "label": "How a Lok Adalat works",
+          "type": "core",
+          "desc": "- **Both sides** must **agree** to go to the Lok Adalat.\n- A **judge** (serving or retired) sits with a **lawyer** or **social worker**. They act as **peacemakers**, not as strict judges.\n- The talk is **informal**. People speak in their **own words**.\n- If both sides **agree**, the Lok Adalat gives an **award**.\n- The award counts as a **civil court decree**. It is **final**; there is **no appeal**.\n- If they **don't** agree, the case simply goes **back** to the court.\n\nKinds: **National Lok Adalats** on one day across India; **Permanent Lok Adalats** for public services like transport, post and electricity; **Mobile Lok Adalats** in vans that travel to villages.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: why is there no appeal against a Lok Adalat award?",
+              "a": "Because **both sides agreed** to it themselves."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "lok-advantages",
+          "label": "Why Lok Adalats help",
+          "type": "core",
+          "desc": "Example: two brothers have fought over their father's shop for **eight years**. At a Lok Adalat they agree to share it. It ends in **one day**, and they still talk to each other.\n\n- **Free:** no court fee. For a case already in court, the fee paid is **refunded**.\n- **Fast:** often settled in a **single day**.\n- **Simple:** **informal**, no strict rules; people can speak for themselves.\n- **Friendly:** a **compromise**, so **both** sides feel satisfied and relations survive.\n- **Final:** no appeal, so the dispute **ends**.\n- **Lighter load:** courts get **fewer** cases and can focus on **serious** ones.\n- **Fair to the poor:** they get justice **without** costly lawyers.\n\n**Model answer.** *State two advantages of Lok Adalats.*\n\n- Justice is **quick** and **inexpensive**: no court fee, and cases are often settled in **one day**.\n- They **reduce the burden** of the regular courts, so those courts can deal with **serious** cases.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: give one advantage of a Lok Adalat for a poor villager.",
+              "a": "It is **free**; there is **no court fee**, and he or she needs no costly **lawyer**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "qc-lok-adalat",
+          "label": "Quick check: Lok Adalats",
+          "type": "core",
+          "desc": "Three questions on this milestone. Click an answer to check it.\n\nWrong? Read the reason, then look back at the step it names.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "Under which law do Lok Adalats work?",
+              "options": [
+                "The Constitution, Article 32",
+                "The Legal Services Authorities Act, 1987",
+                "The BNSS, 2023",
+                "The Family Courts Act, 1984"
+              ],
+              "answer": 1,
+              "why": "See *What a Lok Adalat is*."
+            },
+            {
+              "q": "What must happen before a Lok Adalat can settle a case?",
+              "options": [
+                "A judge must convict someone",
+                "Both sides must agree to settle",
+                "The police must agree",
+                "The case must be very old"
+              ],
+              "answer": 1,
+              "why": "See *How a Lok Adalat works*."
+            },
+            {
+              "q": "Can you appeal against a Lok Adalat award?",
+              "options": [
+                "No, it is final",
+                "Only once",
+                "Yes, to the Sessions Court",
+                "Yes, to the High Court"
+              ],
+              "answer": 0,
+              "why": "Because **both sides agreed** to it. See *How a Lok Adalat works*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "exam-toolkit",
+      "label": "Exam toolkit: words and reasons",
+      "desc": "**Goal:** collect the easy marks: key terms, answers in the right shape, 'why' questions and dates.",
+      "links": [],
+      "children": [
+        {
+          "id": "key-terms",
+          "label": "Key terms to learn word for word",
+          "type": "core",
+          "desc": "- **Original jurisdiction:** the power to hear cases that start in the High Court, such as election petitions and writ petitions.\n- **Appellate jurisdiction:** the power to hear appeals against judgements of the district courts.\n- **Revisory jurisdiction:** the power to call for the record of a case decided by a lower court and correct a serious error.\n- **Judicial review:** the power to declare laws and orders void if they violate the Constitution.\n- **Court of record:** a court whose judgements are kept as records and bind lower courts, and which can punish for contempt.\n- **Lok Adalat:** a people's court that settles disputes by agreement, free and fast, under the Legal Services Authorities Act, 1987.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: cover the list. Define revisory jurisdiction.",
+              "a": "The power of the High Court to **call for the record** of a case **decided** by a lower court and correct a **serious error**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "right-shape",
+          "label": "Answers in the right shape",
+          "type": "core",
+          "desc": "**Short answer (2 marks):** two points, each with **one fact**.\n\n**Structured part (3 or 4 marks):** one point per mark. Start each point on a **new line**. Keep each to **one or two sentences**.\n\n**Model answer.** *Explain any three powers of the High Court. (3 marks)*\n\n- **Original:** it issues **writs** (Article 226) and hears **election petitions**.\n- **Appellate:** it hears **appeals** from District and Sessions Courts, and **confirms** death sentences.\n- **Superintendence:** it **supervises** all subordinate courts in the State (Article 227).\n\n**Three things that lose marks:** giving **65** as a High Court judge's retirement age (it is **62**); saying the **Governor** appoints High Court judges; saying you can **appeal** against a Lok Adalat award.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: write a 2-mark answer. 'Distinguish between original and appellate jurisdiction.'",
+              "a": "**Original:** cases that **start** in the High Court, like election petitions. **Appellate:** **appeals** from lower courts, like a Sessions Court judgement."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "why-questions",
+          "label": "'Why' questions: model answers",
+          "type": "core",
+          "desc": "Try each one in your notebook before you open it.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Why is a High Court's writ power wider than the Supreme Court's?",
+              "a": "It can issue writs for **any legal right**, not only Fundamental Rights."
+            },
+            {
+              "q": "Why must the High Court confirm a death sentence?",
+              "a": "Death **cannot be undone**, so a **higher** court checks it."
+            },
+            {
+              "q": "Why are High Court judges' salaries charged on the State's Consolidated Fund?",
+              "a": "So the State Legislature cannot **vote** on them or **pressure** judges."
+            },
+            {
+              "q": "Why is the District Judge also called the Sessions Judge?",
+              "a": "The **same** judge hears **criminal** cases; then he or she is called the **Sessions Judge**."
+            },
+            {
+              "q": "Why are Lok Adalats needed?",
+              "a": "**Lakhs** of cases are pending; Lok Adalats settle many **quickly** and **cheaply**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "timeline",
+          "label": "Articles and numbers to learn",
+          "type": "core",
+          "desc": "Read it top to bottom. Say each line aloud once.\n\n- **25:** High Courts in India.\n- **62:** retirement age of a High Court judge.\n- **10 years:** in a judicial office, or as a High Court advocate, to qualify.\n- **2 years:** the longest term of an additional judge.\n- **7 years:** as an advocate, to become a District Judge.\n- **14 March 1982:** the first Lok Adalat, at Junagadh, Gujarat.\n- **1987:** the Legal Services Authorities Act.\n- **Article 214:** a High Court for each State.\n- **Article 231:** a common High Court for two or more States.\n- **Article 217:** appointment of High Court judges.\n- **Article 222:** transfer of judges.\n- **Article 224:** additional and acting judges.\n- **Article 215:** court of record.\n- **Article 226:** writs by the High Court.\n- **Article 227:** superintendence over lower courts.\n- **Article 233:** appointment of District Judges.\n- **Article 235:** High Court's control over subordinate courts.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: which Article lets High Courts issue writs?",
+              "a": "**Article 226**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "picture-study",
+          "label": "Picture study: who is this?",
+          "type": "optional",
+          "desc": "The exam may show a **picture** and ask who it is. Then it asks two or three facts. For each person, learn **who** and **two facts**.\n\n- **The Calcutta High Court, Kolkata:** the **oldest** High Court, set up in **1862**, with Bombay and Madras.\n- **The Lok Adalat logo:** **people's court**: free, fast justice by **agreement**.\n- **A mobile Lok Adalat van:** takes justice and **legal awareness** to **villages**.\n- **A district court complex:** the **subordinate courts**: civil and **Sessions** courts of the district.",
+          "links": [],
+          "faq": [
+            {
+              "q": "Your turn: a picture of a Lok Adalat banner. Give two advantages of Lok Adalats.",
+              "a": "They are **free** and **fast**, and they **reduce** the burden on regular courts."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "wrap-up",
+      "label": "Wrap up: last-minute revision and self-test",
+      "desc": "**Goal:** see the whole chapter on one page, then test yourself. Read the sheet the night before the exam and again on the morning.",
+      "links": [],
+      "children": [
+        {
+          "id": "revision-sheet",
+          "label": "Last-minute revision sheet",
+          "type": "core",
+          "desc": "**The one idea:** **one ladder of justice, plus a shortcut.** Cases climb a **ladder**: subordinate courts in the district, then the **High Court** of the State, then the **Supreme Court**. The **Lok Adalat** is a **shortcut**: both sides agree, and the case is settled free and fast.\n\n**Numbers and Articles to know**\n- **25** High Courts. Each has a **Chief Justice** and other judges as the **President** decides.\n- **Qualifications:** citizen; **10 years** in a judicial office, **or** **10 years** a High Court advocate.\n- **Retirement:** **62** (Supreme Court: 65). **Additional judges:** up to **2 years**.\n- **District Judge:** an advocate of **7 years**; appointed by the **Governor** with the High Court.\n- **Article 214** a High Court for each State; **Article 231** a common High Court; **Article 217** appointment; **Article 222** transfer; **Article 224** additional judges; **Article 215** court of record; **Article 226** writs; **Article 227** superintendence; **Article 233** District Judges; **Article 235** control of lower courts.\n- **Lok Adalats:** **Legal Services Authorities Act, 1987**. First one: **Junagadh, Gujarat**, **14 March 1982**.\n\n**Key terms**\n- **Original jurisdiction:** cases that **start** in the High Court.\n- **Appellate jurisdiction:** **appeals** from district courts.\n- **Revisory jurisdiction:** calling up a **decided** case from a lower court to correct a serious **error**.\n- **Judicial review:** declaring laws and orders **void** if they violate the Constitution.\n- **Court of record:** judgements kept as **records** and **binding** on lower courts; can punish **contempt**.\n- **Lok Adalat:** a 'people's court' that settles cases by **agreement**.\n\n**High Court powers**\n- **Original:** **writs** (Article 226) for Fundamental Rights **and other legal rights**; **election petitions** against MPs and MLAs; wills, marriage, divorce, company law, contempt.\n- **Appellate:** **civil** appeals from District Judges; **criminal** appeals from Sessions Courts; **confirms** death sentences.\n- **Revisory**, **superintendence** over lower courts (Article 227), **control** of subordinate courts (Article 235).\n- **Judicial review** and **court of record**.\n\n**District Judge vs Sessions Judge** (the same person, two hats)\n- **Civil** cases (land, property, money, marriage, wills) vs **criminal** cases (murder, robbery, theft).\n- Called **District Judge** vs **Sessions Judge**.\n- **Administrative** control over civil courts of the district vs **no** administrative work.\n- Decides **rights** and **compensation** vs can **punish**, even with **death** (confirmed by the High Court).\n\n**Criminal courts today (Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023):** Sessions Court; Chief Judicial Magistrate (up to **7 years**); Judicial Magistrate **first class** (up to **3 years** or fine up to Rs **50,000**); **second class** (up to **1 year** or fine up to Rs **10,000**); Executive Magistrates.\n\n**Lok Adalat advantages:** **free** (no court fee; fee refunded for a pending case), **fast**, **informal**, settles by **compromise** so both sides are satisfied, award **final** (no appeal), **reduces** the load on courts, helps the **poor**.\n\n**Traps:** High Court judges retire at **62**, Supreme Court judges at **65**. High Court writs: **Article 226**; Supreme Court writs: **Article 32**. A **death sentence** from a Sessions Court must be **confirmed** by the High Court. A Lok Adalat needs **both sides to agree**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "self-test",
+          "label": "Self-test (10 questions)",
+          "type": "core",
+          "desc": "Ten questions from the whole chapter. Click an answer: it tells you if you are right, and why.\n\n- **8 or more right:** you are ready for the textbook exercises.\n- **Fewer than 8:** read the reasons, look back at the steps they name, then press **Start again**.",
+          "links": [],
+          "quiz": [
+            {
+              "q": "How many High Courts does India have?",
+              "options": [
+                "25",
+                "28",
+                "36",
+                "21"
+              ],
+              "answer": 0,
+              "why": "Some serve more than one State. See *One ladder of justice, plus a shortcut*."
+            },
+            {
+              "q": "Who is consulted before appointing a High Court judge (not the Chief Justice)?",
+              "options": [
+                "The Lok Sabha",
+                "Only the Chief Minister",
+                "The State Public Service Commission",
+                "The CJI, the Governor and the High Court's Chief Justice"
+              ],
+              "answer": 3,
+              "why": "See *Appointing High Court judges*."
+            },
+            {
+              "q": "Which of these qualifies a person to be a High Court judge?",
+              "options": [
+                "Being a distinguished jurist",
+                "Being a High Court advocate for 10 years",
+                "Being an MLA for 10 years",
+                "Being a lawyer for 7 years"
+              ],
+              "answer": 1,
+              "why": "'Distinguished jurist' applies to the **Supreme Court** only. See *Who can be a High Court judge*."
+            },
+            {
+              "q": "Who can transfer a judge from one High Court to another?",
+              "options": [
+                "The President, after consulting the CJI",
+                "The Chief Justice of the High Court alone",
+                "The Chief Minister",
+                "The Governor"
+              ],
+              "answer": 0,
+              "why": "**Article 222**. See *Term, removal and transfer*."
+            },
+            {
+              "q": "Writs issued by a High Court protect:",
+              "options": [
+                "Fundamental Rights and other legal rights",
+                "Only Fundamental Rights",
+                "Only the rights of judges",
+                "Only property rights"
+              ],
+              "answer": 0,
+              "why": "See *Writs from the High Court*."
+            },
+            {
+              "q": "Which power lets a High Court make rules for the working of lower courts?",
+              "options": [
+                "Superintendence",
+                "Advisory jurisdiction",
+                "Original jurisdiction",
+                "Court of record"
+              ],
+              "answer": 0,
+              "why": "**Article 227**. See *Revision, supervision and control*."
+            },
+            {
+              "q": "Which civil court hears cases where the money involved is very small?",
+              "options": [
+                "High Court",
+                "Sessions Court",
+                "Court of Small Causes",
+                "Court of the District Judge"
+              ],
+              "answer": 2,
+              "why": "See *Civil courts in a district*."
+            },
+            {
+              "q": "Who is the highest criminal court of a district headed by?",
+              "options": [
+                "The Munsif",
+                "The Sessions Judge",
+                "The Collector",
+                "The Chief Judicial Magistrate"
+              ],
+              "answer": 1,
+              "why": "See *The District Judge and the Sessions Judge*."
+            },
+            {
+              "q": "Where was the first Lok Adalat held?",
+              "options": [
+                "Chennai, Tamil Nadu",
+                "Kolkata, West Bengal",
+                "New Delhi",
+                "Junagadh, Gujarat"
+              ],
+              "answer": 3,
+              "why": "On **14 March 1982**. See *What a Lok Adalat is*."
+            },
+            {
+              "q": "Which is an advantage of a Lok Adalat?",
+              "options": [
+                "It is free and quick, and both sides agree to the result",
+                "Only lawyers can speak",
+                "It can give a death sentence",
+                "It always takes years"
+              ],
+              "answer": 0,
+              "why": "See *Why Lok Adalats help*."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "label": "When you're ready: challenge questions",
+      "desc": "**For later.** These are like the harder questions at the end of the chapter. It is completely fine to skip this milestone the first time through.",
+      "links": [],
+      "children": [
+        {
+          "id": "structured-high-court",
+          "label": "Structured question: the High Court",
+          "type": "optional",
+          "desc": "A structured question in three parts. Write your answer first, then open the box.\n\n- (a) Composition and qualifications of High Court judges. (3 marks)\n- (b) Original and appellate jurisdiction. (3 marks)\n- (c) Two features of the High Court as a court of record, and its writ power. (4 marks)",
+          "links": [],
+          "faq": [
+            {
+              "q": "Model answer",
+              "a": "(a) A **Chief Justice** and other judges as the **President** decides. A citizen with **10 years** in a judicial office or as a High Court advocate.\n\n(b) **Original:** **writs** and **election petitions**. **Appellate:** **civil** appeals from District Judges, **criminal** appeals from Sessions Courts; **confirms** death sentences.\n\n(c) Judgements **bind** subordinate courts; it can punish **contempt** (Article 215). Under **Article 226** it issues writs for Fundamental Rights **and other legal rights**."
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "structured-lower-courts",
+          "label": "Structured question: subordinate courts and Lok Adalats",
+          "type": "optional",
+          "desc": "A structured question in three parts. Write your answer first, then open the box.\n\n- (a) Two differences between the Court of the District Judge and the Sessions Court. (2 marks)\n- (b) What is a Lok Adalat? How does it work? (4 marks)\n- (c) Three advantages of Lok Adalats. (4 marks)",
+          "links": [],
+          "faq": [
+            {
+              "q": "Model answer",
+              "a": "(a) The District Judge's court is the highest **civil** court; the Sessions Court is the highest **criminal** court. The Sessions Judge can award **death** (confirmed by the High Court); the District Judge has **administrative** control over civil courts.\n\n(b) A **people's court** under the **Legal Services Authorities Act, 1987**. Both sides **agree** to come; a judge and a social worker help them **compromise**; the award is **final**, with **no appeal**.\n\n(c) **Free** (no court fee); **quick** (often one day); **reduces** the load on regular courts."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "teachers-parents",
+      "label": "For teachers and parents",
+      "desc": "**For the adults helping.** Students can skip this milestone.\n\nThe syllabus asks for the High Courts (composition, qualifications and appointment of judges, original, appellate and revisory jurisdiction, judicial review, court of record, writs), the distinction between the Court of the District Judge and the Sessions Court, and Lok Adalats (meaning and advantages). The textbook's criminal-court list predates the BNSS, 2023; the roadmap uses today's courts and flags the change.",
+      "links": [],
+      "children": [
+        {
+          "id": "how-to-help",
+          "label": "How to help a student who is struggling",
+          "type": "optional",
+          "desc": "- Use the **ladder plus shortcut** picture. Draw it once and keep it on the wall.\n- Start with **civil vs criminal**. Everything about district courts hangs on it.\n- Teach the District Judge and Sessions Judge as **one judge, two hats**. Students then never mix them up.\n- Make a **High Court vs Supreme Court** chart: retirement 62 vs 65, Articles 226 vs 32, State vs India Consolidated Fund.\n- Hold a mock **Lok Adalat**: two students with a quarrel, one peacemaker, a written award.\n- The textbook gives High Courts an **advisory jurisdiction**; the Constitution gives that only to the Supreme Court (Article 143), and the syllabus does not list it. The roadmap leaves it out.\n- Insist on **one fact per point**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "lesson-plan",
+          "label": "A 6-period plan, with activities",
+          "type": "optional",
+          "desc": "- **Period 1:** Civil and criminal cases; the ladder plus shortcut; composition and qualifications.\n- **Period 2:** Appointment, term, removal, transfer; independence; High Court vs Supreme Court chart.\n- **Period 3:** Original jurisdiction and writs; appellate jurisdiction.\n- **Period 4:** Revision, superintendence, control; judicial review; court of record.\n- **Period 5:** Civil and criminal courts of a district; District Judge vs Sessions Judge.\n- **Period 6:** Lok Adalats (activity: mock Lok Adalat); revision sheet, self-test, exit ticket.",
+          "links": [
+            {
+              "label": "Simple Wikipedia: High court (free, easy English)",
+              "url": "https://simple.wikipedia.org/wiki/High_court"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "mistakes-to-watch",
+          "label": "Mistakes to watch for",
+          "type": "optional",
+          "desc": "- Giving **65** as a High Court judge's retirement age (it is **62**).\n- Saying the **Governor** appoints High Court judges.\n- Mixing up **Article 226** (High Court) and **Article 32** (Supreme Court).\n- Saying a **State Legislature** can remove a High Court judge.\n- Treating the District Judge and the Sessions Judge as **unrelated** courts.\n- Saying a Lok Adalat award can be **appealed**.",
+          "links": [],
+          "children": []
+        },
+        {
+          "id": "exit-ticket",
+          "label": "Exit ticket (5 minutes)",
+          "type": "optional",
+          "desc": "Five short questions covering the main ideas. The answers are below.",
+          "links": [],
+          "faq": [
+            {
+              "q": "1. Retirement age of a High Court judge?",
+              "a": "**62**."
+            },
+            {
+              "q": "2. Which Article gives High Courts the writ power?",
+              "a": "**Article 226**."
+            },
+            {
+              "q": "3. Who must confirm a Sessions Court's death sentence?",
+              "a": "The **High Court**."
+            },
+            {
+              "q": "4. District Judge or Sessions Judge: who hears a theft case?",
+              "a": "The **Sessions Judge**."
+            },
+            {
+              "q": "5. Give one advantage of a Lok Adalat.",
+              "a": "**Free** and **quick** justice."
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}
